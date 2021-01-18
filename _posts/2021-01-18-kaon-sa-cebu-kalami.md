@@ -2,7 +2,7 @@
 layout: post
 title: "KAON SA CEBU: Kalami!"
 categories:
-  - destination
+  - food
 tags:
   - news
 author: PBB Admin
