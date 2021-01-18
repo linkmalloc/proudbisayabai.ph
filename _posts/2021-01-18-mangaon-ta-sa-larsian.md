@@ -10,6 +10,7 @@ read_time: 5 mins
 views: 1.3k
 img_big_1000x600: https://res.cloudinary.com/proudbisayabai/image/upload/w_1000,h_600,c_fit/v1610965667/3000x1144/maxresdefault_lsvbka.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabai/image/upload/w_3000,h_1144,c_fit/v1610965667/3000x1144/maxresdefault_lsvbka.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610965776/3000x1144/27657037_1308100652668865_3117526723067587744_n_qzcdnv.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610965776/3000x1144/27657037_1308100652668865_3117526723067587744_n_qzcdnv.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610965776/3000x1144/27657037_1308100652668865_3117526723067587744_n_qzcdnv.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610965776/3000x1144/27657037_1308100652668865_3117526723067587744_n_qzcdnv.jpg
