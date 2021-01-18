@@ -7,7 +7,12 @@ layout: none
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>{{ page.title }}</title>
+
+    {% assign title = site.title %}
+    {% if page.title %}
+        {% capture title %}{{ site.title }} | {{ page.title }}{% endcapture %}
+    {% endif %}
+    <title>{{ title }} </title>
     <meta name="description" content="{{ site.description }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://res.cloudinary.com/proudbisayabai/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1610956956/logo/transparentbackgroundpbb_unybsh.png">
