@@ -13,7 +13,7 @@ layout: default
                         <div class="post-thumb position-relative">
                             {% assign image_big = post.img_big_3000x1144 %}
                             {% unless image_big %}
-                                {% assign image_big = "http://via.placeholder.com/3000x1144" %}
+                                {% assign image_big = "https://via.placeholder.com/3000x1144" %}
                             {% endunless %}
                             <div class="thumb-overlay position-relative" style="background-image: url( {{ image_big }} )">
                                 <div class="post-content-overlay">
@@ -172,7 +172,7 @@ layout: default
                                 {% assign count = 0 %}
 
                                 {% for post in site.posts %}
-                                {% if post.categories contains "destination" and count < 4%}
+                                {% if post.categories contains "destination" and count < 3 %}
 
                                 {% assign count = count | plus: 1 %}
 
@@ -214,7 +214,7 @@ layout: default
 
                                 {% assign count = 0 %}
                                 {% for post in site.posts %}
-                                {% if post.categories contains "food" and count < 4 %}
+                                {% if post.categories contains "food" and count < 3 %}
 
                                 {% assign count = count | plus: 1 %}
                                 {% assign image_big = post.img_500x500 %}
