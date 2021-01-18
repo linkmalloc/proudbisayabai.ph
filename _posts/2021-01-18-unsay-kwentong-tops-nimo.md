@@ -11,6 +11,7 @@ author: PBB Admin
 read_time: "10"
 views: "10"
 img_big_1000x600: /images/3000x1144/6.png
+img_big_3000x1144: /images/3000x1144/6.png
 ---
 Unsay Kwentong TOPS nimo? 
 
