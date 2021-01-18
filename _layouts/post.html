@@ -69,9 +69,10 @@ layout: default
                                 <div class="entry-bottom mt-50 mb-30 wow fadeIn animated">
                                     <div class="tags">
                                         <span>Tags: </span>
-                                        <a href="category.html" rel="tag">deer</a>
-                                        <a href="category.html" rel="tag">nature</a>
-                                        <a href="category.html" rel="tag">conserve</a>
+                                        {% for tag in post.tags %}
+                                        {% capture tag_name %}{{ tag | first }}{% endcapture %}
+                                        <a href="{{site.baseurl}}/categories/#{{tag|slugize}}" rel="tag">{{ tag_name }}</a>
+                                        {% endfor %}
                                     </div>
                                 </div>
                                 <div class="single-social-share clearfix wow fadeIn animated">
@@ -88,26 +89,7 @@ layout: default
                                     </ul>
                                 </div>
                                 <!--author box-->
-                                <div class="author-bio p-30 mt-50 border-radius-10 bg-white wow fadeIn animated">
-                                    <div class="author-image mb-30">
-                                        <a href="author.html"><img src="http://via.placeholder.com/300x300" alt="" class="avatar"></a>
-                                    </div>
-                                    <div class="author-info">
-                                        <h4 class="font-weight-bold mb-20"><span class="vcard author"><span class="fn"><a href="author.html" title="Posted by Barbara Cartland" rel="author">Barbara Cartland</a></span></span>
-                                        </h4>
-                                        <h5 class="text-muted">About author</h5>
-                                        <div class="author-description text-muted">You should write because you love the shape of stories and sentences and the creation of different words on a page. </div>
-                                        <a href="author.html" class="author-bio-link mb-md-0 mb-3">View all posts (125)</a>
-                                        <div class="author-social">
-                                            <ul class="author-social-icons">
-                                                <li class="author-social-link-facebook"><a href="#" target="_blank"><i class="ti-facebook"></i></a></li>
-                                                <li class="author-social-link-twitter"><a href="#" target="_blank"><i class="ti-twitter-alt"></i></a></li>
-                                                <li class="author-social-link-pinterest"><a href="#" target="_blank"><i class="ti-pinterest"></i></a></li>
-                                                <li class="author-social-link-instagram"><a href="#" target="_blank"><i class="ti-instagram"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
+                                {% include side-author.html %}
                                 <!--related posts-->
                                 <div class="related-posts">
                                     <div class="post-module-3">

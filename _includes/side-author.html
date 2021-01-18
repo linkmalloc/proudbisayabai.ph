@@ -1,0 +1,37 @@
+
+{% assign author = site.author %}
+{% for author_list in site.authors %}
+
+{% if author_list.name == include.page_author %}
+    {% assign author = author_list %}
+{% endif %}
+
+{% endfor %}
+
+{% unless author %}
+    {% assign author = site.author %}
+{% endunless %}
+
+<div class="author-bio p-30 mt-50 border-radius-10 bg-white wow fadeIn animated">
+    <div class="author-image mb-30">
+        <a href="{{ author.url }}"><img src="{{ author.img_300x300 }}" alt="" class="avatar"></a>
+    </div>
+    <div class="author-info">
+        <h4 class="font-weight-bold mb-20"><span class="vcard author"><span class="fn"><a href="{{ author.url }}"
+                        title="Posted by {{ author.name  }}" rel="author">{{ author.name }}</a></span></span>
+        </h4>
+        <h5 class="text-muted">About author</h5>
+        <div class="author-description text-muted">{{ author.description }}</div>
+        <a href="{{ author.url }}" class="author-bio-link mb-md-0 mb-3">View all posts ({{ author.posts_count }})</a>
+        <div class="author-social">
+            <ul class="author-social-icons">
+                <li class="author-social-link-facebook"><a href="{{ author.facebook }}" target="_blank"><i
+                            class="ti-facebook"></i></a></li>
+                <li class="author-social-link-twitter"><a href="{{ author.twitter }}" target="_blank"><i
+                            class="ti-twitter-alt"></i></a></li>
+                <li class="author-social-link-instagram"><a href="{{ author.instagram }}" target="_blank"><i
+                            class="ti-instagram"></i></a></li>
+            </ul>
+        </div>
+    </div>
+</div>
