@@ -9,6 +9,7 @@ tags:
 author: PBB Admin
 read_time: 5 mins
 views: "10"
+img_big_1000x600: /images/3000x1144/6.png
 ---
 A MUST-VISIT paradise in Carnaza Island, Daanbantayan, Northern Cebu! 
 
