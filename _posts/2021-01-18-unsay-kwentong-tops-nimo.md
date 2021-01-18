@@ -3,6 +3,7 @@ layout: post
 title: Unsay Kwentong TOPS nimo?
 categories:
   - destination
+  - Guides
 tags:
   - news
   - featured
