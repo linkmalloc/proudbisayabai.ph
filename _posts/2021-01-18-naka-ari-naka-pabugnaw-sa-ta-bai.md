@@ -13,8 +13,7 @@ views: "10"
 Naka ari naka? Pabugnaw sa ta Bai! 
 
 Experience Guiwanon Cold Spring in Tabogon, northern part of Cebu. 
-Operating Hours:
-• Monday to Saturday: 6AM - 6PM.
+Operating Hours: Monday to Saturday: 6AM - 6PM.
 
 Rates:
 Entrance fee: P100
