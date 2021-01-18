@@ -7,6 +7,7 @@ tags:
   - news
   - oslob
   - cebu_south
+  - featured
 author: PBB Admin
 read_time: 5 mins
 views: "10"
