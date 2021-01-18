@@ -11,6 +11,7 @@ tags:
 author: PBB Admin
 read_time: 5 mins
 views: "10"
+img_big_1000x600: /images/3000x1144/6.png
 ---
 Kanindot diri! Ganahan mo Relax and Chill out with friends? a **MUST-VISIT, STAY N SAVE** in Oslob, Cebu.
 
