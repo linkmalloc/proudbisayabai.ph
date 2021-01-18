@@ -10,7 +10,7 @@ tags:
 author: PBB Admin
 read_time: "10"
 views: "10"
-img_big_1000x600: /images/3000x1144/6.png
+img_big_1000x600: https://res.cloudinary.com/proudbisayabai/image/upload/w_1000,h_600,c_fit/v1610956970/3000x1144/pic.4.3_i6ixwc.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabai/image/upload/w_3000,h_1144,c_fit/v1610956970/3000x1144/pic.4.3_i6ixwc.jpg
 ---
 Unsay Kwentong TOPS nimo? 
