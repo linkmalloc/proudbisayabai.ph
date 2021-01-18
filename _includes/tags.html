@@ -1,0 +1,11 @@
+<div class="col-md-8 text-md-right font-small align-self-center">
+    <p class="d-inline-block mr-5 mb-0"><i class="elegant-icon  icon_tag_alt mr-5 text-muted"></i>Hot tags:</p>
+    <ul class="list-inline d-inline-block tags">
+        {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{%endfor %}{% endcapture %}
+        {% assign tags_list = site_tags | split:',' | sort_natural %}
+        {% for item in (0..site.tags.size) %}{% unless forloop.last %}
+        {% capture tag %}{{ tags_list[item] | strip_newlines }}{% endcapture %}
+        <li class="list-inline-item"><a href="{{site.baseurl}}/tags/#{{tag|slugize}}"># {{ tag }}</a></li>
+        {% endunless %}{% endfor %}
+    </ul>
+</div>
