@@ -67,10 +67,10 @@ layout: default
                 {% unless image_big %}
                     {% assign image_big = "https://via.placeholder.com/3000x1144" %}
                 {% endunless %}
-                
+
                 <article class="col-lg-4 col-md-6 mb-30 wow fadeInUp animated" data-wow-delay="0.2s">
                     <div class="post-card-1 border-radius-10 hover-up">
-                        <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url( {{ img_big }})">
+                        <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url( {{ image_big }})">
                             <a class="img-link" href="{{ post.url }}"></a>
                             <span class="top-right-icon bg-success"><i class="elegant-icon icon_camera_alt"></i></span>
                             <ul class="social-share">
