@@ -50,9 +50,7 @@ youtube: https://www.youtube.com/channel/UCTOmZBxmfYl31jhzIrre5hQ
 author:
   name: PBB Admin
   url: https://www.facebook.com/proudbisayabai
-  description: >- # this means to ignore newlines until "baseurl:"
-Proud Bisaya Bai is your Bisaya Ultimate Travel Blog which was founded last July 22, 2020 to showcase bucket-list worthy places, not only limited to Cebu but to places who speak the Language
-  
+  description: Proud Bisaya Bai is your Bisaya Ultimate Travel Blog which was founded last July 22, 2020 to showcase bucket-list worthy places, not only limited to Cebu but to places who speak the Language.
   posts_count: 100
   facebook: https://www.facebook.com/proudbisayabai
   twitter: https://twitter.com/Proudbisayabai/

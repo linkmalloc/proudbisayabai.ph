@@ -92,6 +92,7 @@
           }
           var thankYouMessage = form.querySelector(".thankyou_message");
           if (thankYouMessage) {
+            form.reset();
             thankYouMessage.style.display = "block";
           }
           return;
@@ -103,7 +104,7 @@
       xhr.send(encoded);
     }
   }
-  
+
   function loaded() {
     console.log("Contact form submission handler loaded successfully.");
     // bind to the submit event of our form

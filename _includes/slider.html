@@ -1,0 +1,38 @@
+<div class="container pt-30">
+    <div class="featured-slider-3 position-relative">
+        <div class="slider-3-arrow-cover"></div>
+        <div class="featured-slider-3-items">
+            {% for post in site.posts %}
+            {% if post.categories contains "featured" %}
+            <div class="slider-single overflow-hidden border-radius-10">
+                <div class="post-thumb position-relative">
+                    {% assign image_big = post.image_big %}
+                    {% unless image_big %}
+                        {% assign image_big = "http://via.placeholder.com/3000x1144" %}
+                    {% endunless %}
+                    <div class="thumb-overlay position-relative" style="background-image: url( {{ image_big }} )">
+                        <div class="post-content-overlay">
+                            <div class="container">
+                                <div class="entry-meta meta-0 font-small mb-20">
+                                    {% for category in post.categories %}
+                                    {% capture category_name %}{{ category | first }}{% endcapture %}
+                                    <a href="{{site.baseurl}}/categories/#{{category|slugize}}" tabindex="0"><span class="post-cat text-info text-uppercase">{{category}}</span></a>
+                                    {% endfor %}
+                                </div>
+                                <h1 class="post-title mb-20 font-weight-900 text-white">
+                                    <a class="text-white" href="{{ post.url }}" tabindex="0">{{ post.title }}</a>
+                                </h1>
+                                <div class="entry-meta meta-1 font-small text-white mt-10 pr-5 pl-5">
+                                    <!-- <span class="post-on">{{ post.date | date: '%B %d, %Y'}}</span> -->
+                                    <!-- <span class="hit-count has-dot">{{ post.views }}</span> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif%}
+            {% endfor %}
+        </div>
+    </div>
+</div>
