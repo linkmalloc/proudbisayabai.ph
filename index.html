@@ -169,8 +169,12 @@ layout: default
                         <div class="post-block-list post-module-1">
                             <ul class="list-post">
 
-                                {% for post in site.posts limit: 3 %}
-                                {% if post.categories contains "destination"%}
+                                {% assign count = 0 %}
+
+                                {% for post in site.posts %}
+                                {% if post.categories contains "destination" and count < 4%}
+
+                                {% assign count = count | plus: 1 %}
 
                                 {% assign image_big = post.img_500x500 %}
                                 {% unless image_big %}
@@ -208,9 +212,11 @@ layout: default
                         <div class="post-block-list post-module-1">
                             <ul class="list-post">
 
-                                {% for post in site.posts limit: 3 %}
-                                {% if post.categories contains "food"%}
+                                {% assign count = 0 %}
+                                {% for post in site.posts %}
+                                {% if post.categories contains "food" and count < 4 %}
 
+                                {% assign count = count | plus: 1 %}
                                 {% assign image_big = post.img_500x500 %}
                                 {% unless image_big %}
                                     {% assign image_big = "https://via.placeholder.com/500x500" %}
