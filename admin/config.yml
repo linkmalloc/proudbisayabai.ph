@@ -20,11 +20,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Author", name: "author", widget: "string", required: false}
       - {label: "Read Time", name: "read_time", widget: "string", required: false}
       - {label: "Views", name: "views", widget: "string", default: "10", required: false}
-      - {label: "Photo", name: "img_big_1000x600", widget: "string", required: false}
-      - {label: "Photo Display", name: "img_big_3000x1144", widget: "string", required: false}
-      - {label: "Article Image 1", name: "img_500_1", widget: "string", required: false}
-      - {label: "Article Image 2", name: "img_500_2", widget: "string", required: false}
-      - {label: "Article Image 3", name: "img_500_3", widget: "string", required: false}
+      - {label: "Image 1000 x 600", name: "img_big_1000x600", widget: "string", required: false}
+      - {label: "Image 3000 x 1144", name: "img_big_3000x1144", widget: "string", required: false}
+      - {label: "Image 500 x 500", name: "img_500x500", widget: "string", required: false}
+      - {label: "Article Image 1 - 500x500", name: "img_500_1", widget: "string", required: false}
+      - {label: "Article Image 2- 500x500", name: "img_500_2", widget: "string", required: false}
+      - {label: "Article Image 3- 500x500", name: "img_500_3", widget: "string", required: false}
 
   ##  meta: # Meta data fields. Just like fields, but without any preview element
    ##   - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mm:ss"}
