@@ -8,8 +8,13 @@ tags:
   - featured
 author: PBB Admin
 read_time: 5 mins
-views: "10"
-img_big_1000x600: /images/3000x1144/6.png
+views: 10k
+img_big_1000x600: https://res.cloudinary.com/proudbisayabai/image/upload/w_1000,h_600,c_fit/v1610970007/3000x1144/pic.3.2_k9vkoa.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabai/image/upload/w_3000,h_1144,c_fit/v1610970006/3000x1144/pic.3.3_bot8oy.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610970006/3000x1144/pic.3.5_bsrngd.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610970006/3000x1144/pic.3.4_r6hzx3.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610970006/3000x1144/pic.3.1_udyduz.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_5000,h_500,c_fit/v1610970007/3000x1144/pic.3.2_k9vkoa.jpg
 ---
 A MUST-VISIT paradise in Carnaza Island, Daanbantayan, Northern Cebu! 
 
