@@ -21,7 +21,7 @@ layout: default
                                                 By <a href="author.html"><span class="author-name font-weight-bold">{{ page.author }}</span></a>
                                             </p>
                                             <span class="mr-10"> {{ page.date | date: '%B %d, %Y'}}</span>
-                                            <span class="has-dot"> 8 mins read</span>
+                                            <span class="has-dot"> {{ page.read_time }} read</span>
                                         </div>
                                     </div>
                                     <div class="col-md-6 text-right d-none d-md-inline">
@@ -42,9 +42,11 @@ layout: default
                             <article class="entry-wraper mb-50">
                                 <div class="entry-main-content dropcap wow fadeIn animated">
                                     {{ content }}
-                                    <hr class="section-divider">
-                                    <p>Thanks sniffed in hello after in foolhardy and some far purposefully much one at the much conjointly leapt skimpily that quail sheep some goodness nightingale the instead exited expedient up far ouch mellifluous altruistic and and lighted more instead much when ferret but the.</p>
-                                    <!--Begin Subcrible-->
+                                    {% include figure-3.html 
+                                        img_500_1=page.img_500_1 
+                                        img_500_2=page.img_500_2
+                                        img_500_3=page.img_500_3
+                                    %}
                                     <div class="border-radius-10 border bg-white mb-30 p-30 wow fadeIn animated">
                                         <div class="row justify-content-between">
                                             <div class="col-md-5 mb-2 mb-md-0">
@@ -66,14 +68,7 @@ layout: default
                                     <!--End Subcrible-->
                                     <p>Yet more some certainly yet alas abandonedly whispered intriguingly well extensive one howled talkative admonishingly below a rethought overlaid dear gosh activated less however hawk yet oh scratched ostrich some outside crud irrespective lightheartedly and much far amenably that the elephant since when.</p>
                                 </div>
-                                <div class="entry-bottom mt-50 mb-30 wow fadeIn animated">
-                                    <div class="tags">
-                                        <span>Tags: </span>
-                                        <a href="category.html" rel="tag">deer</a>
-                                        <a href="category.html" rel="tag">nature</a>
-                                        <a href="category.html" rel="tag">conserve</a>
-                                    </div>
-                                </div>
+                                {% include page_tags.html %}
                                 <div class="single-social-share clearfix wow fadeIn animated">
                                     <div class="entry-meta meta-1 font-small color-grey float-left mt-10">
                                         <span class="hit-count mr-15"><i class="elegant-icon icon_comment_alt mr-5"></i>182 comments</span>
@@ -87,27 +82,7 @@ layout: default
                                         <li class="list-inline-item"><a class="social-icon pt text-xs-center" target="_blank" href="#"><i class="elegant-icon social_pinterest "></i></a></li>
                                     </ul>
                                 </div>
-                                <!--author box-->
-                                <div class="author-bio p-30 mt-50 border-radius-10 bg-white wow fadeIn animated">
-                                    <div class="author-image mb-30">
-                                        <a href="author.html"><img src="http://via.placeholder.com/300x300" alt="" class="avatar"></a>
-                                    </div>
-                                    <div class="author-info">
-                                        <h4 class="font-weight-bold mb-20"><span class="vcard author"><span class="fn"><a href="author.html" title="Posted by Barbara Cartland" rel="author">Barbara Cartland</a></span></span>
-                                        </h4>
-                                        <h5 class="text-muted">About author</h5>
-                                        <div class="author-description text-muted">You should write because you love the shape of stories and sentences and the creation of different words on a page. </div>
-                                        <a href="author.html" class="author-bio-link mb-md-0 mb-3">View all posts (125)</a>
-                                        <div class="author-social">
-                                            <ul class="author-social-icons">
-                                                <li class="author-social-link-facebook"><a href="#" target="_blank"><i class="ti-facebook"></i></a></li>
-                                                <li class="author-social-link-twitter"><a href="#" target="_blank"><i class="ti-twitter-alt"></i></a></li>
-                                                <li class="author-social-link-pinterest"><a href="#" target="_blank"><i class="ti-pinterest"></i></a></li>
-                                                <li class="author-social-link-instagram"><a href="#" target="_blank"><i class="ti-instagram"></i></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
+                                {% include page_author.html %}
                                 <!--related posts-->
                                 <div class="related-posts">
                                     <div class="post-module-3">
