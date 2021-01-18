@@ -8,6 +8,7 @@ tags:
 author: PBB Admin
 read_time: "5"
 views: "10"
+img_big_1000x600: /images/3000x1144/6.png
 ---
 KAON SA CEBU: Kalami! Unlimited Korean BBQ and Buffet at Barangay Seoul in Cebu. 
 
