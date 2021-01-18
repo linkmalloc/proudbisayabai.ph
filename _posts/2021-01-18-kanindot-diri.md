@@ -10,21 +10,16 @@ tags:
   - featured
 author: PBB Admin
 read_time: 5 mins
-views: 1.3k
-img_big_1000x600: https://res.cloudinary.com/proudbisayabai/image/upload/w_1000,h_600,c_fit/v1610956978/3000x1144/Pic.1.1_socsaa.jpg
-img_big_3000x1144: https://res.cloudinary.com/proudbisayabai/image/upload/w_3000,h_1144,c_fit/v1610966797/3000x1144/pic.1.3_ajahgj.jpg
-img_500x500: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610966797/3000x1144/pic.1.3_ajahgj.jpg
-img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610966797/3000x1144/pic.1.4_zlxvwu.jpg
-img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610966798/3000x1144/pic.1.2_vir3ku.jpg
-img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610956976/3000x1144/pic.1.5_eptkod.jpg
+views: "10"
+img_big_1000x600: https://res.cloudinary.com/proudbisayabai/image/upload/v1610966798/3000x1144/pic.1.2_vir3ku.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabai/image/upload/w_3000,h_1144,c_fit/v1610966798/3000x1144/pic.1.2_vir3ku.jpg
 ---
 Kanindot diri! Ganahan mo Relax and Chill out with friends? a **MUST-VISIT, STAY N SAVE** in Oslob, Cebu.
 
 FRONT desk hours:\
 6AM-11PM daily.
 
-Required at Check-in:
-
+Required at Check-in:\
 * Cash deposit required for incidental charges Government-issued photo ID may be required Minimum check-in age is 18.
 
 Room Rates:\
