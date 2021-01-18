@@ -62,10 +62,16 @@ layout: default
                 </div>
                 {% for post in site.posts %}
                 {% if post.categories contains "destination" %}
+
+                {% assign image_big = post.img_big_3000x1144 %}
+                {% unless image_big %}
+                    {% assign image_big = "https://via.placeholder.com/3000x1144" %}
+                {% endunless %}
+                
                 <article class="col-lg-4 col-md-6 mb-30 wow fadeInUp animated" data-wow-delay="0.2s">
                     <div class="post-card-1 border-radius-10 hover-up">
-                        <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url(/images/3000x1144/pic.4.3.jpg)">
-                            <a class="img-link" href="single.html"></a>
+                        <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url( {{ img_big }})">
+                            <a class="img-link" href="{{ post.url }}"></a>
                             <span class="top-right-icon bg-success"><i class="elegant-icon icon_camera_alt"></i></span>
                             <ul class="social-share">
                                 <li><a href="#"><i class="elegant-icon social_share"></i></a></li>
