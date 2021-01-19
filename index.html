@@ -57,53 +57,10 @@ layout: default
             <div class="loop-grid mb-30">
                 <div class="row">
                     <div class="col-lg-8 mb-30">
-                        <div class="carausel-post-1 hover-up border-radius-10 overflow-hidden transition-normal position-relative wow fadeInUp animated">
-                            <div class="arrow-cover"></div>
-                            <div class="slide-fade">
-                                <div class="position-relative post-thumb">
-                                    <div class="thumb-overlay img-hover-slide position-relative" style="background-image: url(/images/3000x1144/4.png)">
-                                        <a class="img-link" href="single.html"></a>
-                                        <span class="top-left-icon bg-warning"><i class="elegant-icon icon_star_alt"></i></span>
-                                        <div class="post-content-overlay text-white ml-30 mr-30 pb-30">
-                                            <div class="entry-meta meta-0 font-small mb-20">
-                                                <a href="category.html"><span class="post-cat text-info text-uppercase"></span></a>
-                                                <a href="category.html"><span class="post-cat text-success text-uppercase"></span></a>
-                                            </div>
-                                            <h3 class="post-title font-weight-900 mb-20">
-                                                <a class="text-white" href="single.html"></a>
-                                            </h3>
-                                            <div class="entry-meta meta-1 font-small text-white mt-10 pr-5 pl-5">
-                                                <span class="post-on"></span>
-                                                <span class="hit-count has-dot"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                    {% include carousel.html posts=site.data.defaults.posts %}
 
-
-                                <div class="position-relative post-thumb">
-                                    <div class="thumb-overlay img-hover-slide position-relative" style="background-image: url(/images/3000x1144/3.png)">
-                                        <a class="img-link" href="single.html"></a>
-                                        <span class="top-left-icon bg-danger"><i class="elegant-icon icon_image"></i></span>
-                                        <div class="post-content-overlay text-white ml-30 mr-30 pb-30">
-                                            <div class="entry-meta meta-0 font-small mb-20">
-                                                <a href="category.html"><span class="post-cat text-info text-uppercase"></span></a>
-                                            </div>
-                                            <h3 class="post-title font-weight-900 mb-20">
-                                                <a class="text-white" href="single.html"></a>
-                                            </h3>
-                                            <div class="entry-meta meta-1 font-small text-white mt-10 pr-5 pl-5">
-                                                <span class="post-on"></span>
-                                                <span class="hit-count has-dot"></span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    {% for post in site.posts limit: 7 %}
+                    {% include ads.article.html ad=site.data.ads.article %}
+                    {% for post in site.posts limit: 3 %}
 
                     {% assign image_big = post.img_big_3000x1144 %}
                     {% unless image_big %}
@@ -117,26 +74,28 @@ layout: default
                                 <span class="top-right-icon bg-success"><i class="elegant-icon icon_camera_alt"></i></span>
                                 <ul class="social-share">
                                     <li><a href="#"><i class="elegant-icon social_share"></i></a></li>
-                                    <li><a class="fb" href="#" title="Share on Facebook" target="_blank"><i class="elegant-icon social_facebook"></i></a></li>
-                                    <li><a class="tw" href="#" target="_blank" title="Tweet now"><i class="elegant-icon social_twitter"></i></a></li>
-                                    <li><a class="pt" href="#" target="_blank" title="Pin it"><i class="elegant-icon social_pinterest"></i></a></li>
+                                    <li><a class="fb" href="{{ site.facebook }}" title="Share on Facebook" target="_blank"><i class="elegant-icon social_facebook"></i></a></li>
+                                    <li><a class="tw" href="{{ site.twitter }}" target="_blank" title="Tweet now"><i class="elegant-icon social_twitter"></i></a></li>
+                                    <li><a class="pt" href="{{ site.youtube }}" target="_blank" title="Pin it"><i class="elegant-icon social_pinterest"></i></a></li>
                                 </ul>
                             </div>
                             <div class="post-content p-30">
                                 <div class="entry-meta meta-0 font-small mb-10">
-                                    <!-- <a href="category.html"><span class="post-cat text-info">Travel</span></a> -->
-                                    <a href="{{ post.url }}"><span class="post-cat text-success">{{ post.title }}</span></a>
+                                    {% for category in post.categories %}
+                                    {% capture category_name %}{{ category | first }}{% endcapture %}
+                                    <a href="{{site.baseurl}}/categories/#{{category|slugize}}" tabindex="0"><span class="post-cat text-info text-uppercase">{{category}}</span></a>
+                                    {% endfor %}
                                 </div>
-                                <!-- <div class="d-flex post-card-content">
+                                <div class="d-flex post-card-content">
                                     <h5 class="post-title mb-20 font-weight-900">
-                                        <a href="single.html">Want fluffy Japanese pancakes but can’t fly to Tokyo?</a>
+                                        <a href="{{ post.url }}">{{ post.title }}</a>
                                     </h5>
                                     <div class="entry-meta meta-1 float-left font-x-small text-uppercase">
-                                        <span class="post-on">27 August</span>
-                                        <span class="time-reading has-dot">12 mins read</span>
-                                        <span class="post-by has-dot">23k views</span>
+                                        <span class="post-on">{{ post.date | date_to_string }}</span>
+                                        <span class="time-reading has-dot">{{ post.read_time }} read</span>
+                                        <span class="post-by has-dot">{{ post.views }} views</span>
                                     </div>
-                                </div> -->
+                                </div>
                             </div>
                         </div>
                     </article>

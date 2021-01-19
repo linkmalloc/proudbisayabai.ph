@@ -5,7 +5,7 @@
     </div>
     <div class="post-block-list post-module-1">
         <ul class="list-post">
-            {% for post in site.posts %}
+            {% for post in site.posts limit: 8%}
 
             <li class="mb-30 wow fadeInUp animated">
                 <div class="d-flex bg-white has-border p-25 hover-up transition-normal border-radius-5">
