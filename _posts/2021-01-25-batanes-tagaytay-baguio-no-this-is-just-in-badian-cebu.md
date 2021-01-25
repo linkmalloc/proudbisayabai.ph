@@ -11,7 +11,7 @@ img_big_3000x1144: https://res.cloudinary.com/proudbisayabai/image/upload/w_3000
 img_500x500: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1611563828/3000x1144/batch2post1_6_ypvn6m.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1611563828/3000x1144/batch2post1_3_ixf3i8.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1611563828/3000x1144/batch2post1_2_yo6rf7.jpg
-img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1611563829/3000x1144/batch2post2_2_qyzpia.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1611563828/3000x1144/batch2post1_5_ddkdvy.jpg
 ---
 Are you up to be confronted by a completely different set of weather conditions in a span of a few hours? 
 
