@@ -29,7 +29,6 @@ Entrance fee: ₱100 per person
 
 * No Cottage Fee , No Corkage Fee 
 
-
 "Walk-ins available"
 
 Exact Location: Cebu Tops Road, Busay, Cebu City.
