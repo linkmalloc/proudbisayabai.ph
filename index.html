@@ -211,54 +211,37 @@ layout: default
                         </div>
                         <div class="post-block-list post-module-1">
                             <ul class="list-post">
+
+                                {% assign count = 0 %}
+                                {% for post in site.posts %}
+                                {% if post.categories contains "destination" and count < 3 %}
+
+                                {% assign count = count | plus: 1 %}
+                                {% assign image_big = post.img_500x500 %}
+                                {% unless image_big %}
+                                    {% assign image_big = "https://via.placeholder.com/500x500" %}
+                                {% endunless %}
+
                                 <li class="mb-30">
                                     <div class="d-flex hover-up-2 transition-normal">
                                         <div class="post-thumb post-thumb-80 d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">
-                                            <a class="color-white" href="single.html">
-                                                <img src="images/3000x1144/Pic.1.1.jpg" alt="">
+                                            <a class="color-white" href="{{ post.url }}">
+                                                <img src="{{ image_big }}" alt="">
                                             </a>
                                         </div>
                                         <div class="post-content media-body">
-                                            <h6 class="post-title mb-15 text-limit-2-row font-medium"><a href="single.html">Kanindot diri! Ganahan mo Relax and Chill out with friends? a MUST-VISIT, STAY N SAVE in Oslob, Cebu! </a></h6>
+                                            <h6 class="post-title mb-15 text-limit-2-row font-medium"><a href="{{ post.url }}">{{ post.title }}</a></h6>
                                             <div class="entry-meta meta-1 float-left font-x-small text-uppercase">
-                                                <span class="post-on">06 May</span>
-                                                <span class="post-by has-dot">23k views</span>
+                                                <span class="post-on">{{ post.date | date_to_string }}</span>
+                                                <span class="post-by has-dot">{{ post.views }} views</span>
                                             </div>
                                         </div>
                                     </div>
                                 </li>
-                                <li class="mb-30">
-                                    <div class="d-flex hover-up-2 transition-normal">
-                                        <div class="post-thumb post-thumb-80 d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">
-                                            <a class="color-white" href="single.html">
-                                                <img src="images/3000x1144/pic.2.1.jpg" alt="">
-                                            </a>
-                                        </div>
-                                        <div class="post-content media-body">
-                                            <h6 class="post-title mb-15 text-limit-2-row font-medium"><a href="single.html">KAON SA CEBU: Kalami! Unlimited Korean BBQ and Buffet at Barangay Seoul in Cebu. </a></h6>
-                                            <div class="entry-meta meta-1 float-left font-x-small text-uppercase">
-                                                <span class="post-on">05 Jun</span>
-                                                <span class="post-by has-dot">5k views</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="mb-30">
-                                    <div class="d-flex hover-up-2 transition-normal">
-                                        <div class="post-thumb post-thumb-80 d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">
-                                            <a class="color-white" href="single.html">
-                                                <img src="images/3000x1144/pic.1.5.jpg" alt="">
-                                            </a>
-                                        </div>
-                                        <div class="post-content media-body">
-                                            <h6 class="post-title mb-15 text-limit-2-row font-medium"><a href="single.html">Exact Location: N. Bacalso Avenue, Brgy. Tan-awan, Oslob, Cebu Philippines.</a></h6>
-                                            <div class="entry-meta meta-1 float-left font-x-small text-uppercase">
-                                                <span class="post-on">08 August</span>
-                                                <span class="post-by has-dot">2k views</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
+                               
+                                {% endif %}
+                                {% endfor %}
+
                             </ul>
                         </div>
                     </div>

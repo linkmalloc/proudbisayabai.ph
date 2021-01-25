@@ -31,6 +31,8 @@ Entrance fee: ₱100 per person  *No Cottage Fee , No Corkage Fee*
 
 Exact Location: Cebu Tops Road, Busay, Cebu City.
 How to get there?
+
 Via Commute: Ride a taxi going to Busay and tell the driver to drop you off  Tops Lookout, time of travel is about 30mins.
+
 Via Private Vehicle: If you’re driving your own car, just navigate with Waze or Google Maps and pin your location to “Tops Lookout” or refer to the map below. 
 Parking space is available
