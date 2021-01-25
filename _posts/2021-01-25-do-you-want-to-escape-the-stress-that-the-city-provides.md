@@ -29,15 +29,11 @@ They are selling snacks and other basic needs
 
 Exact Location:
 
-Ride above the famous Red Cliff. Cantipla, Brgy. Tabunan, Cebu City (Left side going to
-
-Balamban few meters past 21KM Cafe)
+Ride above the famous Red Cliff. Cantipla, Brgy. Tabunan, Cebu City (Left side going to Balamban few meters past 21KM Cafe)
 
 How to get there?
 
-Via Commute: Ride a Vhire from Ayala then drop-off at Cantipla or 21Km Cafe, walk a few
-
-meters from there going to the exact location
+Via Commute: Ride a Vhire from Ayala then drop-off at Cantipla or 21Km Cafe, walk a few meters from there going to the exact location
 
 Via Private Vehicle: The place can be navigated on Waze. 
 
