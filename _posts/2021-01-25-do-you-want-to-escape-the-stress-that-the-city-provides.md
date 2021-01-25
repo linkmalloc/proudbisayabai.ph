@@ -35,6 +35,4 @@ How to get there?
 
 Via Commute: Ride a Vhire from Ayala then drop-off at Cantipla or 21Km Cafe, walk a few meters from there going to the exact location
 
-Via Private Vehicle: The place can be navigated on Waze. 
-
-Whether you are riding a motorbike or your own vehicle.
+Via Private Vehicle: The place can be navigated on Waze. Whether you are riding a motorbike or your own vehicle.
