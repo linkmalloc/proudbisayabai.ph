@@ -28,14 +28,14 @@ layout: default
                                 {% assign count = count | plus: 1 %}
                                 {% assign image_big = post.img_500x500 %}
                                 {% unless image_big %}
-                                    {% assign image_big = "https://via.placeholder.com/500x500" %}
+                                    {% assign image_big = "https://via.placeholder.com/1000x600" %}
                                 {% endunless %}
 
                             <article class="hover-up-2 transition-normal wow fadeInUp animated">
                                 <div class="row mb-40 list-style-2">
                                     <div class="col-md-4">
                                         <div class="post-thumb position-relative border-radius-5">
-                                            <div class="img-hover-slide border-radius-5 position-relative" style="{{ image_big }}">
+                                            <div class="img-hover-slide border-radius-5 position-relative" style="background-image: url({{ image_big }})">
                                                 <a class="img-link" href="{{ post.url }}"></a>
                                             </div>
                                             <ul class="social-share">
