@@ -25,12 +25,18 @@ This modernist, fortress like viewing deck provides spectacular views, especiall
 
 Operating Hours: 10AM to 2AM daily 
 
-Entrance fee: ₱100 per person  *No Cottage Fee , No Corkage Fee* 
+Entrance fee: ₱100 per person 
+
+* No Cottage Fee , No Corkage Fee 
+
 
 "Walk-ins available"
 
 Exact Location: Cebu Tops Road, Busay, Cebu City.
+
+
 How to get there?
+
 
 Via Commute: Ride a taxi going to Busay and tell the driver to drop you off  Tops Lookout, time of travel is about 30mins.
 
