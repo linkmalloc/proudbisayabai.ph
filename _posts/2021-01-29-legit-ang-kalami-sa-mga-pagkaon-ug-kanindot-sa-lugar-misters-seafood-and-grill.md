@@ -3,7 +3,6 @@ layout: post
 title: "Legit ang Kalami sa mga pagkaon ug Kanindot sa lugar! Mister's Seafood
   and Grill "
 categories:
-  - destination
   - food
 tags:
   - news
