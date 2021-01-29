@@ -8,7 +8,7 @@ tags:
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabai/image/upload/w_1000,h_600,c_fit/v1611888092/3000x1144/batch2.post6.1_svm90u.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabai/image/upload/w_3000,h_1144,c_fit/v1611888095/3000x1144/batch2.post6.4_uywq5i.jpg
-img_500x500: https://res.cloudinary.com/proudbisayabai/image/w_500,h_500,c_fit/upload/v1611888092/3000x1144/batch2.post6.5_kwfehx.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1611888092/3000x1144/batch2.post6.5_kwfehx.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1611888092/3000x1144/batch2.post6.2_qtdphy.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1611888092/3000x1144/batch2.post6.3_fvv5jf.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1611888092/3000x1144/batch2.post6.6_o1rmrg.jpg
