@@ -6,6 +6,7 @@ categories:
   - destination
 tags:
   - news
+  - food
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabai/image/upload/w_1000,h_600,c_fit/v1611885736/3000x1144/batch2.post4.4_hyjocg.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabai/image/upload/w_3000,h_1144,c_fit/v1611885737/3000x1144/batch2.post4.2_cx1ytk.jpg
