@@ -3,8 +3,13 @@
     {% assign image_big = site.data.defaults.pageholder.img_big_3000x1144 %}
 {% endunless %}
 
-<meta property="og:url"                content="h{{ page.url }}" />
+{% assign og_desc = page.content %}
+{% if page.isTop %}
+    {% assign og_desc = site.description %}
+{% endif %}
+
+<meta property="og:url"                content="{{ page.url }}" />
 <meta property="og:type"               content="article" />
 <meta property="og:title"              content="{{ page.title }}" />
-<meta property="og:description"        content="{{ page.content | truncatewords: 50 }}" />
+<meta property="og:description"        content="{{ og_desc | truncatewords: 50 }}" />
 <meta property="og:image"              content="{{ image_big }}" />
