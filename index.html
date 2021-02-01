@@ -13,7 +13,7 @@ layout: default
                         <div class="post-thumb position-relative">
                             {% assign image_big = post.img_big_3000x1144 %}
                             {% unless image_big %}
-                                {% assign image_big = "https://via.placeholder.com/3000x1144" %}
+                                {% assign image_big = site.data.defaults.pageholder.img_big_3000x1144 %}
                             {% endunless %}
                             <div class="thumb-overlay position-relative" style="background-image: url( {{ image_big }} )">
                                 <div class="post-content-overlay">
@@ -64,7 +64,7 @@ layout: default
 
                     {% assign image_big = post.img_big_3000x1144 %}
                     {% unless image_big %}
-                    {% assign image_big = "https://via.placeholder.com/3000x1144" %}
+                    {% assign image_big = site.data.defaults.pageholder.img_big_3000x1144 %}
                     {% endunless %}
 
                     <article class="col-lg-4 col-md-6 mb-30 wow fadeInUp animated" data-wow-delay="0.2s">
