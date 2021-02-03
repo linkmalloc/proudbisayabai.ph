@@ -17,7 +17,11 @@ Unli Samgyeupsal + Buffet + Drinks + Ice Cream starts at P399 Only
 
 Been craving for some Korean food? Eat all you can at Woorijib Korean Buffet.
 
+
+
 They offer a variety of delicious Korean dishes and appetizers. Woori 우리 jib 집 , translated as “Our Home” in English, is offering an authentic samgyupsal experience just like you’re eating at the comforts of your home.
+
+
 
 Woorijib boasts an open bar wherein you can chill, enjoy good music and unleash the ‘oppa’ in you, among others? You’ll surely love it!
 
