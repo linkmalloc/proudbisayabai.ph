@@ -11,8 +11,8 @@ img_big_1000x600: https://res.cloudinary.com/proudbisayabai/image/upload/w_1000,
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabai/image/upload/w_3000,h_1144,c_fit/v1612320085/3000x1144/batch2.post9.6_hqxu76.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612320085/3000x1144/batch2.post9.2_tltkrw.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612320085/3000x1144/batch2.post9.1_xbpvxh.jpg
-img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612320085/3000x1144/batch2.post9.4_kmqxvi.jpg
-img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612320084/3000x1144/batch2.post9.3_l3zbwy.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612320084/3000x1144/batch2.post9.3_l3zbwy.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612320085/3000x1144/batch2.post9.4_kmqxvi.jpg
 ---
 Maypa ang rabbit paminawon jud ka. Tag your migo/miga nga kapila na nimog storya ug tambag lapos gihapon pikas dunggan.
 
