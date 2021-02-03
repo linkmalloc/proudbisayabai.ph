@@ -9,8 +9,8 @@ views: "10"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabai/image/upload/w_1000,h_600,c_fit/v1612328557/3000x1144/batch2.post11.6_mciag5.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabai/image/upload/w_3000,h_1144,c_fit/v1612328557/3000x1144/batch2.post11.4_dcyg3i.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612328558/3000x1144/batch2.post11.3_laqjfl.jpg
-img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612328558/3000x1144/batch2.post11.2_kzippl.jpg
-img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612328558/3000x1144/batch2.post11.1_l7jxwv.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612328558/3000x1144/batch2.post11.1_l7jxwv.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612328558/3000x1144/batch2.post11.2_kzippl.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612328557/3000x1144/batch2.post11.5_uuivnq.jpg
 ---
 Experience The Fog House - a taste of how home feels like while being away from home
