@@ -4,6 +4,12 @@
         <li class="blocks-gallery-item"><a href="#"><img class="border-radius-5" src="{{ include.img_500_2 }}" alt=""></a></li>
         <li class="blocks-gallery-item"><a href="#"><img class="border-radius-5" src="{{ include.img_500_3 }}" alt=""></a></li>
     </ul>
-    <figcaption> <i class="ti-credit-card mr-5"></i></figcaption>
+    {% if page.photo_credit %}
+        {% if page.photo_credit_link %}
+            <figcaption><a href="{{ page.photo_credit_link }}"><i class="ti-credit-card mr-5">Media credit: {{ page.photo_credit }}</i></a></figcaption>
+        {% else %}
+            <figcaption> <i class="ti-credit-card mr-5">Photos From: {{ page.photo_credit }}</i></figcaption>
+        {% endif %}
+    {% endif %}
 </figure>
 <hr class="section-divider">
