@@ -2,6 +2,7 @@
 layout: post
 title: "Rabbit Village. Ohh so adorable! If you ever need to talk something out,
   these rabbits in “Rabbiton” are ALL EARS! "
+description: Enjoy your day here at Rabitton by Shekinah Farm. Aside from seeing rabbits, you can dine at their cottages with lots of good meals to try, especially the Rabbit Burgers.
 categories:
   - destination
 tags:

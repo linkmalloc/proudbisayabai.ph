@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "CHICKEN WINGS,  SHRIMPS AND DRINKS! "
+description: Looking for unli Chicken wings and shrimps with chillin drinks?
 categories:
   - food
 tags:

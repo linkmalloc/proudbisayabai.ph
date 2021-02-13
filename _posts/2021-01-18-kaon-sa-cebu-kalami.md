@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "KAON SA CEBU: Kalami!"
+description: Unlimited Korean BBQ and Buffet at Barangay Seoul in Cebu. 
 categories:
   - food
 tags:

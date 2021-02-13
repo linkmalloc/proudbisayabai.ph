@@ -2,6 +2,7 @@
 layout: post
 title: "Legit ang Kalami sa mga pagkaon ug Kanindot sa lugar! Mister's Seafood
   and Grill "
+description: Want to experience an island food trip yet don’t know where to go?
 categories:
   - food
 tags:

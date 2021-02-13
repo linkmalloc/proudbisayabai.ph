@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Naka ari naka? Pabugnaw sa ta Bai!
+description: Experience Guiwanon Cold Spring in Tabogon, northern part of Cebu. 
 categories:
   - destination
 tags:

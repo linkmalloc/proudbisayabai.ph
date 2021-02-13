@@ -1,6 +1,7 @@
 ---
 layout: post
 title: TRAVEL ABROAD? Nope just in the Philippines! Experience New Zealand in Bukidnon
+description: Dahilayan Gardens and Resort
 categories:
   - destination
 tags:

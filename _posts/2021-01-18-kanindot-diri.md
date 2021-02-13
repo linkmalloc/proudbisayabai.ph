@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Kanindot diri!
+description: Ganahan mo Relax and Chill out with friends? A Must-visit, stay n save in Oslob, Cebu.
 categories:
   - destination
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "KALAMI Bai! Naka kaon naka diri? Lamaw sa Tabogon, Cebu is waving! "
+description: Lami ug Barato ra! Aside ana nindot kaayo ang lugar with Music Live every weekends.
 categories:
   - food
 tags:

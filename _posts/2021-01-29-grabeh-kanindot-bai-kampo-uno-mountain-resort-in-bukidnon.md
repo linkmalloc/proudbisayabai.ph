@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Grabeh kanindot Bai! " Kampo Uno Mountain Resort" in Bukidnon! '
+description: Discover some of the reasons why people want to be here. This small resort is surrounded by lush green vegetation and a stunning view of the morning sun and a river of clouds!
 categories:
   - destination
 tags:

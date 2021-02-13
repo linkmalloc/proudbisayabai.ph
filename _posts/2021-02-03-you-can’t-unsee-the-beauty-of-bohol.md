@@ -1,6 +1,7 @@
 ---
 layout: post
 title: You can’t unsee the beauty of Bohol
+description: No need to travel outside the country, Bohol’s got you! Always
 categories:
   - destination
 tags:
