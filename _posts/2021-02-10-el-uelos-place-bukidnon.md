@@ -1,6 +1,7 @@
 ---
 layout: post
 title: EL UELO'S PLACE- BUKIDNON
+description: You might be looking ahead to plan your next laag trip. Might as well try this new place with perfect ambiance and accommodation only here in Bukidnon.
 categories:
   - destination
 tags:
