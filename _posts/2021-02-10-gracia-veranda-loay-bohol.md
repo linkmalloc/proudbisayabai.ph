@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A place where you can free your inner soul and breakaway from tradition! At Gracia Veranda in Bohol.
+description: Breakfast + Coffee + Mountain + Tent
 categories:
   - destination
 tags:
