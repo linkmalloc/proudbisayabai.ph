@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Pa DAGAT nasad ta Bai! Murag nag pangaway sa najud sa kamot! "
+description: Santa Fe Beach Club
 categories:
   - destination
 tags:

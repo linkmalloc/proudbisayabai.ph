@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Looking for a perfect place to relax and de-stress away from the city life?
+description: Pahuway sad panagsa bai! West 35 Eco Mountain Resort in Cebu Balamban, Cebu is perfect for you!
 categories:
   - destination
 tags:

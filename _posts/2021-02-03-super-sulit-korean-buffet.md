@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Super Sulit Korean Buffet!
+description: Unli Samgyeupsal + Buffet + Drinks + Ice Cream starts at P399 Only
 categories:
   - food
 tags:

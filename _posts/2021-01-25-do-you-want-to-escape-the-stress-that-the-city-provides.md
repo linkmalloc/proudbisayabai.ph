@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Do you want to escape the stress that the city provides?
+description: Cafés | Sceneries | Foods | Nature
 categories:
   - destination
 tags:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Batanes? Tagaytay? Baguio? No, this is just in Badian, Cebu!
+description: Are you up to be confronted by a completely different set of weather conditions in a span of a few hours?
 categories:
   - destination
 tags:

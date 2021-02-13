@@ -2,6 +2,7 @@
 layout: post
 title: LET'S GO SA "YESGO! COLD SPRING RESORT" PRK. 10-A Andap, New Bataan,
   Davao de Oro
+description: "ENTRANCE FEE: P30 - Adult, P20 - Kids"
 categories:
   - destination
 tags:

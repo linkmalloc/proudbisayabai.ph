@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A MUST-VISIT paradise in Carnaza Island, Daanbantayan, Northern Cebu!
+description: You may bring your own camping tents as well
 categories:
   - destination
 tags:

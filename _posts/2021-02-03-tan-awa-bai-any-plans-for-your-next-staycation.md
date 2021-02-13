@@ -1,6 +1,7 @@
 ---
 layout: post
 title: TAN-AWA Bai! Any plans for your next staycation?
+description: Experience The Fog House - a taste of how home feels like while being away from home
 categories:
   - destination
 tags:
