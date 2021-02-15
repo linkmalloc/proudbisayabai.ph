@@ -6,9 +6,11 @@ categories:
   - destination
 tags:
   - news
-  - Resort
-  - Spa
-  - Bohol
+  - Sirao
+  - Mountain
+  - Europe
+  - Garden
+  - Cebu
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613381837/sirao_garden/133615120_263249688804040_3389053188283572877_o_dyg9ky.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613381837/sirao_garden/133615120_263249688804040_3389053188283572877_o_dyg9ky.jpg
@@ -16,8 +18,7 @@ img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613381837
 img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613381837/sirao_garden/133868487_263249735470702_7875816299531444466_o_sefsqd.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613381835/sirao_garden/133600449_263249832137359_3553445574438631115_n_cmufrx.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613381838/sirao_garden/135241754_263249972137345_5159348754430589287_o_oq7w7l.jpg
-photo_credit: "Rhodman Joseph M. Ubas"
-photo_credit_link: https://www.facebook.com/JosephTheExplorer/
+photo_credit: "Michael Audrey Jacobe Sagonoy"
 ---
 LOOK: Don’t have time and budget to fly to Europe? Worry no more! Sirao Garden will make you feel like you flew to Amsterdam! Revisit and explore the breathtaking and picturesque flower farm in Sirao that is surely the best spot for your next Instagram Post🌻  
 **The best part?**  
