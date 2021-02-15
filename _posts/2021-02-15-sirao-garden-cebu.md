@@ -21,6 +21,8 @@ img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613381838/s
 photo_credit: "Michael Audrey Jacobe Sagonoy"
 ---
 LOOK: Don’t have time and budget to fly to Europe? Worry no more! Sirao Garden will make you feel like you flew to Amsterdam! Revisit and explore the breathtaking and picturesque flower farm in Sirao that is surely the best spot for your next Instagram Post🌻  
+
+****  
 **The best part?**  
 You can enjoy the fields and take photos to your heart's content for an affordable entrance fee! The inspirational woman behind the paradise garden is Mrs Maria Elena Sy-Chua, a former flight attendant, was influenced by her visits to Netherlands and decided to create a Mini version of Amsterdam in her Garden. The owner is expanding her project to offer guests more fun activities.  
 
