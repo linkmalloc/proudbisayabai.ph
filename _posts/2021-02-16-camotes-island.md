@@ -17,7 +17,7 @@ img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613485529
 img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613485527/camotes/149076768_294534675675541_5157115391499040348_o_xpztzp.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613485528/camotes/149285859_294534559008886_5142642889040269422_o_ren0sv.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613485526/camotes/149038157_294534699008872_1152671824645323420_o_pdohi9.jpg
-photo_credit: "Michael Audrey Jacobe Sagonoy"
+photo_credit: "Nelson Judaya"
 ---
 Looking for a place where you can chill and relax? Kanindot diri! Ari ta bai!  
 
