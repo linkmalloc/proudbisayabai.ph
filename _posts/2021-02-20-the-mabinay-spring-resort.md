@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Mabinay Spring Resort"
+title: "Come and visit to this most visited natural Spring Resort in Negros and in Visayas"
 description: "The Mabinay Spring Resort in Mabinay, Negros Oriental. Affordable rates, and have some outdoor activities you can enjoy with your family, friends and special one"
 categories:
   - destination
