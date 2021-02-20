@@ -392,6 +392,26 @@
         });
     }
 
+    var imageViewer = function(){
+        var options = {toolbar: {
+            zoomIn: 0,
+            zoomOut: 0,
+            oneToOne: 0,
+            reset: 0,
+            prev: 4,
+            play: 0,
+            next: 4,
+            rotateLeft: 0,
+            rotateRight: 0,
+            flipHorizontal: 0,
+            flipVertical: 0,
+          }
+        }
+
+        $('figure.image').viewer(options)
+        $('#article-body').viewer(options);
+    }
+
     /* WOW active */
     new WOW().init();
 
@@ -414,6 +434,7 @@
         niceSelectBox();
         moreArticles();
         VSticker();
+        imageViewer();
     });
 
 })(jQuery);
