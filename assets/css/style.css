@@ -578,3 +578,11 @@ pre{border:1px solid #eee;font-size:1em;line-height:1.8;margin:15px 0;max-width:
 .blocks-gallery-grid.grid-5 > li.blocks-gallery-item:nth-child(3) img:last-child{
 	margin-top: 16px;
 }
+
+#article-body hr{
+	margin: 20px 0 !important;
+	border-color: #f7f8f9 !important;
+}
+#article-body a{
+ color:var(--color-primary);
+}

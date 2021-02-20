@@ -17,30 +17,29 @@ img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_
 img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610956971/3000x1144/pic.2.3_zennkc.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610956972/3000x1144/pic.2.2_escpnd.jpg
 ---
-KAON SA CEBU: Kalami! Unlimited Korean BBQ and Buffet at Barangay Seoul in Cebu. 
+KAON SA CEBU: Kalami! Unlimited Korean BBQ and Buffet at Barangay Seoul in Cebu.  
 
-Operating Hours:
+****
+##### Operating Hours:
+- 11AM to 3PM(Lunch time)
+- 3PM to 4PM(break time)
+- 4PM to 8PM(dinner time)  
 
-11AM to 3PM(Lunch time)
+****
+##### Rates: 
+- Lunch promo: P299 per head
+- Dinner: P349 per head
+- First come First served only  
 
-3PM to 4PM(break time)
+****
+**Exact Location**: Juana Osmena St. Corner Ma. Cristina St, Cebu City.
 
-4PM to 8PM(dinner time) 
+**How to get there?**
 
-Rates: 
+##### Via Commute:  
+From Colon Street, ride a bus or beep bus bound to Mango Avenue and tell the driver to drop-off at National book store, estimated fare is P25.
 
-Lunch promo: P299 per head
+##### Via Taxi:  
+Ride a taxi and tell the driver to drop-off at baseline. Beside baseline in mango avenue was the exact location.  
 
-Dinner: P349 per head
-
-First come First served only
-
-Exact Location: Juana Osmena St. Corner Ma. Cristina St, Cebu City.
-
-How to get there?
-
-Via Commute: From Colon Street, ride a bus or beep bus bound to Mango Avenue and tell the driver to drop-off at National book store, estimated fare is P25.
-
-Via Taxi: Ride a taxi and tell the driver to drop-off at baseline. Beside baseline in mango avenue was the exact location.
-
-The place can be navigated on Waze. Whether you are riding a bus or your own vehicle, it’s best to navigate via Waze
+>The place can be navigated on Waze. Whether you are riding a bus or your own vehicle, it’s best to navigate via Waze
