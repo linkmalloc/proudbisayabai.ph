@@ -3,7 +3,7 @@ layout: post
 title: "TAN-AWA: Lobsters in a bag! Unsa pa inyong ge huwat mga bai? ARATS NA!"
 description: "A KILO of LOBSTERS per BAG | NO COOKING FEE"
 categories:
-  - destination
+  - food
 tags:
   - Crabs
   - Seafoods
