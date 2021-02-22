@@ -586,3 +586,7 @@ pre{border:1px solid #eee;font-size:1em;line-height:1.8;margin:15px 0;max-width:
 #article-body a{
  color:var(--color-primary);
 }
+
+#article-body h4{
+	text-align: center;
+}
