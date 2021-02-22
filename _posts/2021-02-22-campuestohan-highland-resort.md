@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Ariel Alegado | Team Leader"
-title: "One of the most visited and famous tourist  destinations in the Philippines!"
+title: "One of the most visited and famous tourist destination in the Philippines!"
 description: "Naka ari naka Bai? Come and visit Campuestohan Highland Resort in Talisay City, Negros Occidental."
 categories:
   - destination
@@ -21,7 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613961265/c
 photo_credit: "Negros Finest"
 photo_credit_link: "https://www.facebook.com/NegrosFinest"
 ---
-Naka ari naka Bai? Come and visit Campuestohan Highland Resort in Talisay City, Negros Occidental. One of the most visited and famous tourist  destinations in the Philippines! 😍😯  
+Naka ari naka Bai? Come and visit Campuestohan Highland Resort in Talisay City, Negros Occidental. One of the most visited and famous tourist destinations in the Philippines! 😍😯  
 
 ****
 ##### Exact Location:
