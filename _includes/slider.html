@@ -6,10 +6,7 @@
             {% if post.categories contains "featured" %}
             <div class="slider-single overflow-hidden border-radius-10">
                 <div class="post-thumb position-relative">
-                    {% assign image_big = post.image_big %}
-                    {% unless image_big %}
-                        {% assign image_big = "https://via.placeholder.com/3000x1144" %}
-                    {% endunless %}
+                    {% assign image_big = post.img_big_1000x600 %}
                     <div class="thumb-overlay position-relative" style="background-image: url( {{ image_big }} )">
                         <div class="post-content-overlay">
                             <div class="container">
