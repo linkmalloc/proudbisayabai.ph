@@ -104,4 +104,4 @@ For more inquiries you can message directly to their facebook page: [https://www
 ****
 Take Note! Safety First! 
 
-👣  PABUSOG  SA INYUNG KAON BAI 👣  
+👣  PABUSOG  SA INYUNG KAON BAI 👣
