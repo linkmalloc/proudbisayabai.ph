@@ -15,7 +15,7 @@ tags:
   - coffee
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614178018/jomax-peak/154306281_300021195126889_1501211823735653570_n_1_qpard1.jpg
-img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/c_scale,w_1088/v1614178650/jomax-peak/BeFunky-collage_wnihfl.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614178650/jomax-peak/BeFunky-collage_wnihfl.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/c_scale,w_500/v1614178018/jomax-peak/154306281_300021195126889_1501211823735653570_n_1_qpard1.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614178018/jomax-peak/152030344_300021448460197_8849255699665622080_n_y2dsq5.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/c_scale,w_800/v1614178014/jomax-peak/152019506_300021355126873_5071790285994164666_n_lv5fax.jpg
@@ -61,6 +61,4 @@ Website : [http://www.jomaxpeak.com.ph/](http://www.jomaxpeak.com.ph/)
 
 🧼🧴Take Note! Safety First! 
 
-👣  AMPING KANUNAY SA LAAG BAI 👣  
-
-****
+👣  AMPING KANUNAY SA LAAG BAI 👣
