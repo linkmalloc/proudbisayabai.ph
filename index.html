@@ -12,9 +12,9 @@ isTop: true
 
                     <div class="slider-single overflow-hidden border-radius-10">
                         <div class="post-thumb position-relative">
-                            {% assign image_big = post.img_big_3000x1144 %}
+                            {% assign image_big = post.img_big_1000x600 %}
                             {% unless image_big %}
-                                {% assign image_big = site.data.defaults.pageholder.img_big_3000x1144 %}
+                                {% assign image_big = site.data.defaults.pageholder.img_big_1000x600 %}
                             {% endunless %}
                             <div class="thumb-overlay position-relative" style="background-image: url( {{ image_big }} )">
                                 <div class="post-content-overlay">
