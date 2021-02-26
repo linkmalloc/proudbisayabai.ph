@@ -40,7 +40,7 @@ FEES:
 
 • Guide/Camp Fee:
 
--250 per head
+• 250 per head
 
 Notes:  Naa  ray  source  of  water  ila  Nanay  (Control  lang  mos  pag  gamit  ha).  Pwede  ra pud ka charge sa mga phones or powerbank. Hatag lang mo og any amount kamo nay bahala pila. Pwede ra pud pa luto bisayang manok ila Nanay.
 
