@@ -30,15 +30,15 @@ RATES:
 
 Deluxe 
 
-- P799.00 Premier Deluxe 
+ P799.00 Premier Deluxe 
 
-- P8,999.00 One Bedroom Villa 
+ P8,999.00 One Bedroom Villa 
 
-- P12,999.00 Two bedroom Villa 
+ P12,999.00 Two bedroom Villa 
 
-- P24,999.00 Extra person 
+ P24,999.00 Extra person 
 
-- P3,000.00
+ P3,000.00
 
 Ammenities:
 
