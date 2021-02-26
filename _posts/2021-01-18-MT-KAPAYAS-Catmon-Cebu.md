@@ -30,13 +30,13 @@ FEES:
 
 • Permit Fee:
 
-- 250 pesos group
+• 250 pesos group
 
-- maximum of 10pax
+• maximum of 10pax
 
 • Habal - Habal:
 
-- 450 pesos per head back and forth for 2 days with sidetrip falls
+• 450 pesos per head back and forth for 2 days with sidetrip falls
 
 • Guide/Camp Fee:
 
@@ -50,14 +50,14 @@ Gikan  sa  drop  off,  lakaw  lang  gamay  mga  20mins  mo  abot  namo  sa  camp
 
 Tour Operator
 
-- Kyno Patrick Dumlao
+• Kyno Patrick Dumlao
 
-- 09199210030
+• 09199210030
 
 Tourism Officer 
 
-- Maria Christina Brazuela 
+• Maria Christina Brazuela 
 
-- 09154825554
+• 09154825554
 
 Take Note! Safety First
