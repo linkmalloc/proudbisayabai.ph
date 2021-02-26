@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Looking for a perfect place to relax and de-stress away from the city life?
+description: Pahuway sad panagsa bai! West 35 Eco Mountain Resort in Cebu Balamban, Cebu is perfect for you!
 categories:
   - destination
 tags:
@@ -12,29 +13,30 @@ img_500x500: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,
 img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1611563831/3000x1144/batch2post3_2_f0usp0.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1611563830/3000x1144/batch2post3_4_kxn3hc.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1611563831/3000x1144/batch2post3_5_twb6rl.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabai/image/upload/w_1000,h_600,c_fit/v1611563831/3000x1144/batch2post3_5_twb6rl.jpg
+photo_credit: "Bearsama"
+photo_credit_link: www.facebook.com/bearsamaph
 ---
-West 35 Eco Mountain Resort
+West 35 Eco Mountain Resort in Cebu Balamban, Cebu is perfect for you! Pahuway sad panagsa bai!  
 
-West 35 Eco Mountain Resort in Cebu Balamban, Cebu is perfect for you!
+****
+##### Fees:
+- Entrance Fee: P80.00
+- Environmental fee: P5.00  
 
-Pahuway sad panagsa bai!
+****
+##### How to get there:  
+Ride a v-hire going to Balamban, Cebu in Ayala Cebu via transcentral highway and tell the driver to drop you off at West 35 Eco Mountain Resort.  
 
-Fees:
-
-\- Entrance Fee: P80.00
-
-\- Environmental fee: P5.00
-
-How to get there: Ride a v-hire going to Balamban, Cebu in Ayala Cebu via transcentral highway and tell the driver to drop you off at West 35 Eco Mountain Resort.
-
-Exact Location: Brgy. Gaas, Balamban, Cebu approximately 30km or an hour drive from Ayala Center Cebu.
+##### Exact Location:  
+Brgy. Gaas, Balamban, Cebu approximately 30km or an hour drive from Ayala Center Cebu.
 
 Click the Full details here:
 
-https://www.facebook.com/West35EcoMountain/
+[https://www.facebook.com/West35EcoMountain/](https://www.facebook.com/West35EcoMountain/)
 
-Contact numbers:
+##### Contact numbers:
 
-(032) 514-3262 / (032) 520-2633 / 0933 995 3245
+[(032) 514-3262](tel:(032) 514-3262) / [(032) 520-2633](tel:(032) 520-2633) / [0933 995 3245](tel:09339953245)  
 
-Photos from: Bearsama www.facebook.com/bearsamaph
+Photos from: Bearsama [www.facebook.com/bearsamaph](www.facebook.com/bearsamaph)

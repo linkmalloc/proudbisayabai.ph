@@ -1,9 +1,45 @@
-<figure class="wp-block-gallery columns-3 wp-block-image">
-    <ul class="blocks-gallery-grid">
-        <li class="blocks-gallery-item"><a href="#"><img class="border-radius-5" src="{{ include.img_500_1 }}" alt=""></a></li>
-        <li class="blocks-gallery-item"><a href="#"><img class="border-radius-5" src="{{ include.img_500_2 }}" alt=""></a></li>
-        <li class="blocks-gallery-item"><a href="#"><img class="border-radius-5" src="{{ include.img_500_3 }}" alt=""></a></li>
-    </ul>
-    <figcaption> <i class="ti-credit-card mr-5"></i>Image credit: Behance </figcaption>
+<figure class="wp-block-gallery columns-3 wp-block-image" id="image-gallery">
+    {% if include.img_500_5 %}
+        <ul class="blocks-gallery-grid grid-5">
+            <li class="blocks-gallery-item">
+                <img class="border-radius-5" src="{{ include.img_500_1 }}" alt="">
+            </li>
+            <li class="blocks-gallery-item">
+                <img class="border-radius-5" src="{{ include.img_500_2 }}" alt="">
+                <img class="border-radius-5" src="{{ include.img_500_3 }}" alt="">
+            </li>
+            <li class="blocks-gallery-item">
+                <img class="border-radius-5" src="{{ include.img_500_4 }}" alt="">
+                <img class="border-radius-5" src="{{ include.img_500_5 }}" alt="">
+            </li>
+        </ul>
+    {% elsif include.img_500_4 %}
+        <ul class="blocks-gallery-grid grid-4">
+            <li class="blocks-gallery-item">
+                <img class="border-radius-5" src="{{ include.img_500_1 }}" alt="">
+            </li>
+            <li class="blocks-gallery-item">
+                <img class="border-radius-5" src="{{ include.img_500_2 }}" alt="">
+            </li>
+            <li class="blocks-gallery-item">
+                <img class="border-radius-5" src="{{ include.img_500_3 }}" alt="">
+                <img class="border-radius-5" src="{{ include.img_500_4 }}" alt="">
+            </li>
+        </ul>
+    {% else %}
+        <ul class="blocks-gallery-grid">
+            <li class="blocks-gallery-item"><img class="border-radius-5" src="{{ include.img_500_1 }}" alt=""></li>
+            <li class="blocks-gallery-item"><img class="border-radius-5" src="{{ include.img_500_2 }}" alt=""></li>
+            <li class="blocks-gallery-item"><img class="border-radius-5" src="{{ include.img_500_3 }}" alt=""></li>
+        </ul>
+    {% endif %}
+    
+    {% if page.photo_credit %}
+        {% if page.photo_credit_link %}
+            <figcaption><a href="{{ page.photo_credit_link }}"><i class="ti-credit-card mr-5">Media credit: {{ page.photo_credit }}</i></a></figcaption>
+        {% else %}
+            <figcaption> <i class="ti-credit-card mr-5">Photos From: {{ page.photo_credit }}</i></figcaption>
+        {% endif %}
+    {% endif %}
 </figure>
 <hr class="section-divider">
