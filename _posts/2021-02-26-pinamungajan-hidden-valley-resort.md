@@ -30,6 +30,7 @@ Hapit na Summer mga Bai!!! Tara na sa Pinamungajan Hidden Valley Resort!!! this 
 <hr style="border-color: #c5c5c552 !important;">
 
 ![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614303428/pinamungajan/152662209_298799735249035_8991497469882219945_o_jof8qy.jpg)
+<small>Source: Leylam Gines</small>
 
 ****
 ##### Exact Location:  
