@@ -27,14 +27,23 @@ Via Commute: Ride a bus/vhire going to North Cebu approx. 3-4 hrs travel time fr
 The place can be navigated on Waze. Whether you are riding a bus or your own vehicle, it’s best to navigate via Waze.
 
 Amenities:
+
 • free parking
+
 • outdoor pool
+
 • free wifi
+
 • pets allowed
+
 • kayaking
+
 • snorkeling
+
 • scuba diving
+
 • picnic area
+
 • sun loungers
 
 Booking and Rates please check here:  
