@@ -6,7 +6,9 @@ description: "A nice cafe by the nature with native type ambiance, perfect for r
 categories:
   - destination
 tags:
-  - 
+  - negros occidental
+  - cafe
+  - mountain
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614418500/154354925_302124941583181_5454944466310296829_n_tjvjss.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614418501/154765915_302124948249847_8641271403725352189_n_q00v36.jpg
