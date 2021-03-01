@@ -17,7 +17,7 @@ img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614
 img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422906/arterra-hotel/153840535_301488398313502_8787034417259988265_n_s9hgnt.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422907/arterra-hotel/154382461_301488681646807_11331963988088870_n_lnldf2.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422907/arterra-hotel/154390261_301488444980164_3540811738646309271_n_iopody.jpg
-img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422907/arterra-hotel/154178010_301488594980149_6550061158183928898_n_ogvrb1.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422907/arterra-hotel/154343305_301488658313476_2317417983531202559_n_zgetb6.jpg
 img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422907/arterra-hotel/154416525_301488564980152_2582353005782247048_n_zbmxnl.jpg
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422907/arterra-hotel/154382442_301488518313490_6710829041847673994_n_o83gxj.jpg
 photo_credit: "April Mae Puyod"
@@ -38,7 +38,8 @@ Oh diba bongga kaayo mga bai! 😍😱
 🕑 Operating hours: 8:00AM-7:30PM   
   
 🌎 Exact Location: Arterra Hotel,Punta Engaño,Lapulapu City  
-  
+
+****
 #### How to get there?  
   
 ##### 🗺 Via Commute:  
@@ -76,7 +77,7 @@ Promo: Kung Duha mo 2K nalang mabayran!
 <small>Source: April Mae Puyod</small>  
 
 ****
-![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422907/arterra-hotel/154343305_301488658313476_2317417983531202559_n_zgetb6.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422907/arterra-hotel/154178010_301488594980149_6550061158183928898_n_ogvrb1.jpg)  
 <small>Source: April Mae Puyod</small>  
 
 ##### 📌 NOTE:  
