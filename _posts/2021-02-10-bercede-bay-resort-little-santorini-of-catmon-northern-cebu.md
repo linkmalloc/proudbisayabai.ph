@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BERCEDE BAY RESORT | Little Santorini of Catmon, Northern Cebu
+title: Little Santorini of Catmon, Northern Cebu | BERCEDE BAY RESORT
 description: You can get a piece of Santorini even without flying to Greece! 
 categories:
   - destination

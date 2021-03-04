@@ -590,7 +590,11 @@ pre{border:1px solid #eee;font-size:1em;line-height:1.8;margin:15px 0;max-width:
 #article-body h4{
 	text-align: center;
 	padding-bottom: 5px;
-    border-bottom: 2px dashed #ced4da;
+    
+}
+
+#article-body h4:first-child{
+	border-bottom: 2px dashed #ced4da;
 }
 
 /* ShareThis Custom */
@@ -603,4 +607,13 @@ pre{border:1px solid #eee;font-size:1em;line-height:1.8;margin:15px 0;max-width:
 .st-btn > img{
 	height: 13px !important;
     width: 13px !important;
+}
+
+.agreement_body ul{
+	margin-block-start: 1em;
+    margin-block-end: 1em;
+    padding-inline-start: 40px;
+}
+.agreement_body ul li{
+	list-style-type: disc;
 }
