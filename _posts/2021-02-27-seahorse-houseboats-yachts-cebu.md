@@ -12,9 +12,9 @@ tags:
   - buffet
   - liveband
 views: "10"
-img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422906/arterra-hotel/153840535_301488398313502_8787034417259988265_n_s9hgnt.jpg
-img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422906/arterra-hotel/153840535_301488398313502_8787034417259988265_n_s9hgnt.jpg
-img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422906/arterra-hotel/153840535_301488398313502_8787034417259988265_n_s9hgnt.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614877530/arterra-hotel/155108964_3993547580689770_1341196096768419223_n_dgyarp.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614877530/arterra-hotel/155108964_3993547580689770_1341196096768419223_n_dgyarp.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614877530/arterra-hotel/155108964_3993547580689770_1341196096768419223_n_dgyarp.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422907/arterra-hotel/154382461_301488681646807_11331963988088870_n_lnldf2.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422907/arterra-hotel/154390261_301488444980164_3540811738646309271_n_iopody.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422907/arterra-hotel/154343305_301488658313476_2317417983531202559_n_zgetb6.jpg
