@@ -67,9 +67,36 @@ Magpauwahi pa ba ka bai? ARATS NA!
 Click the Full details here: [https://www.facebook.com/indiosrestobar/](https://www.facebook.com/indiosrestobar/)
 
 ****
-
 ![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614181374/indiosunli/151310576_298786605250348_6857484183521493395_o_bv6wjz.jpg)  
+<small>Source: Michael Sagonoy| Vivi Moore</small>  
 
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614958831/indiosunli/l11wprkrusxmt5t4tscd.jpg)  
+<small>Source: Paul Vincent Cellan</small>  
+
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614958808/indiosunli/igyxksnefdmqva8z0coa.jpg)  
+<small>Source: Paul Vincent Cellan</small>  
+
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614958812/indiosunli/b3tthu85ksrf6fwuhb1i.jpg)  
+<small>Source: Paul Vincent Cellan</small>  
+
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614958815/indiosunli/glugbzavleqhxh5cxajx.jpg)  
+<small>Source: Paul Vincent Cellan</small>  
+
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614958819/indiosunli/zmnozz4thetstqgcyqwc.jpg)  
+<small>Source: Paul Vincent Cellan</small>  
+
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614958823/indiosunli/e0elcu738n6cuheywvgj.jpg)  
+<small>Source: Paul Vincent Cellan</small>  
+
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614958827/indiosunli/sdqwpyk4uwxjfrnuta5s.jpg)  
+<small>Source: Paul Vincent Cellan</small>
 >Take Note! Safety First! 
 >Precautionary measures are to be observed upon arrival. Don't forget to bring your new normal essentials!
 

@@ -617,3 +617,7 @@ pre{border:1px solid #eee;font-size:1em;line-height:1.8;margin:15px 0;max-width:
 .agreement_body ul li{
 	list-style-type: disc;
 }
+
+.entry-main-content table td, .entry-main-content table th, .comment-content table td, .comment-content table th{
+	border: 1px solid #cecece;
+}
