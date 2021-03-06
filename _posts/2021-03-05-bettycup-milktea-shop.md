@@ -42,7 +42,7 @@ The place can be navigated on Waze. Whether you are riding a bus or your own veh
 
 ****
 #### 📌 Menu:   
-#####"Milktea with Black Pearl"   
+##### "Milktea with Black Pearl"   
 - Regular - P85.00  
 - Large - P95.00  
   

@@ -29,8 +29,8 @@ What's more amazing in this cabin is that they are eco friendly. They use wooden
   
 ****
 ****
-#### How to get there?  
-<hr style="border-color: #c5c5c552 !important;">
+#### HOW TO GET THERE
+
 ##### 🌍 Location:  
 Sitio Babag 2, Brgy. Pangamihan, Toledo City  
 	
@@ -64,11 +64,17 @@ The place can be navigated on Waze. Whether you are riding a motorcycle or your 
 
 ****
 ##### 📌 Rates:   
-- P1,666 per pax   
-- P2,666 per pax  
-- P3,000 per pax (Mondays to Thursdays only)  
-- P3,000 per pax (Mondays to Thursdays only)  
-  
+- ₱20,000 per night for **7-12 guests** So if e divide to 12 person possible each person ₱1,666 pesos.  
+- ₱16,000 per night for **5-6 guests** So if e divide to 6 person possible 2,666 per person   
+- ₱6,000 pax per night for 1-2 guests (Mondays to Thursdays only)  
+- ₱12,000 pax per night for 3-4 guests (Mondays to Thursdays only) if divide to 4 3,000 per person.  
+
+****  
+>Rates are inclusive of dinner and breakfast (dagko kaayog servings) you also have the whole place to yourselvesss, a bonfire, pwede sad mo mag videoke kung ganahan mo and of course the mini pool which is by the way a hot spring water and they replace it after every guest so its safe guys 😉  
+
+**** 
+>By the way if ganahan mo mag hike you can ask the kuyas to accompany you to hike up sa pikas bukid to see the atlas mining and the sunrise!!! also only 20 mins.to Malubog Lake.  
+
 ****
 They serve breakfast, lunch, dinner of your choice.   
   
@@ -77,3 +83,39 @@ They serve breakfast, lunch, dinner of your choice.
 ****
 ![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614275000/LaVueCabine/152780308_299266615202347_4728871143479247603_n_joyic1.jpg)
 <small>Source: Abert Catamco</small>
+
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615013224/lavuecabine/v5fekmpiyd4nwhe9rwfe.jpg)  
+<small>Source: Gk Agbay</small>  
+
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615013228/lavuecabine/lgndbjew6zl4it2bu8uh.jpg)  
+<small>Source: Gk Agbay</small>  
+
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615013231/lavuecabine/i3lp4vtwc1qbo5p0irh8.jpg)  
+<small>Source: Gk Agbay</small>  
+
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615013235/lavuecabine/urjuteto5sk2ffurrjx4.jpg)  
+<small>Source: Gk Agbay</small>  
+
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615013239/lavuecabine/kfvsfngmir597mdgzdsx.jpg)  
+<small>Source: Gk Agbay</small>  
+
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615013243/lavuecabine/esczdkadf50djosgfjcm.jpg)  
+<small>Source: Gk Agbay</small> 
+
+**** 
+>TAKE NOTE !  SAFETY FIRST! 
+  
+ 👣  AMPING KANUNAY SA LAAG BAI 👣  
+  
+***
+[#ProudBisayaBai](https://www.facebook.com/hashtag/ProudBisayaBai/) [#TatakBisaya](https://www.facebook.com/hashtag/TatakBisaya/)  
+
+****
+Bai! Want to be featured? Send us your BEST Photos and share your Great Travel Experienced!
+
