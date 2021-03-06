@@ -1,7 +1,7 @@
 ---
 author: "Ariel | Ryan | Twin | Thirdy"
 layout: post
-title: "TRENDING: SUMMER Feels? - BettyCup Milktea Shop in Boljoon, Cebu"
+title: "TRENDING: A MUST-TRY - BettyCup Milktea Shop in Boljoon, Cebu"
 description: "Imagine yourself taking a sip of your drink from a long ride! A MUST-TRY BettyCup Milktea Shop in Boljoon, Cebu"
 categories:
   - food
