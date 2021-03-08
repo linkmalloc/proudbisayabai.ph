@@ -10,7 +10,7 @@ tags:
   - resort
 views: "10"
 img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047071/little_santorini_mountain_resort_in_liloan/ulavc8ts7uaampluocyk.jpg
-img_big_3000x1144: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047071/little_santorini_mountain_resort_in_liloan/ulavc8ts7uaampluocyk.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615220929/little_santorini_mountain_resort_in_liloan/littlesantorinimountainresortpreview_fcmbig.jpg
 img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047071/little_santorini_mountain_resort_in_liloan/ulavc8ts7uaampluocyk.jpg
 img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047088/little_santorini_mountain_resort_in_liloan/njm90ssmas7p4emgqeet.jpg
 img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047093/little_santorini_mountain_resort_in_liloan/ncmqznhyj3kixl7ws5pq.jpg
@@ -91,10 +91,15 @@ The place can be navigated on Waze. Whether you are riding a motorbike or your o
 ![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047162/little_santorini_mountain_resort_in_liloan/y9udxfv90g36n5ydgqv1.jpg)  
 <small>Source: Via Fb Page Little Santorini Mountain Resort</small>
 
+****
+#### Map Location
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d129249.01614979781!2d123.89726412779761!3d10.417725806941482!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a9a3d915d5db23%3A0x3bf95d08a14a96fd!2sLittle%20Santorini%20Mountain%20Resort!5e0!3m2!1sen!2sph!4v1615219680481!5m2!1sen!2sph" style="width: 100%; height: 450px; border:0;" allowfullscreen="" loading="lazy"></iframe>
+
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
-  
- 👣  AMPING KANUNAY SA LAAG BAI 👣  
+
+****
+👣  AMPING KANUNAY SA LAAG BAI 👣  
   
 ***
 [#ProudBisayaBai](https://www.facebook.com/hashtag/ProudBisayaBai/) [#TatakBisaya](https://www.facebook.com/hashtag/TatakBisaya/)  
