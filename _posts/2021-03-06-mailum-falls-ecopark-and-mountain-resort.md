@@ -23,11 +23,7 @@ photo_credit: "Wandering Tita"
 photo_credit_link: "https://www.facebook.com/wanderingtita/"
 ---
 #### MAILUM FALLS ECOPARK  AND MOUNTAIN RESORT
-<center><i>“Paradise in the mountain” 🍃🌺😯</i></center>  
-
-**** 
-Kanang mag “nga2x” ka ig kita nimus lugar mga bai!  
-  
+<center><i>“Paradise in the mountain” 🍃🌺😯 <br> Kanang mag “nga2x” ka ig kita nimus lugar mga bai! </i></center>  
 
 ****
 ****
@@ -58,10 +54,8 @@ Contact: [09190767859](tel: 09190767859) look for **Miss Angela**
 <small>Source: Wandering Tita</small>  
 
 ****
-#### TRAVEL TIPS 
+#### 💡 TRAVEL TIPS 
 
-****
-##### 💡 TIPS:  
 - Best to visit during summer time while heat is scorching. Sampat gid pabugnaw kag pahulum sa falls.  
 -  Went there while theres a typhoon coming so very foggy ang area tho we appreciate it naman despite the weather.  
 - Way up is steep make sure ang service nga makataklad pasaka.  
@@ -70,7 +64,6 @@ Contact: [09190767859](tel: 09190767859) look for **Miss Angela**
 - Explore the whole area there's more to see  
 - Very cold ang tubig make sure kaya mo.  
 - Lastly, enjoy!  
-
 
 
 ****
@@ -92,6 +85,11 @@ Contact: [09190767859](tel: 09190767859) look for **Miss Angela**
 ****
 ![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615012389/mailum_falls_ecopark_and_mountain_resort/crk9bwfri8ga4qe9vm6v.jpg)  
 <small>Source: Wandering Tita</small> 
+
+****
+
+#### Map Location
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d258409.41386377046!2d123.06109483450483!3d10.524050141867399!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8c4b6ea1c1263411!2sMailum%20Falls%20Ecopark%20and%20Mountain%20Resort!5e0!3m2!1sen!2sph!4v1615221238293!5m2!1sen!2sph" width="600" style="width: 100%; height: 450px; border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 

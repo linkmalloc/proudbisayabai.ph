@@ -84,6 +84,12 @@ P500, (5pax or less) Additional P50 per head.
 **** 
 >TAKE NOTE !  SAFETY FIRST! Everyone is advised to follow minimum health protocols in their premises. Under the new normal, they are only catering few guests.
 
+****
+#### Map Location
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d290063.0463011711!2d122.98846858064034!3d10.518548739147262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a9359b9e0f5873%3A0xfa7b22ee1b7b859e!2sToto%20Pedro%20Payag%20(Payag%20ni%20Pedro)!5e0!3m2!1sen!2sph!4v1615221074992!5m2!1sen!2sph" style="width: 100%; height: 450px; border:0;" allowfullscreen="" allowfullscreen="" loading="lazy"></iframe>
+
+****
  👣  AMPING KANUNAY SA LAAG BAI 👣  
   
 ***
