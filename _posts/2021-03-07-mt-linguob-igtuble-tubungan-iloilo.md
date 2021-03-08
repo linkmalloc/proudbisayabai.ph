@@ -45,6 +45,10 @@ For more inquiries and if interested to have trekking activity here please conta
 ![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615048110/mt_linguob_igtuble_tubungan_iloilo/wxvrr3fp3ixw9z9bwxke.jpg)  
 <small>Source: Discover Cauayan</small> 
 
+
+##### Google Map Location
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1002026.6602867671!2d122.0286076!3d11.1752946!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33ae530157dfdb29%3A0xd3a412f1abe93699!2sMt.%20Lingguhob!5e0!3m2!1sen!2sph!4v1615182985994!5m2!1sen!2sph" style="border:0; width: 100%; height: 400px;" allowfullscreen="" loading="lazy"></iframe>
+
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
   
@@ -55,4 +59,3 @@ For more inquiries and if interested to have trekking activity here please conta
 
 ****
 Bai! Want to be featured? Send us your BEST Photos and share your Great Travel Experienced!
-
