@@ -27,17 +27,7 @@ photo_credit_link: ""
 ****
 🕑 Sight seeing available between **5am to 6pm only**  
 
-📍Exact Location: Purok 2 Catarman Dauis Bohol.  
-
-****
-****
-#### 📌 HOW TO GET THERE?
-  
-##### 🗺 Via Commute:  
-Ang Banta-Aw Hills nahimutang sa luna ni Poring-Dulo Cirunay sa Purok 2, Catarman, Dauis, Bohol. Gikan sa highway maghike pa kita paingon sa lugar sa labing minus 15 minutos. Para makatoud kamu sa saktong agianan ug lugar, pwede ra makigkoordinasyon sa mga anak ug apo ni Puring-Dulo.  
-  
-##### 🗺 Via Private vehicle:  
-The place can be navigated on Waze. Whether you are riding a bus or your own vehicle, it’s best to navigate via Waze.   
+📍Exact Location: Purok 2 Catarman Dauis Bohol.    
 
 ****
 ![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614959277/banta_aw_hills_in_catarman_dauis_bohol/sisuquzvdw0pyqaeoc8l.jpg)  
@@ -52,7 +42,20 @@ The place can be navigated on Waze. Whether you are riding a bus or your own veh
  
 ****
 For your comfortable stay, you may bring your own blankets and pillows. They will be charging corkage fee of bringing drinks from outside since they have cold drinks available at their  ministore.      
+
+****
+****
+#### 📌 HOW TO GET THERE?
   
+##### 🗺 Via Commute:  
+Ang Banta-Aw Hills nahimutang sa luna ni Poring-Dulo Cirunay sa Purok 2, Catarman, Dauis, Bohol. Gikan sa highway maghike pa kita paingon sa lugar sa labing minus 15 minutos. Para makatoud kamu sa saktong agianan ug lugar, pwede ra makigkoordinasyon sa mga anak ug apo ni Puring-Dulo.  
+  
+##### 🗺 Via Private vehicle:  
+The place can be navigated on Waze. Whether you are riding a bus or your own vehicle, it’s best to navigate via Waze. 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d57417.95552585885!2d123.83615819841248!3d9.626164078067747!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33aa53544440c695%3A0x7c7f9b33558cff41!2sBanta-aw%20Hills!5e0!3m2!1sen!2sph!4v1615196631699!5m2!1sen!2sph" style="border:0; width: 100%; height: 450px" allowfullscreen="" loading="lazy"></iframe>
+
+****
 👉🏻 Click the Full details here: [https://www.facebook.com/bantaawhills/](https://www.facebook.com/bantaawhills/)  
 
 ****
