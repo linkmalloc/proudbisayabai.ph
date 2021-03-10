@@ -12,7 +12,7 @@ tags:
   - cafe
 views: "10"
 img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614952000/bettycup_milktea_shop/bwrzq2vib1rn8xcn3hko.jpg
-img_big_3000x1144: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614952000/bettycup_milktea_shop/bwrzq2vib1rn8xcn3hko.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615392502/bettycup_milktea_shop/bettycup_i0uuwd.jpg
 img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614952000/bettycup_milktea_shop/bwrzq2vib1rn8xcn3hko.jpg
 img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614951995/bettycup_milktea_shop/femgkbjqslfizam0tyn9.jpg
 img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614952005/bettycup_milktea_shop/b40a4itmyzyvctzihpeh.jpg
@@ -22,11 +22,13 @@ img_500_5:
 photo_credit: "Micheal Sagonoy | Vivi Moore"
 photo_credit_link: ""
 ---
-TRENDING: SUMMER Feels? Imagine yourself taking a sip of your drink from a long ride! a MUST-TRY BettyCup Milktea Shop in Boljoon, Cebu! 🤤😍  
+#### BettyCup Milktea Shop
+
+**TRENDING**: SUMMER Feels? Imagine yourself taking a sip of your drink from a long ride! a MUST-TRY BettyCup Milktea Shop in Boljoon, Cebu! 🤤😍  
   
 ****
-****
-📍**Exact Location**: Washington St., Sitio Mangga Poblacion, Bojoon, Cebu  
+##### Exact Location:  
+Washington St., Sitio Mangga Poblacion, Bojoon, Cebu  
   
 📍Soon to Open at Pasil Branch, Cebu  
 
@@ -39,6 +41,29 @@ From Cebu City ride a bus at Southbus Terminal. Then tell the driver to drop-off
 ###### 🗺 Via Private vehicle:  
 The place can be navigated on Waze. Whether you are riding a bus or your own vehicle, it’s best to navigate via Waze.   
 
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615391865/bettycup_milktea_shop/rtykj05ohxidjmraiws1.jpg)  
+<small>Source: Micheal Sagonoy | Vivi Moore</small>  
+
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615391870/bettycup_milktea_shop/mfje6i7fw0rusawpjcpp.jpg)  
+<small>Source: Micheal Sagonoy | Vivi Moore</small>  
+
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615391875/bettycup_milktea_shop/mft4meddab73ycd5m8b6.jpg)  
+<small>Source: Micheal Sagonoy | Vivi Moore</small>  
+
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615391880/bettycup_milktea_shop/tapakztymbobirtduams.jpg)  
+<small>Source: Micheal Sagonoy | Vivi Moore</small>  
+
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615391884/bettycup_milktea_shop/di1lupewbakbkdb6u1je.jpg)  
+<small>Source: Micheal Sagonoy | Vivi Moore</small>  
+
+****
+![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615391889/bettycup_milktea_shop/qjvnfbsomtbbb4nedd57.jpg)  
+<small>Source: Micheal Sagonoy | Vivi Moore</small>  
 
 ****
 #### 📌 Menu:   
@@ -92,8 +117,14 @@ The place can be navigated on Waze. Whether you are riding a bus or your own veh
 >( Dine-in, Take-out, Delivery )   
 >Note: Delivery service is within Brgy. Boljoon, Poblacion only)   
   
+
 👉🏻 Click the Full details here: [https://www.facebook.com/BethBaker72/](https://www.facebook.com/BethBaker72/)  
-  
+
+****
+##### Map Location
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5562.943234251693!2d123.47601693649166!3d9.630106306747756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1bb112e41a6c4e18!2sBetty%20Cup%20Milk%20Tea!5e0!3m2!1sen!2sph!4v1615391776725!5m2!1sen!2sph" style="border:0; width: 100%; height: 450px" allowfullscreen="" loading="lazy"></iframe>
+
+****
   
 👉🏻 Click here for more details about Bisaya great Travel moments and Food Guides: [https://proudbisayabai.ph/food](https://proudbisayabai.ph/food)  
  
