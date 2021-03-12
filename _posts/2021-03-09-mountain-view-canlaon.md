@@ -9,14 +9,14 @@ tags:
   - mountainview
   - negros
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615391049/mountain_view/qgrqahpqaxbd1sye7qno.jpg
-img_big_3000x1144: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615391049/mountain_view/qgrqahpqaxbd1sye7qno.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615391049/mountain_view/qgrqahpqaxbd1sye7qno.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615391030/mountain_view/nqzovgwfajdksmzldsdc.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615391034/mountain_view/xppdfs2bmfxxu5x8ybza.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615391038/mountain_view/recn6zau62qlurvlryxh.jpg
-img_500_4: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615391042/mountain_view/f17ythjwmku0dfr6zmsy.jpg
-img_500_5: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615391046/mountain_view/egn8hircbxucgjf24bqg.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615391049/mountain_view/qgrqahpqaxbd1sye7qno.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615391049/mountain_view/qgrqahpqaxbd1sye7qno.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615391049/mountain_view/qgrqahpqaxbd1sye7qno.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615391030/mountain_view/nqzovgwfajdksmzldsdc.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615391034/mountain_view/xppdfs2bmfxxu5x8ybza.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615391038/mountain_view/recn6zau62qlurvlryxh.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615391042/mountain_view/f17ythjwmku0dfr6zmsy.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615391046/mountain_view/egn8hircbxucgjf24bqg.jpg
 photo_credit: "Jasper Ivan Iturriaga @pstrjasper  "
 photo_credit_link: ""
 ---
@@ -28,7 +28,7 @@ Get lost with nature and Immerse yourself in the middle of this beautiful garden
 La Castellana, Negros Occidental 🇵🇭  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615391027/mountain_view/m3snmbhysysvitp2k9mg.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615391027/mountain_view/m3snmbhysysvitp2k9mg.jpg)  
 <small>Source: Jasper Ivan Iturriaga @pstrjasper  </small>  
 
 ****

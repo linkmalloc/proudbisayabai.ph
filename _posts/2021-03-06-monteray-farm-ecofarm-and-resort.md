@@ -11,14 +11,14 @@ tags:
   - resort
   - villa
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615039071/monteray_farm_ecofarm_and_resort/wbdqfc6maj9uogvgjwod.jpg
-img_big_3000x1144: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615039071/monteray_farm_ecofarm_and_resort/wbdqfc6maj9uogvgjwod.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615039071/monteray_farm_ecofarm_and_resort/wbdqfc6maj9uogvgjwod.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615039075/monteray_farm_ecofarm_and_resort/exbbqhwurwhw3rkkl0hy.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615039080/monteray_farm_ecofarm_and_resort/f2amdmfbkkn9wbovharv.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615039084/monteray_farm_ecofarm_and_resort/kaogdwyalmxge2nxvbxy.jpg
-img_500_4: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615039089/monteray_farm_ecofarm_and_resort/d1wwh25kvwpbahiwi5w1.jpg
-img_500_5: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615039097/monteray_farm_ecofarm_and_resort/ydfkm91ix4tscbe2snra.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615039071/monteray_farm_ecofarm_and_resort/wbdqfc6maj9uogvgjwod.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615039071/monteray_farm_ecofarm_and_resort/wbdqfc6maj9uogvgjwod.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615039071/monteray_farm_ecofarm_and_resort/wbdqfc6maj9uogvgjwod.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615039075/monteray_farm_ecofarm_and_resort/exbbqhwurwhw3rkkl0hy.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615039080/monteray_farm_ecofarm_and_resort/f2amdmfbkkn9wbovharv.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615039084/monteray_farm_ecofarm_and_resort/kaogdwyalmxge2nxvbxy.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615039089/monteray_farm_ecofarm_and_resort/d1wwh25kvwpbahiwi5w1.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615039097/monteray_farm_ecofarm_and_resort/ydfkm91ix4tscbe2snra.jpg
 photo_credit: "Jovir Amatong"
 photo_credit_link: ""
 ---
@@ -71,7 +71,7 @@ The place can be navigated thru Waze. Whether you are riding a bus or your own v
 
 ****
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615039111/monteray_farm_ecofarm_and_resort/sue4agzdtmzc85bgk59k.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615039111/monteray_farm_ecofarm_and_resort/sue4agzdtmzc85bgk59k.jpg)  
 <small>Source: Jovir Amatong</small>  
 ##### Tree house 
 - good for 10pax 
@@ -88,20 +88,20 @@ The place can be navigated thru Waze. Whether you are riding a bus or your own v
 👉🏻 For bookings and inquiries. Message them on their facebook page [Monteray Farm Ecofarm and Resort](https://www.facebook.com/monterayfarm/) or thru their mobile no. [+63 917 841 9228](tel:+63 917 841 9228)  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615039101/monteray_farm_ecofarm_and_resort/oawbn9hgfeo6sanrdqsk.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615039101/monteray_farm_ecofarm_and_resort/oawbn9hgfeo6sanrdqsk.jpg)  
 <small>Source: Jovir Amatong</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615039106/monteray_farm_ecofarm_and_resort/wim7ymecke30dat5lupk.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615039106/monteray_farm_ecofarm_and_resort/wim7ymecke30dat5lupk.jpg)  
 <small>Source: Jovir Amatong</small>  
 
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615039116/monteray_farm_ecofarm_and_resort/hkz1ugf2jyl9q6huzbtp.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615039116/monteray_farm_ecofarm_and_resort/hkz1ugf2jyl9q6huzbtp.jpg)  
 <small>Source: Jovir Amatong</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615039120/monteray_farm_ecofarm_and_resort/pluupgje0qnm0cbxmlw3.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615039120/monteray_farm_ecofarm_and_resort/pluupgje0qnm0cbxmlw3.jpg)  
 <small>Source: Jovir Amatong</small>
 
 **** 
