@@ -10,12 +10,12 @@ tags:
   - surfing
   - beach
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614960052/dahican_surf_resort/emt3cyt9rxeh3jbkytuf.jpg
-img_big_3000x1144: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614960052/dahican_surf_resort/emt3cyt9rxeh3jbkytuf.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614960052/dahican_surf_resort/emt3cyt9rxeh3jbkytuf.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614960055/dahican_surf_resort/amzjnzyhmhfafdat2vkm.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614960059/dahican_surf_resort/ap5wsr9zlinek2tevq6u.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614960063/dahican_surf_resort/cvms7cfgx7wuxespqmx3.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614960052/dahican_surf_resort/emt3cyt9rxeh3jbkytuf.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614960052/dahican_surf_resort/emt3cyt9rxeh3jbkytuf.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614960052/dahican_surf_resort/emt3cyt9rxeh3jbkytuf.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614960055/dahican_surf_resort/amzjnzyhmhfafdat2vkm.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614960059/dahican_surf_resort/ap5wsr9zlinek2tevq6u.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614960063/dahican_surf_resort/cvms7cfgx7wuxespqmx3.jpg
 img_500_4: 
 img_500_5: 
 photo_credit: "Alger John Durban"

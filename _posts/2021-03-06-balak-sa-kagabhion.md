@@ -9,12 +9,12 @@ tags:
   - poem
   - bisaya
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615013568/balak_sa_kagabhion/rm7ggcmvbudkbstfjvnt.jpg
-img_big_3000x1144: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615013568/balak_sa_kagabhion/rm7ggcmvbudkbstfjvnt.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615013568/balak_sa_kagabhion/rm7ggcmvbudkbstfjvnt.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615013576/balak_sa_kagabhion/co3toekdbz4ss7bhzt9k.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615013587/balak_sa_kagabhion/x0q4yffnwpgrk1wswd3m.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615013592/balak_sa_kagabhion/b4e6omqjx3ejx0glpmw1.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615013568/balak_sa_kagabhion/rm7ggcmvbudkbstfjvnt.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615013568/balak_sa_kagabhion/rm7ggcmvbudkbstfjvnt.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615013568/balak_sa_kagabhion/rm7ggcmvbudkbstfjvnt.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615013576/balak_sa_kagabhion/co3toekdbz4ss7bhzt9k.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615013587/balak_sa_kagabhion/x0q4yffnwpgrk1wswd3m.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615013592/balak_sa_kagabhion/b4e6omqjx3ejx0glpmw1.jpg
 img_500_4: 
 img_500_5: 
 photo_credit: "Fretxzie Ann Martinez"

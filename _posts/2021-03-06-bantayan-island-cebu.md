@@ -11,14 +11,14 @@ tags:
   - island
   - beach
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010498/bantayan_island_cebu/eboetlo5lvzgctcuzwcn.jpg
-img_big_3000x1144: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010498/bantayan_island_cebu/eboetlo5lvzgctcuzwcn.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010498/bantayan_island_cebu/eboetlo5lvzgctcuzwcn.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010494/bantayan_island_cebu/nqqmvespoylewbaux90w.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614952532/bantayan_island_cebu/ewabiaa21pn54pteyzzh.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010502/bantayan_island_cebu/xcqhlb81138woegdtdo6.jpg
-img_500_4: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010506/bantayan_island_cebu/flv3zaea2ioqc0i6gbam.jpg
-img_500_5: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010510/bantayan_island_cebu/yo4kq7j6syay01zb3vm3.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010498/bantayan_island_cebu/eboetlo5lvzgctcuzwcn.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010498/bantayan_island_cebu/eboetlo5lvzgctcuzwcn.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010498/bantayan_island_cebu/eboetlo5lvzgctcuzwcn.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010494/bantayan_island_cebu/nqqmvespoylewbaux90w.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614952532/bantayan_island_cebu/ewabiaa21pn54pteyzzh.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010502/bantayan_island_cebu/xcqhlb81138woegdtdo6.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010506/bantayan_island_cebu/flv3zaea2ioqc0i6gbam.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010510/bantayan_island_cebu/yo4kq7j6syay01zb3vm3.jpg
 photo_credit: "Nelson Judaya"
 photo_credit_link: ""
 published: true
@@ -33,7 +33,7 @@ Bantayan, Island, Philippines. The island of Bantayan, Cebu is famous for its cr
 📍Exact Location: Bantayan Island, Cebu   
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010530/bantayan_island_cebu/jeusohq76ef0pe6d27b7.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010530/bantayan_island_cebu/jeusohq76ef0pe6d27b7.jpg)  
 <small>Source: Nelson Judaya</small>
 
 ****
@@ -58,23 +58,23 @@ Bantayan, Island, Philippines. The island of Bantayan, Cebu is famous for its cr
 - Travel time: 20 minutes  
 - Fare: ₱1,288 one way; P2,576 roundtrip  
 - Availability: Mondays and Thursdays only  
-- [http://www.airjuan.com](http://www.airjuan.com) 
+- [https://www.airjuan.com](https://www.airjuan.com) 
 
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010518/bantayan_island_cebu/fkflrxglahm7cuyk2cq7.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010518/bantayan_island_cebu/fkflrxglahm7cuyk2cq7.jpg)  
 <small>Source: Nelson Judaya</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010522/bantayan_island_cebu/f18ucfzpoubigzzmgivp.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010522/bantayan_island_cebu/f18ucfzpoubigzzmgivp.jpg)  
 <small>Source: Nelson Judaya</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010526/bantayan_island_cebu/d4tr1hczuasr6rhccc49.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010526/bantayan_island_cebu/d4tr1hczuasr6rhccc49.jpg)  
 <small>Source: Nelson Judaya</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010514/bantayan_island_cebu/sotjfwsspf1w0dbq3ptj.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010514/bantayan_island_cebu/sotjfwsspf1w0dbq3ptj.jpg)  
 <small>Source: Nelson Judaya</small>
 
 ****
@@ -103,23 +103,23 @@ If you have your own car just use Google map or waze then search “ Virgin Isla
 -  Boat rental RT P1500
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614952536/bantayan_island_cebu/sy3rhvndb8nmhgqvduy2.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614952536/bantayan_island_cebu/sy3rhvndb8nmhgqvduy2.jpg)  
 <small>Source: Mera Larano</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614952541/bantayan_island_cebu/atjwg2xjje8miruhqimf.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614952541/bantayan_island_cebu/atjwg2xjje8miruhqimf.jpg)  
 <small>Source: Mera Larano</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614952546/bantayan_island_cebu/w69gqoavpjyyc1rkgxza.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614952546/bantayan_island_cebu/w69gqoavpjyyc1rkgxza.jpg)  
 <small>Source: Mera Larano</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614952551/bantayan_island_cebu/qhbikz9pklyvfyd8fl8k.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614952551/bantayan_island_cebu/qhbikz9pklyvfyd8fl8k.jpg)  
 <small>Source: Mera Larano</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614952555/bantayan_island_cebu/llkaad5eokjgs6qoemoq.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614952555/bantayan_island_cebu/llkaad5eokjgs6qoemoq.jpg)  
 <small>Source: Mera Larano</small>
 
 **** 

@@ -10,14 +10,14 @@ tags:
   - cebu
   - forest
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010059/bamboo_forest_medellin/v5qybl3ziu25bmooecxy.jpg
-img_big_3000x1144: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010059/bamboo_forest_medellin/v5qybl3ziu25bmooecxy.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010059/bamboo_forest_medellin/v5qybl3ziu25bmooecxy.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010063/bamboo_forest_medellin/ygamrsm64nj5o8dfjv1o.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010067/bamboo_forest_medellin/gcp4b6yoqebokfjhnnbx.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010070/bamboo_forest_medellin/xpuwov1j0xhqc8lcrt33.jpg
-img_500_4: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010074/bamboo_forest_medellin/ladqxow4ln3p6ssrls2r.jpg
-img_500_5: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615010077/bamboo_forest_medellin/dcbfrv2lr9eyxgbq4asm.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010059/bamboo_forest_medellin/v5qybl3ziu25bmooecxy.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010059/bamboo_forest_medellin/v5qybl3ziu25bmooecxy.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010059/bamboo_forest_medellin/v5qybl3ziu25bmooecxy.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010063/bamboo_forest_medellin/ygamrsm64nj5o8dfjv1o.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010067/bamboo_forest_medellin/gcp4b6yoqebokfjhnnbx.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010070/bamboo_forest_medellin/xpuwov1j0xhqc8lcrt33.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010074/bamboo_forest_medellin/ladqxow4ln3p6ssrls2r.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010077/bamboo_forest_medellin/dcbfrv2lr9eyxgbq4asm.jpg
 photo_credit: "Marjorie Cabaluna Palarion Narciso"
 photo_credit_link: ""
 ---

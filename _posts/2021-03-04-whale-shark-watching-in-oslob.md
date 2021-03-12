@@ -9,14 +9,14 @@ tags:
   - whale
   - oslob
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614789083/whale_shark_watching_in_oslob/q7nanwlsoehj9djuqerb.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614789083/whale_shark_watching_in_oslob/q7nanwlsoehj9djuqerb.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614790311/whale_shark_watching_in_oslob/BeFunky-collage_2_dprhtf.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614789083/whale_shark_watching_in_oslob/q7nanwlsoehj9djuqerb.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614789086/whale_shark_watching_in_oslob/b0fpc3gmqaprea5r3ldf.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614789090/whale_shark_watching_in_oslob/s7chnhfvjkuboknzs61j.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614789094/whale_shark_watching_in_oslob/nrkk9aszpmbzxyl2e3ly.jpg
-img_500_4: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614789097/whale_shark_watching_in_oslob/yvitqtnkyxerlqhsx3pe.jpg
-img_500_5: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614789101/whale_shark_watching_in_oslob/ywziisn6zerbu4pjkkks.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614789083/whale_shark_watching_in_oslob/q7nanwlsoehj9djuqerb.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614789086/whale_shark_watching_in_oslob/b0fpc3gmqaprea5r3ldf.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614789090/whale_shark_watching_in_oslob/s7chnhfvjkuboknzs61j.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614789094/whale_shark_watching_in_oslob/nrkk9aszpmbzxyl2e3ly.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614789097/whale_shark_watching_in_oslob/yvitqtnkyxerlqhsx3pe.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614789101/whale_shark_watching_in_oslob/ywziisn6zerbu4pjkkks.jpg
 photo_credit: "Vianney Avery Mahilum"
 photo_credit_link: ""
 ---
@@ -44,19 +44,19 @@ From South Bus terminal ride a sunrays or ceres bus, Then tell the conductor to 
 The place can be navigated on Waze. Whether you are riding a motorbike or your own vehicle, it’s best to navigate via Waze.   
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614789105/whale_shark_watching_in_oslob/u45bgfsozupjrylth7ka.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614789105/whale_shark_watching_in_oslob/u45bgfsozupjrylth7ka.jpg)  
 <small>Source: Vianney Avery Mahilum</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614789108/whale_shark_watching_in_oslob/owixhyp8nnfidvvkxwpr.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614789108/whale_shark_watching_in_oslob/owixhyp8nnfidvvkxwpr.jpg)  
 <small>Source: Vianney Avery Mahilum</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614789112/whale_shark_watching_in_oslob/sbt6aygroaxuoy1ql7b2.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614789112/whale_shark_watching_in_oslob/sbt6aygroaxuoy1ql7b2.jpg)  
 <small>Source: Vianney Avery Mahilum</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614789116/whale_shark_watching_in_oslob/yves4plcefti9crvkpqi.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614789116/whale_shark_watching_in_oslob/yves4plcefti9crvkpqi.jpg)  
 <small>Source: Vianney Avery Mahilum</small>  
 
 ****

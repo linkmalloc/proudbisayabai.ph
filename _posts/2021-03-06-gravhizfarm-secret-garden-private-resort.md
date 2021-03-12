@@ -10,14 +10,14 @@ tags:
   - naga
   - cebu
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614960308/gravhizfarm_secret_garden_private_resort/jlulo8bevpk929gx2dxw.jpg
-img_big_3000x1144: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614960308/gravhizfarm_secret_garden_private_resort/jlulo8bevpk929gx2dxw.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614960308/gravhizfarm_secret_garden_private_resort/jlulo8bevpk929gx2dxw.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614960312/gravhizfarm_secret_garden_private_resort/z8f5jqttqwqgj3bonaxz.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614960315/gravhizfarm_secret_garden_private_resort/x8dsepcys7gllv4ipbo7.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614960319/gravhizfarm_secret_garden_private_resort/yk0o1tconwjev5jdnlsi.jpg
-img_500_4: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614960323/gravhizfarm_secret_garden_private_resort/ceoliujz0dtwqbdxypb0.jpg
-img_500_5: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614960327/gravhizfarm_secret_garden_private_resort/vag7cawbsrfvsvfuxvy4.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614960308/gravhizfarm_secret_garden_private_resort/jlulo8bevpk929gx2dxw.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614960308/gravhizfarm_secret_garden_private_resort/jlulo8bevpk929gx2dxw.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614960308/gravhizfarm_secret_garden_private_resort/jlulo8bevpk929gx2dxw.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614960312/gravhizfarm_secret_garden_private_resort/z8f5jqttqwqgj3bonaxz.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614960315/gravhizfarm_secret_garden_private_resort/x8dsepcys7gllv4ipbo7.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614960319/gravhizfarm_secret_garden_private_resort/yk0o1tconwjev5jdnlsi.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614960323/gravhizfarm_secret_garden_private_resort/ceoliujz0dtwqbdxypb0.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614960327/gravhizfarm_secret_garden_private_resort/vag7cawbsrfvsvfuxvy4.jpg
 photo_credit: "Caryl Candice"
 photo_credit_link: ""
 ---
@@ -42,7 +42,7 @@ The place can be navigated on Waze. Whether you are riding a motorbike or your o
 
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614960331/gravhizfarm_secret_garden_private_resort/gbswdt0tcsr9pg3tps8l.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614960331/gravhizfarm_secret_garden_private_resort/gbswdt0tcsr9pg3tps8l.jpg)  
 <small>Source: Caryl Candice</small> 
 
 ****
