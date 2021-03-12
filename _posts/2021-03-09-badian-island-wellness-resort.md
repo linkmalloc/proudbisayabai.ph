@@ -11,14 +11,14 @@ tags:
   - island
   - beach
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615305020/badian_island_wellness_resort/jis9lsq098dz37qcosn7.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615305020/badian_island_wellness_resort/jis9lsq098dz37qcosn7.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615306740/badian_island_wellness_resort/badianislapreview_lpwsfx.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615305020/badian_island_wellness_resort/jis9lsq098dz37qcosn7.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615305000/badian_island_wellness_resort/f3zkip8vumemmybx7yl6.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615305003/badian_island_wellness_resort/eeyegbd3douptuy2hty7.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615305008/badian_island_wellness_resort/xnul8wbidaeah702kzce.jpg
-img_500_4: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615305011/badian_island_wellness_resort/hvym02jvxl8a0jlsozqh.jpg
-img_500_5: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615305016/badian_island_wellness_resort/r48opvmircyxi133o7b4.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615305020/badian_island_wellness_resort/jis9lsq098dz37qcosn7.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615305000/badian_island_wellness_resort/f3zkip8vumemmybx7yl6.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615305003/badian_island_wellness_resort/eeyegbd3douptuy2hty7.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615305008/badian_island_wellness_resort/xnul8wbidaeah702kzce.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615305011/badian_island_wellness_resort/hvym02jvxl8a0jlsozqh.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615305016/badian_island_wellness_resort/r48opvmircyxi133o7b4.jpg
 photo_credit: "Badian Island Wellness Resort Page Admin"
 photo_credit_link: "https://www.facebook.com/BadianIsla/"
 ---
@@ -33,7 +33,7 @@ Zaragosa, Badian, Cebu - Philippines
 
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615304996/badian_island_wellness_resort/qkqu37cdrktzydwzz6tk.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615304996/badian_island_wellness_resort/qkqu37cdrktzydwzz6tk.jpg)  
 <small>Source: Badian Island Wellness Resort Page Admin</small>  
 
 ****

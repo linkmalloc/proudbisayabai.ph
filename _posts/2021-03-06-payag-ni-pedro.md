@@ -11,14 +11,14 @@ tags:
   - mountain
   - cebu
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615046427/payag_ni_pedro/uqerwbnwmlutk4pm1ksk.jpg
-img_big_3000x1144: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615046427/payag_ni_pedro/uqerwbnwmlutk4pm1ksk.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615046427/payag_ni_pedro/uqerwbnwmlutk4pm1ksk.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615046431/payag_ni_pedro/jhkjuscyilbr4xcwg4gr.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615046435/payag_ni_pedro/uxrw8t8v6f3c2txfcacb.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615046439/payag_ni_pedro/dzwirf7n4toa0psoidqn.jpg
-img_500_4: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615046442/payag_ni_pedro/nhvsw1uz6pzjdwylbmkc.jpg
-img_500_5: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615046446/payag_ni_pedro/kci3qksbwxsdmygxgld8.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615046427/payag_ni_pedro/uqerwbnwmlutk4pm1ksk.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615046427/payag_ni_pedro/uqerwbnwmlutk4pm1ksk.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615046427/payag_ni_pedro/uqerwbnwmlutk4pm1ksk.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615046431/payag_ni_pedro/jhkjuscyilbr4xcwg4gr.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615046435/payag_ni_pedro/uxrw8t8v6f3c2txfcacb.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615046439/payag_ni_pedro/dzwirf7n4toa0psoidqn.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615046442/payag_ni_pedro/nhvsw1uz6pzjdwylbmkc.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615046446/payag_ni_pedro/kci3qksbwxsdmygxgld8.jpg
 photo_credit: "Solo Traveler"
 photo_credit_link: "Https://www.facebook.com/solotravelernegros/"
 ---
@@ -58,27 +58,27 @@ P500, (5pax or less) Additional P50 per head.
   
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615046450/payag_ni_pedro/hcbxmpohjzhkwjlqrrvf.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615046450/payag_ni_pedro/hcbxmpohjzhkwjlqrrvf.jpg)  
 <small>Source: Solo Traveler</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615046454/payag_ni_pedro/mguftuwpjhgsxzer5isa.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615046454/payag_ni_pedro/mguftuwpjhgsxzer5isa.jpg)  
 <small>Source: Solo Traveler</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615046458/payag_ni_pedro/wv6r0y1oho0hcyzbj9xf.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615046458/payag_ni_pedro/wv6r0y1oho0hcyzbj9xf.jpg)  
 <small>Source: Solo Traveler</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615046461/payag_ni_pedro/wwa3gpiul57thsygw8oh.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615046461/payag_ni_pedro/wwa3gpiul57thsygw8oh.jpg)  
 <small>Source: Solo Traveler</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615046465/payag_ni_pedro/tpvdnvwbmysmrhmf1msl.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615046465/payag_ni_pedro/tpvdnvwbmysmrhmf1msl.jpg)  
 <small>Source: Solo Traveler</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615046469/payag_ni_pedro/jp6xpfkrcvbgghcxwwmj.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615046469/payag_ni_pedro/jp6xpfkrcvbgghcxwwmj.jpg)  
 <small>Source: Solo Traveler</small>  
 
 **** 

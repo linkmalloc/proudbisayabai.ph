@@ -85,27 +85,27 @@ They serve breakfast, lunch, dinner of your choice.
 <small>Source: Abert Catamco</small>
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615013224/lavuecabine/v5fekmpiyd4nwhe9rwfe.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615013224/lavuecabine/v5fekmpiyd4nwhe9rwfe.jpg)  
 <small>Source: Gk Agbay</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615013228/lavuecabine/lgndbjew6zl4it2bu8uh.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615013228/lavuecabine/lgndbjew6zl4it2bu8uh.jpg)  
 <small>Source: Gk Agbay</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615013231/lavuecabine/i3lp4vtwc1qbo5p0irh8.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615013231/lavuecabine/i3lp4vtwc1qbo5p0irh8.jpg)  
 <small>Source: Gk Agbay</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615013235/lavuecabine/urjuteto5sk2ffurrjx4.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615013235/lavuecabine/urjuteto5sk2ffurrjx4.jpg)  
 <small>Source: Gk Agbay</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615013239/lavuecabine/kfvsfngmir597mdgzdsx.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615013239/lavuecabine/kfvsfngmir597mdgzdsx.jpg)  
 <small>Source: Gk Agbay</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615013243/lavuecabine/esczdkadf50djosgfjcm.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615013243/lavuecabine/esczdkadf50djosgfjcm.jpg)  
 <small>Source: Gk Agbay</small> 
 
 **** 

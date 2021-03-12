@@ -10,14 +10,14 @@ tags:
   - cebu
   - cebu-south
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615484874/stay_n_save/zb9uyy86mtvjtal3f1qr.jpg
-img_big_3000x1144: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615484874/stay_n_save/zb9uyy86mtvjtal3f1qr.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615484874/stay_n_save/zb9uyy86mtvjtal3f1qr.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615484880/stay_n_save/lufiv9qxdkcw3xpffoud.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615484884/stay_n_save/lmbxsbl1ahv1gib3zsgn.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615484888/stay_n_save/zyv42ztztqxxrgzomcoh.jpg
-img_500_4: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615484891/stay_n_save/yeevlxdruwfu9ribdzza.jpg
-img_500_5: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615484895/stay_n_save/bgibl9fswk20jccut1tw.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484874/stay_n_save/zb9uyy86mtvjtal3f1qr.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484874/stay_n_save/zb9uyy86mtvjtal3f1qr.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484874/stay_n_save/zb9uyy86mtvjtal3f1qr.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484880/stay_n_save/lufiv9qxdkcw3xpffoud.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484884/stay_n_save/lmbxsbl1ahv1gib3zsgn.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484888/stay_n_save/zyv42ztztqxxrgzomcoh.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484891/stay_n_save/yeevlxdruwfu9ribdzza.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484895/stay_n_save/bgibl9fswk20jccut1tw.jpg
 photo_credit: "Katkat Talita"
 photo_credit_link: ""
 ---

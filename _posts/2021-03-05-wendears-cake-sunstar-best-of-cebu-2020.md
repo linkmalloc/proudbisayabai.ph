@@ -11,14 +11,14 @@ tags:
   - pinamungajan
   - mandaue
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614953925/wendears_cake_sunstar_best_of_cebu_2020/b9zziy07ljz5ic4nwlpu.jpg
-img_big_3000x1144: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614953925/wendears_cake_sunstar_best_of_cebu_2020/b9zziy07ljz5ic4nwlpu.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614953925/wendears_cake_sunstar_best_of_cebu_2020/b9zziy07ljz5ic4nwlpu.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614953944/wendears_cake_sunstar_best_of_cebu_2020/o14palekx6w4am3cczcj.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614953929/wendears_cake_sunstar_best_of_cebu_2020/qbw8wcpjkiegszhxexzh.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614953932/wendears_cake_sunstar_best_of_cebu_2020/cxsqf8tgrunkxustknqx.jpg
-img_500_4: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614953936/wendears_cake_sunstar_best_of_cebu_2020/xvt7vvbmhb2pezfpbhhr.jpg
-img_500_5: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614953955/wendears_cake_sunstar_best_of_cebu_2020/jhi9teapym2ajyoxuu3n.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614953925/wendears_cake_sunstar_best_of_cebu_2020/b9zziy07ljz5ic4nwlpu.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614953925/wendears_cake_sunstar_best_of_cebu_2020/b9zziy07ljz5ic4nwlpu.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614953925/wendears_cake_sunstar_best_of_cebu_2020/b9zziy07ljz5ic4nwlpu.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614953944/wendears_cake_sunstar_best_of_cebu_2020/o14palekx6w4am3cczcj.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614953929/wendears_cake_sunstar_best_of_cebu_2020/qbw8wcpjkiegszhxexzh.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614953932/wendears_cake_sunstar_best_of_cebu_2020/cxsqf8tgrunkxustknqx.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614953936/wendears_cake_sunstar_best_of_cebu_2020/xvt7vvbmhb2pezfpbhhr.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614953955/wendears_cake_sunstar_best_of_cebu_2020/jhi9teapym2ajyoxuu3n.jpg
 photo_credit: "Sofia Cairo - Photo Blogger"
 photo_credit_link: ""
 ---
@@ -95,22 +95,22 @@ The place can be navigated on Waze. Whether you are riding a bus or your own veh
 | Red Velvet Cake         | Php 700.00        |
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614953940/wendears_cake_sunstar_best_of_cebu_2020/rl2offxvzd7lcizsrnuc.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614953940/wendears_cake_sunstar_best_of_cebu_2020/rl2offxvzd7lcizsrnuc.jpg)  
 <small>Source: Sofia Cairo - Photo Blogger</small>
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614953947/wendears_cake_sunstar_best_of_cebu_2020/lh5lj2oayjfnyqo9nclq.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614953947/wendears_cake_sunstar_best_of_cebu_2020/lh5lj2oayjfnyqo9nclq.jpg)  
 <small>Source: Sofia Cairo - Photo Blogger</small>
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614953959/wendears_cake_sunstar_best_of_cebu_2020/xb9yz5aimpzmf3nqo88b.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614953959/wendears_cake_sunstar_best_of_cebu_2020/xb9yz5aimpzmf3nqo88b.jpg)  
 <small>Source: Sofia Cairo - Photo Blogger</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614953963/wendears_cake_sunstar_best_of_cebu_2020/qcupznkwzdexn4lcyo58.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614953963/wendears_cake_sunstar_best_of_cebu_2020/qcupznkwzdexn4lcyo58.jpg)  
 <small>Source: Sofia Cairo - Photo Blogger</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614953967/wendears_cake_sunstar_best_of_cebu_2020/acjnr0qfx8x5lqjn8uuo.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614953967/wendears_cake_sunstar_best_of_cebu_2020/acjnr0qfx8x5lqjn8uuo.jpg)  
 <small>Source: Sofia Cairo - Photo Blogger</small> 
 
 👉🏻 Click the Full details here: For more info, pls directly message  

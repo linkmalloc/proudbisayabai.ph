@@ -9,14 +9,14 @@ tags:
   - bohol
   - beach
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615389107/bitoon_white_beach/glt8dbgqo8oneysehrcm.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615389107/bitoon_white_beach/glt8dbgqo8oneysehrcm.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615390665/bitoon_white_beach/bitoonpreview1_xfkkv9.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615389107/bitoon_white_beach/glt8dbgqo8oneysehrcm.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615389111/bitoon_white_beach/q9yfzatppzwbkgsr6qea.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615389116/bitoon_white_beach/vr8wr2a2assfcdecwsgl.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615389120/bitoon_white_beach/afv6ktvshyep4ajnzmc6.jpg
-img_500_4: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615389124/bitoon_white_beach/d2g3jqbk5jkett7tjpim.jpg
-img_500_5: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615389128/bitoon_white_beach/ruiwkjcazfn0k57izr38.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615389107/bitoon_white_beach/glt8dbgqo8oneysehrcm.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615389111/bitoon_white_beach/q9yfzatppzwbkgsr6qea.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615389116/bitoon_white_beach/vr8wr2a2assfcdecwsgl.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615389120/bitoon_white_beach/afv6ktvshyep4ajnzmc6.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615389124/bitoon_white_beach/d2g3jqbk5jkett7tjpim.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615389128/bitoon_white_beach/ruiwkjcazfn0k57izr38.jpg
 photo_credit: "Joseph The Explorer"
 photo_credit_link: "https://www.facebook.com/JosephTheExplorer/"
 ---
@@ -42,19 +42,19 @@ Anda is very travel friendly – really. Big signages are around especially when
 3. From the terminal board a van or bus bound for Anda, the fare costs P120 or P100 respectivel  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615389131/bitoon_white_beach/ij6o5ppanex8skwohqcz.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615389131/bitoon_white_beach/ij6o5ppanex8skwohqcz.jpg)  
 <small>Source: Joseph The Explorer</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615389135/bitoon_white_beach/wlgwmbzu4oaps5lmilyt.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615389135/bitoon_white_beach/wlgwmbzu4oaps5lmilyt.jpg)  
 <small>Source: Joseph The Explorer</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615389140/bitoon_white_beach/rixs6vebzv3cfk11vk7u.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615389140/bitoon_white_beach/rixs6vebzv3cfk11vk7u.jpg)  
 <small>Source: Joseph The Explorer</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615389143/bitoon_white_beach/kpbcdk2jxsxpv2uxqfwn.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615389143/bitoon_white_beach/kpbcdk2jxsxpv2uxqfwn.jpg)  
 <small>Source: Joseph The Explorer</small>
 
 #### 💡TRAVEL TIPS:   

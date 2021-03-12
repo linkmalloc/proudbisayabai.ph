@@ -11,14 +11,14 @@ tags:
   - resort
   - negros-occidental
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615012384/mailum_falls_ecopark_and_mountain_resort/ljvtuvmgzytep635byp5.jpg
-img_big_3000x1144: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615012384/mailum_falls_ecopark_and_mountain_resort/ljvtuvmgzytep635byp5.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615012384/mailum_falls_ecopark_and_mountain_resort/ljvtuvmgzytep635byp5.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615012342/mailum_falls_ecopark_and_mountain_resort/lmf8p7cdl7zcm0uo4y2j.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615012347/mailum_falls_ecopark_and_mountain_resort/oxaciii5wqiy6aakehno.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615012352/mailum_falls_ecopark_and_mountain_resort/lzr1wlh0akecgxrr0gv8.jpg
-img_500_4: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615012356/mailum_falls_ecopark_and_mountain_resort/vjasqf9tyyhb61xrw3iz.jpg
-img_500_5: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615012360/mailum_falls_ecopark_and_mountain_resort/wjfjmes7xomrucofb7j1.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615012384/mailum_falls_ecopark_and_mountain_resort/ljvtuvmgzytep635byp5.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615012384/mailum_falls_ecopark_and_mountain_resort/ljvtuvmgzytep635byp5.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615012384/mailum_falls_ecopark_and_mountain_resort/ljvtuvmgzytep635byp5.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615012342/mailum_falls_ecopark_and_mountain_resort/lmf8p7cdl7zcm0uo4y2j.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615012347/mailum_falls_ecopark_and_mountain_resort/oxaciii5wqiy6aakehno.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615012352/mailum_falls_ecopark_and_mountain_resort/lzr1wlh0akecgxrr0gv8.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615012356/mailum_falls_ecopark_and_mountain_resort/vjasqf9tyyhb61xrw3iz.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615012360/mailum_falls_ecopark_and_mountain_resort/wjfjmes7xomrucofb7j1.jpg
 photo_credit: "Wandering Tita"
 photo_credit_link: "https://www.facebook.com/wanderingtita/"
 ---
@@ -50,7 +50,7 @@ Reservation basis only.
 Contact: [09190767859](tel: 09190767859) look for **Miss Angela**  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615012366/mailum_falls_ecopark_and_mountain_resort/ena5a3wbelwzkgmoumyc.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615012366/mailum_falls_ecopark_and_mountain_resort/ena5a3wbelwzkgmoumyc.jpg)  
 <small>Source: Wandering Tita</small>  
 
 ****
@@ -67,23 +67,23 @@ Contact: [09190767859](tel: 09190767859) look for **Miss Angela**
 
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615012370/mailum_falls_ecopark_and_mountain_resort/fgpjarsvasuccbatxozn.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615012370/mailum_falls_ecopark_and_mountain_resort/fgpjarsvasuccbatxozn.jpg)  
 <small>Source: Wandering Tita</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615012375/mailum_falls_ecopark_and_mountain_resort/urycv9zkn897a2i2uiqe.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615012375/mailum_falls_ecopark_and_mountain_resort/urycv9zkn897a2i2uiqe.jpg)  
 <small>Source: Wandering Tita</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615012379/mailum_falls_ecopark_and_mountain_resort/neh5j8pvpj0runwyzjyp.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615012379/mailum_falls_ecopark_and_mountain_resort/neh5j8pvpj0runwyzjyp.jpg)  
 <small>Source: Wandering Tita</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615012336/mailum_falls_ecopark_and_mountain_resort/okrkky4bugklwm27v6aa.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615012336/mailum_falls_ecopark_and_mountain_resort/okrkky4bugklwm27v6aa.jpg)  
 <small>Source: Wandering Tita</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615012389/mailum_falls_ecopark_and_mountain_resort/crk9bwfri8ga4qe9vm6v.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615012389/mailum_falls_ecopark_and_mountain_resort/crk9bwfri8ga4qe9vm6v.jpg)  
 <small>Source: Wandering Tita</small> 
 
 ****

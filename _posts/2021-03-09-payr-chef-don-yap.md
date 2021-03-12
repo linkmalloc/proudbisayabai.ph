@@ -9,14 +9,14 @@ tags:
   - fastfood
   - cebu
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615307158/payr_chef_don_yap/bdrld4j26fc4ro4dfcge.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615307158/payr_chef_don_yap/bdrld4j26fc4ro4dfcge.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615307781/payr_chef_don_yap/payrpreview_x4r0dq.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615307158/payr_chef_don_yap/bdrld4j26fc4ro4dfcge.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615307161/payr_chef_don_yap/wzpq8pmral3yrdzhvkjq.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615307165/payr_chef_don_yap/zkmncnnhfapkyzyvgap7.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615307169/payr_chef_don_yap/mff3lhkdhemsbotnrvty.jpg
-img_500_4: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615307172/payr_chef_don_yap/ytaznxoz1uxyrobs3vmy.jpg
-img_500_5: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615307176/payr_chef_don_yap/xg1tvstakt68bp2myvqg.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615307158/payr_chef_don_yap/bdrld4j26fc4ro4dfcge.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615307161/payr_chef_don_yap/wzpq8pmral3yrdzhvkjq.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615307165/payr_chef_don_yap/zkmncnnhfapkyzyvgap7.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615307169/payr_chef_don_yap/mff3lhkdhemsbotnrvty.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615307172/payr_chef_don_yap/ytaznxoz1uxyrobs3vmy.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615307176/payr_chef_don_yap/xg1tvstakt68bp2myvqg.jpg
 photo_credit: " Thirdy Fua - Photo Blogger"
 photo_credit_link: ""
 ---

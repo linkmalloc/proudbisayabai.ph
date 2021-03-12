@@ -9,14 +9,14 @@ tags:
   - metro-cebu
   - resort
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047071/little_santorini_mountain_resort_in_liloan/ulavc8ts7uaampluocyk.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615047071/little_santorini_mountain_resort_in_liloan/ulavc8ts7uaampluocyk.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615220929/little_santorini_mountain_resort_in_liloan/littlesantorinimountainresortpreview_fcmbig.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047071/little_santorini_mountain_resort_in_liloan/ulavc8ts7uaampluocyk.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047088/little_santorini_mountain_resort_in_liloan/njm90ssmas7p4emgqeet.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047093/little_santorini_mountain_resort_in_liloan/ncmqznhyj3kixl7ws5pq.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047109/little_santorini_mountain_resort_in_liloan/wbd4mjyg1lqpz3patmye.jpg
-img_500_4: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047118/little_santorini_mountain_resort_in_liloan/jkmc5jovvbgjiokmvpph.jpg
-img_500_5: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047128/little_santorini_mountain_resort_in_liloan/qearxsaijpwnyumb8egi.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615047071/little_santorini_mountain_resort_in_liloan/ulavc8ts7uaampluocyk.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615047088/little_santorini_mountain_resort_in_liloan/njm90ssmas7p4emgqeet.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615047093/little_santorini_mountain_resort_in_liloan/ncmqznhyj3kixl7ws5pq.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615047109/little_santorini_mountain_resort_in_liloan/wbd4mjyg1lqpz3patmye.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615047118/little_santorini_mountain_resort_in_liloan/jkmc5jovvbgjiokmvpph.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615047128/little_santorini_mountain_resort_in_liloan/qearxsaijpwnyumb8egi.jpg
 photo_credit: "Via Fb Page Little Santorini Mountain Resort"
 photo_credit_link: "https://www.facebook.com/littlesantorinimountainresort"
 ---
@@ -68,27 +68,27 @@ The place can be navigated on Waze. Whether you are riding a motorbike or your o
 👉🏻 For more inquiries please visit: [Little Santorini Mountain Resort ](https://www.facebook.com/littlesantorinimountainresort)  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047133/little_santorini_mountain_resort_in_liloan/jqzkdhbq4ycptdg0zwql.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615047133/little_santorini_mountain_resort_in_liloan/jqzkdhbq4ycptdg0zwql.jpg)  
 <small>Source: Via Fb Page Little Santorini Mountain Resort</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047137/little_santorini_mountain_resort_in_liloan/muhyerk0oy1qy4qkuh3o.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615047137/little_santorini_mountain_resort_in_liloan/muhyerk0oy1qy4qkuh3o.jpg)  
 <small>Source: Via Fb Page Little Santorini Mountain Resort</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047141/little_santorini_mountain_resort_in_liloan/ruv8xeheqcxwf9kpubj4.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615047141/little_santorini_mountain_resort_in_liloan/ruv8xeheqcxwf9kpubj4.jpg)  
 <small>Source: Via Fb Page Little Santorini Mountain Resort</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047146/little_santorini_mountain_resort_in_liloan/f3f0vqsqhskub8xjnmwe.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615047146/little_santorini_mountain_resort_in_liloan/f3f0vqsqhskub8xjnmwe.jpg)  
 <small>Source: Via Fb Page Little Santorini Mountain Resort</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047152/little_santorini_mountain_resort_in_liloan/pj8fx3fnwm7ybj02jwr2.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615047152/little_santorini_mountain_resort_in_liloan/pj8fx3fnwm7ybj02jwr2.jpg)  
 <small>Source: Via Fb Page Little Santorini Mountain Resort</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615047162/little_santorini_mountain_resort_in_liloan/y9udxfv90g36n5ydgqv1.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615047162/little_santorini_mountain_resort_in_liloan/y9udxfv90g36n5ydgqv1.jpg)  
 <small>Source: Via Fb Page Little Santorini Mountain Resort</small>
 
 ****

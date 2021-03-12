@@ -10,14 +10,14 @@ tags:
   - cebu
   - mountain
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615009027/lake_bensis/cw64lpxuynzk0lhklbw4.jpg
-img_big_3000x1144: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615009027/lake_bensis/cw64lpxuynzk0lhklbw4.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615009027/lake_bensis/cw64lpxuynzk0lhklbw4.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615009034/lake_bensis/iljspn4apdvddzou4gm8.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615009039/lake_bensis/orqu5jkqhzcpybepc3nl.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615009045/lake_bensis/xhefbdqmlelppp9clxlg.jpg
-img_500_4: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615009049/lake_bensis/x0aycyqmdpeyporatjjk.jpg
-img_500_5: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615009052/lake_bensis/mx9m1bodqvwx5opycwse.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615009027/lake_bensis/cw64lpxuynzk0lhklbw4.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615009027/lake_bensis/cw64lpxuynzk0lhklbw4.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615009027/lake_bensis/cw64lpxuynzk0lhklbw4.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615009034/lake_bensis/iljspn4apdvddzou4gm8.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615009039/lake_bensis/orqu5jkqhzcpybepc3nl.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615009045/lake_bensis/xhefbdqmlelppp9clxlg.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615009049/lake_bensis/x0aycyqmdpeyporatjjk.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615009052/lake_bensis/mx9m1bodqvwx5opycwse.jpg
 photo_credit: "Genro"
 photo_credit_link: ""
 ---
@@ -44,7 +44,7 @@ If using a private utility, you can pin point LAKE BENSIS in waze or google map.
 - Bamboo Sakayan- Php 250/hour  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615009062/lake_bensis/o0glud9uxxziqfq7jxqa.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615009062/lake_bensis/o0glud9uxxziqfq7jxqa.jpg)  
 <small>Source: Genro</small> 
 
 ****
@@ -61,15 +61,15 @@ If using a private utility, you can pin point LAKE BENSIS in waze or google map.
 
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615009056/lake_bensis/ubo6iq7kfktsuauw7drl.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615009056/lake_bensis/ubo6iq7kfktsuauw7drl.jpg)  
 <small>Source: Genro</small> 
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615009067/lake_bensis/ebcvgk4cj61si8zugf1e.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615009067/lake_bensis/ebcvgk4cj61si8zugf1e.jpg)  
 <small>Source: Genro</small>  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615009071/lake_bensis/koxcjqjim9kbkhwkmlda.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615009071/lake_bensis/koxcjqjim9kbkhwkmlda.jpg)  
 <small>Source: Genro</small>
 
 **** 

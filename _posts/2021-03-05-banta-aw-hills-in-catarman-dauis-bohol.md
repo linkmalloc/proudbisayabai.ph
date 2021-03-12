@@ -10,14 +10,14 @@ tags:
   - hills
   - bohol
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614959257/banta_aw_hills_in_catarman_dauis_bohol/buru1jopxhe2slhf9lwl.jpg
-img_big_3000x1144: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614959257/banta_aw_hills_in_catarman_dauis_bohol/buru1jopxhe2slhf9lwl.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614959257/banta_aw_hills_in_catarman_dauis_bohol/buru1jopxhe2slhf9lwl.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614959253/banta_aw_hills_in_catarman_dauis_bohol/erwg539mgmrexchc8dd4.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614959261/banta_aw_hills_in_catarman_dauis_bohol/d9edfmxdx0ugr80ud3f6.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614959264/banta_aw_hills_in_catarman_dauis_bohol/jg3jytxk6jgvzxxdfqnu.jpg
-img_500_4: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614959269/banta_aw_hills_in_catarman_dauis_bohol/p9ngzxjioejqy5essyr9.jpg
-img_500_5: http://res.cloudinary.com/proudbisayabaii/image/upload/v1614959273/banta_aw_hills_in_catarman_dauis_bohol/khb8alpubmiziy0tmilo.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614959257/banta_aw_hills_in_catarman_dauis_bohol/buru1jopxhe2slhf9lwl.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614959257/banta_aw_hills_in_catarman_dauis_bohol/buru1jopxhe2slhf9lwl.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614959257/banta_aw_hills_in_catarman_dauis_bohol/buru1jopxhe2slhf9lwl.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614959253/banta_aw_hills_in_catarman_dauis_bohol/erwg539mgmrexchc8dd4.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614959261/banta_aw_hills_in_catarman_dauis_bohol/d9edfmxdx0ugr80ud3f6.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614959264/banta_aw_hills_in_catarman_dauis_bohol/jg3jytxk6jgvzxxdfqnu.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614959269/banta_aw_hills_in_catarman_dauis_bohol/p9ngzxjioejqy5essyr9.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614959273/banta_aw_hills_in_catarman_dauis_bohol/khb8alpubmiziy0tmilo.jpg
 photo_credit: "Vhince Benedict Ligones Chiu"
 photo_credit_link: ""
 ---
@@ -30,7 +30,7 @@ photo_credit_link: ""
 📍Exact Location: Purok 2 Catarman Dauis Bohol.    
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1614959277/banta_aw_hills_in_catarman_dauis_bohol/sisuquzvdw0pyqaeoc8l.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614959277/banta_aw_hills_in_catarman_dauis_bohol/sisuquzvdw0pyqaeoc8l.jpg)  
 <small>Source: Vhince Benedict Ligones Chiu</small>  
 
 ****
