@@ -9,14 +9,14 @@ tags:
   - siomai
   - rice
 views: "10"
-img_big_1000x600: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615482650/boy_lamaw_guadalupe/haxfb0jdmwn1hffuykc5.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615482650/boy_lamaw_guadalupe/haxfb0jdmwn1hffuykc5.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484368/boy_lamaw_guadalupe/boylamaw_fuzwj3.jpg
-img_500x500: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615482650/boy_lamaw_guadalupe/haxfb0jdmwn1hffuykc5.jpg
-img_500_1: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615482654/boy_lamaw_guadalupe/lkxstxzagzxxtczzuctq.jpg
-img_500_2: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615482658/boy_lamaw_guadalupe/fosawdptlfmvix02ufuo.jpg
-img_500_3: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615482662/boy_lamaw_guadalupe/bpuppszzhdkhtjd01bah.jpg
-img_500_4: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615482673/boy_lamaw_guadalupe/xkhddz9kx4zpptswfvj4.jpg
-img_500_5: http://res.cloudinary.com/proudbisayabaii/image/upload/v1615482669/boy_lamaw_guadalupe/h0puxnsgfimurrlwxprz.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615482650/boy_lamaw_guadalupe/haxfb0jdmwn1hffuykc5.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615482654/boy_lamaw_guadalupe/lkxstxzagzxxtczzuctq.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615482658/boy_lamaw_guadalupe/fosawdptlfmvix02ufuo.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615482662/boy_lamaw_guadalupe/bpuppszzhdkhtjd01bah.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615482673/boy_lamaw_guadalupe/xkhddz9kx4zpptswfvj4.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615482669/boy_lamaw_guadalupe/h0puxnsgfimurrlwxprz.jpg
 photo_credit: "Vivi Moore | Editor-in-chief"
 photo_credit_link: ""
 ---
@@ -29,7 +29,7 @@ photo_credit_link: ""
 🕖 Operating Hours: 10AM - 9PM  
 
 ****
-![](http://res.cloudinary.com/proudbisayabaii/image/upload/v1615482665/boy_lamaw_guadalupe/ibk0tksysgo8o5pjhqdl.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615482665/boy_lamaw_guadalupe/ibk0tksysgo8o5pjhqdl.jpg)  
 <small>Source: Vivi Moore | Editor-in-chief</small>  
 
 ****
