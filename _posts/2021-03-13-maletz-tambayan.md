@@ -69,3 +69,17 @@ Follow Maletz Tambayan at:[ https://www.facebook.com/MaLetzTambayan]( https://ww
 ![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621982/maletz_tambayan/blwmm3kayhqrym6l7twf.jpg)  
 <small>Source: Amor Rellon</small>  
 
+**** 
+>TAKE NOTE !  SAFETY FIRST! 
+ 
+****
+ 👣  AMPING KANUNAY SA LAAG BAI 👣  
+  
+***
+[#ProudBisayaBai](https://www.facebook.com/hashtag/ProudBisayaBai/) [#TatakBisaya](https://www.facebook.com/hashtag/TatakBisaya/)
+
+****
+Source: [Proud Bisaya Bai Post](https://www.facebook.com/proudbisayabai/posts/311517517310590)
+
+****
+Bai! Want to be featured? Send us your BEST Photos and share your Great Travel Experienced!
