@@ -24,7 +24,8 @@ photo_credit_link: ""
 <center><i>Naka ari naka Bai? Lami jud diri Bai, Abtik na diha!   🤤😍 </i></center> 
 ****
  
-🌍 Exact Location: M. Velez Street (across EastWest Bank)   
+##### 🌍 Exact Location:  
+M. Velez Street (across EastWest Bank)   
   
 🕖 Operating Hours: 10AM - 9PM  
 
@@ -49,10 +50,12 @@ photo_credit_link: ""
 - Sisig Lamaw  
 - Siomai sa Tisa  
 - Steamed Rice  
-  
+
+****
 ##### 📌 Add-ons:  
 - Regular and Japanese Siomai: P8.00  
-  
+
+****
 ##### 📌 Services:  
 - Available via Dine-in, Take-out, Maxim, Food Panda, Delivery ([0916-768-2824](tel:0916-768-2824))   
   
