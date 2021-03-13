@@ -5,6 +5,7 @@ title: "MALETZ TAMBAYAN"
 description: "Looking for a place to chill and dine with family and friends? Check out this place 😍"
 categories:
   - food
+  - destination
 tags:
   - restaurant
   - cebu
