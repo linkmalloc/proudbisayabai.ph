@@ -10,11 +10,11 @@ tags:
   - cebu
   - cafe
 views: "10"
-img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621956/maletz_tambayan/ddsfsgaesymilog5qwmf.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615625858/maletz_tambayan/152515757_101879211959364_2565358884706803507_o_kx2mbd.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615625051/maletz_tambayan/maletztambayanpreview_t9rctd.jpg
-img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621956/maletz_tambayan/ddsfsgaesymilog5qwmf.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615625858/maletz_tambayan/152515757_101879211959364_2565358884706803507_o_kx2mbd.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621961/maletz_tambayan/e3yj8zzhlg7g9jhd1w4u.jpg
-img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621965/maletz_tambayan/crsnt3u2kkkfkes6szcp.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621982/maletz_tambayan/blwmm3kayhqrym6l7twf.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621969/maletz_tambayan/aorr6kyzkp2aiuptlia5.jpg
 img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621974/maletz_tambayan/ufpgweif4rvrbwr1j5ag.jpg
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621978/maletz_tambayan/tkat9cqmduwpj8lftjuh.jpg
@@ -42,32 +42,23 @@ Purok Maya, Capangi-an ,South Poblacion San Fernando, Cebu
 Follow Maletz Tambayan at:[ https://www.facebook.com/MaLetzTambayan]( https://www.facebook.com/MaLetzTambayan)
 
 
+
+****
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621965/maletz_tambayan/crsnt3u2kkkfkes6szcp.jpg)  
+<small>Source: Amor Rellon</small>  
+
 ****
 ![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621986/maletz_tambayan/v1mcdsheishpjthqyagh.jpg)  
 <small>Source: Amor Rellon</small>  
 
-
 ****
-![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621998/maletz_tambayan/yew8460yyinvgi3yapvp.jpg)  
-<small>Source: Amor Rellon</small>  
-
-
-****
-![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615622002/maletz_tambayan/virgpbcowvs31upcfhmy.jpg)  
-<small>Source: Amor Rellon</small>  
-
-
-****
-![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621990/maletz_tambayan/pwgfaxegmtqmpidzhzgo.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615626182/maletz_tambayan/maletztambayanmenu_1_jyf0hv.jpg)  
 <small>Source: Amor Rellon</small>  
 
 ****
-![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621994/maletz_tambayan/dkxjak5ibbcg9eqgi0mb.jpg)  
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621956/maletz_tambayan/ddsfsgaesymilog5qwmf.jpg)  
 <small>Source: Amor Rellon</small>  
 
-****
-![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621982/maletz_tambayan/blwmm3kayhqrym6l7twf.jpg)  
-<small>Source: Amor Rellon</small>  
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
