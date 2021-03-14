@@ -22,15 +22,16 @@
                 <nav>
                     <!--Desktop menu-->
                     <ul class="main-menu d-none d-lg-inline font-small">
-                        <li>
+                        <li class="{% if page.url == '/' %}current-item{% endif %}">
                             <a href="/"> <i class="elegant-icon icon_house_alt mr-5"></i> Home</a>
                         </li>
-                        <li> <a href="/about">About Us</a> </li>
-                        <li class="current-item"> <a href="/destinations">Destinations</a> </li>
-                        <li> <a href="/guides">Guides</a> </li>
-                        <li> <a href="/food">Foods</a> </li>
-                        <li> <a href="/services/">Services</a> </li>
-                        <li> <a href="/contact">Contact</a> </li>
+                        <li class="{% if page.url == '/about/' %}current-item{% endif %}"> <a href="/about">About Us</a> </li>
+                        <li class="{% if page.url == '/destinations/' %}current-item{% endif %}"> <a href="/destinations">Destinations</a> </li>
+                        <li class="{% if page.url == '/guides/' %}current-item{% endif %}"> <a href="/guides">Guides</a> </li>
+                        <li class="{% if page.url == '/food/' %}current-item{% endif %}"> <a href="/food">Foods</a> </li>
+                        <li class="{% if page.url == '/product/' %}current-item{% endif %}"> <a href="/product">Products</a> </li>
+                        <li class="{% if page.url == '/services/' %}current-item{% endif %}"> <a href="/services">Services</a> </li>
+                        <li class="{% if page.url == '/contact/' %}current-item{% endif %}"> <a href="/contact">Contact</a> </li>
                     </ul>
                     <!--Mobile menu-->
                     <ul id="mobile-menu" class="d-block d-lg-none text-muted">

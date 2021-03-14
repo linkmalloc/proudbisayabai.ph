@@ -626,3 +626,16 @@ pre{border:1px solid #eee;font-size:1em;line-height:1.8;margin:15px 0;max-width:
 	list-style: disc outside !important;
 	margin-left: 18px;
 }
+
+
+ul.pricing-list.mt-3.mb-4 li {
+    list-style-position: outside;
+    text-align: left;
+    text-indent: 5px;
+    margin-left: 10px;
+}
+
+ul.pricing-list.mt-3.mb-4 li::marker {
+    content: "✓";
+    color: green;
+}

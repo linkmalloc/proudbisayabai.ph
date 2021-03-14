@@ -52,7 +52,7 @@ The place can be navigated on Waze. Whether you are riding a bus or your own veh
 <small>Source: Hello Negros</small>  
 
 ****
-##### Location Map
+##### Map Location
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d44510.93046309064!2d123.31679040524575!3d9.573912796098117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33ab9c232230b8e1%3A0xc0adad72a54d0d3a!2sInambakan%20Waterfalls!5e0!3m2!1sen!2sph!4v1615695954977!5m2!1sen!2sph" style="height: 450px; width: 100%; border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 **** 
