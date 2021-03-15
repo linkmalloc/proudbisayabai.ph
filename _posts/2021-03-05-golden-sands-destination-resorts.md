@@ -12,9 +12,9 @@ tags:
   - resorts
   - beach
 views: "10"
-img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614958368/golden_sands_destination_resorts/nxzxnii3gdydcqoaphsf.jpg
-img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614958368/golden_sands_destination_resorts/nxzxnii3gdydcqoaphsf.jpg
-img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614958368/golden_sands_destination_resorts/nxzxnii3gdydcqoaphsf.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614958392/golden_sands_destination_resorts/urshrelhizlhs4tukops.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615795982/golden_sands_destination_resorts/goldensanddestination_1_z2tsm8.png
+img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614958392/golden_sands_destination_resorts/urshrelhizlhs4tukops.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614958372/golden_sands_destination_resorts/upevpqj6d4w9haj4tbdc.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614958376/golden_sands_destination_resorts/sejvedesakylfwd7so2q.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614958380/golden_sands_destination_resorts/n0jgsdcpzkquhmgvpxoh.jpg
@@ -32,7 +32,8 @@ LOOK: Ready naka sa imong next LAAG? Then Golden Sands Destination Resorts is th
   
 ****
 ##### 📌 Day use:   
-Weekdays-P400 | Weekends - P950  
+- Weekdays - P400
+- Weekends - P950  
 
 ****
 ##### 📌 Room Rates:   
@@ -41,7 +42,7 @@ Weekdays-P400 | Weekends - P950
 - FAMILY VILLAS - P18,300/night w/ breakfast for 2pax  
 
 ****
-![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614958392/golden_sands_destination_resorts/urshrelhizlhs4tukops.jpg)  
+![]https://res.cloudinary.com/proudbisayabaii/image/upload/v1614958368/golden_sands_destination_resorts/nxzxnii3gdydcqoaphsf.jpg()  
 <small>Source: Andrew Yu</small>  
 
 ****
