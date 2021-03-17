@@ -122,6 +122,54 @@ If you have your own car just use Google map or waze then search “ Virgin Isla
 ![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1614952555/bantayan_island_cebu/llkaad5eokjgs6qoemoq.jpg)  
 <small>Source: Mera Larano</small>
 
+****
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1616004195/bantayan_island_cebu/ln7uoiweozt2ax0ef9g1.jpg)  
+<small>Source: Micheal Michael Audrey Jacobe Sagonoy | Pbb Drone Pilot</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1616004167/bantayan_island_cebu/znh9ezax4kxym55zyuc2.jpg)  
+<small>Source: Micheal Michael Audrey Jacobe Sagonoy | Pbb Drone Pilot</small>  
+
+****
+****
+#### Look at Bantayan in birds eye view
+
+****
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1616004187/bantayan_island_cebu/hsz7ksoptbbqdusesrvg.jpg)  
+<small>Source: Micheal Michael Audrey Jacobe Sagonoy | Pbb Drone Pilot</small>  
+
+
+****
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1616004183/bantayan_island_cebu/b1qc3jmbgoicxfth9w8g.jpg)  
+<small>Source: Micheal Michael Audrey Jacobe Sagonoy | Pbb Drone Pilot</small>  
+
+
+****
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1616004191/bantayan_island_cebu/gkvu6zifsqljsjwuo0vt.jpg)  
+<small>Source: Micheal Michael Audrey Jacobe Sagonoy | Pbb Drone Pilot</small>  
+
+
+****
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1616004159/bantayan_island_cebu/aiir825car4ikmqh0t83.jpg)  
+<small>Source: Micheal Michael Audrey Jacobe Sagonoy | Pbb Drone Pilot</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1616004162/bantayan_island_cebu/s3tkyxeasw3v2p5s1s4z.jpg)  
+<small>Source: Micheal Michael Audrey Jacobe Sagonoy | Pbb Drone Pilot</small>  
+
+
+****
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1616004171/bantayan_island_cebu/f7om8qtzip9l8ehhwbj5.jpg)  
+<small>Source: Micheal Michael Audrey Jacobe Sagonoy | Pbb Drone Pilot</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1616004175/bantayan_island_cebu/ucropizlz6qg4krbf3mo.jpg)  
+<small>Source: Micheal Michael Audrey Jacobe Sagonoy | Pbb Drone Pilot</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1616004179/bantayan_island_cebu/zlzlvlvaoflsnrrwaaqq.jpg)  
+<small>Source: Micheal Michael Audrey Jacobe Sagonoy | Pbb Drone Pilot</small>  
+
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
   

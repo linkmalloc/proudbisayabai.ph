@@ -13,7 +13,7 @@ tags:
   - Enchanted
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613383135/enchanted_mountain_cebu/150817333_293934949068847_2945541354420212986_o_ckcmgo.jpg
-img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613383135/enchanted_mountain_cebu/150817333_293934949068847_2945541354420212986_o_ckcmgo.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616001999/enchanted_mountain_cebu/enchanted_1_wz30e4.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613383135/enchanted_mountain_cebu/150817333_293934949068847_2945541354420212986_o_ckcmgo.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613383133/enchanted_mountain_cebu/149365913_293935485735460_4824722458807141310_o_iixjfe.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613383133/enchanted_mountain_cebu/150438985_293935139068828_47701110245202513_o_ckirnt.jpg
@@ -127,3 +127,47 @@ Experience Breathtaking view and take your mind to places where you see yourself
 
 > 📃 Rates as of SEPTEMBER 2020
 (*subject to change without prior notice*)
+
+****
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1616001036/enchanted_mountain_cebu/biqljyejia8emq0ar4h0.jpg)  
+<small>Source: Mary May</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1616001039/enchanted_mountain_cebu/wgvjli2g7ckwzausn1nj.jpg)  
+<small>Source: Mary May</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1616001043/enchanted_mountain_cebu/op6jix4ipadfkuiwe2wp.jpg)  
+<small>Source: Mary May</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1616001046/enchanted_mountain_cebu/lbwqreoc3vzgwlmwlzoa.jpg)  
+<small>Source: Mary May</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1616001050/enchanted_mountain_cebu/gcjgytknedisdeohegsl.jpg)  
+<small>Source: Mary May</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1616001054/enchanted_mountain_cebu/scaecitewzskqpku1b5g.jpg)  
+<small>Source: Mary May</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1616001058/enchanted_mountain_cebu/n2ipq8j2t9qdnrgqqnwm.jpg)  
+<small>Source: Mary May</small> 
+
+****
+##### Map Location
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d44476.57064739565!2d123.51058184514723!3d9.832672830137282!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33abc7df6ed0be03%3A0xf64525f68fd8939b!2sEnchanted%20Mountain%20Resort!5e0!3m2!1sen!2sph!4v1616001214242!5m2!1sen!2sph" style="width: 100%; height: 450px; border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+**** 
+>TAKE NOTE !  SAFETY FIRST! 
+ 
+****
+ 👣  AMPING KANUNAY SA LAAG BAI 👣  
+  
+***
+[#ProudBisayaBai](https://www.facebook.com/hashtag/ProudBisayaBai/) [#TatakBisaya](https://www.facebook.com/hashtag/TatakBisaya/)
+
+****
+Bai! Want to be featured? Send us your BEST Photos and share your Great Travel Experienced!
