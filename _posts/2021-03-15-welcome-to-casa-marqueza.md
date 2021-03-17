@@ -10,7 +10,7 @@ tags:
   -  staycation
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615780371/welcome_to_casa_marqueza/qri92s9mf48thubnlfzk.jpg
-img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615785126/welcome_to_casa_marqueza/casamarqueza_1_orykwf.png
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615945374/welcome_to_casa_marqueza/casamarqueza_2_j0lhqk.png
 img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615780371/welcome_to_casa_marqueza/qri92s9mf48thubnlfzk.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615780376/welcome_to_casa_marqueza/kralfhqyb4voxhgggbir.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615780381/welcome_to_casa_marqueza/traqcrlgcnhrne7nd6zk.jpg
