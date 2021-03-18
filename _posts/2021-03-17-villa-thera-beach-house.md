@@ -1,7 +1,7 @@
 ---
 author: "Michael Audrey Jacobe Sagonoy | Pbb Drone Pilot"
 layout: post
-title: "LOOK: A Mini Santorini Inspired in Thera Greece Italy"
+title: "LOOK: A Mini Santorini Inspired from Thera Greece Italy"
 description: "Villa Thera beach house offer relaxing accommodation with pool and beach front, 3 bed rooms, and great services for 13,500 per night carrying capacity of 15 persons"
 categories:
   - destination
