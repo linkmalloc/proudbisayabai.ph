@@ -31,15 +31,17 @@ SUMMER FEELS? Ari ta mag sawom-sawom Bai! Kanindot sa Dagat with white sand beac
   
 🗺 The place can be navigated on Waze. Whether you are riding a bus or your own vehicle, it’s best to navigate via Waze.   
   
-📌 ENTRANCE FEE:  
+###### 📌 ENTRANCE FEE:  
 - Adult → P20  
 - Kids → FREE  
-  
-📌 PARKING FEE:   
+
+***
+###### 📌 PARKING FEE:   
 - BUS                   → P100  
 - VAN (4 wheels) → P50  
 - MOTORCYCLE  → P20  
-  
+
+****
 They Patronized the following:   
 - Dorm for Rent  → P6,600  
 - Room for Rent   P 1,200  
