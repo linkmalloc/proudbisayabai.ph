@@ -1,7 +1,7 @@
 ---
 author: "Bench Lee | Photo Blogger"
 layout: post
-title: "Experience Bali vibes at the newest and exclusive resort villas in Northern Cebu"
+title: "Experience Bali vibes at the newest and exclusive resort villa in Northern Cebu"
 description: "Matahom Paradise Villas "
 categories:
   - destination
