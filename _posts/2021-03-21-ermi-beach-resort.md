@@ -87,7 +87,7 @@ Just after the boundary of Boljoon and Oslob. A peaceful place with a peaceful s
 ![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1616258217/ermi_beach_resort/iwl9y6rghx2u7vt0dfpm.jpg)  
 <small>Source: Chasing James</small>  
 
-
+##### Map Location
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d983.5091918388181!2d123.47161959958547!3d9.592099189312451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33aba239f9155bfd%3A0xb808037d4bf4b37c!2sOYO%20438%20Ermi%20Beach%20Resort!5e0!3m2!1sen!2sph!4v1616259839429!5m2!1sen!2sph" style="width:100%;height:450px;border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 **** 
