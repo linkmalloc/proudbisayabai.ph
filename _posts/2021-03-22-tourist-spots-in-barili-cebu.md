@@ -1,7 +1,7 @@
 ---
 author: "Ariel Alegado Alvarez"
 layout: post
-title: "Nalibot nani nimo tanan sa Barili, Cebu?"
+title: "Take a look at Barili's Tourist Destinations"
 description: "BISDAK LAAGAN CHECK! Nganung mo layu paman ka nga naa raman diay sa dool!"
 categories:
   - destination
@@ -9,7 +9,7 @@ tags:
   - cebu
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616343048/tourist_spots_in_barili_cebu/qu6nxfuxvmxi3fa9mvjp.jpg
-img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616343048/tourist_spots_in_barili_cebu/qu6nxfuxvmxi3fa9mvjp.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616519803/tourist_spots_in_barili_cebu/barili_knodx9.png
 img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616343048/tourist_spots_in_barili_cebu/qu6nxfuxvmxi3fa9mvjp.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616343052/tourist_spots_in_barili_cebu/i5kiohj9huqp5hwfwywg.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616343056/tourist_spots_in_barili_cebu/hq7glttpxp8qmjt4u9lo.jpg
