@@ -2,7 +2,7 @@
 author: "Michael Audrey Jacobe Sagonoy | Drone Pilot"
 layout: post
 title: "Captivating Siargao Island, Philippines"
-description: ""
+description: "BUCKETLIST CHECK! Naka drawing na ba Tanan? Ay este naka Plano na ba?"
 categories:
   - destination
 tags:
