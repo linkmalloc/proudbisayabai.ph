@@ -10,14 +10,14 @@ tags:
   - resort
   - beach
 views: "10"
-img_big_1000x600: https://storage.googleapis.com/proudbisayabaiph/posts/asturias-beach-house/163305982_321416702987338_5958771521838840236_o.jpg
-img_big_3000x1144: https://storage.googleapis.com/proudbisayabaiph/posts/asturias-beach-house/163305982_321416702987338_5958771521838840236_o.jpg
-img_500x500: https://storage.googleapis.com/proudbisayabaiph/posts/asturias-beach-house/163305982_321416702987338_5958771521838840236_o.jpg
-img_500_1: https://storage.googleapis.com/proudbisayabaiph/posts/asturias-beach-house/163200002_321416796320662_4728974252575258512_o.jpg
-img_500_2: https://storage.googleapis.com/proudbisayabaiph/posts/asturias-beach-house/163189607_321416929653982_6517779990766949207_o.jpg
-img_500_3: https://storage.googleapis.com/proudbisayabaiph/posts/asturias-beach-house/163471630_321416719654003_1522760725574873547_o.jpg
-img_500_4: https://storage.googleapis.com/proudbisayabaiph/posts/asturias-beach-house/165172182_321416849653990_3359546978370329211_o.jpg
-img_500_5: https://storage.googleapis.com/proudbisayabaiph/posts/asturias-beach-house/165173659_321416752987333_7428783754341853203_o.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617026980/asturias_beach_house/lkeamedcmyfrouhvq9lo.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617026980/asturias_beach_house/lkeamedcmyfrouhvq9lo.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617026980/asturias_beach_house/lkeamedcmyfrouhvq9lo.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617026989/asturias_beach_house/midgqfrplqtdregn7tgk.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617026994/asturias_beach_house/q3ykncmtwi1mfswvsob3.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617026999/asturias_beach_house/fckybh0cnroq6hqenm3t.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617027006/asturias_beach_house/ierojelcfjntlu68p74p.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617027013/asturias_beach_house/oow7xidnudtikds4iclf.jpg
 photo_credit: "Asturias Beach House By Blissful Creations."
 photo_credit_link: ""
 ---

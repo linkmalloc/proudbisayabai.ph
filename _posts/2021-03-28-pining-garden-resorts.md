@@ -10,14 +10,14 @@ tags:
   - resort
   - cebu
 views: "10"
-img_big_1000x600: https://storage.googleapis.com/proudbisayabaiph/posts/pining-garden-resorts/164378833_320747049720970_3123390168470110823_n.jpg
-img_big_3000x1144: https://storage.googleapis.com/proudbisayabaiph/posts/pining-garden-resorts/piningresort.jpg
-img_500x500: https://storage.googleapis.com/proudbisayabaiph/posts/pining-garden-resorts/164378833_320747049720970_3123390168470110823_n.jpg
-img_500_1: https://storage.googleapis.com/proudbisayabaiph/posts/pining-garden-resorts/164456804_320746916387650_7133211919942156615_n.jpg
-img_500_2: https://storage.googleapis.com/proudbisayabaiph/posts/pining-garden-resorts/164489500_320746853054323_7459106268156173839_n.jpg
-img_500_3: https://storage.googleapis.com/proudbisayabaiph/posts/pining-garden-resorts/164498600_320747073054301_2442454326463154600_n.jpg
-img_500_4: https://storage.googleapis.com/proudbisayabaiph/posts/pining-garden-resorts/164630949_320746863054322_303653643346708125_n.jpg
-img_500_5: https://storage.googleapis.com/proudbisayabaiph/posts/pining-garden-resorts/164692153_320747099720965_4194012946629045385_n.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025567/pining_garden_resorts/jnyxzpb9aianuafj1dnp.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025654/pining_garden_resorts/pininggarden_wskvcu.png
+img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025567/pining_garden_resorts/jnyxzpb9aianuafj1dnp.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025580/pining_garden_resorts/n5drb9ucgp76oyrjzasi.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025623/pining_garden_resorts/x2z7chewn8jbnudr1mjz.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025595/pining_garden_resorts/kebkmmvxouk3egruk4zh.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025601/pining_garden_resorts/hh9zl3gjmcyhxchbpb6q.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025617/pining_garden_resorts/nqvbcxnk2zl6jzbdpgyj.jpg
 photo_credit: "Pining Garden Resorts Facebook Page (admin)"
 photo_credit_link: ""
 ---
@@ -77,27 +77,27 @@ Pining Garden Resorts offer ako Ride going to Pining Garden Resorts:
 ✍🏻 Featured By: Ariel Alegado - Team Leader   
 
 ****
-![](https://storage.googleapis.com/proudbisayabaiph/posts/pining-garden-resorts/164871553_320746999720975_1848727066952975901_n.jpg)  
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025587/pining_garden_resorts/xbtox9olwaid4bicevrk.jpg)  
 <small>Source: Pining Garden Resorts Facebook Page (admin)</small>  
 
 ****
-![](https://storage.googleapis.com/proudbisayabaiph/posts/pining-garden-resorts/165024860_320747026387639_196482484484475672_n.jpg)  
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025606/pining_garden_resorts/pbm9z0qq13l6z8zk1lls.jpg)  
 <small>Source: Pining Garden Resorts Facebook Page (admin)</small>  
 
 ****
-![](https://storage.googleapis.com/proudbisayabaiph/posts/pining-garden-resorts/165074495_320746966387645_2341519703915265874_n.jpg)  
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025617/pining_garden_resorts/nqvbcxnk2zl6jzbdpgyj.jpg)  
 <small>Source: Pining Garden Resorts Facebook Page (admin)</small>  
 
 ****
-![](https://storage.googleapis.com/proudbisayabaiph/posts/pining-garden-resorts/165308462_320746899720985_6799015169683064932_n.jpg)  
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025580/pining_garden_resorts/n5drb9ucgp76oyrjzasi.jpg)  
 <small>Source: Pining Garden Resorts Facebook Page (admin)</small>  
 
 ****
-![](https://storage.googleapis.com/proudbisayabaiph/posts/pining-garden-resorts/165339991_320746993054309_77388394518110307_n.jpg)  
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025573/pining_garden_resorts/yxx1wl8kbhqwvm7g2m7c.jpg)  
 <small>Source: Pining Garden Resorts Facebook Page (admin)</small>  
 
 ****
-![](https://storage.googleapis.com/proudbisayabaiph/posts/pining-garden-resorts/165365597_320746949720980_604090848700397860_n.jpg)  
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025613/pining_garden_resorts/yyqchjqikecwaxyyikte.jpg)  
 <small>Source: Pining Garden Resorts Facebook Page (admin)</small>
 
 ****

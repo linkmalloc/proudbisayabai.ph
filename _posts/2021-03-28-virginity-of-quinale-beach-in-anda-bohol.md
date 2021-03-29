@@ -9,14 +9,14 @@ tags:
   - beach
   - bohol
 views: "10"
-img_big_1000x600: https://storage.googleapis.com/proudbisayabaiph/posts/virginity-of-quinale-beach-in-anda-bohol/139804385_275486094247066_104514642126684504_n.jpg
-img_big_3000x1144: https://storage.googleapis.com/proudbisayabaiph/posts/virginity-of-quinale-beach-in-anda-bohol/161174270_314273990368276_3910049498948867833_n.jpg
-img_500x500: https://storage.googleapis.com/proudbisayabaiph/posts/virginity-of-quinale-beach-in-anda-bohol/139804385_275486094247066_104514642126684504_n.jpg
-img_500_1: https://storage.googleapis.com/proudbisayabaiph/posts/virginity-of-quinale-beach-in-anda-bohol/139805762_275486144247061_6368453302166559696_n.jpg
-img_500_2: https://storage.googleapis.com/proudbisayabaiph/posts/virginity-of-quinale-beach-in-anda-bohol/160935995_314273863701622_7066572170780651538_n.jpg
-img_500_3: https://storage.googleapis.com/proudbisayabaiph/posts/virginity-of-quinale-beach-in-anda-bohol/160999453_314273927034949_2706445180251745543_n.jpg
-img_500_4: https://storage.googleapis.com/proudbisayabaiph/posts/virginity-of-quinale-beach-in-anda-bohol/161337977_314273973701611_3290385825257332524_n.jpg
-img_500_5: https://storage.googleapis.com/proudbisayabaiph/posts/virginity-of-quinale-beach-in-anda-bohol/161574951_314274013701607_5933269660502568026_n.jpg
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617023673/virginity_of_quinale_beach_in_anda_bohol/zcmsq9rvhwysad5vbgiu.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617023673/virginity_of_quinale_beach_in_anda_bohol/zcmsq9rvhwysad5vbgiu.jpg
+img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617023673/virginity_of_quinale_beach_in_anda_bohol/zcmsq9rvhwysad5vbgiu.jpg
+img_500_1: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617023683/virginity_of_quinale_beach_in_anda_bohol/lzcuiusdaugqmltep4mp.jpg
+img_500_2: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617023501/virginity_of_quinale_beach_in_anda_bohol/uiibh9q1iyjx0gxipnis.jpg
+img_500_3: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617023495/virginity_of_quinale_beach_in_anda_bohol/r5qycalixxmorqziumn3.jpg
+img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617023490/virginity_of_quinale_beach_in_anda_bohol/e3zlzpk0u8kucpskde1n.jpg
+img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617023482/virginity_of_quinale_beach_in_anda_bohol/k1uu7tbs5oamvytkttpi.jpg
 photo_credit: "Joseph The Explorer"
 photo_credit_link: ""
 ---
@@ -57,45 +57,49 @@ TAN-AWA: Experience the Virginity of Quinale Beach in Anda Bohol 💦☀️😍
 - Affordable and home cook food, is located near the Market just a few meters away from the beach.  
 
 ****
-
-![](https://storage.googleapis.com/proudbisayabaiph/posts/virginity-of-quinale-beach-in-anda-bohol/139752591_275486087580400_5497005424766063174_n.jpg)  
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617023624/virginity_of_quinale_beach_in_anda_bohol/dl9uunlaecg7fqmeusyw.jpg)  
 <small>Source: Joseph The Explorer</small>  
 
 ****
-![](https://storage.googleapis.com/proudbisayabaiph/posts/virginity-of-quinale-beach-in-anda-bohol/140350248_275486124247063_6425453705986220601_n.jpg)  
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617023643/virginity_of_quinale_beach_in_anda_bohol/g6yjfxv6edszw4km7nac.jpg)  
 <small>Source: Joseph The Explorer</small>  
 
 ****
-![](https://storage.googleapis.com/proudbisayabaiph/posts/virginity-of-quinale-beach-in-anda-bohol/161034227_314273813701627_7597109448543465214_n.jpg)  
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617023637/virginity_of_quinale_beach_in_anda_bohol/vsiwq8fqbb9kvme1pulk.jpg)  
 <small>Source: Joseph The Explorer</small>  
 
 ****
-![](https://storage.googleapis.com/proudbisayabaiph/posts/virginity-of-quinale-beach-in-anda-bohol/161174270_314273990368276_3910049498948867833_n.jpg)  
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617023632/virginity_of_quinale_beach_in_anda_bohol/aoyabbrls742m51s83re.jpg)  
+<small>Source: Joseph The Explorer</small>  
+
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617023618/virginity_of_quinale_beach_in_anda_bohol/gwz5upnaelvu04wm79pl.jpg)  
 <small>Source: Joseph The Explorer</small>  
 
 ****
-![](https://storage.googleapis.com/proudbisayabaiph/posts/virginity-of-quinale-beach-in-anda-bohol/161543990_314273907034951_6346283068128804137_n.jpg)  
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617023673/virginity_of_quinale_beach_in_anda_bohol/zcmsq9rvhwysad5vbgiu.jpg)  
 <small>Source: Joseph The Explorer</small>  
 
 ****
-![](https://storage.googleapis.com/proudbisayabaiph/posts/virginity-of-quinale-beach-in-anda-bohol/161688582_314273853701623_8422432976136261908_n.jpg)  
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617023678/virginity_of_quinale_beach_in_anda_bohol/phnav2sxwkgc1rm6mut9.jpg)  
 <small>Source: Joseph The Explorer</small>  
 
 ****
-![](https://storage.googleapis.com/proudbisayabaiph/posts/virginity-of-quinale-beach-in-anda-bohol/164550729_320678999727775_4026993633899862626_n.jpg)  
-<small>Source: Joseph The Explorer</small>  
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617024910/virginity_of_quinale_beach_in_anda_bohol/139752591_275486087580400_5497005424766063174_n_xtve7t.jpg)  
+<small>Source: Antonette Timosa</small>  
 
 ****
-![](https://storage.googleapis.com/proudbisayabaiph/posts/virginity-of-quinale-beach-in-anda-bohol/164628170_320678949727780_6920148923765787071_n.jpg)  
-<small>Source: Joseph The Explorer</small>  
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617024908/virginity_of_quinale_beach_in_anda_bohol/140350248_275486124247063_6425453705986220601_n_nel6oc.jpg)  
+<small>Source: Antonette Timosa</small>  
 
 ****
-![](https://storage.googleapis.com/proudbisayabaiph/posts/virginity-of-quinale-beach-in-anda-bohol/164670728_320678983061110_6074772646590506158_n.jpg)  
-<small>Source: Joseph The Explorer</small>  
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617024909/virginity_of_quinale_beach_in_anda_bohol/139804385_275486094247066_104514642126684504_n_o0ykzr.jpg)  
+<small>Source: Antonette Timosa</small>  
 
 ****
-![](https://storage.googleapis.com/proudbisayabaiph/posts/virginity-of-quinale-beach-in-anda-bohol/165369873_320678939727781_7202948140954647157_n.jpg)  
-<small>Source: Joseph The Explorer</small>  
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617024905/virginity_of_quinale_beach_in_anda_bohol/139805762_275486144247061_6368453302166559696_n_yl6t7c.jpg)  
+<small>Source: Antonette Timosa</small>  
 
 ****
 ##### Map Location
