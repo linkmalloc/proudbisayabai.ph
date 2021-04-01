@@ -1,7 +1,7 @@
 ---
 author: "Bench Lee Abadilla - Photo Blogger"
 layout: post
-title: "INSTAGRAMMABLE view sa Tuburan? - Blue Hole in Tuburan"
+title: "INSTAGRAMMABLE view sa Tuburan? - Blue Hole Spring"
 description: "Aware ba ka nga naay INSTAGRAMMABLE view sa Tuburan?  if wala,  then tara na diri mga bai!"
 categories:
   - destination
