@@ -11,7 +11,7 @@ tags:
   - cebu
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617122924/durhan_white_beach_resort/oj5ej7vgcgcdbcnslupi.jpg
-img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617122945/durhan_white_beach_resort/vfsinwnv5ieynv0psz8e.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617254295/durhan_white_beach_resort/durhan_npqd79.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617122924/durhan_white_beach_resort/oj5ej7vgcgcdbcnslupi.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617122927/durhan_white_beach_resort/h3nqg4y4pvjrbg1ibqkr.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617122931/durhan_white_beach_resort/s3fpretuduzfgwg0o9ai.jpg
