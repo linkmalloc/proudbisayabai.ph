@@ -9,7 +9,7 @@ tags:
   - restaurant
   - cebu
 views: "10"
-img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617029073/paseo_de_moalboal/paseodemoalboal_wsp6vv.png
+img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617028610/paseo_de_moalboal/jezpaatl63pkal2he8xz.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617029073/paseo_de_moalboal/paseodemoalboal_wsp6vv.png
 img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617028610/paseo_de_moalboal/jezpaatl63pkal2he8xz.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617028614/paseo_de_moalboal/tvppwieepgdu71mday9i.jpg
