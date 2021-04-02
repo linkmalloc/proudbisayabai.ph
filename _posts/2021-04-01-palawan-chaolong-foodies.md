@@ -51,16 +51,13 @@ Mobile #:
 
 ****
 ![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275826/palawan_chaolong_foodies/wnrqnpz5ryq6lplbnaxe.jpg)  
-<small>Source: PBB Admins</small>  
 
 
 ****
 ![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275822/palawan_chaolong_foodies/jbuh8n9tz2jvdw94jne5.jpg)  
-<small>Source: PBB Admins</small>  
 
 ****
 ![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275830/palawan_chaolong_foodies/gv645gds2oajdsohaco0.jpg)  
-<small>Source: PBB Admins</small>  
 
 ****
 ##### Map Location
