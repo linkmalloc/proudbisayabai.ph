@@ -10,7 +10,7 @@ tags:
   - cebu
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275798/palawan_chaolong_foodies/zpvvd9iesalp17vmj0zb.jpg
-img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275798/palawan_chaolong_foodies/zpvvd9iesalp17vmj0zb.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617276205/palawan_chaolong_foodies/palawanchaolong_q3jlhw.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275798/palawan_chaolong_foodies/zpvvd9iesalp17vmj0zb.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275802/palawan_chaolong_foodies/zp8ika1mqaxdvnnl6p1w.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275806/palawan_chaolong_foodies/epsbl2gucoxovke7na3e.jpg
