@@ -29,7 +29,7 @@ TRENDING: CARAGA’s New Favorite Cafe-Resto is here! 📣‼️🍽
   
 Are you looking for a whole new cafe and resto experience? If cafe-resto hopping is the name of your game, then you'd be very glad to know that there's this new and trending Café-Resto in CARAGA Region!   
   
-Juanderful Delights is a newly-opened cafe/resto that has an exquisite design, the perfect backdrop for your social media feeds. They serve delish foods composed of fresh and top-grade ingredients at affordable prices! 🫕🍟🍹  
+Juanderful Delights is a newly-opened cafe/resto that has an exquisite design, the perfect backdrop for your social media feeds. They serve delish foods composed of fresh and top-grade ingredients at affordable prices! 🍟🍹  
   
  🕑 Operating Hours: 9:00 AM - 9:00 PM daily  
   
