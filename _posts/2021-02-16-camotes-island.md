@@ -19,6 +19,8 @@ img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613485528/c
 img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613485526/camotes/149038157_294534699008872_1152671824645323420_o_pdohi9.jpg
 photo_credit: "Nelson Judaya"
 ---
+#### Camotes Island
+
 Looking for a place where you can chill and relax? Kanindot diri! Ari ta bai!  
 
 **How to get there?**  
@@ -41,21 +43,25 @@ Ceres bus from Mactan to Danao to Consuelo port vice versa rate. Estimated rate 
 - Environmental & Terminal fee 10.00 - 20.00
 
 ****
-**TOURIST SPOTS:** 
-##### Papa Tasie Family Park and Resort
-- Entrance Fee : 100.00 pesos  
-   
+#### TOURIST SPOTS
 
-##### Lake Danao Park
+###### Papa Tasie Family Park and Resort
+- Entrance Fee : 100.00 pesos  
+
+****
+###### Lake Danao Park
 - Entrance Fee : 50.00 pesos 
 
-##### Tulang diot 
+****
+###### Tulang diot 
 - Pumpboat Fee : 40.00 per person back and fort.
 - Entrance Fee : 10.00 pesos  
 
-##### Timubo Cave
+****
+###### Timubo Cave
 - Entrance Fee : 50.00 pesos   
 
-##### Santiago White Beach Resort
+****
+###### Santiago White Beach Resort
 - No Entrance Fee
 - Table : 200.00 to 300.00 pesos
