@@ -1,7 +1,7 @@
 ---
 author: "Michael Audrey Jacobe Sagonoy | Pbb Drone Pilot"
 layout: post
-title: "Bantayan in birds eye view"
+title: "Bantayan in bird's-eye view"
 description: "The island of Bantayan, Cebu is famous for its crystal clear water, white powdery sand. The surrounding of the beach is really calm, safe and truly relaxing that’s why many tourists would love to visit the place."
 categories:
   - destination
