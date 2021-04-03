@@ -23,7 +23,7 @@ photo_credit_link: ""
 ---
 #### YES to Bantayan na ba this SUMMER? 😯💦🏖  
 
-Look at bantayan in drone perspective taken by our pbb drone pilot Michael Audrey Jacobe Sagonoy.
+Look at bantayan in drone perspective taken by our pbb drone pilot.
 
 Bantayan, Island, Philippines. The island of Bantayan, Cebu is famous for its crystal clear water, white powdery sand. The surrounding of the beach is really calm, safe and truly relaxing that’s why many tourists would love to visit the place.  
 
