@@ -18,7 +18,7 @@ img_500_3: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617268158
 img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617268162/blue_hole_spring/ow39oysomluqp5k9djpl.jpg
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617268166/blue_hole_spring/rqoxmzujiz2zytqku1fb.jpg
 photo_credit: "Bankerong Laagan"
-photo_credit_link: ""
+photo_credit_link: "www.instagram.com/bankerongLaagan"
 
 ---
 #### Blue Hole Spring 
@@ -29,8 +29,11 @@ Aware ba ka nga naay INSTAGRAMMABLE view sa Tuburan?  if wala,  then tara na dir
   
 Magpauwahi pa ba ka?    
 
+<small>Video Source: <a href="www.instagram.com/bankerongLaagan">Bankerong Laagan</a></small>
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fproudbisayabai%2Fvideos%2F836022253706460%2F&show_text=false&width=560" style="width:100%;height:450px;border:0;" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true" ></iframe>
+
 ****  
- 📍 Exact Location: San Juan, Tuburan  
+📍 Exact Location: San Juan, Tuburan  
 
 ###### 📌 RATES:  
 - NO Entrance Fee  
@@ -41,7 +44,7 @@ Magpauwahi pa ba ka?
 ****
 ###### HOW TO GET THERE?
   
-#####$ 🗺 Via Private Vehicle:  
+###### 🗺 Via Private Vehicle:  
 The place can be navigated on Waze. Whether you are riding a motorbike or your own vehicle, it’s best to navigate via Waze.  
 
 ****
