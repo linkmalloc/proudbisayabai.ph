@@ -50,9 +50,9 @@ The place can be navigated on Waze. Whether you are riding a bus or your own veh
 - Apartment Suite (5pax) -P5,525 per night  
   
 ****
-‼️ (DISCOUNT: 15% off if you book for 2 nights and 20% off for 3 or more nights stay)  
+> DISCOUNT: 15% off if you book for 2 nights and 20% off for 3 or more nights stay
   
-👉🏻Click here for bookings![ https://parrot-resort.com/index-online_booking?g=online_booking]( https://parrot-resort.com/index-online_booking?g=online_booking)  
+👉🏻Click here for bookings! [ https://parrot-resort.com/index-online_booking?g=online_booking]( https://parrot-resort.com/index-online_booking?g=online_booking)  
   
  👉🏻For more inquiries:  Contact Number: 032 401 36 60 / info@parrot-resort.com / or message them at their Facebook Page [https://www.facebook.com/ParrotResortMoalboal/](https://www.facebook.com/ParrotResortMoalboal/)  
 
@@ -83,6 +83,58 @@ The place can be navigated on Waze. Whether you are riding a bus or your own veh
 ****
 ##### Map Location
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3929.8115995607195!2d123.36760831516855!3d9.949627892885722!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33abe8c04ba5bfd7%3A0xb24239b2f53c7fa!2sParrot%20Resort%20Moalboal!5e0!3m2!1sen!2sph!4v1617274929932!5m2!1sen!2sph" style="width:100%;height:450px;border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+****
+
+Never miss staying here when heading to Moalboal. A serene place and Swiss standard cleanliness PLUS be entertained with their variety of adorable PARROTS too! It also allows you to discover the area's water adventures with scuba diving and snorkeling nearby. Just a 5min. walk to Panagsama Beac
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617545416/parrot_resort_moalboal/pgfn4thgz8ecqn3hgbpm.jpg)  
+<small>Source: Pbb Admins</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617545428/parrot_resort_moalboal/z0vdgywjcgs7tr3ctlxn.jpg)  
+<small>Source: Pbb Admins</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617545432/parrot_resort_moalboal/pznxypffen6y5n7pipbt.jpg)  
+<small>Source: Pbb Admins</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617545436/parrot_resort_moalboal/aznfdfucdvglzheerkxg.jpg)  
+<small>Source: Pbb Admins</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617545420/parrot_resort_moalboal/msga2rvwjryjc6yfzxmp.jpg)  
+<small>Source: Pbb Admins</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617545424/parrot_resort_moalboal/zabatxhi5tlxwlaifhs4.jpg)  
+<small>Source: Pbb Admins</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617545440/parrot_resort_moalboal/t3nof2chwo1sy7hs5gor.jpg)  
+<small>Source: Pbb Admins</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617545447/parrot_resort_moalboal/mqfquf5ttzmoe4yfm5hr.jpg)  
+<small>Source: Pbb Admins</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617545450/parrot_resort_moalboal/xkbftz7sfaa0chh6jjai.jpg)  
+<small>Source: Pbb Admins</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617545454/parrot_resort_moalboal/oocr0vvbnfrtblzldkg7.jpg)  
+<small>Source: Pbb Admins</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617545457/parrot_resort_moalboal/skwxnewazvuiqr53vdfy.jpg)  
+<small>Source: Pbb Admins</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617545461/parrot_resort_moalboal/jq0mo5ld1wxatejeqotf.jpg)  
+<small>Source: Pbb Admins</small>  
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
