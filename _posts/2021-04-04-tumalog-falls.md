@@ -10,7 +10,7 @@ tags:
   - cebu
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617548927/tumalog_falls/mbynetnizc9uy6pxml8f.jpg
-img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617548927/tumalog_falls/mbynetnizc9uy6pxml8f.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617549197/tumalog_falls/tumalogfalls_cd3yui.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617548927/tumalog_falls/mbynetnizc9uy6pxml8f.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617548931/tumalog_falls/ctwlznomqjgvpcgjnb9l.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617548935/tumalog_falls/vrwi4eusuxbldtxx2hxy.jpg
