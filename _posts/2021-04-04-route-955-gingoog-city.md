@@ -23,7 +23,7 @@ photo_credit: "Juan Virtudazo | Pbb Contributor"
 photo_credit_link: ""
 ---
 #### Route 955 Gingoog City-Claveria
-OOK: Baguio FEELS? Route 955 Gingoog City-Claveria, Misamis Oriental in a Day: The Little Baguio City of Mindanao.   
+LOOK: Baguio FEELS? Route 955 Gingoog City-Claveria, Misamis Oriental in a Day: The Little Baguio City of Mindanao.   
   
 Cafés \| Sceneries \| Foods \| Nature  
   
@@ -32,7 +32,7 @@ A very cool and refreshing place to visit  to ease your stress. Definitely, you'
 Soon when this pandemic will end, add Claveria into your bucket list. Surely, you’ll enjoy  the relaxing view.   
   
 Cafés and Places to Visit: ☕️🍽🍂  
--  Claveria View Deck  
+- Claveria View Deck  
 - San Vills Cafe  
 - Europe Cuisine  
 - Guzmana  
