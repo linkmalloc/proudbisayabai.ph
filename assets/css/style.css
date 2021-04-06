@@ -315,7 +315,7 @@ header .search-icon .ti-close,
 .header-area .slicknav_btn{top:-51px;right:17px}
 .slicknav_menu .slicknav_nav a:hover{background:transparent;}
 .slicknav_menu{background:transparent;}
-.mobile_menu{position:fixed;right:0px;width:100%;z-index:99;}
+.mobile_menu{position:absolute;right:0px;width:100%;z-index:99;}
 .header-top{border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:var(--mutted-border-color)}
 .header-top-right{display:flex;justify-content:flex-end;align-items:center;}
 .header-tools{padding:15px 0;}
