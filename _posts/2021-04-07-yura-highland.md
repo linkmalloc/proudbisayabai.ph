@@ -21,7 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617808058
 photo_credit: "Brian Granada"
 photo_credit_link: ""
 ---
-Yura Highland
+#### Yura Highland
   
 Vacation home with overlooking Sea of Cloud, a peaceful stay away from the buzz of the city life. No neighbors, no noise, just birds singing! 🦜🦅🍃  
   
