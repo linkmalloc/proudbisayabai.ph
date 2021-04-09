@@ -2,7 +2,7 @@
 author: "Daniela Tinamisan | Pbb Admin"
 layout: post
 title: "MUST-VISIT Paradise in Carnaza Island, Northern Cebu"
-description: "Carnaza Island Eco Park located at Daanbantayan Cebu. Woodshed for P200/ night"
+description: "Carnaza Island Eco Park is located in Daanbantayan Cebu. Woodshed for P200/night"
 categories:
   - destination
 tags:
