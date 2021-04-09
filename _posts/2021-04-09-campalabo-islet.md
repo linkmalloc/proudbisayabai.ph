@@ -10,7 +10,7 @@ tags:
   - cebu
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617903592/campalabo_islet/ytroaqbltkp7gfjjgpsa.jpg
-img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617903592/campalabo_islet/ytroaqbltkp7gfjjgpsa.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617979549/campalabo_islet/campalabo_zhgtz9.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617903592/campalabo_islet/ytroaqbltkp7gfjjgpsa.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617903596/campalabo_islet/hgln5mvif4htktmfwvgr.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617903600/campalabo_islet/hv6nyuvaucduqbblxikf.jpg
@@ -125,6 +125,18 @@ YES to DAGAT na Bai! Naka ligo naka diri? The pristine white sand bar of Campala
 ****
 ![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617904608/campalabo_islet/130604445_247274740401535_764689939696993732_n_mnyyis.jpg)  
 <small>Source: Glideey Glid</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617979544/campalabo_islet/169070965_331330385329303_7960569291053931537_n_x3d5l9.jpg)  
+<small>Source: Ivan Semat Perez</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617979543/campalabo_islet/169981859_331330398662635_3621755221181084518_n_huqszs.jpg)  
+<small>Source: Ivan Semat Perez</small>  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617979542/campalabo_islet/169717519_331330478662627_4005851101576729499_n_mmcyqt.jpg)  
+<small>Source: Ivan Semat Perez</small>  
 
 ****
 ##### Map Location
