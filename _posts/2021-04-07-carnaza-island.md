@@ -2,7 +2,7 @@
 author: "Daniela Tinamisan | Pbb Admin"
 layout: post
 title: "MUST-VISIT paradise in Carnaza Island, Northern Cebu"
-description: "LAAGAN Check: Asa maabot imong 200 PESOS bai?! A MUST-VISIT paradise in Carnaza Island, Northern Cebu! Woodshed for P200/ nigh"
+description: "Carnaza Island Eco Park located at Daanbantayan Cebu. Woodshed for P200/ night"
 categories:
   - destination
 tags:
