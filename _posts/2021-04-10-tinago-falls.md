@@ -1,7 +1,7 @@
 ---
 author: "Ariel Alegado | Team Leader"
 layout: post
-title: "EXPERIENCE Tinago Falls in Iligan City, Mindanao, Philippines"
+title: "EXPERIENCE Tinago Falls in Iligan City"
 description: "The breathtaking TinagoFalls is situated in the boundary of Barangay Purakan of the town of Linamon and Barangay Ditucalan of Iligan City."
 categories:
   - destination
