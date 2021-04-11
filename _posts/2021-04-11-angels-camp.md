@@ -11,7 +11,7 @@ tags:
   - mindanao
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618122041/angels_camp/owkepy1ido15shexs50j.jpg
-img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618128518/angels_camp/angelscamp_1_cc9qko.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618139432/angels_camp/angelscamp_3_tmv9nr.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618122041/angels_camp/owkepy1ido15shexs50j.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618122045/angels_camp/adgtvtq9qb8pyzl950a3.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618122049/angels_camp/bxv25bx3kyfvj8y6eojv.jpg
@@ -24,7 +24,7 @@ photo_credit_link: ""
 #### Angel's Camp, Sea of Clouds
 Experience the beauty of nature! 😯💨🧺  
   
-Angel's Camp is the Newest Tourist Spot in Bansalan,Davao del Sur. Perfect to unwind, hike and connect with Nature because of it's cold and wonderful green scenery. They also offer Batchoy which is literally good for the cold weather.   
+Angel's Camp is the Newest Tourist Spot in Bansalan,Davao del Sur. Perfect place to unwind, hike and connect with Nature. They also offer Batchoy which is literally good for the cold weather.   
 
 🕑 Open Hours: 8AM - 6PM daily   
 (Check in 4PM | Check out 7AM)   
