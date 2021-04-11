@@ -28,7 +28,6 @@ Experience the stunning mountain view at Kan-irag Peak in Barangay Sirao, Cebu C
 If you want to be away from the busy city, be in Kan-irag! You can chill and have a view of the greenery mountain, perfect for relaxation.
 
 ###### Tips and Guidelines
-For those who are going to Mt Kan Irag, Sirao, please follow simple guide. 
 1. RESPECT other campers, avoid unnecessary noises especially in the middle of the night, people go there to relax.
 2. BRING your trash back, don’t just throw it anywhere else. 
 3. No VANDALIZING

@@ -22,7 +22,7 @@ photo_credit_link: ""
 ---
 #### Acacia Mercado  
   
-BAG-ONG lugar to dine and chill for your weekend mga Bai! Imong plano nga laag plus simply satisfying your cravings all in one with this relaxing ambiance embracing nature in Acia Mercado 💯 🍩🧋  
+BAG-ONG lugar to dine and chill for your weekend mga Bai! Imong plano nga laag plus simply satisfying your cravings all in one with this relaxing ambiance embracing nature in Acia Mercado 💯 🍩  
   
 🕑 OPEN DAILY 11AM - 10PM  
   
