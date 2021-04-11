@@ -24,7 +24,7 @@ photo_credit_link: ""
 #### Angel's Camp, Sea of Clouds
 Experience the beauty of nature! 😯💨🧺  
   
-Angel's Camp is the Newest Tourist Spot in Bansalan,Davao del Sur. Perfect to unwind, hike and connect with Nature because of it's cold and wonderful green scenery. They also offer Batchoy which is literally good for the cold weather.   
+Angel's Camp is the Newest Tourist Spot in Bansalan,Davao del Sur. Perfect place to unwind, hike and connect with Nature. They also offer Batchoy which is literally good for the cold weather.   
 
 🕑 Open Hours: 8AM - 6PM daily   
 (Check in 4PM | Check out 7AM)   
