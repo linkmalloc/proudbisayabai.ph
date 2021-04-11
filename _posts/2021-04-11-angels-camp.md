@@ -11,7 +11,7 @@ tags:
   - mindanao
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618122041/angels_camp/owkepy1ido15shexs50j.jpg
-img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618128518/angels_camp/angelscamp_1_cc9qko.jpg
+img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618139432/angels_camp/angelscamp_3_tmv9nr.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618122041/angels_camp/owkepy1ido15shexs50j.jpg
 img_500_1: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618122045/angels_camp/adgtvtq9qb8pyzl950a3.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618122049/angels_camp/bxv25bx3kyfvj8y6eojv.jpg
