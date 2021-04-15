@@ -1,7 +1,7 @@
 ---
 author: "PBB Admins"
 layout: post
-title: "Explore Santiago White Beach Camotes"
+title: "Perfect Place for a Summer Vacation: Santiago White Beach Camotes"
 description: "It's Vacation Time! Santiago White beach is a long beach with fine white sand. It is located in the south part of Pacijan island, one of the 3 main islands of Camotes."
 categories:
   - destination
