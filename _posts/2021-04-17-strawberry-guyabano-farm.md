@@ -19,7 +19,7 @@ img_500_3: https://res.cloudinary.com/pbb1/image/upload/v1618652018/strawberry_g
 img_500_4: 
 img_500_5: 
 photo_credit: "Strawberry Guyabano Farm"
-photo_credit_link: ""
+photo_credit_link: "https://www.facebook.com/SGFarmPh/"
 ---
 #### STRAWBERRY GUYABANO FARM
 <center> Gasa sa kahitas-an nga angay Ampingan! Experience farm life like no other 😍⛰🍓</center>  
