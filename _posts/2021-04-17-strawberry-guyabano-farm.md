@@ -6,7 +6,9 @@ description: "Experience farm life like no other with the view of magnificent Mt
 categories:
   - destination
 tags:
-  - 
+  - farm
+  - mindanao
+  - glamping
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/pbb1/image/upload/v1618651624/strawberry_guyabano_farm/nxcjo5axomhwtmicdlnz.jpg
 img_big_3000x1144: https://res.cloudinary.com/pbb1/image/upload/v1618653194/strawberry_guyabano_farm/strawberryfarm_f4wod2.jpg
