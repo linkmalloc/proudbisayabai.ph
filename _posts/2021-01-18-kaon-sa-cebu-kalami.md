@@ -16,6 +16,7 @@ img_500x500: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,
 img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610956965/3000x1144/pic.2.6_e7wvgd.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610956971/3000x1144/pic.2.3_zennkc.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610956972/3000x1144/pic.2.2_escpnd.jpg
+published: false
 ---
 KAON SA CEBU: Kalami! Unlimited Korean BBQ and Buffet at Barangay Seoul in Cebu.  
 

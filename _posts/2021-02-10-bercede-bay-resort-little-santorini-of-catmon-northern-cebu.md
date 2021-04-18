@@ -17,6 +17,7 @@ img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1612969775
 img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1612969776/1_uwljfg.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1612969774/8_l7jylz.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1612969775/4_tnql0t.jpg
+published: false
 ---
 You can get a piece of Santorini even without flying to Greece! Bercede Bay Resort is a
 Santorini-inspired resort in Northern Cebu that will truly make you feel like you’ve gone abroad.

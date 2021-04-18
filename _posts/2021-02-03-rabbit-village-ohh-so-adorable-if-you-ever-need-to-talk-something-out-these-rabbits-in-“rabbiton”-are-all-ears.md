@@ -15,6 +15,7 @@ img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_
 img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612320085/3000x1144/batch2.post9.4_kmqxvi.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612320084/3000x1144/batch2.post9.3_l3zbwy.jpg
 photo_credit: Rabbiton Facebook Page
+published: false
 ---
 Maypa ang rabbit paminawon jud ka. Tag your migo/miga nga kapila na nimog storya ug tambag lapos gihapon pikas dunggan. Enjoy your day here at Rabitton by Shekinah Farm. Aside from seeing rabbits, you can dine at their cottages with lots of good meals to try, especially the Rabbit Burgers. They also sell herbs here. You can also ride a horse and see lots of different chickens in the farm. And don’t forget to ready your glam because this place also got instagram worthy corners
 

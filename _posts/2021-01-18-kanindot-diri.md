@@ -18,6 +18,7 @@ img_500x500: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,
 img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610966798/3000x1144/pic.1.2_vir3ku.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610956976/3000x1144/pic.1.5_eptkod.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610966798/3000x1144/pic.1.2_vir3ku.jpg
+published: false
 ---
 Kanindot diri! Ganahan mo Relax and Chill out with friends? a **MUST-VISIT, STAY N SAVE** in Oslob, Cebu.  
 

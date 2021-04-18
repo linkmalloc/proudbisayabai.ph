@@ -19,6 +19,7 @@ img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613044098/g
 img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613044098/gracia_beranda/34_zu0rcn.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613044098/gracia_beranda/32_cbay2i.jpg
 photo_credit: "Cliff Perez | Jeu Niño Ureta"
+published: false
 ---
 A place where you can free your inner soul and breakaway from tradition!  
 at **Gracia Veranda** in Bohol.

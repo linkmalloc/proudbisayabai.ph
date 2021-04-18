@@ -20,6 +20,7 @@ img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613055033/e
 img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613055031/el_luelos_place/27_vuyk8k.jpg
 photo_credit: "ARAT Travel"
 photo_credit_link: https://www.facebook.com/arattravel/
+published: false
 ---
 You might be looking ahead to plan your next laag trip. Might as well try this new place with perfect ambiance and accommodation only here in Bukidnon. Are you excited? Arat na!
 

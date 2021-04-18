@@ -16,6 +16,7 @@ img_500x500: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,
 img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610970006/3000x1144/pic.3.4_r6hzx3.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610970006/3000x1144/pic.3.1_udyduz.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_5000,h_500,c_fit/v1610970007/3000x1144/pic.3.2_k9vkoa.jpg
+published: false
 ---
 A  **MUST-VISIT paradise**  
 Carnaza Island, Daanbantayan, Northern Cebu!
