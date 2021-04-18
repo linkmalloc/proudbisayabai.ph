@@ -16,6 +16,7 @@ img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_
 img_500_4: https://res.cloudinary.com/proudbisayabai/image/upload/w_1000,h_600,c_fit/v1611563831/3000x1144/batch2post3_5_twb6rl.jpg
 photo_credit: "Bearsama"
 photo_credit_link: www.facebook.com/bearsamaph
+published: false
 ---
 West 35 Eco Mountain Resort in Cebu Balamban, Cebu is perfect for you! Pahuway sad panagsa bai!  
 

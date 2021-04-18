@@ -21,6 +21,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614177485/c
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614177488/cambugsayhills/153034396_300024745126534_6783493824613368034_n_auxii5.jpg
 photo_credit: "Rhodman Joseph M. Ubas"
 photo_credit_link: ""
+published: false
 ---
 Enjoy the panoramic view of Malingin Dam at Cambugsay Hills, where the mountains & the water melts, sitting under the tree, breathing the fresh air & temporarily forget the busy life you left behind.  
 

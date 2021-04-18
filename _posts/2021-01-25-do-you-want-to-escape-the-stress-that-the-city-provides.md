@@ -14,6 +14,7 @@ img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_
 img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1611563829/3000x1144/batch2post2_3_mciov7.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1611563829/3000x1144/batch2post2_5_r5j9un.jpg
 img_500_4: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1611563829/3000x1144/batch2post2_2_qyzpia.jpg
+published: false
 ---
 Experience the breathtaking view at Red Cliff in Cantipla, Cebu.  
 Cafés \| Sceneries \| Foods \| Nature  

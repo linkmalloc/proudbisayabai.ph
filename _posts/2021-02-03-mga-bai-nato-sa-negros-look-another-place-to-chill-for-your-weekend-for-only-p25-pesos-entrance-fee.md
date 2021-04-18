@@ -15,6 +15,7 @@ img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612334424/3000x1144/batch2.post14.6_okp5se.jpg
 photo_credit: "Che Ryl and Sheintan Ridge View Facebook Page"
 photo_credit_link: "https://m.facebook.com/Sheintan-Ridge-View-307683746814158"
+published: false
 ---
 Whether you go during day time together with the whole barkada or enjoy your overnight stay with your loved ones. Ug sa mga layo, lista lang sa. Puhon lang sa  
 

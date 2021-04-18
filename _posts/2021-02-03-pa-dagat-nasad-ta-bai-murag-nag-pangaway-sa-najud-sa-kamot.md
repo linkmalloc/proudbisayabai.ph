@@ -13,6 +13,7 @@ img_500x500: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,
 img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612334869/3000x1144/batch2.post15.5_dxam5t.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612334869/3000x1144/batch2.post15.1_ofqcw9.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612334869/3000x1144/batch2.post15.4_hpbour.jpg
+published: false
 ---
 BANTAYAN ISLAND CEBU IS NOW OPEN FOR TOURISTS!
 

@@ -14,6 +14,7 @@ img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_
 img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612332394/3000x1144/batch2.post12.2_dpb8vp.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612332394/3000x1144/batch2.post12.4_kl2q4x.jpg
 photo_credit: Michael Audrey Jacobe Sagonoy - Drone Pilot
+published: false
 ---
 Been craving for some Korean food? Eat all you can at Woorijib Korean Buffet. Unli Samgyeupsal + Buffet + Drinks + Ice Cream starts at P399 Only
 

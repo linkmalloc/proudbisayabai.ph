@@ -14,6 +14,7 @@ img_500x500: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,
 img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612318367/3000x1144/batch2.post8.3_zggfy1.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612318368/3000x1144/batch2.post8.5_qscadr.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612318369/3000x1144/batch2.post8.4_effeau.jpg
+published: false
 ---
 ****
 
