@@ -63,7 +63,8 @@ Note: They offer free parking.
 
 🕗 Operating Hours: 8AM - 6PM 
 
-
+##### Map Location
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d75727.55989454137!2d123.7782901833226!3d10.429340131808672!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a9a133a25eeb45%3A0xd46d2d0010187833!2sLakeview%20Botanical%20Garden!5e0!3m2!1sen!2sph!4v1618843464768!5m2!1sen!2sph" style="width: 100%; height: 450px; border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ****
 ****
