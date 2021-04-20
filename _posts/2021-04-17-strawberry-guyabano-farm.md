@@ -36,26 +36,46 @@ Farm tourism is starting to be a thing nowadays and STRAWBERRY GUYABANO Farm pro
 Experience farm life like no other by booking one of their glamping huts.
   
 ****
-###### Glamping with Mt. Matutum View  
-1. Narra  
-2. Aguho  
-3. Norfolk  
-4. Mahogany  
+#### Glamping with Mt. Matutum View  
+
+##### Narra  
+![](https://res.cloudinary.com/pbb1/image/upload/v1618933186/strawberry_guyabano_farm/175490351_338854607910214_3648318839425508454_n.jpg_tpd839.jpg)
+
+****
+##### Aguho
+![](https://res.cloudinary.com/pbb1/image/upload/v1618933168/strawberry_guyabano_farm/175895286_338854881243520_7918889763062700660_n.jpg_j1gkkw.jpg)  
+
+****
+##### Norfolk  
+![](https://res.cloudinary.com/pbb1/image/upload/v1618933266/strawberry_guyabano_farm/175723940_338854954576846_2236079699679772818_n.jpg_ewnh7r.jpg)  
+
+****
+##### Mahogany  
+![](https://res.cloudinary.com/pbb1/image/upload/v1618933217/strawberry_guyabano_farm/175556260_338854737910201_8160782234983432107_n.jpg_oviuoo.jpg)  
 
 ****
 ![](https://res.cloudinary.com/pbb1/image/upload/v1618651697/strawberry_guyabano_farm/f80qvr5tvmrljtnyzgrs.jpg) 
 
-###### Glamping with Strawberry Garden View  
-1. San Andreas  
-2. Shoga  
-3. Allstar  
-4. King Berry  
+****
+#### Glamping with Strawberry Garden View  
+
+##### San Andreas  
+![](https://res.cloudinary.com/pbb1/image/upload/v1618933232/strawberry_guyabano_farm/175354515_338854711243537_5631097809309549218_n.jpg_jwtzke.jpg)
+
+****
+##### Shoga
+![](https://res.cloudinary.com/pbb1/image/upload/v1618933247/strawberry_guyabano_farm/175152000_338854681243540_1115496036315986528_n.jpg_bls7p5.jpg)  
+
+****  
+- Allstar  
+- King Berry  
   
 ****
 ![](https://res.cloudinary.com/pbb1/image/upload/v1618651840/strawberry_guyabano_farm/mizhb8zlzh7h960f4a9e.jpg)  
-###### Traditional Kubo  
-1. Badjang  
-2. Cosmos  
+
+#### Traditional Kubo  
+- Badjang    
+- Cosmos  
 
 ****
 Don't be afraid of getting hungry because there is a restaurant where they offer a wide variety of food that is both delicious and affordable.
@@ -66,6 +86,13 @@ Don't be afraid of getting hungry because there is a restaurant where they offer
 ****
 ![](https://res.cloudinary.com/pbb1/image/upload/v1618651983/strawberry_guyabano_farm/xwgyjkvvpe2u8zi86jof.jpg)  
 <small>Source: Strawberry Guyabano Farm</small>   
+
+****
+![](https://res.cloudinary.com/pbb1/image/upload/v1618933093/strawberry_guyabano_farm/175475684_338855034576838_5878110690462854196_n.jpg_qfxyj9.jpg)
+<small>Source: Strawberry Guyabano Farm</small>   
+
+****
+![](https://res.cloudinary.com/pbb1/image/upload/v1618933117/strawberry_guyabano_farm/175707145_338854651243543_6724054128652028825_n.jpg_viqavk.jpg)
 
 ****
 ##### MAP LOCATION
@@ -103,4 +130,14 @@ SG Farm is the best place to unwind with friends and loved ones while enjoying a
 ****
 ![](https://res.cloudinary.com/pbb1/image/upload/v1618651805/strawberry_guyabano_farm/xlamsr9xvu1vtqqfpz1d.jpg)  
 <small>Source: <a href="https://www.facebook.com/SGFarmPh/">Strawberry Guyabano Farm</a></small>
+
+#### MORE PHOTOS FROM SG FARM
+
+****
+![](https://res.cloudinary.com/pbb1/image/upload/v1618933066/strawberry_guyabano_farm/175602861_338854567910218_5795549847508460253_n.jpg_srxqvw.jpg)  
+
+
+![](https://res.cloudinary.com/pbb1/image/upload/v1618933332/strawberry_guyabano_farm/175193263_338854977910177_2102387459954008178_n_edgnhp.jpg)  
+
+![](https://res.cloudinary.com/pbb1/image/upload/v1618933146/strawberry_guyabano_farm/175923870_338854911243517_646232295807327741_n.jpg_ttmazv.jpg)  
           
