@@ -1,7 +1,7 @@
 ---
 author: "Ariel Alegado | Team Leader"
 layout: post
-title: "Beautiful lagoon with turquoise water: Island Lagoon Resort"
+title: "A Must-visit Place: Island Lagoon Resort"
 description: "Island Lagoon Resort is a must-visit place once you are in Limasawa. It is an absolutely beautiful lagoon with turquoise water surrounded by amazing rock formations."
 categories:
   - destination
@@ -13,7 +13,7 @@ tags:
   - resort
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/pbb1/image/upload/v1618934585/island_lagoon_resort/mxnlb2q3oggl8s9rjoij.jpg
-img_big_3000x1144: https://res.cloudinary.com/pbb1/image/upload/v1618938561/island_lagoon_resort/limasawalagoon_qeyesn.jpg
+img_big_3000x1144: https://res.cloudinary.com/pbb1/image/upload/v1618971596/island_lagoon_resort/lagoon_1_h9zhqa.jpg
 img_500x500: https://res.cloudinary.com/pbb1/image/upload/v1618934585/island_lagoon_resort/mxnlb2q3oggl8s9rjoij.jpg
 img_500_1: 
 img_500_2: 
