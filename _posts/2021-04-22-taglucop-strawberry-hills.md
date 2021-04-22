@@ -8,6 +8,7 @@ categories:
 tags:
   - garden
   - hills
+  - glamping
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/pbb1/image/upload/v1619108226/taglucop_strawberry_hills/gzjur440yuaknmullkx6.jpg
 img_big_3000x1144: https://res.cloudinary.com/pbb1/image/upload/v1619111650/taglucop_strawberry_hills/glamping_lcufnl.jpg
