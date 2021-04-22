@@ -11,7 +11,7 @@ tags:
   - glamping
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/pbb1/image/upload/v1619108226/taglucop_strawberry_hills/gzjur440yuaknmullkx6.jpg
-img_big_3000x1144: https://res.cloudinary.com/pbb1/image/upload/v1619111650/taglucop_strawberry_hills/glamping_lcufnl.jpg
+img_big_3000x1144: https://res.cloudinary.com/pbb1/image/upload/v1619112654/taglucop_strawberry_hills/glamping_1_vql4gy.jpg
 img_500x500: https://res.cloudinary.com/pbb1/image/upload/v1619108226/taglucop_strawberry_hills/gzjur440yuaknmullkx6.jpg
 img_500_1: 
 img_500_2: 
@@ -49,7 +49,7 @@ Surely, the chilly evening and the cool morning breeze will embrace your soul of
 ![](https://res.cloudinary.com/pbb1/image/upload/v1619108234/taglucop_strawberry_hills/k3q36hyvntz6xqyymvvn.jpg)  
 <small>Source: Jazzia Telebanco</small>  
 
-Taglucop Strawberry Hills is just perfect for a getaway with friends or family. It's one the of the place where you can call it home away from home. 
+Taglucop Strawberry Hills is just perfect for a getaway with friends or family. It's one the of the places where you can call it home away from home. 
 
 
 ##### RATES   
@@ -78,7 +78,37 @@ Marilog District, Kitaokao Bukidnon
 ****
 #### MORE PHOTOS  
 
+****
+![](https://res.cloudinary.com/pbb1/image/upload/v1619112709/taglucop_strawberry_hills/169650378_329249158870759_8610133726724124709_n_dh3ph8.jpg)  
+<small>Source: Jazzia Telebanco</small>  
 
+****
+![](https://res.cloudinary.com/pbb1/image/upload/v1619112702/taglucop_strawberry_hills/143672282_282504466878562_844950183141722143_n_mkjx3w.jpg)  
+<small>Source: Jazzia Telebanco</small>  
+
+****
+![](https://res.cloudinary.com/pbb1/image/upload/v1619112700/taglucop_strawberry_hills/143790750_282503940211948_9147718118861592157_n_kuoixx.jpg)  
+<small>Source: Jazzia Telebanco</small>  
+
+****
+![](https://res.cloudinary.com/pbb1/image/upload/v1619112697/taglucop_strawberry_hills/143943984_282504346878574_3540316863796945403_n_uskb4b.jpg)  
+<small>Source: Jazzia Telebanco</small>  
+
+****
+![](https://res.cloudinary.com/pbb1/image/upload/v1619112693/taglucop_strawberry_hills/143994766_282503853545290_11998972755492941_n_piuqbi.jpg)  
+<small>Source: Jazzia Telebanco</small>  
+
+****
+![](https://res.cloudinary.com/pbb1/image/upload/v1619112687/taglucop_strawberry_hills/143943984_282504240211918_6707329584021967410_n_1_xbc0bv.jpg)  
+<small>Source: Jazzia Telebanco</small>  
+
+****
+![](https://res.cloudinary.com/pbb1/image/upload/v1619112685/taglucop_strawberry_hills/143633765_282504520211890_7339409366458597217_n_wohvmk.jpg)  
+<small>Source: Jazzia Telebanco</small>  
+
+****
+![](https://res.cloudinary.com/pbb1/image/upload/v1619112655/taglucop_strawberry_hills/144591703_282504123545263_6218162572392564926_n_1_ffzfbm.jpg)  
+<small>Source: Jazzia Telebanco</small>  
 
 ****
 ![](https://res.cloudinary.com/pbb1/image/upload/v1619108276/taglucop_strawberry_hills/vhxh33ekopjzqvpzfxvl.jpg)  
