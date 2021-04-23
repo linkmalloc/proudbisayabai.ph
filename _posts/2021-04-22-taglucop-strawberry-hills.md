@@ -88,23 +88,23 @@ Marilog District, Kitaokao Bukidnon
 
 ****
 ![](https://res.cloudinary.com/pbb1/image/upload/v1619112700/taglucop_strawberry_hills/143790750_282503940211948_9147718118861592157_n_kuoixx.jpg)  
-<small>Source: Jazzia Telebanco</small>  
+<small>Source: <a href="https://www.instagram.com/ijuandererph">Ijuandererph | Juan Virtudazo</a></small>  
 
 ****
 ![](https://res.cloudinary.com/pbb1/image/upload/v1619112697/taglucop_strawberry_hills/143943984_282504346878574_3540316863796945403_n_uskb4b.jpg)  
-<small>Source: Jazzia Telebanco</small>  
+<small>Source: <a href="https://www.instagram.com/ijuandererph">Ijuandererph | Juan Virtudazo</a></small>  
 
 ****
 ![](https://res.cloudinary.com/pbb1/image/upload/v1619112693/taglucop_strawberry_hills/143994766_282503853545290_11998972755492941_n_piuqbi.jpg)  
-<small>Source: Jazzia Telebanco</small>  
+<small>Source: <a href="https://www.instagram.com/ijuandererph">Ijuandererph | Juan Virtudazo</a></small>  
 
 ****
 ![](https://res.cloudinary.com/pbb1/image/upload/v1619112687/taglucop_strawberry_hills/143943984_282504240211918_6707329584021967410_n_1_xbc0bv.jpg)  
-<small>Source: Jazzia Telebanco</small>  
+<small>Source: <a href="https://www.instagram.com/ijuandererph">Ijuandererph | Juan Virtudazo</a></small>  
 
 ****
 ![](https://res.cloudinary.com/pbb1/image/upload/v1619112685/taglucop_strawberry_hills/143633765_282504520211890_7339409366458597217_n_wohvmk.jpg)  
-<small>Source: Jazzia Telebanco</small>  
+<small>Source: <a href="https://www.instagram.com/ijuandererph">Ijuandererph | Juan Virtudazo</a></small>    
 
 ****
 ![](https://res.cloudinary.com/pbb1/image/upload/v1619112655/taglucop_strawberry_hills/144591703_282504123545263_6218162572392564926_n_1_ffzfbm.jpg)  
