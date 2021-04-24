@@ -21,9 +21,9 @@ img_500_5: https://res.cloudinary.com/pbb1/image/upload/v1619271477/tongo_hill_c
 #### Tongo Hill Cottages
 
 ****
-What are your plans for this weekend? For sure daghan kaayo nag plano nga molaag. Then this is for you, a peaceful stay away from the buzz of the city at Tongo Hill Cottages in  Moalboal, Cebu! 📖☕️🌴🍃  
+A peaceful stay away from the buzz of the city at Tongo Hill Cottages in  Moalboal, Cebu! 📖☕️🌴🍃  
   
-Tongo Hill Cottages is a characteristic eco stay, nestled in between palm trees and lush nature. It has 4 kubo huts, each with private outdoor shower and balcony. Tongo Hill also has a communal social cottage to be shared by guests.  
+Tongo Hill Cottages is a characteristic eco stay, nestled in between palm trees and lush nature. It has 4 kubo huts, each with private outdoor shower and balcony. Tongo Hill also has a communal social cottage to be shared by guests. What are your plans sa sunod laag ? Add Tongo Hill Cottages on your list, for sure you won't regret it. 
 
 *****
 ##### THINGS TO ENJOY!   
