@@ -6,7 +6,10 @@ description: "Need a new place to chill with your barkadas and your family? Try 
 categories:
   - destination
 tags:
-  - 
+  - camping
+  - trekking
+  - overlooking
+  - cebu
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/pbb1/image/upload/v1619197542/paharuhay_campsite/l7phzzbbuhoyvdisl4yl.jpg
 img_big_3000x1144: https://res.cloudinary.com/pbb1/image/upload/v1619236517/paharuhay_campsite/paharuhay_1_reidwh.jpg
