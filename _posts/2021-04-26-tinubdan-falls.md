@@ -10,7 +10,7 @@ tags:
   - north-cebu
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/pbb1/image/upload/v1619400899/tinubdan_falls/ijf0rufonxedtpgzksca.jpg
-img_big_3000x1144: https://res.cloudinary.com/pbb1/image/upload/v1619403852/tinubdan_falls/tinubdan_whqk3a.jpg
+img_big_3000x1144: https://res.cloudinary.com/pbb1/image/upload/v1619458907/tinubdan_falls/tinubdan1_envw0v.jpg
 img_500x500: https://res.cloudinary.com/pbb1/image/upload/v1619400899/tinubdan_falls/ijf0rufonxedtpgzksca.jpg
 img_500_1: https://res.cloudinary.com/pbb1/image/upload/v1619400971/tinubdan_falls/hz849ddpkzo9tyc5cotn.jpg
 img_500_2: https://res.cloudinary.com/pbb1/image/upload/v1619401044/tinubdan_falls/okwixwz4sccsgqgncfve.jpg
