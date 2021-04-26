@@ -32,7 +32,7 @@ When going to the falls, expect a little hike for about 10 minutes from the desi
 
 ![](https://res.cloudinary.com/pbb1/image/upload/v1619401044/tinubdan_falls/okwixwz4sccsgqgncfve.jpg)  
 
-It is known that there are a lot of visitors that come here during weekends, so it is best to experience it during weekdays.
+It is known that there are a lot of visitors that come here during weekends, so it is best to experience Tinubdan Falls during weekdays.
 
 ****
 ##### HOW TO GET THERE   
