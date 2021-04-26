@@ -1,7 +1,7 @@
 ---
 author: "Ariel Alegado | Team Leader"
 layout: post
-title: "Cool down in this refreshing waterfall somewhere in Northern Cebu"
+title: "Take a dip in this refreshing waterfall somewhere in Northern Cebu"
 description: "Pabugnaw sa ta Bai! Tinubdan falls is one of the natural heritage in Brgy. Tabili Catmon. Cebu. Tinubdan Falls is a multi-cascade type of waterfalls."
 categories:
   - destination
