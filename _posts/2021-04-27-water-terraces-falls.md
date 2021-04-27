@@ -23,9 +23,9 @@ photo_credit_link: ""
 #### Water Terraces Falls  
 Naka ari na ba ka bai?  
 
-Newest attraction in Argao Cebu, Water Terraces Falls 💦😱⛅. 
+The newest attraction in Argao Cebu, Water Terraces Falls 💦😱⛅. 
 
-South Cebu is known for it's beautiful beaches and amazing waterfalls. But today we will feature something new. It a place a made by nature and enhanced by the efforts of the locals. 
+South Cebu is known for its beautiful beaches and amazing waterfalls. But today we will feature something new. It a place made by nature and enhanced by the efforts of the locals. 
 
 ![](https://res.cloudinary.com/pbb1/image/upload/v1619490176/water_terraces_falls/si9a0piphsnsye9jfhb4.jpg)  
 
