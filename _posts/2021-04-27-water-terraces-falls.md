@@ -10,7 +10,7 @@ tags:
   - south-cebu
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/pbb1/image/upload/v1619490140/water_terraces_falls/siebac55wlq1jzghyv6c.jpg
-img_big_3000x1144: https://res.cloudinary.com/pbb1/image/upload/v1619493727/water_terraces_falls/waterterracesfalls_nivbqw.jpg
+img_big_3000x1144: https://proudbisayabai.ph/images/posts/2021-04-27-water-terraces-falls/waterterracesfalls12.jpg
 img_500x500: https://res.cloudinary.com/pbb1/image/upload/v1619490140/water_terraces_falls/siebac55wlq1jzghyv6c.jpg
 img_500_1: https://res.cloudinary.com/pbb1/image/upload/v1619490320/water_terraces_falls/zyekviowluuzgvj4kz21.jpg
 img_500_2: https://res.cloudinary.com/pbb1/image/upload/v1619490211/water_terraces_falls/atkgpcj0qvyt0otjr2r5.jpg
