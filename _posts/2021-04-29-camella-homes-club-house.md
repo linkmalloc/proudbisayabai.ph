@@ -1,7 +1,7 @@
 ---
 author: "Thirdy Fua | Photo Blogger"
 layout: post
-title: "Pool in the Middle of the Nature just somewhere in Metro Cebu"
+title: "A pool in the middle of nature just somewhere in Metro Cebu"
 description: ""
 categories:
   - destination
@@ -20,8 +20,7 @@ photo_credit: "Thirdy Fua | Photo Blogger"
 photo_credit_link: ""
 ---
 #### Camella Homes Club House Talisay City
-<center>POOL in the middle of the Nature Bai! Chill lang ta diri.💦🍃😍</center>
-
+<center>Pool s Bai! Chill lang ta diri.💦🍃😍</center>
 ****
 
 Camella Homes Club House Talisay City is a perfect place to chill. The place offers a pool with clean water and a good, overlooking view of the city. The fees are pretty cheap, especially because the parking area is free to the public. If you wanted to exclusively enjoy the place, come here during weekdays because more likely there are only a few people during these days.
@@ -30,7 +29,7 @@ Camella Homes Club House Talisay City is a perfect place to chill. The place off
 ![](/images/posts/camella_homes_club_house/13.jpg)  
 <small>Source: Thirdy Fua | Photo Blogger</small>  
 
-Suwayan nato ug LIGO sa ilang POOL mga bai!  
+Suwayan nato ug ligo sa ilang pool mga bai!  
 
 
 ##### RATES  
