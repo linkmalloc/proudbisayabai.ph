@@ -19,11 +19,11 @@ photo_credit_link: ""
 
 Kansanto Spring is one of the many water spots of Badian, Cebu, Philippines. This gem is located between the boundary of barangay Banhigan and  barangay Poblacion. Its famed cold waters is guaranteed to refresh and help you beat the summer heat!
 
-The place offers a serene and nice place to relax and unwind. The water is clean and clear and moves with the tide so it’s best to come during high tides, low tide has a low water level but still enjoyable. There are 3 pools but only 1 is allowed for swimming, the other 2 pools are used for locally grown fishes.
+The place offers a serene and nice place to relax and unwind. The water is clean and clear and moves with the tide so it’s best to come during high tides, the place is still enjoyable though during low tides. There are 3 pools but only 1 is allowed for swimming, the other pools are used for locally grown fishes.
 
 ![](/images/posts/kansanto_spring_badian/2.jpg)   
 
-They have cottages and if you place to stay overnight they also have private rooms, scroll down for more info on the prices. Take note, you can bring your food and drinks here. No corkage fee for foods BUT they charges (P200 per kind) for drinks and liquors.
+They have cottages and if you plan to stay overnight, you can also avail their private rooms. Scroll down for more info on the prices. Take note, you can bring your food and drinks here. No corkage fee for the foods BUT they charges (P200 per kind) for drinks and liquors.
 
 ****
 ![](/images/posts/kansanto_spring_badian/3.jpg)  
