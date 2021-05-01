@@ -23,7 +23,7 @@ The place offers a serene and nice place to relax and unwind. The water is clean
 
 ![](/images/posts/kansanto_spring_badian/2.jpg)   
 
-They have cottages and if you plan to stay overnight, you can also avail their private rooms. Scroll down for more info on the prices. Take note, you can bring your food and drinks here. No corkage fee for the foods BUT they charges (P200 per kind) for drinks and liquors.
+They have cottages and if you plan to stay overnight, you can also avail their private rooms. Scroll down for more info on the prices. Take note, you can bring your food and drinks here. No corkage fee for the foods BUT they charge (P200 per kind) for drinks and liquors.
 
 ****
 ![](/images/posts/kansanto_spring_badian/3.jpg)  
