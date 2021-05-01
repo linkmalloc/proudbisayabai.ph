@@ -1,1 +1,1 @@
-bundle exec jekyll server --watch
+bundle exec jekyll server --watch --host=0.0.0.0
