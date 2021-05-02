@@ -17,7 +17,12 @@ layout: default
                                     <div class="col-md-8">
                                         <div class="entry-meta align-items-center meta-2 font-small color-muted">
                                             <p class="mb-5">
-                                                <a class="author-avatar" href="#"><img class="img-circle" src="https://via.placeholder.com/300x300" alt=""></a>
+                                                <a class="author-avatar" href="#">
+                                                    {% if page.author_img %}
+                                                        <img class="img-circle" src="{{ page.author_img}}" alt=""></a>
+                                                    {% else %}
+                                                        <img class="img-circle" src="https://via.placeholder.com/300x300" alt=""></a>
+                                                    {% endif %}
                                                 By <a href="author.html"><span class="author-name font-weight-bold">{{ page.author }}</span></a>
                                             </p>
                                             <span class="mr-10"> {{ page.date | date: '%B %d, %Y'}}</span>

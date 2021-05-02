@@ -1,5 +1,6 @@
 ---
 author: "Thirdy Fua | Photo Blogger"
+author_img: "/images/posts/team/thirdy.jpg"
 layout: post
 title: "Soak and be refreshed in this Cold Spring of Badian Cebu"
 description: "Kansanto Spring is one of the many water spots of Badian, Cebu in the Philippines. This gem is located between the boundary of barangays Banhigan and Poblacion. It's famed cold waters is guaranteed to refresh and help you beat the heat!  "
@@ -9,6 +10,7 @@ tags:
   - spring
   -  south-cebu
 views: "10"
+read_time: "3 minutes"
 img_big_1000x600: /images/posts/kansanto_spring_badian/1.jpg
 img_big_3000x1144: /images/posts/kansanto_spring_badian/cover.jpg
 img_500x500: /images/posts/kansanto_spring_badian/1.jpg
