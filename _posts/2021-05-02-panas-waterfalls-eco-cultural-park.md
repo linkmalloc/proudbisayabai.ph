@@ -13,7 +13,7 @@ tags:
 read_time: "2 minutes"
 views: "10"
 img_big_1000x600: /images/posts/panas_waterfalls_ecocultural_park/2.jpg
-img_big_3000x1144: /images/posts/panas_waterfalls_ecocultural_park/1.jpg
+img_big_3000x1144: /images/posts/panas_waterfalls_ecocultural_park/cover.jpg
 img_500x500: /images/posts/panas_waterfalls_ecocultural_park/2.jpg
 photo_credit: "Tagum Tilapips"
 photo_credit_link: ""
