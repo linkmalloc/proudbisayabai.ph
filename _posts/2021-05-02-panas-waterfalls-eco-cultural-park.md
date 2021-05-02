@@ -2,7 +2,7 @@
 author: "Ariel Alegado | Team Leader"
 author_img: "/images/posts/team/ariel.jpg"
 layout: post
-title: "Panas Waterfalls Eco-Cultural Park"
+title: "Experience the beauty of nature at Panas Waterfalls Eco-Cultural Park"
 description: "Experience the beauty of nature! Come and visit Panas Waterfalls Eco-cultural Park in Davao. Relax your mind from your busy daily living and meditate for a while!"
 categories:
   - destination
