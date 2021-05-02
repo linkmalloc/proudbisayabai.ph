@@ -1,5 +1,6 @@
 ---
 author: "Ariel Alegado | Team Leader"
+author_img: "/images/posts/team/ariel.jpg"
 layout: post
 title: "Experience Turtle Beach Resort of Northern Cebu"
 description: "Turtle Beach Resort offers an outdoor pool, cottages and a variety of air-conditioned room with TV, refrigerator and private bathroom."
@@ -9,6 +10,7 @@ tags:
   - resort
   - north-cebu
 views: "10"
+read_time: "3 minutes"
 img_big_1000x600: /images/posts/turtle_beach_resort/4.jpg
 img_big_3000x1144: /images/posts/turtle_beach_resort/cover.jpg
 img_500x500: /images/posts/turtle_beach_resort/4.jpg
