@@ -1,7 +1,7 @@
 ---
 author: "PBB Admins"
 layout: post
-title: "A Cool and Refreshing Coffee Shop along Cebu Transcentral Highway"
+title: "A cool and refreshing Coffee Shop along Cebu Transcentral Highway"
 description: " This coffee shop named after the owner’s pet Charlie is a must visit on your next trip! With a Combination of cool air and unique restaurant makes your Pabukid all worth it. "
 categories:
   - food
