@@ -20,7 +20,7 @@ photo_credit_link: ""
 ---
 #### Ritz Beach Resort  
 
-Looking for a place with a budget friendly get away? Then Ritz Beach Resort is what you are looking for. This is a great place for family outing, team building or just chilling out with your barkadas. The place offers clean accommodations, friendly staffs and not to mention the pristine waters that highlights the sunset view. 
+Looking for a place with a budget-friendly getaway? Then Ritz Beach Resort is what you are looking for. This is a great place for a family outing, team building or just chilling out with your barkadas. The place offers clean accommodations, friendly staff, and pristine waters that highlight the sunset view. 
 
 ![](/images/posts/ritz_beach_resort/6.jpg)  
 
