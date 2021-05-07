@@ -12,7 +12,7 @@ tags:
 views: "10"
 read_time: "5 minutes"
 img_big_1000x600: /images/posts/tayong_falls/1.jpg
-img_big_3000x1144: /images/posts/tayong_falls/5.jpg
+img_big_3000x1144: /images/posts/tayong_falls/cover.jpg
 img_500x500: /images/posts/tayong_falls/1.jpg
 photo_credit: "Ganados Photography"
 photo_credit_link: ""
