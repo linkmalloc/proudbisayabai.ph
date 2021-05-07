@@ -2,7 +2,7 @@
 author: "Ariel Alegado Alvarez"
 author_img: "/images/posts/team/ariel.jpg"
 layout: post
-title: "A Pristine Waterfall in Southern Cebu is now open for Guest and Visitors"
+title: "A Pristine Waterfall in Southern Cebu is now open for Guests and Visitors"
 description: "Tay-ong Falls is now officially accepting guests and visitors! A well-hidden waterfall, untouched by commercialism."
 categories:
   - destination
