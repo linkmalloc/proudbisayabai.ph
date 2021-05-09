@@ -8,7 +8,8 @@ read_time: "3 minutes"
 categories:
   - destination
 tags:
-  - 
+  - staycation
+  - cebu
 views: "10"
 img_big_1000x600: /images/posts/cebu_zip_pool_house/13.jpg
 img_big_3000x1144: /images/posts/cebu_zip_pool_house/cover.jpg
