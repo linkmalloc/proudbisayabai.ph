@@ -1,7 +1,7 @@
 ---
 author: "Ariel Alegado | Team Leader"
 layout: post
-title: "CAN-UMANTAD Falls of Candijay, Bohol"
+title: "Can-umantad Falls of Candijay, Bohol"
 author_img: "/images/posts/team/ariel.jpg"
 description: "Can-umantad Falls is one of the most impressive waterfalls you will find on the incredible island of Bohol, Philippines! It is the tallest waterfall in the island with a towering height of 60ft"
 categories:
