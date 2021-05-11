@@ -2,8 +2,8 @@
 author: "Ariel Alegado Alvarez"
 author_img: "/images/posts/team/ariel.jpg"
 layout: post
-title: "A Pristine Waterfall in Southern Cebu is now open for Guests and Visitors"
-description: "Tay-ong Falls is now officially accepting guests and visitors! A well-hidden waterfall, untouched by commercialism."
+title: "A Well-Hidden Waterfall in Southern Cebu is now open for Guests and Visitors"
+description: "Tay-ong Falls is now officially accepting guests and visitors!"
 categories:
   - destination
 tags:
@@ -21,7 +21,7 @@ photo_credit_link: ""
 <center>Tay-ong Falls is now officially accepting guests and visitors! 💦☀️🍃</center>
 
 ****
-A well-hidden waterfall, untouched by commercialism. **Tay-ong Falls** is exactly located at Barangay Anajao, Argao Cebu. This hidden gem is worth visiting for the clean and refreshing water and the instagrammable view that it offers.  
+A pristine and well-hidden waterfall is now open for tourists. **Tay-ong Falls** is exactly located at Barangay Anajao, Argao Cebu. This hidden gem is worth visiting for the clean and refreshing water and the instagrammable view that it offers.  
 
 ![](/images/posts/tayong_falls/4.jpg)  
 
