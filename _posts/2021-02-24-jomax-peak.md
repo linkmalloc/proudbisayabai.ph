@@ -24,6 +24,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614178017/j
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/c_scale,w_800/v1614178015/jomax-peak/152422903_300021428460199_5578324240056289549_n_mfcgxe.jpg
 photo_credit: "Negros Finest | ctto"
 photo_credit_link: ""
+published: false
 ---
 LOOK: Another perfect place to chill and to have a peace of mind. A great place for bonfire and stargazing  
 

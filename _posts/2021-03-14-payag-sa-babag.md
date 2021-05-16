@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615737850/p
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615737854/payag_sa_babag/chqxhaug5cgqnsrqiojk.jpg
 photo_credit: "Payag Sa Babag Page Admin"
 photo_credit_link: ""
+published: false
 ---
 #### Payag Sa Babag   
   

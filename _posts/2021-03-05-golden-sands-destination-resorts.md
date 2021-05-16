@@ -22,6 +22,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614958384/g
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614958388/golden_sands_destination_resorts/jf9myjwpcqwcrih7k3jd.jpg
 photo_credit: "Andrew Yu"
 photo_credit_link: ""
+published: false
 ---
 #### Golden Sands Destination Resorts
 

@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484891/s
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484895/stay_n_save/bgibl9fswk20jccut1tw.jpg
 photo_credit: "Katkat Talita"
 photo_credit_link: ""
+published: false
 ---
 #### Stay N Save
   

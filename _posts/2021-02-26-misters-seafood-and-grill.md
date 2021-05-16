@@ -21,6 +21,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614349094/m
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614349093/misters-seafood-and-grill/154350538_300523021743373_7029007091732651985_n_r1tkdw.jpg
 photo_credit: "Michael Sagonoy | Vivi Moore"
 photo_credit_link: ""
+published: false
 ---
 #### Mister's Seafood and Grill
   

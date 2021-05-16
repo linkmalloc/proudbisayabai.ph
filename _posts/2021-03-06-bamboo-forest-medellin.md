@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010074/b
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010077/bamboo_forest_medellin/dcbfrv2lr9eyxgbq4asm.jpg
 photo_credit: "Marjorie Cabaluna Palarion Narciso"
 photo_credit_link: ""
+published: false
 ---
 #### BAMBOO FOREST MEDELLIN  
   

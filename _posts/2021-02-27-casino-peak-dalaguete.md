@@ -22,6 +22,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422310/c
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422308/casinopeak/149578436_301422841653391_5173936491905276760_n_dj4ase.jpg
 photo_credit: "Joseph Louis Diapolet"
 photo_credit_link: ""
+published: false
 ---
 #### Casino Peak, Dalaguete
   

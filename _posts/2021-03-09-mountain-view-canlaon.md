@@ -19,6 +19,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615391042/m
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615391046/mountain_view/egn8hircbxucgjf24bqg.jpg
 photo_credit: "Jasper Ivan Iturriaga @pstrjasper  "
 photo_credit_link: ""
+published: false
 ---
 #### Mountain View   
   

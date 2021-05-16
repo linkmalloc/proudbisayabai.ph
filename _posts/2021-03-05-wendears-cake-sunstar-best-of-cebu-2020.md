@@ -21,6 +21,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614953936/w
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614953955/wendears_cake_sunstar_best_of_cebu_2020/jhi9teapym2ajyoxuu3n.jpg
 photo_credit: "Sofia Cairo - Photo Blogger"
 photo_credit_link: ""
+published: false
 ---
 #### Wendears Cake
 **TRENDING**: Craving for some delightful and mouthwatering  sweet treats? Wendears Cake is just right for you! 👌❤️  

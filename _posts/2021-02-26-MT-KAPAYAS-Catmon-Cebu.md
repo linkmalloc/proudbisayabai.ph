@@ -15,6 +15,7 @@ img_500x500: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,
 img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1614322426/3000x1144/febpost.3.4_b2steg.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1614322426/3000x1144/febpost.3.3_l0hgbk.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1614322426/3000x1144/febpost.3.2_kjbjxs.jpg
+published: false
 ---
 What's  NEXT?  Trekking  with  Barkadas?  Experience  to  climb  of  Cebu's  one  of  the highest peak — Mt. Kapayas in Catmon!
 

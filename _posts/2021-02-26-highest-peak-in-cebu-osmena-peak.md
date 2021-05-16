@@ -22,6 +22,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614347012/o
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614347011/osmenapeak/153205433_300491411746534_4193549662460933643_n_xu0ust.jpg
 photo_credit: "Bisaya Images"
 photo_credit_link: ""
+published: false
 ---
 #### OSMEÑA PEAK
 <center>1013 meters above sea level ⛰🏕😯  </center>
