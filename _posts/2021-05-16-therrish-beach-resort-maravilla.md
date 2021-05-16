@@ -27,7 +27,7 @@ A peaceful resort along the well-known Maravilla White Sand Shoreline. **Therris
 
 ![](/images/posts/therrish_beach_resort_maravilla/6.jpg)  
 
-The resort cottages are in native styles and are made from antique bayong and tugas woods with common cr and shower shared outside. They also have middle-class rooms with reasonable prices that have cr and shower inside. Parking is not problem for they have a big parking area for their guest. You can check the rates when you scroll down below.
+The resort cottages are in native styles and are made from antique bayong and tugas woods with common cr and shower. They also have middle-class rooms with reasonable prices that have cr and shower inside. Parking is not a problem for they have a big parking area for their guest. You can check the rates when you scroll down below.
 
 ![](/images/posts/therrish_beach_resort_maravilla/20.jpg)  
 
