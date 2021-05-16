@@ -19,7 +19,7 @@ photo_credit: "Twin De Los Reyes / Pbb Content Editor"
 photo_credit_link: ""
 ---
 #### Therrish Beach Resort
-Are you looking for a place na makarelax and chill? Tara na mga Bai sa Therrish Beach Resort of Marivilla! 🌴🌊🌞🏀  
+Are you looking for a place na makarelax and chill? Tara na mga Bai sa Therrish Beach Resort of Maravilla! 🌴🌊🌞🏀  
 
 A peaceful resort along the well-known Maravilla White Sand Shoreline. **Therrish Beach Resort** offers a relaxed ambiance, a white sand beach within walking distance, swimming pools, rooms and cottages with reasonable prices, and not to mention the NBA-inspired paintings on their walls.
 
@@ -27,7 +27,7 @@ A peaceful resort along the well-known Maravilla White Sand Shoreline. **Therris
 
 ![](/images/posts/therrish_beach_resort_maravilla/6.jpg)  
 
-The resort cottages are in native styles and are made from antique bayong and tugas woods with common cr and shower shared outside. They also have middle-class rooms with reasonable prices that have cr and shower inside. Parking is not problem for they have a big parking area for their guest. You can check the rates when you scroll down below.
+The resort cottages are in native styles and are made from antique bayong and tugas woods with common cr and shower. They also have middle-class rooms with reasonable prices that have cr and shower inside. Parking is not a problem for they have a big parking area for their guest. You can check the rates when you scroll down below.
 
 ![](/images/posts/therrish_beach_resort_maravilla/20.jpg)  
 
