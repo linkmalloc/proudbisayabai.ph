@@ -3,8 +3,8 @@ author: "Twin De Los Reyes / Pbb Content Editor"
 author_img: "/images/posts/team/twin.jpg"
 layout: post
 read_time: "5 minutes"
-title: "Therrish Beach Resort"
-description: ""
+title: "Therrish Beach Resort of Maravilla: A Peaceful Resort with NBA-inspired Murals"
+description: "A peaceful resort along the well-known Maravilla White Sand Shoreline. Therrish Beach Resort offers a relaxed ambiance, a white sand beach within walking distance, swimming pools, rooms and cottages with reasonable prices, and not to mention the NBA-inspired paintings on their walls."
 categories:
   - destination
 tags:
@@ -19,46 +19,32 @@ photo_credit: "Twin De Los Reyes / Pbb Content Editor"
 photo_credit_link: ""
 ---
 #### Therrish Beach Resort
-Are you looking for a place na makarelax and chill? Tara na mga Bai sa Therrish Beach Resort Marivilla! 🌴🌊🌞🏀  
+Are you looking for a place na makarelax and chill? Tara na mga Bai sa Therrish Beach Resort of Marivilla! 🌴🌊🌞🏀  
 
 A peaceful resort along the well-known Maravilla White Sand Shoreline. **Therrish Beach Resort** offers a relaxed ambiance, a white sand beach within walking distance, swimming pools, rooms and cottages with reasonable prices, and not to mention the NBA-inspired paintings on their walls.
 
-****
 ![](/images/posts/therrish_beach_resort_maravilla/2.jpg)  
-<small>Source: Twin De Los Reyes / Pbb Content Editor</small>  
 
-****
 ![](/images/posts/therrish_beach_resort_maravilla/6.jpg)  
-<small>Source: Twin De Los Reyes / Pbb Content Editor</small>  
 
-The resort cottages are in native styles and are made from antique woods which are bayong and tugas. Common cr and shower are shared outside. They also have middle-class rooms with reasonable prices that have cr and shower inside, you can check the rates when you scroll down below. They have a big parking space for their guest too.
+The resort cottages are in native styles and are made from antique bayong and tugas woods with common cr and shower shared outside. They also have middle-class rooms with reasonable prices that have cr and shower inside. Parking is not problem for they have a big parking area for their guest. You can check the rates when you scroll down below.
 
-****
 ![](/images/posts/therrish_beach_resort_maravilla/20.jpg)  
-<small>Source: Michael Sagonoy | Pobreng Laagan | Drone Pilot</small>  
 
-****
 ![](/images/posts/therrish_beach_resort_maravilla/15.jpg)  
-<small>Source: Michael Sagonoy | Pobreng Laagan | Drone Pilot</small>  
 
 They have two swimming pools for both adults and kids to enjoy as well.
 
-****
 ![](/images/posts/therrish_beach_resort_maravilla/4.jpg)  
-<small>Source: Twin De Los Reyes / Pbb Content Editor</small>  
 
-****
 ![](/images/posts/therrish_beach_resort_maravilla/5.jpg)  
-<small>Source: Twin De Los Reyes / Pbb Content Editor</small>  
 
-****
 ![](/images/posts/therrish_beach_resort_maravilla/10.jpg)  
-<small>Source: Twin De Los Reyes / Pbb Content Editor</small>  
 
 Going north of Cebu, Therrish Beach resort is exactly located at barangay Maravilla, Tabuelan, Cebu. Their main priority is to provide happy services and new memories to all their guests. So mga bai, adto nata sa Therrish Beach Resort of Maravilla!
 
 ****
-##### ROOM RATES
+##### RATES
 
 DAY USE RATE FOR WEEKDAYS ONLY LIMITED SPOTS FOR DAY USE   
   
@@ -86,14 +72,15 @@ Restaurant is on the site and over all corkage fee is 500
 ****
 ##### OTHER INFO
 
-Should you have question and other inquiries please contact them either of the details below:  
+Should you have question and other inquiries, you can reach them on the contact info below:  
 👉 Click the Full details here: [https://www.facebook.com/TherrishBeachResort/](https://www.facebook.com/TherrishBeachResort/)  
 📞 Contact number: 0949 896 3817   
 📥 Email add: trepalam@yahoo.com  
 
 
 ****
-##### HOW TO GET THERE?
+****
+##### HOW TO GET THERE?  
 
 🌍 Exact Location: Maravilla Tabuelan, Cebu   
 Therrish Beach Resort Maravilla  
