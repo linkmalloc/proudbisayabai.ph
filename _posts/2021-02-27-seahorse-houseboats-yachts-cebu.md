@@ -22,6 +22,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422907/a
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614422907/arterra-hotel/154382442_301488518313490_6710829041847673994_n_o83gxj.jpg
 photo_credit: "April Mae Puyod"
 photo_credit_link: ""
+published: false
 ---
 
 #### SAAN AABOT ang P2,000 pesos mo?   

@@ -21,6 +21,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615046442/p
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615046446/payag_ni_pedro/kci3qksbwxsdmygxgld8.jpg
 photo_credit: "Solo Traveler"
 photo_credit_link: "Https://www.facebook.com/solotravelernegros/"
+published: false
 ---
 #### PAYAG NI PEDRO
   

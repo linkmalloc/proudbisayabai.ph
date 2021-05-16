@@ -21,6 +21,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614353855/j
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614353856/jellys-haven-resort/154692938_301260098336332_1214966365335264212_o_qtjxho.jpg
 photo_credit: "Elona Bae"
 photo_credit_link: ""
+published: false
 ---
 #### Jellys Haven Resort
 

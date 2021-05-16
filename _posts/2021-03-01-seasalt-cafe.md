@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614611681/s
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614611682/seasaltcafe/154868576_302250371570638_1610258068731342018_n_e3tfci.jpg
 photo_credit: "Nads Samonte"
 photo_credit_link: ""
+published: false
 ---
 #### SEASALT CAFE    
   

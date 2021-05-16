@@ -21,6 +21,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614612671/r
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614612671/ranolabeach/154751185_302693401526335_2899084459828854229_n_uriznu.jpg
 photo_credit: "Visayan Aerials"
 photo_credit_link: ""
+published: false
 ---
 #### Rañola Beach Resort  
   

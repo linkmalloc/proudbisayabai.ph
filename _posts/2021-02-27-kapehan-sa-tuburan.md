@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614418502/1
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614418502/154702631_302125164916492_6599874422614249817_n_ai9v1b.jpg
 photo_credit: "Negros Finest"
 photo_credit_link: "https://www.facebook.com/NegrosFinest"
+published: false
 ---
 Come and Relax here at Kapehan Sa Tuburan in brgy. Orong Kabankalan City, Negros Occidental! 🏕🍃😯  
   

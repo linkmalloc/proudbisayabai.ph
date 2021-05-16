@@ -22,6 +22,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010510/b
 photo_credit: "Nelson Judaya"
 photo_credit_link: ""
 published: true
+published: false
 ---
 #### Bantayan, Island, Philippines
 <center>Tag na ang Barkadas sa next destination ninyo Bai!  😯🏖💦</center>  

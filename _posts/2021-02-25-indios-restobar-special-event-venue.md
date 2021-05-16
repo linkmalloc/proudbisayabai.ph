@@ -19,6 +19,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614182085/i
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614182085/indiosunli/153643051_299893218473020_4311235946547096072_n_ox4fkx.jpg
 photo_credit: "Indios Restobar "
 photo_credit_link: "https://www.facebook.com/indiosrestobar/"
+published: false
 ---
 Looking for a perfect venue on your SPECIAL EVENT? Perfect timing mga bai! Indios Restobar is now offering a venue for your SPECIAL DAY!  🎉🎁😍  
 
