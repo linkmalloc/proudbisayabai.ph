@@ -47,7 +47,7 @@ Moringa has been used for centuries due to its medicinal properties and health b
 
 ****
 ![](/images/posts/moringa_smoothies_and_tea/14.jpg)  
-###### Moring Cookies: (Box of 10)
+###### Moringa Cookies: (Box of 10)
 - Sweetend Moringa Cookies: P200.00
 - Low Sugar Moringa Cookies: P200.00
 
