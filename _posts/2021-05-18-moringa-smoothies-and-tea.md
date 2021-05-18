@@ -17,11 +17,11 @@ photo_credit: "Pbb Team"
 photo_credit_link: ""
 ---
 ****
-Looking for a diet Milk Tea without worrying about gaining too much calories? Never miss a quick sip when heading to Ayala Center Cebu at "Moringa Smoothies & Tea". Satisfying your Milk Tea cravings without guilt. Plus a lot more healthy snacks offered. Sugod na ta ug diet bai! Summer na raba. 😍🍵🍪
+Looking for a diet Milk Tea without worrying about gaining too much calories? Never miss a quick sip when heading to Ayala Center Cebu at **Moringa Smoothies & Tea**. Satisfying your Milk Tea cravings without guilt. Plus a lot more healthy snacks offered. Sugod na ta ug diet bai! Summer na raba. 😍🍵🍪
 
 ![](/images/posts/moringa_smoothies_and_tea/13.jpg)  
 
-Moringa has been used for centuries due to its medicinal properties and health benefits. It also has antifungal, antiviral, antidepressant, and anti-inflammatory properties. The benefits and healing effect of Moringa is legendary so start your day by keeping healthy and safe, start your day with a nutritious cup of Moringa smoothies or any of our Tea beverages.
+**Moringa** has been used for centuries due to its medicinal properties and health benefits. It also has antifungal, antiviral, antidepressant, and anti-inflammatory properties. The benefits and healing effect of Moringa is legendary so start your day by keeping healthy and safe, start your day with a nutritious cup of Moringa smoothies or any of our Tea beverages.
 
 ****
 #### MENU  
