@@ -8,9 +8,9 @@ categories:
 tags:
   - resort
 views: "10"
-img_big_1000x600: /images/posts/pulcha_resort/11.jpg
+img_big_1000x600: /images/posts/pulcha_resort/5.jpg
 img_big_3000x1144: /images/posts/pulcha_resort/cover.jpg
-img_500x500: /images/posts/pulcha_resort/11.jpg
+img_500x500: /images/posts/pulcha_resort/5.jpg
 photo_credit: "Edz Go , Pulchra Resort, Cebu Facebook Page"
 photo_credit_link: ""
 author_img: "/images/posts/team/thirdy.jpg"
@@ -22,7 +22,7 @@ LOOK: Experience the warm embrace from the heart of one of the ASEAN Green Resor
 
 Pulchra is a Latin word that means "beautiful". Nature inspired the birth of Pulchra. The particular combination of the sky, sea, and earth enables one to find pleasure in tranquility. Pulchra's calm and relaxing ambience helps to unfold one's inner peace and unravels one's inner treasures - a path towards true beauty.
 
-![](/images/posts/pulcha_resort/5.jpg)  
+![](/images/posts/pulcha_resort/11.jpg)  
 
 Pulchra anticipates this moment after a long rest of healing. They are full of new energy as they open their arms to the Philippine market.  
 
@@ -33,7 +33,7 @@ Pulchra anticipates this moment after a long rest of healing. They are full of n
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31417.029070383058!2d123.70138994762002!3d10.170198179983466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x14d0755fcfda86ec!2sPulchra%20Resort!5e0!3m2!1sen!2sph!4v1621762970584!5m2!1sen!2sph" style="width: 100%; height: 450px; border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-
+****
 ###### Operating Hours
 Please be informed that Day Use starts at **9 a.m until 4 p.m.**  
 EARLY CHECK-IN is allowed at **8 a.m.**  
