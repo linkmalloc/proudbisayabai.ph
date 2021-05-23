@@ -1,7 +1,7 @@
 ---
 author: "Ariel Alegado | Team Leader"
 layout: post
-title: "Pangea Beach Resort: a peaceful beach resort with overlooking view somewhere in Liloan Cebu"
+title: "Pangea Beach Resort: A Peaceful Beach Resort with Overlooking View somewhere in Metro Cebu"
 description: " relaxing and peaceful beach resort in Liloan, Cebu. Pangeas Beach Resort is a good place to chil and kill the time."
 categories:
   - destination
