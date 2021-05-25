@@ -22,7 +22,7 @@ read_time: "6 minutes"
 ---
 #### Funtastic Island   
 
-A place of fun and great adventure. **Funtastic Island** is a place to relax and enjoy the ocean breeze that will surely captivate your hearts. The place is worth to experience with family and friends. The main highlight of the **Funtastic Island** is the cliff jumping that gives you the adrenaline rush and the beautiful cottages on top of the boulders. The view that it offers is really amazing.
+A place of fun and great adventure. **Funtastic Island** is a place to relax and enjoy the ocean breeze that will surely captivate your hearts. The place is worth experiencing with family and friends. The main highlight of **Funtastic Island** is the cliff jumping that gives you the adrenaline rush and the beautiful cottages on top of the boulders. The view that it offers is really amazing.
 
 ![](/images/posts/funtastic_island/2.jpg)  
 
@@ -33,11 +33,11 @@ A place of fun and great adventure. **Funtastic Island** is a place to relax and
 ![](/images/posts/funtastic_island/6.jpg)  
 <small>Source: Jack Ponpon / Jak73</small>
 
-Going there is already an adventure. Funtastic Island is located at Gibitngil Island, Medellin so you would need to ride a boat in order to get here.  
+Going there is already an adventure. Funtastic Island is located at Gibitngil Island, Medellin, so you need to ride a boat to get here.  
 
 ![](/images/posts/funtastic_island/4.jpg)  
 
-On this Island you can also enjoy swimming along with plenty of fishes, ride their zipline and do kayaking. Yes indeed! It’s more FUN in Funtastic Island! Arats na! 💦🌞  
+On this Island, you can also enjoy swimming along with plenty of fishes, ride their zipline and do kayaking. Yes indeed! It’s more FUN on Funtastic Island! Arats na! 💦🌞  
 
 ![](/images/posts/funtastic_island/11.jpg)  
 
