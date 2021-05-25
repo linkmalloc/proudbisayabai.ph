@@ -41,7 +41,11 @@ layout: default
                             </div>
                             <!--end single header-->
                             <figure class="image mb-15 m-auto text-center border-radius-10">
-                                <img class="border-radius-10" src="{{ page.img_big_1000x600 }}" alt="post-title" />
+                                {% if page.img_post_header %}
+                                    <img class="border-radius-10" src="{{ page.img_post_header }}" alt="post-title" />
+                                {% else %}
+                                    <img class="border-radius-10" src="{{ page.img_big_1000x600 }}" alt="post-title" />
+                                {% endif %}
                             </figure>
                             <!--figure-->
                             <article class="entry-wraper mb-50" id="article-body">
