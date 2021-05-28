@@ -48,17 +48,14 @@ You will surely love the walk to the river from the entrance. Wooden paths and b
 ****
 ![](/images/posts/bojo_river/9.jpg)  
 
-****
-![](/images/posts/bojo_river/12.jpg)  
-
 ##### EXACT LOCATION
 
 🌍 Barangay Bojo, Aloguinsan, Cebu, Philippines
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d18488.694426332524!2d123.53675234955963!3d10.206152731036704!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a9643e816935ed%3A0x3ab2df5c573ed980!2sBojo%20River%20Cruise!5e0!3m2!1sen!2sph!4v1622221632470!5m2!1sen!2sph" style="width: 100%; width: 450px; border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ##### CONTACT INFORMATION
 Phone: [+63 32 583-6797](tel:+63 32 583-6797)
-
 
 ****
 ![](/images/posts/bojo_river/4.jpg)  
@@ -79,7 +76,6 @@ Phone: [+63 32 583-6797](tel:+63 32 583-6797)
 ****
 ![](/images/posts/bojo_river/10.jpg)  
 <small>Source: Jonathan Dy</small>  
-
 
 ****
 ![](/images/posts/bojo_river/13.jpg)  
