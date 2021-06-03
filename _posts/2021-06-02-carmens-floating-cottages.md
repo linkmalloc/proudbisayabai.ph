@@ -10,9 +10,8 @@ tags:
 views: "10"
 img_big_1000x600: /images/posts/carmens_floating_cottages/1.jpg
 img_big_3000x1144: /images/posts/carmens_floating_cottages/cover.jpg
-img_500x500: /images/posts/carmens_floting_cottages/1.jpg
+img_500x500: /images/posts/carmens_floating_cottages/1.jpg
 img_post_header: /images/posts/carmens_floating_cottages/cover.jpg
-img_500_5: 
 photo_credit: "PBB Mindanao Team + Cheranton TV via Juan Virtudazo, Contributor"
 photo_credit_link: ""
 author_img: "/images/posts/team/bench.jpg"
