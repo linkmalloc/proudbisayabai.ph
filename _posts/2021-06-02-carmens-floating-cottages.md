@@ -8,10 +8,10 @@ categories:
 tags:
   - mindanao
 views: "10"
-img_big_1000x600: /images/posts/carmens_floting_cottages/1.jpg
-img_big_3000x1144: /images/posts/carmens_floting_cottages/1.jpg
+img_big_1000x600: /images/posts/carmens_floating_cottages/1.jpg
+img_big_3000x1144: /images/posts/carmens_floating_cottages/cover.jpg
 img_500x500: /images/posts/carmens_floting_cottages/1.jpg
-img_post_header: /images/posts/carmens_floting_cottages/cover.jpg
+img_post_header: /images/posts/carmens_floating_cottages/cover.jpg
 img_500_5: 
 photo_credit: "PBB Mindanao Team + Cheranton TV via Juan Virtudazo, Contributor"
 photo_credit_link: ""
@@ -23,11 +23,11 @@ Carmen, Agusan del Norte is considered as the Floating Cottage Capital of the Ph
 
 These floating cottages are made up of bamboos and are perfectly designed not to capsize or sink at all.  
 
-![](/images/posts/carmens_floting_cottages/5.jpg)
+![](/images/posts/carmens_floating_cottages/5.jpg)
 
 The place has accommodating staff, delicious food, and excellent safety measures. With the pandemic still going, the resort owners imposed that they limit the number of people allowed, depending on the size. These floating cottages are for rent. You can check the rates provided below.    
 
-![](/images/posts/carmens_floting_cottages/2.jpg)
+![](/images/posts/carmens_floating_cottages/2.jpg)
 
 Floating Cottages for you, your friends and your family to have fun under the sun! Swim, dive and dine. Arats mga bai!  
 
@@ -68,7 +68,7 @@ Monday to Friday:
   
 PS. If wala mo’y dala nga foods, ayaw mog kabalaka kay daghay maorderan na foods sa kilid kilid. 😉   
 
-![](/images/posts/carmens_floting_cottages/4.jpg)
+![](/images/posts/carmens_floating_cottages/4.jpg)
 
 ♻️🗑LEAVE NO TRACE! ( Gasa sa kina-iyahan nga angay ampingan, Matag usa kanato makatabang sa pag amping sa atong kalikopan sama sa pag punit sa basura ug paglabay niini sa saktong labayanan)
 
