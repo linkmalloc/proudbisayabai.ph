@@ -19,7 +19,11 @@ read_time: "3 minutes"
 ---
 ****
 TRENDING: Mga Bai you want to satisfy your Milktea cravings? Grab the chance to try some of their variety of Milktea Flavors and other menu at Sebu cha! 🥤😍  
-  
+
+SEBU CHA “Cebu Tea" is a locally home-grown brand in Cebu City that offers a wide range of milk tea varieties and original flavorsome on-trend beverages that comes with quality and satisfaction at an affordable price.
+
+Sebu Cha Philippines started in Cebu City and Carmen was the first branch to operate homebased set up and focused on delivery. For two months it grew consistently that they managed to branch out further North and South of Cebu with the goal of setting up one Sebu Cha outlet per municipality in Cebu and to the other islands in the Philippines.
+
 Brighten up your day with our Premium and Latte Series. A delectable you can treat yourself after a busy week.   
 
 🕒 Operating hours:  
