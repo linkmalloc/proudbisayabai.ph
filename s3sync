@@ -1,0 +1,1 @@
+aws s3 sync images/ s3://pbb-images/images

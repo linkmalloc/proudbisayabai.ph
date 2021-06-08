@@ -1,6 +1,6 @@
 ---
 author: "Ariel Alegado Alvarez"
-author_img: "/images/posts/team/ariel.jpg"
+author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
 layout: post
 title: "A Well-Hidden Waterfall in Southern Cebu is now open for Guests and Visitors"
 description: "Tay-ong Falls is now officially accepting guests and visitors!"
@@ -11,9 +11,9 @@ tags:
   - cebu-south
 views: "10"
 read_time: "5 minutes"
-img_big_1000x600: /images/posts/tayong_falls/1.jpg
-img_big_3000x1144: /images/posts/tayong_falls/cover.jpg
-img_500x500: /images/posts/tayong_falls/1.jpg
+img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tayong_falls/1.jpg
+img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tayong_falls/cover.jpg
+img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tayong_falls/1.jpg
 photo_credit: "Ganados Photography"
 photo_credit_link: ""
 ---
@@ -23,10 +23,10 @@ photo_credit_link: ""
 ****
 A pristine and well-hidden waterfall is now open for tourists. **Tay-ong Falls** is exactly located at Barangay Anajao, Argao Cebu. This hidden gem is worth visiting for the clean and refreshing water and the instagrammable view that it offers.  
 
-![](/images/posts/tayong_falls/4.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tayong_falls/4.jpg)  
 
 ****
-![](/images/posts/tayong_falls/2.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tayong_falls/2.jpg)  
 
 ****
 ##### AMMENITIES 🔖  
@@ -37,7 +37,7 @@ Cottages are available for an affordale rate. Just to be clear, the Barangay is 
 This is a fairly young Tourist Attraction, so they do not yet have a lot of food options for the visitors. But pretty soon, with your help, more options should be available. So, again, for now, bring your own ready to eat food and drinks for a much more satisfying experience.  
 
 ****
-![](/images/posts/tayong_falls/9.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tayong_falls/9.jpg)  
 <small>Source: Ganados Photography</small>  
 
 ****  
@@ -49,7 +49,7 @@ Well, considering the fact that this is located at the outskirts of Argao, netwo
 None is available around this area. Just make sure you have a little cash on you for those sudden expenses. GCASH will also not be of any help here because there is no Network availability. So, for all your money needs, settle those first at the Poblacion or the center of Argao.  
 
 
-![](/images/posts/tayong_falls/8.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tayong_falls/8.jpg)  
 
 ****
 ##### HOW TO GET THERE   
@@ -63,7 +63,7 @@ None is available around this area. Just make sure you have a little cash on you
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d62869.65057948926!2d123.53217337275547!3d9.98750366306414!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x9e6a7827a0876ad1!2sLusno%20falls!5e0!3m2!1sen!2sph!4v1620352814310!5m2!1sen!2sph" style="width: 100%; height: 450px; border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ****
-![](/images/posts/tayong_falls/5.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tayong_falls/5.jpg)  
 
 ****
 ##### PROCEDURES
@@ -73,7 +73,7 @@ Upon arrival, guests are to register at the Barangay Hall of Anajao and pay mini
 The Argao Tourism team headed by their active Tourism Chairman, Municipal Councilor Jag Lucero and his ever supportive Tourism Officer Sir Jotam Saragena. Of course, a grand opening wouldn't be complete without the Father of the Municipality, Mayor Allan Sesaldo.
 
 ****
-![](/images/posts/tayong_falls/3.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tayong_falls/3.jpg)  
 <small>Source: Ganados Photography</small>  
 
 ♻️🗑LEAVE NO TRACE!   
@@ -81,10 +81,10 @@ Gasa sa kina-iyahan nga angay ampingan, Matag usa kanato makatabang sa pag ampin
 
 
 ****
-![](/images/posts/tayong_falls/7.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tayong_falls/7.jpg)  
 <small>Source: Ganados Photography</small>  
 
 
 ****
-![](/images/posts/tayong_falls/10.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tayong_falls/10.jpg)  
 <small>Source: Ganados Photography</small>  

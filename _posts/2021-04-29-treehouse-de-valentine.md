@@ -27,7 +27,7 @@ Treehouse de Valentine in Balamban, Cebu is - a must experience! 💦🍃🌴
 This place is really giving you the nature vibe! Experience the great outdoors in your own secluded Treehouse, equipped with modern amenities that don’t spoil its native vibe. Treehouse de Valentine has a lot to offer. You can fully enjoy nature, rest on your own suspended catch net, recharge in your mini jacuzzi, reflect as you spend time with the trees on the balcony, or you can take a rejuvenating swim in the nearby stream.  
 
 ****
-![](/images/posts/treehouse_de_valentine/7.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/7.jpg)  
 <small>Source: Chris Lloyd Tan Dunque</small>  
 
 
@@ -45,7 +45,7 @@ You can book through airbnb
 Check-in time is after 3PM  
 Check-out time is at 11AM  
 
-![](/images/posts/treehouse_de_valentine/2.jpg)
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/2.jpg)
 
 ****
 ##### HOW TO GET THERE  
@@ -67,71 +67,71 @@ Treehouse de Valentine is exactly located n Hingatmonan Balamban, Cebu. It's jus
 #### FEATURED IMAGES
 
 ****
-![](/images/posts/treehouse_de_valentine/8.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/8.jpg)  
 <small>Source: Chris Lloyd Tan Dunque</small>  
 
 ****
-![](/images/posts/treehouse_de_valentine/9.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/9.jpg)  
 <small>Source: Chris Lloyd Tan Dunque</small>  
 
 ****
-![](/images/posts/treehouse_de_valentine/10.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/10.jpg)  
 <small>Source: Chris Lloyd Tan Dunque</small>  
 
 ***
-![](/images/posts/treehouse_de_valentine/11.jpg)
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/11.jpg)
 <small>Source: Nova Souley Auxtero</small>
 
 ***
-![](/images/posts/treehouse_de_valentine/12.jpg)
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/12.jpg)
 <small>Source: Nova Souley Auxtero</small>
 
 ***
-![](/images/posts/treehouse_de_valentine/13.jpg)
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/13.jpg)
 <br>
 <small>Source: Nova Souley Auxtero</small>
 
 ***
-![](/images/posts/treehouse_de_valentine/14.jpg)
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/14.jpg)
 <small>Source: Nova Souley Auxtero</small>
 
 ***
-![](/images/posts/treehouse_de_valentine/16.jpg)
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/16.jpg)
 <small>Source: Nova Souley Auxtero</small>
 
 ***
-![](/images/posts/treehouse_de_valentine/17.jpg)
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/17.jpg)
 <small>Source: Nova Souley Auxtero</small>
 
 ***
-![](/images/posts/treehouse_de_valentine/18.jpg)
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/18.jpg)
 <br>
 <small>Source: Nova Souley Auxtero</small>
 
 ***
-![](/images/posts/treehouse_de_valentine/19.jpg)
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/19.jpg)
 <small>Source: Nova Souley Auxtero</small>
 
 ****
-![](/images/posts/treehouse_de_valentine/21.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/21.jpg)  
 <small>Source: Jay R De La Calzada</small>  
 
 ****
-![](/images/posts/treehouse_de_valentine/22.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/22.jpg)  
 <small>Source: Jay R De La Calzada</small>  
 
 ****
-![](/images/posts/treehouse_de_valentine/23.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/23.jpg)  
 <small>Source: Jay R De La Calzada</small>  
 
 ****
-![](/images/posts/treehouse_de_valentine/24.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/24.jpg)  
 <small>Source: Jay R De La Calzada</small>  
 
 ****
-![](/images/posts/treehouse_de_valentine/25.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/25.jpg)  
 <small>Source: Jay R De La Calzada</small>  
 
 ****
-![](/images/posts/treehouse_de_valentine/26.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/treehouse_de_valentine/26.jpg)  
 <small>Source: Jay R De La Calzada</small>  

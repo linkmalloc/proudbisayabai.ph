@@ -1,6 +1,6 @@
 ---
 author: "Bench Lee | Photo Blogger"
-author_img: "/images/posts/team/bench.jpg"
+author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/bench.jpg"
 layout: post
 title: "Experience Farm Life at Azienda Gracia in Cebu City"
 description: "Looking for a relaxing and peaceful place to chill with your special someone? Well, Azienda Gracia is waving for you!"
@@ -10,9 +10,9 @@ tags:
   - ProvinceLife
 views: "10"
 read_time: "4 minutes"
-img_big_1000x600: /images/posts/azienda_gracia_farm/1.jpg
-img_big_3000x1144: /images/posts/azienda_gracia_farm/cover.jpg
-img_500x500: /images/posts/azienda_gracia_farm/1.jpg
+img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/azienda_gracia_farm/1.jpg
+img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/azienda_gracia_farm/cover.jpg
+img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/azienda_gracia_farm/1.jpg
 photo_credit: "Azienda Gracia FB Page"
 photo_credit_link: ""
 ---
@@ -22,15 +22,15 @@ Looking for a relaxing and peaceful place to chill with your special someone? We
 
 **Azienda Gracia** is an organic farm in the highlands of Barangay Guba, Cebu City. The farm has a big treehouse with open living space on the main floor, bedrooms on the attic, and a kitchen on the lower ground. The spacious main floor is a good place for guests to bond, do workshops and seminars, or chill and relax while surrounded by nature. 
 
-![](/images/posts/azienda_gracia_farm/2.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/azienda_gracia_farm/2.jpg)  
 <small>Source: Azienda Gracia FB Page</small>  
 
-![](/images/posts/azienda_gracia_farm/4.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/azienda_gracia_farm/4.jpg)  
 <small>Source: Azienda Gracia FB Page</small>  
 
 Azienda Gracia is a working farm with farm animals and livestock, vegetable gardens, fruit-bearing trees, native tree collections, stingless bees, and many more. It is a complete experience to farm life and nature.
 
-![](/images/posts/azienda_gracia_farm/9.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/azienda_gracia_farm/9.jpg)  
 <small>Source: Azienda Gracia FB Page</small>  
 
 ##### MORE INFORMATION
@@ -75,17 +75,17 @@ Azienda Gracia is a working farm with farm animals and livestock, vegetable gard
 Gasa sa kina-iyahan nga angay ampingan, Matag usa kanato makatabang sa pag amping sa atong kalikopan sama sa pag punit sa basura ug paglabay niini sa saktong labayanan
 
 ****
-![](/images/posts/azienda_gracia_farm/5.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/azienda_gracia_farm/5.jpg)  
 <small>Source: Azienda Gracia FB Page</small>  
 
 ****
-![](/images/posts/azienda_gracia_farm/6.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/azienda_gracia_farm/6.jpg)  
 <small>Source: Azienda Gracia FB Page</small>  
 
 ****
-![](/images/posts/azienda_gracia_farm/7.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/azienda_gracia_farm/7.jpg)  
 <small>Source: Azienda Gracia FB Page</small>  
 
 ****
-![](/images/posts/azienda_gracia_farm/8.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/azienda_gracia_farm/8.jpg)  
 <small>Source: Azienda Gracia FB Page</small>  

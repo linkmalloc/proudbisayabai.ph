@@ -1,6 +1,6 @@
 ---
 author: "Ariel Alegado | Team Leader"
-author_img: "/images/posts/team/ariel.jpg"
+author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
 layout: post
 title: "Budget Friendly Beach Resort somewhere in Lapu-lapu City"
 description: "Unwind and bond with family and friends at Ritz Beach Resort in Lapu-lapu City, Cebu. No Entrance Fee!"
@@ -12,9 +12,9 @@ tags:
   - resort
 views: "10"
 read_time: "3 minutes"
-img_big_1000x600: /images/posts/ritz_beach_resort/1.jpg
-img_big_3000x1144: /images/posts/ritz_beach_resort/cover.jpg
-img_500x500: /images/posts/ritz_beach_resort/1.jpg
+img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort/1.jpg
+img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort/cover.jpg
+img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort/1.jpg
 photo_credit: "Ray Mond"
 photo_credit_link: ""
 ---
@@ -22,11 +22,11 @@ photo_credit_link: ""
 
 Looking for a place with a budget-friendly getaway? Then Ritz Beach Resort is what you are looking for. This is a great place for a family outing, team building or just chilling out with your barkadas. The place offers clean accommodations, friendly staff, and pristine waters that highlight the sunset view. 
 
-![](/images/posts/ritz_beach_resort/6.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort/6.jpg)  
 
 The resort is situated in Sitio Kalipayan, Lapu-Lapu City, Cebu. It is just 20km away from Cebu City or an estimated 35 minutes drive depending on the traffic situation. 
 
-![](/images/posts/ritz_beach_resort/5.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort/5.jpg)  
 
 Simple but Worth it Bai! Get unwind and bonding with family and friends at Ritz Beach Resort in Lapu-Lapu City, Cebu. No Entrance Fee! 🏖😍😯  
 
@@ -78,29 +78,29 @@ They will accept reservation in advance.
 ****
 #### MORE IMAGES
 
-![](/images/posts/ritz_beach_resort/1.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort/1.jpg)  
 <small>Source: Ray Mond</small>  
 
 ****
-![](/images/posts/ritz_beach_resort/2.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort/2.jpg)  
 <small>Source: Ray Mond</small>  
 
 ****
-![](/images/posts/ritz_beach_resort/3.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort/3.jpg)  
 <small>Source: Ray Mond</small>  
 
 ****
-![](/images/posts/ritz_beach_resort/4.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort/4.jpg)  
 <small>Source: Ray Mond</small>  
 
 ****
-![](/images/posts/ritz_beach_resort/7.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort/7.jpg)  
 <small>Source: Ray Mond</small>  
 
 ****
-![](/images/posts/ritz_beach_resort/8.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort/8.jpg)  
 <small>Source: Ray Mond</small>  
 
 ****
-![](/images/posts/ritz_beach_resort/9.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort/9.jpg)  
 <small>Source: Ray Mond</small>  

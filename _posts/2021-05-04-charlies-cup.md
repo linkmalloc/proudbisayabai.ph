@@ -10,9 +10,9 @@ tags:
   - cafe
 views: "10"
 read_time: "4 minutes"
-img_big_1000x600: /images/posts/charlies_cup/1.jpg
-img_big_3000x1144: /images/posts/charlies_cup/cover.jpg
-img_500x500: /images/posts/charlies_cup/1.jpg
+img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/1.jpg
+img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/cover.jpg
+img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/1.jpg
 photo_credit: "Jay R De La Calzada"
 photo_credit_link: ""
 ---
@@ -22,19 +22,19 @@ Coffee Lover? or Nature Lover? You can have both Bai at Charlie's Cup! 🍂☕�
 
 This coffee shop named after the owner’s pet Charlie is a must-visit on your next trip! A Combination of cool air and unique restaurant makes your Pabukid all worth it.
 
-![](/images/posts/charlies_cup/4.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/4.jpg)  
 
 What this cafe offers that the others don't have is the overlooking view of the mountains.
 
-![](/images/posts/charlies_cup/5.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/5.jpg)  
 
 It is located in barangay Tabunan Cebu City, along Trancentral Highway, just before the "Welcome to Balamban" sign. It is just 28km away from Cebu City or a 50 minutes drive.
 
-![](/images/posts/charlies_cup/14.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/14.jpg)  
 
 A very cool and refreshing place to visit to ease your stress. Definitely, you'll enjoy much along the road while viewing nature and mountainous sceneries. When going to TCH, don’t forget to stop over to Charlie's Cup. ❤
 
-![](/images/posts/charlies_cup/23.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/23.jpg)  
 
 ****
 ##### HOW TO GET THERE
@@ -54,99 +54,99 @@ A very cool and refreshing place to visit to ease your stress. Definitely, you'l
 #### MORE IMAGES
 
 ****
-![](/images/posts/charlies_cup/26.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/26.jpg)  
 <small>Source: Amor Mi Amor</small>  
 
-![](/images/posts/charlies_cup/2.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/2.jpg)  
 <small>Source: Jay R De La Calzada</small>  
 
 ****
-![](/images/posts/charlies_cup/3.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/3.jpg)  
 <small>Source: Jay R De La Calzada</small>  
 
 
 ****
-![](/images/posts/charlies_cup/6.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/6.jpg)  
 <small>Source: Jay R De La Calzada</small>  
 
 ****
-![](/images/posts/charlies_cup/7.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/7.jpg)  
 <small>Source: Jay R De La Calzada</small>  
 
 ****
-![](/images/posts/charlies_cup/8.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/8.jpg)  
 <small>Source: Jay R De La Calzada</small>  
 
 ****
-![](/images/posts/charlies_cup/9.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/9.jpg)  
 <small>Source: Cedric Lucero</small>  
 
 ****
-![](/images/posts/charlies_cup/10.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/10.jpg)  
 <small>Source: Cedric Lucero</small>  
 
 ****
-![](/images/posts/charlies_cup/11.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/11.jpg)  
 <small>Source: Cedric Lucero</small>  
 
 ****
-![](/images/posts/charlies_cup/12.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/12.jpg)  
 <small>Source: Cedric Lucero</small>  
 
 ****
-![](/images/posts/charlies_cup/13.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/13.jpg)  
 <small>Source: Cedric Lucero</small>  
 
 ****
-![](/images/posts/charlies_cup/15.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/15.jpg)  
 <small>Source: Cedric Lucero</small>  
 
 ****
-![](/images/posts/charlies_cup/16.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/16.jpg)  
 <small>Source: Cedric Lucero</small>  
 
 ****
-![](/images/posts/charlies_cup/17.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/17.jpg)  
 <small>Source: Cedric Lucero</small>  
 
 ****
-![](/images/posts/charlies_cup/18.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/18.jpg)  
 <small>Source: Cedric Lucero</small>  
 
 ****
-![](/images/posts/charlies_cup/19.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/19.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy
 </small>  
 
 ****
-![](/images/posts/charlies_cup/20.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/20.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy
 </small>  
 
 ****
-![](/images/posts/charlies_cup/21.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/21.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy
 </small>  
 
 ****
-![](/images/posts/charlies_cup/22.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/22.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy
 </small>  
 
 ****
-![](/images/posts/charlies_cup/24.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/24.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy
 </small>  
 
 ****
-![](/images/posts/charlies_cup/25.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/25.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy
 </small>  
 
 ****
-![](/images/posts/charlies_cup/27.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/27.jpg)  
 <small>Source: Amor Mi Amor</small>  
 
 ****
-![](/images/posts/charlies_cup/28.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/charlies_cup/28.jpg)  
 <small>Source: Amor Mi Amor</small>  

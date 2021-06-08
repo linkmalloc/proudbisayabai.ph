@@ -1,6 +1,6 @@
 ---
 author: "Bench Lee | Photo Blogger"
-author_img: "/images/posts/team/bench.jpg"
+author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/bench.jpg"
 layout: post
 title: "Cebu Zip Pool House in Lapu-Lapu City"
 description: "Cebu Zip Pool House is a vacation house with 5 rooms, a pool, and other amenities that are ideal for staying with your family and friends."
@@ -11,9 +11,9 @@ tags:
   - staycation
   - cebu
 views: "10"
-img_big_1000x600: /images/posts/cebu_zip_pool_house/13.jpg
-img_big_3000x1144: /images/posts/cebu_zip_pool_house/cover.jpg
-img_500x500: /images/posts/cebu_zip_pool_house/13.jpg
+img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/cebu_zip_pool_house/13.jpg
+img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/cebu_zip_pool_house/cover.jpg
+img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/cebu_zip_pool_house/13.jpg
 photo_credit: "Daniel Arquiola"
 photo_credit_link: ""
 ---
@@ -21,17 +21,17 @@ photo_credit_link: ""
   
 Cebu Zip Pool House is a vacation house with 5 rooms, a pool, and other amenities that are ideal for staying with your family and friends.
 
-![](/images/posts/cebu_zip_pool_house/1.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/cebu_zip_pool_house/1.jpg)  
 
 A perfect place for a staycation. The place is located in Soong, Mactan, Lapu-Lapu City, Cebu. They are accepting daily rentals, scroll down below for more details on the rates.
 
-![](/images/posts/cebu_zip_pool_house/9.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/cebu_zip_pool_house/9.jpg)  
 
 For bookings and inquiry please contact there facebook page at [Cebu Zip Pool House](https://www.facebook.com/Cebuziprealty/)  or you can contact them at ([09178816506](tel:09178816506)).  
 
-![](/images/posts/cebu_zip_pool_house/12.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/cebu_zip_pool_house/12.jpg)  
 
-![](/images/posts/cebu_zip_pool_house/8.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/cebu_zip_pool_house/8.jpg)  
 
 ##### RATES   
 4 Rooms (10 pax)
@@ -58,7 +58,7 @@ For bookings and inquiry please contact there facebook page at [Cebu Zip Pool Ho
 - Water  
 
 ****
-![](/images/posts/cebu_zip_pool_house/11.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/cebu_zip_pool_house/11.jpg)  
 
 ****
 ###### Consumables that are charged upon check out:  
@@ -85,25 +85,25 @@ For bookings and inquiry please contact there facebook page at [Cebu Zip Pool Ho
   
 
 ****
-![](/images/posts/cebu_zip_pool_house/2.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/cebu_zip_pool_house/2.jpg)  
 <small>Source: Daniel Arquiola</small>  
 
 ****
-![](/images/posts/cebu_zip_pool_house/4.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/cebu_zip_pool_house/4.jpg)  
 <small>Source: Daniel Arquiola</small>  
 
 ****
-![](/images/posts/cebu_zip_pool_house/5.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/cebu_zip_pool_house/5.jpg)  
 <small>Source: Daniel Arquiola</small>  
 
 ****
-![](/images/posts/cebu_zip_pool_house/6.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/cebu_zip_pool_house/6.jpg)  
 <small>Source: Daniel Arquiola</small>  
 
 ****
-![](/images/posts/cebu_zip_pool_house/7.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/cebu_zip_pool_house/7.jpg)  
 <small>Source: Daniel Arquiola</small>  
 
 ****
-![](/images/posts/cebu_zip_pool_house/10.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/cebu_zip_pool_house/10.jpg)  
 <small>Source: Daniel Arquiola</small>  

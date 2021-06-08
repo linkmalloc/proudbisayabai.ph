@@ -10,11 +10,11 @@ tags:
   - ecotourism
   - mindanao
 views: "10"
-author_img: "/images/posts/team/hannahly.jpg"
+author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/hannahly.jpg"
 read_time: "6 minutes"
-img_big_1000x600: /images/posts/rankerts_coffee_farm/cover.jpg
-img_big_3000x1144: /images/posts/rankerts_coffee_farm/cover.jpg
-img_500x500: /images/posts/rankerts_coffee_farm/1.jpg
+img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/rankerts_coffee_farm/cover.jpg
+img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/rankerts_coffee_farm/cover.jpg
+img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/rankerts_coffee_farm/1.jpg
 photo_credit: "Juan Virtudazo"
 photo_credit_link: ""
 ---
@@ -25,17 +25,17 @@ Experience an exclusive overnight stay at Rankert’s Coffee Farm in Agusan del 
 Get away from the busy streets in the city and relax in a coffee plant. This ecotourism attraction in Santiago Agusan De Norte showcases a relaxing and rejuvenating stay in the midst of their coffee plant. It is home to numerous type of trees, fruits and as well as visiting wild life. 
 
 ****
-![](/images/posts/rankerts_coffee_farm/12.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/rankerts_coffee_farm/12.jpg)  
 <small>Source: Juan Virtudazo</small>  
 
 ****
-![](/images/posts/rankerts_coffee_farm/7.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/rankerts_coffee_farm/7.jpg)  
 <small>Source: Juan Virtudazo</small>  
 
 The family friendly farm abides to strict rules when it comes to maintaining the place. Loud noises and throwing of trash anywhere the premise is strictly prohibited, not only to maintain the farm’s cleanliness but to take care of the visiting wild life as well. Before heading out for a relaxing weekend make sure to book ahead as the farm does not entertain walk-in guest.
 
 ****
-![](/images/posts/rankerts_coffee_farm/10.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/rankerts_coffee_farm/10.jpg)  
 <small>Source: Juan Virtudazo</small>  
   
 ##### FEES   
@@ -59,27 +59,27 @@ The family friendly farm abides to strict rules when it comes to maintaining the
 
 
 ****
-![](/images/posts/rankerts_coffee_farm/2.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/rankerts_coffee_farm/2.jpg)  
 <small>Source: Juan Virtudazo</small>  
 
 ****
-![](/images/posts/rankerts_coffee_farm/3.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/rankerts_coffee_farm/3.jpg)  
 <small>Source: Juan Virtudazo</small>  
 
 ****
-![](/images/posts/rankerts_coffee_farm/4.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/rankerts_coffee_farm/4.jpg)  
 <small>Source: Juan Virtudazo</small>  
 
 ****
-![](/images/posts/rankerts_coffee_farm/5.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/rankerts_coffee_farm/5.jpg)  
 <small>Source: Juan Virtudazo</small>  
 
 ****
-![](/images/posts/rankerts_coffee_farm/6.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/rankerts_coffee_farm/6.jpg)  
 <small>Source: Juan Virtudazo</small>  
 
 ****
-![](/images/posts/rankerts_coffee_farm/8.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/rankerts_coffee_farm/8.jpg)  
 <small>Source: Juan Virtudazo</small>  
 
 ##### HOW TO GET THERE?
@@ -99,7 +99,7 @@ The family friendly farm abides to strict rules when it comes to maintaining the
 📥 Contact number: [0916 127 8834](tel:0916 127 8834)   
 
 ****
-![](/images/posts/rankerts_coffee_farm/11.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/rankerts_coffee_farm/11.jpg)  
 <small>Source: Juan Virtudazo</small>  
 
 ♻️🗑LEAVE NO TRACE! (Gasa sa kina-iyahan nga angay ampingan, Matag usa kanato makatabang sa pag amping sa atong kalikopan sama sa pag punit sa basura ug paglabay niini sa saktong labayanan)  
