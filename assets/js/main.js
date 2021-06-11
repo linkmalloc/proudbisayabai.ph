@@ -399,12 +399,12 @@
             return re.test(email);
         }
 
-        $('#newsletter .subscribe-btn').click((e) => {
-            let email = $('#newsletter .email').val();
+        $('.newsletter .subscribe-btn').click((e) => {
+            let email = $('.newsletter .email').val();
 
             if(validateEmail(email)){
-                $('#newsletter .email').prop('disabled', true);
-                $('#newsletter .subscribe-btn').prop('disabled', true);
+                $('.newsletter .email').prop('disabled', true);
+                $('.newsletter .subscribe-btn').prop('disabled', true);
 
                 __DB.collection('newsletter').add({
                     "email": email
@@ -412,7 +412,7 @@
                     Swal.fire('Thank you for subscribing');
                 });
             }else{
-                $('#newsletter .email').removeClass('has-error').removeClass('has-error');
+                $('.newsletter .email').removeClass('has-error').removeClass('has-error');
             }
             
             
