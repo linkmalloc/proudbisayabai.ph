@@ -21,22 +21,16 @@ layout: none
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-SL60C1GHWK"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-SL60C1GHWK');
-    </script>
-
     <!-- NewsBoard CSS  -->
     <link rel="stylesheet" href="/assets/css/style.css">
     <link rel="stylesheet" href="/assets/css/widgets.css">
     <link rel="stylesheet" href="/assets/css/responsive.css">
     <link rel="stylesheet" href="/assets/css/vendor/viewer.css">
+    {% include gtm/head.html %}
 </head>
 
 <body>
+    {% include gtm/body.html %}
     <div class="scroll-progress primary-bg"></div>
     <!-- Start Preloader -->
     <!--     <div class="preloader text-center">
@@ -47,7 +41,6 @@ layout: none
     {% include header.html %}
     {{ content }}
     {% include footer.html %}
-    {% include analytics.html %}
     <!-- End Footer -->
     <div class="dark-mark"></div>
     <!-- Vendor JS-->
