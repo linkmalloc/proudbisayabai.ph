@@ -10,7 +10,7 @@ layout: none
 
     {% assign title = site.title %}
     {% if page.title %}
-        {% capture title %}{{ site.title }} | {{ page.title }}{% endcapture %}
+        {% capture title %}{{ page.title }} | {{ site.title }} {% endcapture %}
     {% endif %}
     <title>{{ title }} </title>
     <meta name="description" content="{{ site.description }}">
