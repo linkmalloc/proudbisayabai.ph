@@ -393,20 +393,29 @@
     }
 
     var newsletter = function () {
+
+        function validateEmail(email) {
+            const re = /^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            return re.test(email);
+        }
+
         $('#newsletter .subscribe-btn').click((e) => {
-            let url = $('#newsletter').attr('data-target');
             let email = $('#newsletter .email').val();
 
-            $.ajax({
-                type: "POST",
-                url: url,
-                data: {
+            if(validateEmail(email)){
+                $('#newsletter .email').prop('disabled', true);
+                $('#newsletter .subscribe-btn').prop('disabled', true);
+
+                __DB.collection('newsletter').add({
                     "email": email
-                },
-                dataType: "json"
-            }).done((data) => {
-                alert(' thank you for subscribing ');
-            });
+                }).then(()=>{
+                    Swal.fire('Thank you for subscribing');
+                });
+            }else{
+                $('#newsletter .email').removeClass('has-error').removeClass('has-error');
+            }
+            
+            
         });
     }
     var imageViewer = function () {
