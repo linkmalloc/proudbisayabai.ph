@@ -26,10 +26,15 @@ Sebu Cha Philippines started in Cebu City and Carmen was the first branch to ope
 
 Brighten up your day with our Premium and Latte Series. A delectable you can treat yourself after a busy week.   
 
-🕒 Operating hours:  
+Watch our Vlog and also don't miss to drop by at Sebu Cha San Fernando Cebu Branch when heading back to the City, just along the highway road. Barato, Lami, ug Sulit jud mga Bai! 😱😍😛
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fproudbisayabai%2Fvideos%2F336628291178150%2F&show_text=false&width=560&t=0" style="border:none;overflow:hidden; width: 100%; height: 450px" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+
+
+##### Operating hours:  
 Sunday - Thursday: 10AM - 10PM  
 Friday - Saturday: 10AM - 11PM    
-  
+
 ##### Branches:
 Every Municipality of Cebu, Negros, Leyte, and Bohol (All over Cebu) SOON in Luzon and Mindanao  
 
