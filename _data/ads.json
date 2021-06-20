@@ -19,6 +19,20 @@
             "title": "Link Malloc",
             "alt": "Link Malloc Innovations, Inc.",
             "desc": "Website and Mobile Apps Developer In Cebu"
+        },
+        {
+            "url": "https://cebuhomepages.com/",
+            "img": "/images/ads/chp.gif",
+            "title": "Cebu Home Pages",
+            "alt": "Cebu Home Pages",
+            "desc": "Helping Home Buyers and Investors Since 2011"
+        },
+        {
+            "url": "https://lalamove.com/",
+            "img": "/images/ads/lalamove.jpg",
+            "title": "Lalamove",
+            "alt": "Lalamove",
+            "desc": "Leading Same-day delivery app and courier service."
         }
     ]
 }

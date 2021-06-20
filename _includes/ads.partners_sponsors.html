@@ -7,7 +7,7 @@
         <div class="carausel-3-columns-item d-flex bg-grey has-border p-25 hover-up-2 transition-normal border-radius-5">
             <div class="post-thumb post-thumb-64 d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">
                 <a class="color-white" href="{{ sponsor.url }}">
-                    <img src="{{ site.s3_url }}/{{ sponsor.img }}" alt="{{ sponsor.alt }}">
+                    <img src="{{ site.s3_public }}{{ sponsor.img }}" alt="{{ sponsor.alt }}">
                 </a>
             </div>
             <div class="post-content media-body">
@@ -16,39 +16,6 @@
             </div>
         </div>
         {% endfor %}
-        <div class="carausel-3-columns-item d-flex bg-grey has-border p-25 hover-up-2 transition-normal border-radius-5">
-            <div class="post-thumb post-thumb-64 d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">
-                <a class="color-white" href="/services">
-                    <img src="{{ site.s3_public }}/images/logo/lifestyle.png" alt="">
-                </a>
-            </div>
-            <div class="post-content media-body">
-                <h6><a href="category.html">Lifestyle</a></h6>
-                <p class="text-muted font-small">The way to get started is to quit talking and begin doing.</p>
-            </div>
-        </div>
-        <div class="carausel-3-columns-item d-flex bg-grey has-border p-25 hover-up-2 transition-normal border-radius-5">
-            <div class="post-thumb post-thumb-64 d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">
-                <a class="color-white" href="/services">
-                    <img src="{{ site.s3_public }}/images/logo/food.png" alt="">
-                </a>
-            </div>
-            <div class="post-content media-body">
-                <h6><a href="category.html">Foody</a></h6>
-                <p class="text-muted font-small">Nothing brings people together like good food.</p>
-            </div>
-        </div>
-        <div class="carausel-3-columns-item d-flex bg-grey has-border p-25 hover-up-2 transition-normal border-radius-5">
-            <div class="post-thumb post-thumb-64 d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">
-                <a class="color-white" href="/services">
-                    <img src="{{ site.s3_public }}/images/logo/entertainment.png" alt="">
-                </a>
-            </div>
-            <div class="post-content media-body">
-                <h6><a href="category.html">Entertaiment</a></h6>
-                <p class="text-muted font-small">Entertainment has this way of resetting itself.</p>
-            </div>
-        </div>
     </div>
 </div>
 </div>
