@@ -1,1 +1,2 @@
-aws s3 sync images/ s3://pbb-images/images
+aws s3 sync images/ s3://pbb-images/images --metadata-directive REPLACE \
+--expires 2034-01-01T00:00:00Z --acl public-read --cache-control max-age=2592000,public
