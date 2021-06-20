@@ -63,3 +63,6 @@ we_are: your Bisaya Ultimate Travel Blog which was founded last July 22, 2020 to
 
 plugins:
   - jekyll-seo-tag
+
+
+s3_public: https://pbb-images.s3.us-east-2.amazonaws.com
