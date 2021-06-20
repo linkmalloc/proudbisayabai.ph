@@ -463,7 +463,7 @@
         VSticker();
         imageViewer();
 
-        //newsletter();
+        newsletter();
     });
 
 })(jQuery);
