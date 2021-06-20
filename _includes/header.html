@@ -8,8 +8,12 @@
                 </div>
                 <div class="col-md-9 col-xs-6 text-right header-top-right ">
 
-                    <button class="search-icon d-none d-md-inline"><span class="mr-15 text-muted font-small"><i
-                                class="elegant-icon icon_search mr-5"></i>Search</span></button>
+                    <button class="search-icon">
+                                <span class="font-large">
+                                    <i class="elegant-icon icon_search mr-5"></i>
+                                </span>
+                                <span class="mr-15 text-muted font-small">Search</span>
+                    </button>
                     <button class="btn btn-radius bg-primary text-white ml-15 font-small box-shadow be-featured-btn" onclick="window.location.href='/services'">Be Featured</button>
                 </div>
             </div>
@@ -78,16 +82,22 @@
             <div class="row mb-20">
                 <div class="col-12 align-self-center main-search-form-cover m-auto">
                     <p class="text-center"><span class="search-text-bg">Search</span></p>
+                    {% comment %}
                     <form action="#" class="search-header">
                         <div class="input-group w-100">
+                            
                             <input type="text" class="form-control" placeholder="Search stories, places and people">
                             <div class="input-group-append">
                                 <button class="btn btn-search bg-white" type="submit">
                                     <i class="elegant-icon icon_search"></i>
                                 </button>
                             </div>
+                            
+                            
                         </div>
                     </form>
+                    {% endcomment %}
+                    {% include google-search.html %}
                 </div>
             </div>
             <div class="row mt-80 text-center">
