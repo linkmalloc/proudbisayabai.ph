@@ -7,7 +7,7 @@
         <div class="carausel-3-columns-item d-flex bg-grey has-border p-25 hover-up-2 transition-normal border-radius-5">
             <div class="post-thumb post-thumb-64 d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">
                 <a class="color-white" href="{{ sponsor.url }}">
-                    <img src="{{ site.s3_public }}{{ sponsor.img }}" alt="{{ sponsor.alt }}">
+                    <img class="ignore-lazy-image-load" src="{{ site.s3_public }}{{ sponsor.img }}" alt="{{ sponsor.alt }}">
                 </a>
             </div>
             <div class="post-content media-body">
