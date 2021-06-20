@@ -11,5 +11,13 @@
     },
     "followers":{
         "facebook": "110,000"
-    }
+    },
+    "partners_sponsors": [
+        {
+            "url": "https://linkmalloc.com/",
+            "img": "/images/ads/linkmalloc.gif",
+            "title": "Link Malloc",
+            "desc": "Website and Mobile Apps Developer In Cebu"
+        }
+    ]
 }

@@ -3,17 +3,19 @@
         <h5 class="mt-5 mb-30">Partners & Sponsors</h5>
     </div>
     <div class="carausel-3-columns">
+        {% for sponsor in site.data.ads.partners_sponsors %}
         <div class="carausel-3-columns-item d-flex bg-grey has-border p-25 hover-up-2 transition-normal border-radius-5">
             <div class="post-thumb post-thumb-64 d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">
-                <a class="color-white" href="single.html">
-                    <img src="images/logo/traveltips.png" alt="">
+                <a class="color-white" href="{{ sponsor.url }}">
+                    <img src="{{ site.s3_url }}/{{ sponsor.img }}" alt="">
                 </a>
             </div>
             <div class="post-content media-body">
-                <h6> <a href="category.html">Travel Tips</a> </h6>
-                <p class="text-muted font-small">Live with no excuses and travel with no regrets.</p>
+                <h6> <a href="{{ sponsor.url }}">{{ sponsor.title }}</a> </h6>
+                <p class="text-muted font-small">{{ sponsor.desc }}</p>
             </div>
         </div>
+        {% endfor %}
         <div class="carausel-3-columns-item d-flex bg-grey has-border p-25 hover-up-2 transition-normal border-radius-5">
             <div class="post-thumb post-thumb-64 d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">
                 <a class="color-white" href="single.html">
