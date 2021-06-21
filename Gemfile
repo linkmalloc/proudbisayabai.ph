@@ -17,12 +17,14 @@ gem "jekyll", "~> 3.8"
 # gem "github-pages", group: :jekyll_plugins
 gem "minima", "~> 2.5"
 gem "concurrent-ruby", "~> 1.1.1"
+gem "kramdown-parser-gfm"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.11"
   gem "jekyll-seo-tag", "~> 2.5"
   gem "jekyll-sitemap", "~> 1.2"
+  gem "jekyll-lazy-load-image", require: "jekyll-lazy-load-image/auto-execution"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
