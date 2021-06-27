@@ -30,33 +30,33 @@ A peaceful stay away from the City life. Experience the wonderful place of Turtl
 <small>Source: Turtle Beach FB Page</small>  
 
 ****
-![](/images/posts/turtle_beach_resort/15.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/15.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy | Pobreng Laagan</small>  
 
 ****
-![](/images/posts/turtle_beach_resort/16.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/16.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy | Pobreng Laagan</small>  
 
 ****
-![](/images/posts/turtle_beach_resort/21.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/21.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy | Pobreng Laagan</small>  
 
   
 ****
-![](/images/posts/turtle_beach_resort/14.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/14.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy | Pobreng Laagan</small>  
 
 ****
-![](/images/posts/turtle_beach_resort/18.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/18.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy | Pobreng Laagan</small>  
 
 ****
-![](/images/posts/turtle_beach_resort/20.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/20.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy | Pobreng Laagan</small>  
 
 
 ****
-![](/images/posts/turtle_beach_resort/22.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/22.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy | Pobreng Laagan</small>  
 
 ****
@@ -103,7 +103,7 @@ Email: [turtlebeachpc08@yahoo.com](mailto:turtlebeachpc08@yahoo.com)
 Website: [https://www.turtlebeachresort.org/](https://www.turtlebeachresort.org/)  
 
 ****
-![](/images/posts/turtle_beach_resort/17.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/17.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy | Pobreng Laagan</small>  
 
 ♻️🗑LEAVE NO TRACE! (Gasa sa kina-iyahan nga angay ampingan, Matag usa kanato makatabang sa pag amping sa atong kalikopan sama sa pag punit sa basura ug paglabay niini sa saktong labayanan)  
