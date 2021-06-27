@@ -10,9 +10,9 @@ tags:
   - resort
   - north cebu
 views: "10"
-img_big_1000x600: /images/posts/turtle_beach_resort/19.jpg
-img_big_3000x1144: /images/posts/turtle_beach_resort/cover2.jpg
-img_500x500: /images/posts/turtle_beach_resort/19.jpg
+img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/19.jpg
+img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/cover2.jpg
+img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/19.jpg
 photo_credit: "Michael Audrey Jacobe Sagonoy | Pobreng Laagan"
 author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/michael.jpg"
 read_time: "3 minutes"
