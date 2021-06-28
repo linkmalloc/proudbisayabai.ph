@@ -1,90 +1,77 @@
-
 <style>
-.card-pricing.popular {
-    z-index: 1;
-    border: 3px solid #007bff;
-}
-.card-pricing .list-unstyled li {
-    padding: .5rem 0;
-    color: #6c757d;
-}
+    .pricing-header {
+    max-width: 700px;
+    }
 
+    .card-deck .card {
+    min-width: 220px;
+    }
+
+    .border-top { border-top: 1px solid #e5e5e5; }
+    .border-bottom { border-bottom: 1px solid #e5e5e5; }
+
+    .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
 </style>
-<script>
-    $.ready(()=>{
-        $('.pricing button').click(()=>{
-            alert('1');
-            //window.open('https://m.me/proudbisayabai');
-        })
-    })
-</script>
-<div class="container-fluid">
-    <div class="pricing card-deck d-flex flex-column flex-md-row mb-3">
-        <div class="card card-pricing text-center px-3 mb-4">
-            <span class="h6 w-60 mx-auto px-4 py-1 rounded-bottom bg-primary text-white shadow-sm">1 Week</span>
-            <div class="bg-transparent card-header pt-4 border-0">
-                <h1 class="h1 font-weight-normal text-primary text-center mb-0" data-pricing-value="15">₱<span class="price">2,000</span></h1>
-            </div>
-            <div class="card-body pt-0">
-                <ul class="list-unstyled mb-4">
-                    <li>7 Days Running Campaign</li>
-                    <li>Up to 2 posts</li>
-                    <li>Your own photos</li>
-                    <li>Page Featured Post</li>
-                    <li>Wide Audience Reach</li>
-                </ul>
-                <button type="button" class="btn btn-outline-secondary mb-3">Contact Now</button>
-            </div>
-        </div>
-        <div class="card card-pricing text-center px-3 mb-4">
-            <span class="h6 w-60 mx-auto px-4 py-1 rounded-bottom bg-primary text-white shadow-sm">2 Weeks</span>
-            <div class="bg-transparent card-header pt-4 border-0">
-                <h1 class="h1 font-weight-normal text-primary text-center mb-0" data-pricing-value="30">₱<span class="price">3,000</span></span></h1>
-            </div>
-            <div class="card-body pt-0">
-                <ul class="list-unstyled mb-4">
-                    <li>14 Days Running Campaign</li>
-                    <li>Up to 3 posts</li>
-                    <li>Your own photos</li>
-                    <li>Page Featured Post</li>
-                    <li>Wide Audience Reach</li>
-                </ul>
-                <a href="#" target="_blank" class="btn btn-outline-secondary mb-3">Order Now</a>
-            </div>
-        </div>
-        <div class="card card-pricing popular shadow text-center px-3 mb-4">
-            <span class="h6 w-60 mx-auto px-4 py-1 rounded-bottom bg-primary text-white shadow-sm">3 Weeks</span>
-            <div class="bg-transparent card-header pt-4 border-0">
-                <h1 class="h1 font-weight-normal text-primary text-center mb-0" data-pricing-value="45">₱<span class="price">4,000</span></span></h1>
-            </div>
-            <div class="card-body pt-0">
-                <ul class="list-unstyled mb-4">
-                    <li>21 Days Running Campaign</li>
-                    <li>Up to 4 posts</li>
-                    <li>Photographers will be sent to your area</li>
-                    <li>Vloggers and videographer will be provided</li>
-                    <li>Drone shots for the whole area will be provided (if needed)</li>
-                    <li>Wide Audience Reach</li>
-                </ul>
-                <button type="button" class="btn btn-primary   mb-3">Order now</button>
-            </div>
-        </div>
-        <div class="card card-pricing text-center px-3 mb-4">
-            <span class="h6 w-60 mx-auto px-4 py-1 rounded-bottom bg-primary text-white shadow-sm">1 MONTH</span>
-            <div class="bg-transparent card-header pt-4 border-0">
-                <h1 class="h1 font-weight-normal text-primary text-center mb-0" data-pricing-value="60">₱<span class="price">5,000</span></span></h1>
-            </div>
-            <div class="card-body pt-0">
-                <ul class="list-unstyled mb-4">
-                    <li>30 Days Running Campaign</li>
-                    <li>Up to 5 Featured Posts</li>
-                    <li>Photographers will be sent to your area</li>
-                    <li>Vloggers and videographer will be provided</li>
-                    <li>Drone shots for the whole area will be provided (if needed)</li>
-                    <li>Wide Audience Reach</li>
-                </ul>
-                <button type="button" class="btn btn-outline-secondary mb-3">Order now</button>
-            </div>
-        </div>
+<div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
+      <h1 class="display-4">MAAYONG ADLAW!</h1>
+      <p class="lead">We can feature you in our facebook page with over <span class="follower-count">{{ site.data.ads.followers.facebook }}</span> followers.</p>
     </div>
-</div>
+
+    <div class="container">
+      <div class="card-deck mb-3 text-center">
+        <div class="card mb-4 box-shadow">
+          <div class="card-header">
+            <h4 class="my-0 font-weight-normal">Package A</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">₱<span class="price">4,000</span></h1>
+            <ul class="pricing-list mt-3 mb-4">
+                <li>7 Days Running Campaign</li>
+                <li>Up to 2 posts in Facebook</li>
+                <li>Your own photos</li>
+                <li>Page Featured Post</li>
+                <li>Wide Audience Reach</li>
+            </ul>
+            <a href="https://m.me/proudbisayabai" target="_blank" class="btn btn-lg btn-block btn-outline-primary">Contact Us</a>
+          </div>
+        </div>
+        <div class="card mb-4 box-shadow">
+          <div class="card-header">
+            <h4 class="my-0 font-weight-normal">Package B</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">₱<span class="price">6,000</span></h1>
+            <ul class="pricing-list mt-3 mb-4">
+                <li>14 Days Running Campaign</li>
+                <li>Up to 2 posts in Facebook</li>
+                <li>Photographers will be sent to your area</li>
+                <li>Product modelling and Photoshoot</li>
+                <li>Page Featured Post</li>
+                <li>Wide Audience Reach</li>
+            </ul>
+            <a href="https://m.me/proudbisayabai" target="_blank" class="btn btn-lg btn-block btn-primary">Get started</a>
+          </div>
+        </div>
+        <div class="card mb-4 box-shadow">
+          <div class="card-header">
+            <h4 class="my-0 font-weight-normal">Package C</h4>
+          </div>
+          <div class="card-body">
+            <h1 class="card-title pricing-card-title">₱<span class="price">10,000</span></h1>
+            <ul class="pricing-list mt-3 mb-4">
+                <li>21 Days Running Campaign</li>
+                <li>Up to 3 posts in Facebook</li>
+                <li>Photographers will be sent to your area</li>
+                <li>Product modelling and Photoshoot</li>
+                <li>Vloggers and videographer will be provided</li>
+                <li>Drone shots for the whole area will be provided (if needed)</li>
+                <li>Instagram Featured</li>
+                <li>Youtube Featured</li>
+                <li>Website with 50,000 active viewers</li>
+                <li>Page Featured Post</li>
+                <li>Wide Audience Reach</li>
+            </ul>
+            <a href="https://m.me/proudbisayabai" target="_blank" class="btn btn-lg btn-block btn-primary">Contact us</a>
+          </div>
+        </div>
+      </div>
