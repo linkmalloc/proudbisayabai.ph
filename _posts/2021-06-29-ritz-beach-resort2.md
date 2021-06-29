@@ -11,7 +11,7 @@ tags:
   - resort
 views: "10"
 img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort2/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort2/1.jpg
+img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort2/cover.jpg
 img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort2/1.jpg
 photo_credit: "Proud Bisaya Bai, Photo Bloggers"
 photo_credit_link: ""
