@@ -11,7 +11,7 @@ tags:
   - cebu
 views: "10"
 img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/cover.jpg
+img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/cover1.jpg
 img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/1.jpg
 photo_credit: "Richmond Inojales, Genro"
 author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
@@ -54,7 +54,7 @@ Let’s take a look at this video presented by [We Create Memories PH](https://w
 ##### HOW TO GET THERE?
 🌍 Exact Location: This place at Campo 6, Sitio Campinsa, Manipis, Talisay City called “The Mini Switzerland of Cebu” is a wonderful campsite.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d111912.94016117233!2d123.73189324259553!3d10.296722637650793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a99d8b0b730929%3A0x7e5d119125a2c043!2sCampinsa%20Manipis%20Switzerland!5e0!3m2!1sen!2sph!4v1624935733506!5m2!1sen!2sph" style="width: 100%; height: 420px; border:none;overflow:hidden" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d111912.94016117233!2d123.73189324259553!3d10.296722637650793!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a99d8b0b730929%3A0x7e5d119125a2c043!2sCampinsa%20Manipis%20Switzerland!5e0!3m2!1sen!2sph!4v1624935733506!5m2!1sen!2sph" style="width: 100%; height: 420px; border:none;overflow:hidden"c allowfullscreen="" loading="lazy"></iframe>
 
 Two ways on how to get there:   
 1. Via Maghaway &gt; Tapul &gt; Campinsa  
