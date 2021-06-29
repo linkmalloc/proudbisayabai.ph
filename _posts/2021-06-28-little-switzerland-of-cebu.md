@@ -11,7 +11,7 @@ tags:
   - cebu
 views: "10"
 img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/cover.jpg
+img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/cover1.jpg
 img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/1.jpg
 photo_credit: "Richmond Inojales, Genro"
 author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
