@@ -19,6 +19,16 @@ twitter_username: proudbisayabai
 github_username:  linkmalloc
 url_sitemap: "https://proudbisayabai.ph"
 
+exclude:
+  - Gemfile
+  - images/PBB
+  - images/posts
+  - images/3000x1144
+  - images/ads
+  - s3sync
+  - serve
+  - README.md
+
 
 
 # Build settings
@@ -64,6 +74,7 @@ we_are: your Bisaya Ultimate Travel Blog which was founded last July 22, 2020 to
 plugins:
   - jekyll-seo-tag
   - jekyll-lazy-load-image
+  - jekyll-minifier
 
 
 s3_public: https://pbb-images.s3.us-east-2.amazonaws.com
@@ -78,3 +89,13 @@ lazy_load_image:
   #   - "/*[@class='ignore-lazy-image-load']"
   additional_attrs: # [optional] if you want to add attributes, please add key value
     "data-size": auto
+
+jekyll-minifier:
+  remove_spaces_inside_tags: true   # Default: true
+  remove_multi_spaces: true         # Default: true
+  remove_comments: true             # Default: true
+  remove_intertag_spaces: true      # Default: false
+  remove_quotes: false              # Default: false
+  uglifier_args:
+    harmony: true
+    
