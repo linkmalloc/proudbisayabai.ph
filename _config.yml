@@ -89,6 +89,7 @@ lazy_load_image:
   #   - "/*[@class='ignore-lazy-image-load']"
   additional_attrs: # [optional] if you want to add attributes, please add key value
     "data-size": auto
+    "loading": "lazy"
 
 jekyll-minifier:
   remove_spaces_inside_tags: true   # Default: true
@@ -98,4 +99,3 @@ jekyll-minifier:
   remove_quotes: false              # Default: false
   uglifier_args:
     harmony: true
-    
