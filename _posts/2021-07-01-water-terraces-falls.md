@@ -73,26 +73,6 @@ Water Terraces Falls is exactly located in Catang, Argao, Cebu. It is 72km away 
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ka_treasure_water_terraces/7.jpg)  
 <small>Source: Twin De Los Reyes</small>  
 
-****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ka_tresure_water_terraces_falls/2.jpg)  
-<small>Source: Photos Courtesy Of Ian Torion’s Vlog</small>  
-
-****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ka_tresure_water_terraces_falls/3.jpg)  
-<small>Source: Photos Courtesy Of Ian Torion’s Vlog</small>  
-
-****
-![](https://pbb-images.s3.us-east-2.amazonaws.comimages/posts/ka_tresure_water_terraces_falls/4.jpg)  
-<small>Source: Photos Courtesy Of Ian Torion’s Vlog</small>  
-
-****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ka_tresure_water_terraces_falls/5.jpg)  
-<small>Source: Photos Courtesy Of Ian Torion’s Vlog</small>  
-
-****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ka_tresure_water_terraces_falls/6.jpg)  
-<small>Source: Photos Courtesy Of Ian Torion’s Vlog</small>  
-
 ##### CONTACT INFORMATION
 
 FACEBOOK PAGE: More info in [Ka Treasure Water Terraces](https://www.facebook.com/Ka-Treasure-Water-Terraces-105391778095392)  
