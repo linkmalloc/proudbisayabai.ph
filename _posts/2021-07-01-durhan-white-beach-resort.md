@@ -11,7 +11,7 @@ tags:
   - cebu
 views: "10"
 img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/durhan_white_beach_resort/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/durhan_white_beach_resort/1.jpg
+img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/durhan_white_beach_resort/cover.jpg
 img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/durhan_white_beach_resort/1.jpg
 photo_credit: "Durhan White Beach Resort"
 photo_credit_link: ""
