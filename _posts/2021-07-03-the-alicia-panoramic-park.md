@@ -10,9 +10,9 @@ tags:
   - bohol
   - sight-seeing
 views: "10"
-img_big_1000x600: /images/posts/the_alicia_panoramic_park/1.jpg
-img_big_3000x1144: /images/posts/the_alicia_panoramic_park/cover.jpg
-img_500x500: /images/posts/the_alicia_panoramic_park/1.jpg
+img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/the_alicia_panoramic_park/1.jpg
+img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/the_alicia_panoramic_park/cover.jpg
+img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/the_alicia_panoramic_park/1.jpg
 photo_credit: "Win Concha"
 photo_credit_link: ""
 author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
@@ -25,11 +25,11 @@ Add on your travel list 📍Binabaje Hills located in Barangay Cambaol, Alicia, 
 Features the Breathtaking Landscape of Binabaje Hills of Barangay Cambaol in Alicia Municipality. The Hills, which rise 400 meters above sea level, are mostly covered in tropical perennial grasses commonly known as “COGON".   
 
 ****
-![](/images/posts/the_alicia_panoramic_park/3.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/the_alicia_panoramic_park/3.jpg)  
 <small>Source: Win Concha</small>  
 
 ****
-![](/images/posts/the_alicia_panoramic_park/5.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/the_alicia_panoramic_park/5.jpg)  
 <small>Source: Win Concha</small>  
 
 ****
@@ -44,19 +44,19 @@ GUIDE cost about P250-300 person.
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d32361.608615221023!2d124.44564207159242!3d9.930446726850114!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33aa01cbc9aa1f33%3A0xa810b809b49da640!2sAlicia%20Panoramic%20Park!5e0!3m2!1sen!2sph!4v1625285229666!5m2!1sen!2sph" style="width: 100%; height: 450px; border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ****
-![](/images/posts/the_alicia_panoramic_park/2.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/the_alicia_panoramic_park/2.jpg)  
 <small>Source: Win Concha</small>  
 
 ****
-![](/images/posts/the_alicia_panoramic_park/4.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/the_alicia_panoramic_park/4.jpg)  
 <small>Source: Win Concha</small>  
 
 ****
-![](/images/posts/the_alicia_panoramic_park/6.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/the_alicia_panoramic_park/6.jpg)  
 <small>Source: Win Concha</small>  
 
 ****
-![](/images/posts/the_alicia_panoramic_park/7.jpg)  
+![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/the_alicia_panoramic_park/7.jpg)  
 <small>Source: Win Concha</small>  
 
 ♻️🗑LEAVE NO TRACE! (Gasa sa kina-iyahan nga angay ampingan, Matag usa kanato makatabang sa pag amping sa atong kalikopan sama sa pag punit sa basura ug paglabay niini sa saktong labayanan)  
