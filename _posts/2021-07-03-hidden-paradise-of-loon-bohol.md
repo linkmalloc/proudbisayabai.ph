@@ -10,9 +10,9 @@ tags:
   - behold bohol
   - hidden paradise
 views: "10"
-img_big_1000x600: /images/posts/hidden_paradise_of_loon_bohol/1.jpg
-img_big_3000x1144: /images/posts/hidden_paradise_of_loon_bohol/cover.jpg
-img_500x500: /images/posts/hidden_paradise_of_loon_bohol/1.jpg
+img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/hidden_paradise_of_loon_bohol/1.jpg
+img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/hidden_paradise_of_loon_bohol/cover.jpg
+img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/hidden_paradise_of_loon_bohol/1.jpg
 author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
 read_time: "3 minutes"
 photo_credit: "Win Concha"
