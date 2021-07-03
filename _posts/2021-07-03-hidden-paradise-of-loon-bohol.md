@@ -22,7 +22,7 @@ photo_credit_link: ""
 
 Kanindot sad mag humol sa tubig diri uy, ilawm sa mga kahoy unya mga lamian nga pagkaon ang gi saw-an. 🌊 🍃 ☀️  
 
-A hidden hideaway surrounded by beautiful mangroves. This place is located in the mangrove area of barangay Basac, Loon, Bohol. They have cottages installed good for salo-salo. Inform your friends mga bai, mangaligo ta in this peaceful sanctuary. Arats!
+A hideaway surrounded by beautiful mangroves. This place is located in the mangrove area of barangay Basac, Loon, Bohol. They have cottages installed good for salo-salo. Inform your friends mga bai, mangaligo ta in this peaceful sanctuary. Arats!
 
 ****
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/hidden_paradise_of_loon_bohol/3.jpg)  
