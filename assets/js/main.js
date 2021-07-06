@@ -475,7 +475,7 @@ jQuery.fn.isMobile = () => {
         scrollProgress();
         masonryGrid();
         niceSelectBox();
-        moreArticles();
+        //moreArticles();
         VSticker();
         imageViewer();
 
