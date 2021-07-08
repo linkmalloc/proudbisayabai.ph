@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unsay Kwentong TOPS nimo?
-description: "Cebu City's popular spot, 'Tops Lookout'Tops Lookout, better known simply as ‘Tops’ is located on Mt Busay." 
+description: "Cebu City's popular spot, 'Tops Lookout', better known simply as ‘Tops’ is located on Mt Busay." 
 categories:
   - destination
 tags:
