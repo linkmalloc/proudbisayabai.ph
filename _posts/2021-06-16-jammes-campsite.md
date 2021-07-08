@@ -9,7 +9,7 @@ tags:
   - cebu
   - staycation
   - campsite
-views: "10"
+views: "378,512"
 img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jamme_s_campsite/1.jpg
 img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jamme_s_campsite/cover.jpg
 img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jamme_s_campsite/1.jpg

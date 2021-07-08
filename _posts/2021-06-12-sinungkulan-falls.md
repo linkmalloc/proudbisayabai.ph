@@ -9,7 +9,7 @@ tags:
   - falls
   - cebu
   - pinamungajan
-views: "10"
+views: "2,773"
 img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/sinungkulan_falls/3.jpg
 img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/sinungkulan_falls/cover.jpg
 img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/sinungkulan_falls/3.jpg

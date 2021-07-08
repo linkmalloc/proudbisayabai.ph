@@ -10,7 +10,7 @@ tags:
   - resort
   - cebu
   - dalaguete
-views: "10"
+views: "231,845"
 img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dalaguete_beach_park/1.jpg
 img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dalaguete_beach_park/cover.jpg
 img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dalaguete_beach_park/1.jpg

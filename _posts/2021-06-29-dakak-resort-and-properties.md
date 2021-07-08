@@ -9,7 +9,7 @@ tags:
   - beach
   - resort
   - mindanao
-views: "10"
+views: "49,021"
 img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dakak_resort_and_properties/8.jpg
 img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dakak_resort_and_properties/cover.jpg
 img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dakak_resort_and_properties/8.jpg

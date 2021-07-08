@@ -10,7 +10,7 @@ tags:
   -  cebu
   - restaurant
   - transcentral highway
-views: "10"
+views: "39,049"
 img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/elgrahe_de_busay/1.jpg
 img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/elgrahe_de_busay/cover.jpg
 img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/elgrahe_de_busay/1.jpg

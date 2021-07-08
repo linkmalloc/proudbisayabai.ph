@@ -9,7 +9,7 @@ tags:
   - beach
   - resort
   - cebu
-views: "10"
+views: "134,347"
 img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/durhan_white_beach_resort/1.jpg
 img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/durhan_white_beach_resort/cover.jpg
 img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/durhan_white_beach_resort/1.jpg
