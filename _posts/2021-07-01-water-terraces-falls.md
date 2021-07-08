@@ -8,7 +8,7 @@ categories:
 tags:
   - waterfall
   - south-cebu
-views: "10"
+views: "570,180"
 img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ka_treasure_water_terraces/3.jpg
 img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ka_treasure_water_terraces/cover.jpg
 img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ka_treasure_water_terraces/3.jpg
