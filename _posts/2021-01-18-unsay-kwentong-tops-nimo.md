@@ -24,7 +24,7 @@ author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/logo/pbb-logo.
 read_time: "5 minutes"
 
 ---
-Cebu City's popular spot, 'Tops Lookout'Tops Lookout, better known simply as ‘Tops’ is located on Mt Busay. 
+Cebu City's popular spot, 'Tops Lookout', better known simply as ‘Tops’ is located on Mt Busay. 
 This modernist, fortress like viewing deck provides spectacular views, especially at sunrise or sunset. Unsay Kwentong TOPS nimo?  
 
 
