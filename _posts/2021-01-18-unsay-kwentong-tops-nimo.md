@@ -16,7 +16,13 @@ img_500x500: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,
 img_500_1: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610956966/3000x1144/pic.4.1_rxeqk2.jpg
 img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610956970/3000x1144/pic.4.2_j485t5.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1610956970/3000x1144/pic.4.3_i6ixwc.jpg
-published: false
+published: true
+
+photo_credit: "Proud Bisaya Bai, Photo Bloggers"
+photo_credit_link: ""
+author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/logo/pbb-logo.jpg"
+read_time: "5 minutes"
+
 ---
 Cebu City's popular spot, 'Tops Lookout'Tops Lookout, better known simply as ‘Tops’ is located on Mt Busay. 
 This modernist, fortress like viewing deck provides spectacular views, especially at sunrise or sunset. Unsay Kwentong TOPS nimo?  
