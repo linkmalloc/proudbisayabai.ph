@@ -105,6 +105,21 @@ NOTE: Prices may subject change without prior notice.
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617806316/carnaza_island/jcd5w8zeouopch3e910l.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617806300/carnaza_island/mwv6dsll7fk2q4hryvhc.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617806305/carnaza_island/ncdl5o8geznjicf2zl8g.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617806309/carnaza_island/az5xbyah7jjgxb6rzb87.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617806313/carnaza_island/uqurlpoikdhcxbo5ggp6.jpg)  
  
 ****
  👣  AMPING KANUNAY SA LAAG BAI 👣  
