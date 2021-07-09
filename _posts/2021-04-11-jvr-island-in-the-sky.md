@@ -67,7 +67,8 @@ It's a good place to relax and think about life. See the beauty of nature at JVR
 ****
 Take Note: Entrance fee and swimming pool will be free of charge if the close cottages are used. Extra persons will be charged P300.00 per head. Rooms include kitchen and dining room.  
   
-For additional details, informations, and reservations, please contact these numbers: [09055216319](tel: 09055216319) \| [09161385764](tel: 09161385764) \| [09059990013](tel: 09059990013) \| [2723409](tel: 2723409) [https://m.facebook.com/JVRIslandInTheSkyResort/](https://m.facebook.com/JVRIslandInTheSkyResort/)  
+For additional details, informations, and reservations, please contact these numbers: [09055216319](tel: 09055216319) \| [09161385764](tel: 09161385764) \| [09059990013](tel: 09059990013) \| [2723409](tel: 2723409) 
+[https://m.facebook.com/JVRIslandInTheSkyResort/](https://m.facebook.com/JVRIslandInTheSkyResort/)  
 
 ****
 ##### Map Location
