@@ -76,6 +76,21 @@ For additional details, informations, and reservations, please contact these num
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618075709/jvr_island_in_the_sky/ahrbinlfcmvngiev4d3l.jpg) 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618075713/jvr_island_in_the_sky/nnvunu87janijdzlfdsm.jpg) 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618075718/jvr_island_in_the_sky/ah4r6jqnsupbgxofvwma.jpg) 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618075723/jvr_island_in_the_sky/xvopslllfzkm4m1d0oxp.jpg) 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618075728/jvr_island_in_the_sky/thppo00z8821nhjwsp3k.jpg)  
  
 ****
  👣  AMPING KANUNAY SA LAAG BAI 👣  
