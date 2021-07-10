@@ -60,6 +60,21 @@ Price ranges P99 - P350 only
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617028614/paseo_de_moalboal/tvppwieepgdu71mday9i.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617028618/paseo_de_moalboal/xz41hvzu7peywcuiorqd.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617028623/paseo_de_moalboal/elepq38iexmug4kopkko.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617028628/paseo_de_moalboal/jprv0vq8ahhej0vw289s.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617028632/paseo_de_moalboal/y56a9pvxkeam3dhfgzo6.jpgg)  
  
 ****
  👣  AMPING KANUNAY SA LAAG BAI 👣  
