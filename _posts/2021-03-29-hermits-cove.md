@@ -74,7 +74,23 @@ With short orientation about the history, rules and regulations, Do's and Dont's
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
- 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617029943/hermits_cove/ax2yhxhvpeplmzo5ltto.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617029948/hermits_cove/a19iljhshvhnmf30et8y.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617029952/hermits_cove/ptlg1dtpgtmgkq8yjcdf.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617029938/hermits_cove/d3mav91zg2ipikiug7vz.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617029961/hermits_cove/rh8zcnal2v6belvnlshb.jpg)  
+
+
 ****
  👣  AMPING KANUNAY SA LAAG BAI 👣  
   
