@@ -25,8 +25,14 @@ Les Maisons d'Itac is in a fishing village on a remote part of Cebu Island, with
 
 *****
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/2.jpg)
+
+*****
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/8.jpg)
+
+*****
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/10.jpg)
+
+*****
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/14.jpg)
 
 ##### HOW TO GET THERE?  
@@ -39,10 +45,20 @@ Les Maisons d'Itac is in a fishing village on a remote part of Cebu Island, with
 
 *****
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/3.jpg)
+
+*****
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/7.jpg)
+
+*****
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/9.jpg)
+
+*****
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/13.jpg)
+
+*****
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/6.jpg)
+
+*****
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/12.jpg)
 
 *****
@@ -63,8 +79,14 @@ For information you may also visit our website [www.lesmaisonsditac.com](www.les
 
 *****
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/16.jpg)
+
+*****
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/5.jpg)
+
+*****
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/18.jpg)
+
+*****
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/15.jpg)  
 
 ****
