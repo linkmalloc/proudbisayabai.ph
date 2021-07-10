@@ -68,10 +68,10 @@ Pining Garden Resorts offer ako Ride going to Pining Garden Resorts:
   
 >Note Proper Disinfect, Wearing Mask and applied social dinstancing from other visitors.   
   
-📞 📩 For any inquiries please Contact: [https://facebook.com/PiningGardenResortsOfficialPages/ ](https://facebook.com/PiningGardenResortsOfficialPages/ ) 
+📞 📩 For any inquiries please Contact: [https://facebook.com/PiningGardenResortsOfficialPages/](https://facebook.com/PiningGardenResortsOfficialPages/) 
 📱[0999 8494104](tel: 0999 8494104)  
 📱[0995 3588016](tel: 0995 3588016)  
-📱[0922 9049852 ](tel: 0922 9049852 ) 
+📱[0922 9049852](tel: 0922 9049852) 
   
 📷 Photos From: Pining Garden Resorts Facebook Page (Admin)   
 ✍🏻 Featured By: Ariel Alegado - Team Leader   
