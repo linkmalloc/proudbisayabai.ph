@@ -31,6 +31,7 @@ Les Maisons d'Itac is located in a fishing town in a secluded section of Cebu Is
 <br>
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/14.jpg)  
 
+
 ##### HOW TO GET THERE?  
 
 🌍 Exact Location: Patricks Road, Brgy. Santa Cruz Ronda 🇵🇭  
@@ -68,7 +69,6 @@ Les Maisons d'Itac is located in a fishing town in a secluded section of Cebu Is
 For information you may also visit our website [www.lesmaisonsditac.com](www.lesmaisonsditac.com) or email us at c[ontact@lesmaisonsditac.com](mailto:ontact@lesmaisonsditac.com)
 
 
-*****
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/16.jpg)  
 <br>
 ![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/5.jpg)  

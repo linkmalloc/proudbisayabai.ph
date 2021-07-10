@@ -63,6 +63,21 @@ Mobile #:
 ##### Map Location
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15699.133785696393!2d123.92977104750554!3d10.359192813777346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcdf12df81bba3d47!2sSan%20Lorenzo%20Ruiz%20Chapel!5e0!3m2!1sen!2sph!4v1617275977820!5m2!1sen!2sph" style="width:100%;height:450px;border:0;" allowfullscreen="" loading="lazy"></iframe>
 
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275802/palawan_chaolong_foodies/zp8ika1mqaxdvnnl6p1w.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275806/palawan_chaolong_foodies/epsbl2gucoxovke7na3e.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275810/palawan_chaolong_foodies/m719peq74yp6jujb0eyb.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275814/palawan_chaolong_foodies/m1k5sww5sr9tzrhsyaj8.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275818/palawan_chaolong_foodies/u4krzmdstsjqkbyxnslt.jpg)  
+
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
