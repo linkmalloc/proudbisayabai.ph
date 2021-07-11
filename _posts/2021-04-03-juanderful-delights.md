@@ -94,7 +94,7 @@ So, what are you waiting for? Visit us now!
  👣  AMPING KANUNAY SA LAAG BAI 👣  
   
 ***
-[#ProudBisayaBai](https://www.facebook.com/hashtag/ProudBisayaBai/) [#TatakBisaya](https://www.facebook.com/hashtag/TatakBisaya/)
+[#ProudBisayaBai](https://facebook.com/hashtag/ProudBisayaBai/) [#TatakBisaya](https://facebook.com/hashtag/TatakBisaya/)
 
 ****
 Bai! Want to be featured? Send us your BEST Photos and share your Great Travel Experienced!
