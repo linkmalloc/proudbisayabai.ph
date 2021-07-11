@@ -39,7 +39,8 @@ Plus, if you’ve missed the latest food craze in town, now is the best time to 
   
 They accept dine-in, pickup, takeout, and home deliveries.   
   
-Juanderful Delights’ Page: Juanderful Delights or [https://www.facebook.com/JuanderfulDelightsCARAGAOfficial/](https://www.facebook.com/JuanderfulDelightsCARAGAOfficial/)  
+Juanderful Delights’ Page: Juanderful Delights or 
+[ <span><i class="elegant-icon social_facebook"></i> JuanderfulDelightsCARAGAOfficial</span>](https://facebook.com/JuanderfulDelightsCARAGAOfficial/){: .btn-sm .btn-primary .text-white .text-center .font-small .btn-visit-fb .d-block .p-2}
   
 So, what are you waiting for? Visit us now!   
 

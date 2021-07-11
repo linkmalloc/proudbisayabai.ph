@@ -64,7 +64,8 @@ Les Maisons d'Itac is located in a fishing town in a secluded section of Cebu Is
 
 🛌 BAMBOO ROOM- Traditional bamboo house, with ceiling fan, sea view, kingsize bed (2x2meter),bathroom, common swimming pool, private lounge and dining area at the ground floor, wifi.
 
-💻 Facebook Page: [https://www.facebook.com/LesMaisonsDitac/](https://www.facebook.com/LesMaisonsDitac/)
+💻 Facebook Page: 
+[ <span><i class="elegant-icon social_facebook"></i> LesMaisonsDitac</span>](https://facebook.com/LesMaisonsDitac/){: .btn-sm .btn-primary .text-white .text-center .font-small .btn-visit-fb .d-block .p-2}
 
 For information you may also visit our website [www.lesmaisonsditac.com](www.lesmaisonsditac.com) or email us at c[ontact@lesmaisonsditac.com](mailto:ontact@lesmaisonsditac.com)
 
