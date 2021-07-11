@@ -74,6 +74,21 @@ So, what are you waiting for? Visit us now!
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617417921/juanderful_delights/tun0m0is0e4q9plerfue.jpg)
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617417907/juanderful_delights/gxabydxym2s5i1isssov.jpg) 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617417910/juanderful_delights/bkg1yqgofh1pr5j9uo1f.jpg) 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617417914/juanderful_delights/od3h441fafuvmbxyfuwx.jpg) 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617417918/juanderful_delights/ni5zab7kmsxt1xlxhyjf.jpg) 
  
 ****
  👣  AMPING KANUNAY SA LAAG BAI 👣  
