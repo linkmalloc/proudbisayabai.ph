@@ -10,11 +10,11 @@ tags:
   - resort
   - north cebu
 views: "205,635"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/19.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/cover2.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/19.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/19.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/cover2.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/19.jpg
 photo_credit: "Michael Audrey Jacobe Sagonoy | Pobreng Laagan"
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/michael.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/michael.jpg"
 read_time: "3 minutes"
 photo_credit_link: ""
 ---
@@ -26,37 +26,37 @@ Looking for a place for your ultimate staycation? Then this is for you! 💦☀�
 A peaceful stay away from the City life. Experience the wonderful place of Turtle Beach Resort in Catmon, Cebu! The resort offers an outdoor pool, cottages and a variety of air-conditioned room with TV, refrigerator and private bathroom. It is best to experience the resort with your family and friends where you can enjoy the friendly environment, the fresh air and the beautiful view of the sea.
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/12.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/12.jpg)
 <small>Source: Turtle Beach FB Page</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/15.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/15.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy | Pobreng Laagan</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/16.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/16.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy | Pobreng Laagan</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/21.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/21.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy | Pobreng Laagan</small>  
 
   
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/14.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/14.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy | Pobreng Laagan</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/18.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/18.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy | Pobreng Laagan</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/20.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/20.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy | Pobreng Laagan</small>  
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/22.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/22.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy | Pobreng Laagan</small>  
 
 ****
@@ -103,7 +103,7 @@ Email: [turtlebeachpc08@yahoo.com](mailto:turtlebeachpc08@yahoo.com)
 Website: [https://www.turtlebeachresort.org/](https://www.turtlebeachresort.org/)  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/17.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/17.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy | Pobreng Laagan</small>  
 
 ♻️🗑LEAVE NO TRACE! (Gasa sa kina-iyahan nga angay ampingan, Matag usa kanato makatabang sa pag amping sa atong kalikopan sama sa pag punit sa basura ug paglabay niini sa saktong labayanan)  

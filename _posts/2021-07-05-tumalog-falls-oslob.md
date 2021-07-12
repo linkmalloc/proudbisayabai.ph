@@ -9,12 +9,12 @@ tags:
   - falls
   - cebu
 views: "109,520"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tumalog_falls_oslob/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tumalog_falls_oslob/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tumalog_falls_oslob/1.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tumalog_falls_oslob/1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tumalog_falls_oslob/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tumalog_falls_oslob/1.jpg
 photo_credit: "Juan Via Ariel Alegado"
 photo_credit_link: "https://www.facebook.com/Sugbo.Byahe/"
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "5 minutes"
 ---
 ##### Tumalog Falls Oslob   
@@ -23,21 +23,21 @@ What are your plans for the next weekend? I think we deserve to relax sometimes 
 Tumalog Falls in Oslob is without a doubt one of Cebu's greatest waterfalls! The sheer size of Tumalog Falls distinguishes it from other waterfalls in Oslob. Its height is between 80 and 100 meters.
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tumalog_falls_oslob/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tumalog_falls_oslob/2.jpg)  
 <small>Source: Juan Via Ariel Alegado</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tumalog_falls_oslob/3.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tumalog_falls_oslob/3.jpg)  
 <small>Source: Juan Via Ariel Alegado</small>  
 
 It is situated in Barangay Luka, near to the well-known whaleshark attraction in Oslob. In such, it is becoming increasingly usual for whale shark visitors to stop by Tumalog Falls following their whale shark encounter. It just takes around two and a half hours to get close to the area, which is approximately 170 kilometers from Cebu City.
 
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tumalog_falls_oslob/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tumalog_falls_oslob/4.jpg)  
 <small>Source: Juan Via Ariel Alegado</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tumalog_falls_oslob/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tumalog_falls_oslob/5.jpg)  
 <small>Source: Juan Via Ariel Alegado</small>    
 
 *****
@@ -58,11 +58,11 @@ It is situated in Barangay Luka, near to the well-known whaleshark attraction in
 P20 ENTRANCE FEE 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tumalog_falls_oslob/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tumalog_falls_oslob/6.jpg)  
 <small>Source: Juan Via Ariel Alegado</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/tumalog_falls_oslob/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tumalog_falls_oslob/7.jpg)  
 <small>Source: Juan Via Ariel Alegado</small>  
 
 ♻️🗑LEAVE NO TRACE! (Gasa sa kina-iyahan nga angay ampingan, Matag usa kanato makatabang sa pag amping sa atong kalikopan sama sa pag punit sa basura ug paglabay niini sa saktong labayanan)   

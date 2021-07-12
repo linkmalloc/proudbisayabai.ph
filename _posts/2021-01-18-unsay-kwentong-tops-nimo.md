@@ -20,7 +20,7 @@ published: true
 
 photo_credit: "Proud Bisaya Bai, Photo Bloggers"
 photo_credit_link: ""
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/logo/pbb-logo.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo.jpg"
 read_time: "5 minutes"
 
 ---

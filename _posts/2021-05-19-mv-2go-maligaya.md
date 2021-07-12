@@ -8,12 +8,12 @@ categories:
 tags:
   - vessel
   - ship
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "8 minutes"
 views: "10"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/mv_2go_maligaya/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/mv_2go_maligaya/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/mv_2go_maligaya/1.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mv_2go_maligaya/1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mv_2go_maligaya/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mv_2go_maligaya/1.jpg
 photo_credit: "2GO"
 photo_credit_link: ""
 ---
@@ -24,7 +24,7 @@ MANILA, 12 May 2021 – 2GO Group Inc., the Philippines’ largest integrated tr
 2GO recognizes the Filipinos’ ability to be joyful and uplifting toward others even in the face of hardships and challenges. Through its new vessel, MV 2GO Maligaya aspires to make sea travel fun, safe, and reliable.  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/mv_2go_maligaya/3.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mv_2go_maligaya/3.jpg)  
 <small>Source: 2GO</small>  
 
 
@@ -35,17 +35,17 @@ The acquisition of the **MV 2GO Maligaya** is part of the company’s fleet mode
 >This is a manifestation of 2GO’s commitment in providing superior products and services to our customers. The new addition complements the broader service offerings of the other business units under the 2GO Group.  As a major player in the industry, it is imperative for us to take the lead in product innovation and unparalleled service to keep in step with world-class standards.    
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/mv_2go_maligaya/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mv_2go_maligaya/2.jpg)  
 <small>Source: 2GO</small>  
 
 The **MV 2GO Maligaya** is the most technologically advanced roll-on, roll-off passenger (ROPAX) ship that has set sail in the Philippine waters. It features a fun and colorful livery that can energize and enhance the Pinoy travel experience.  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/mv_2go_maligaya/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mv_2go_maligaya/4.jpg)  
 <small>Source: 2GO</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/mv_2go_maligaya/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mv_2go_maligaya/5.jpg)  
 <small>Source: 2GO</small>  
 
 **MV 2GO Maligaya** is a larger ship that can carry 40% more twenty-foot equivalent units (TEU) of cargo capacity compared to 2GO’s current fleet of vessels. It will link Manila, Visayas, and Mindanao via its Manila-Cebu-Cagayan de Oro route.  With a top speed of 23.5 knots, it reduces steaming time from Manila to Cebu to only 17 hours making it the fastest cargo vessel in the Philippines today.   With this vessel’s addition, 2GO aims to further improve sailing schedule reliability to 95% on time.    

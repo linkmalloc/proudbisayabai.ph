@@ -9,12 +9,12 @@ tags:
   - waterfall
   - south-cebu
 views: "570,180"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ka_treasure_water_terraces/3.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ka_treasure_water_terraces/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ka_treasure_water_terraces/3.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ka_treasure_water_terraces/3.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ka_treasure_water_terraces/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ka_treasure_water_terraces/3.jpg
 photo_credit: "Twin De Los Reyes"
 photo_credit_link: ""
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/twin.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/twin.jpg"
 read_time: "5 minutes"
 ---
 #### Water Terraces Falls  
@@ -25,11 +25,11 @@ The newest attraction in Argao Cebu, Water Terraces Falls 💦😱⛅.
 South Cebu is known for its beautiful beaches and amazing waterfalls. But today we will feature something new. It is a place made by nature and enhanced by the efforts of the locals. 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ka_treasure_water_terraces/9.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ka_treasure_water_terraces/9.jpg)  
 <small>Source: Twin De Los Reyes</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ka_treasure_water_terraces/8.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ka_treasure_water_terraces/8.jpg)  
 <small>Source: Twin De Los Reyes</small>  
 
 
@@ -54,23 +54,23 @@ Water Terraces Falls is exactly located in Catang, Argao, Cebu. It is 72km away 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d52881.73659880991!2d123.54705015084487!3d9.895709907293488!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33abc443a5875ead%3A0x81d86c45078426e6!2sCatang%2C%20Argao%2C%20Cebu!5e0!3m2!1sen!2sph!4v1619493922981!5m2!1sen!2sph" style="width: 100%; height: 450px; border:0;" allowfullscreen="" loading="lazy"></iframe> 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ka_treasure_water_terraces/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ka_treasure_water_terraces/2.jpg)  
 <small>Source: Twin De Los Reyes</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ka_treasure_water_terraces/1.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ka_treasure_water_terraces/1.jpg)  
 <small>Source: Twin De Los Reyes</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ka_treasure_water_terraces/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ka_treasure_water_terraces/4.jpg)  
 <small>Source: Twin De Los Reyes</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ka_treasure_water_terraces/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ka_treasure_water_terraces/5.jpg)  
 <small>Source: Twin De Los Reyes</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ka_treasure_water_terraces/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ka_treasure_water_terraces/7.jpg)  
 <small>Source: Twin De Los Reyes</small>  
 
 ##### CONTACT INFORMATION

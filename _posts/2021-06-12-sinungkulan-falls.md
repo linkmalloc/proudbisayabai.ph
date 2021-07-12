@@ -10,12 +10,12 @@ tags:
   - cebu
   - pinamungajan
 views: "2,773"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/sinungkulan_falls/3.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/sinungkulan_falls/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/sinungkulan_falls/3.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinungkulan_falls/3.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinungkulan_falls/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinungkulan_falls/3.jpg
 photo_credit: "Harjie G. Restauro"
 photo_credit_link: ""
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/logo/pbb-logo.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo.jpg"
 read_time: "3 minutes"
 ---
 #### Sinungkulan Falls     
@@ -23,21 +23,21 @@ read_time: "3 minutes"
 A hidden paradise. Sinungkulan Falls is one of the many natural tourist destinations of Pinamungajan. It is located in the mountain barangay of Lamac. The serene environment that the falls provide is a gift to those seeking peace of mind. You can do bird watching and picnics near the cool, crystal clear waters or just simply enjoy the sight and the music of the waterfalls.
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/sinungkulan_falls/1.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinungkulan_falls/1.jpg)  
 <small>Source: Harjie G. Restauro</small>  
 
 Mga bai! Sa Sinungkulan Falls nimo masinati ang kabugnaw ug kalimpyo sa tubig nga ni dagayday gikan sa bukid. Arats mga bai!
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/sinungkulan_falls/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinungkulan_falls/2.jpg)  
 <small>Source: Harjie G. Restauro</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/sinungkulan_falls/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinungkulan_falls/6.jpg)  
 <small>Source: Harjie G. Restauro</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/sinungkulan_falls/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinungkulan_falls/7.jpg)  
 <small>Source: Harjie G. Restauro</small>
 
 ##### HOW TO GET THERE?  
@@ -57,11 +57,11 @@ The place can be navigated on Waze. Whether you are riding a bus or your own veh
 (You can also bring your own food)   
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/sinungkulan_falls/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinungkulan_falls/4.jpg)  
 <small>Source: Harjie G. Restauro</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/sinungkulan_falls/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinungkulan_falls/5.jpg)  
 <small>Source: Harjie G. Restauro</small>  
 
 ♻️🗑LEAVE NO TRACE! (Gasa sa kina-iyahan nga angay ampingan, Matag usa kanato makatabang sa pag amping sa atong kalikopan sama sa pag punit sa basura ug paglabay niini sa saktong labayanan)  

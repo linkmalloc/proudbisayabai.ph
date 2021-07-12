@@ -9,11 +9,11 @@ tags:
   - beach
   - cebu
 views: "10"
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "5 minutes"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pangea_beach_resort/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pangea_beach_resort/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pangea_beach_resort/1.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pangea_beach_resort/1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pangea_beach_resort/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pangea_beach_resort/1.jpg
 photo_credit: "@nelson Judaya"
 photo_credit_link: ""
 ---
@@ -22,7 +22,7 @@ photo_credit_link: ""
 A relaxing and peaceful beach resort in Liloan, Cebu. Pangeas Beach Resort is a good place to chil and kill the time. It has an infinity pool (2ft, 4ft, 5ft, 6ft) and affordable cottages for accommodation. If you want some time out from the busy city life without having to go far then Pageas Beach Resort is the place for you!
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pangea_beach_resort/2.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pangea_beach_resort/2.jpg)
 
 Enjoy the ambiance and the overlooking view of the sea. The place offers serenity and a beautiful view of the sunrise.
 
@@ -95,16 +95,16 @@ Those health protocols must all be followed.
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pangea_beach_resort/3.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pangea_beach_resort/3.jpg)
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pangea_beach_resort/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pangea_beach_resort/4.jpg)  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pangea_beach_resort/6.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pangea_beach_resort/6.jpg)
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pangea_beach_resort/7.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pangea_beach_resort/7.jpg)
 <small>Source: @Nelson Judaya</small>
 
 ♻️🗑LEAVE NO TRACE! ( Gasa sa kina-iyahan nga angay ampingan, Matag usa kanato makatabang sa pag amping sa atong kalikopan sama sa pag punit sa basura ug paglabay niini sa saktong labayanan)  

@@ -1,6 +1,6 @@
 ---
 author: "Daniela Tinamisan | Pbb Admin"
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/daniela.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/daniela.jpg"
 layout: post
 title: "Satisfy your Milk Tea cravings without guilt at Moringa Smoothies & Tea"
 description: "The benefits and healing effect of Moringa is legendary so start your day by keeping healthy and safe, start your day with a nutritious cup of Moringa smoothies or any of our Tea beverages. "
@@ -10,23 +10,23 @@ tags:
   - Start your week with a healthy dose of nutritious Moringa smoothies and Cookies from Moringa Smoothies &amp; Tea!
 views: "10"
 read_time: "5 minutes"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/moringa_smoothies_and_tea/cover.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/moringa_smoothies_and_tea/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/moringa_smoothies_and_tea/cover.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/moringa_smoothies_and_tea/cover.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/moringa_smoothies_and_tea/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/moringa_smoothies_and_tea/cover.jpg
 photo_credit: "Pbb Team"
 photo_credit_link: ""
 ---
 ****
 Looking for a diet Milk Tea without worrying about gaining too much calories? Never miss a quick sip when heading to Ayala Center Cebu at **Moringa Smoothies & Tea**. Satisfying your Milk Tea cravings without guilt. Plus a lot more healthy snacks offered. Sugod na ta ug diet bai! Summer na raba. 😍🍵🍪
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/moringa_smoothies_and_tea/13.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/moringa_smoothies_and_tea/13.jpg)  
 
 **Moringa** has been used for centuries due to its medicinal properties and health benefits. It also has antifungal, antiviral, antidepressant, and anti-inflammatory properties. The benefits and healing effect of Moringa is legendary so start your day by keeping healthy and safe, start your day with a nutritious cup of Moringa smoothies or any of our Tea beverages.
 
 ****
 #### MENU  
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/moringa_smoothies_and_tea/16.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/moringa_smoothies_and_tea/16.jpg)  
 
 ###### Moringa Smoothies
 
@@ -38,7 +38,7 @@ Looking for a diet Milk Tea without worrying about gaining too much calories? Ne
 - Apple: P129.00
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/moringa_smoothies_and_tea/18.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/moringa_smoothies_and_tea/18.jpg)  
 ###### Tea
 - Moringa Milk Tea: P129.00
 - Moringa Milk Tea : P129.00 (with Cream Cheese)
@@ -46,7 +46,7 @@ Looking for a diet Milk Tea without worrying about gaining too much calories? Ne
 - Moring Hot Tea: 69.00 (with Honey and Lemon)
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/moringa_smoothies_and_tea/14.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/moringa_smoothies_and_tea/14.jpg)  
 ###### Moringa Cookies: (Box of 10)
 - Sweetend Moringa Cookies: P200.00
 - Low Sugar Moringa Cookies: P200.00
@@ -54,9 +54,9 @@ Looking for a diet Milk Tea without worrying about gaining too much calories? Ne
 ****
 They serve real fruit flavours to suit every taste bud like bananas, apples, pineapples, watermelon and perennial favourites mangoes.
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/moringa_smoothies_and_tea/17.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/moringa_smoothies_and_tea/17.jpg)  
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/moringa_smoothies_and_tea/20.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/moringa_smoothies_and_tea/20.jpg)  
 
 ****
 ##### HOW TO GET THERE?  
@@ -80,13 +80,13 @@ You can contact them through:
 📥 Contact Number: [0922 392 3767](tel:09223923767) (can also deliver thru maxim)
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/moringa_smoothies_and_tea/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/moringa_smoothies_and_tea/4.jpg)  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/moringa_smoothies_and_tea/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/moringa_smoothies_and_tea/6.jpg)  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/moringa_smoothies_and_tea/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/moringa_smoothies_and_tea/7.jpg)  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/moringa_smoothies_and_tea/15.jpg) 
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/moringa_smoothies_and_tea/15.jpg) 

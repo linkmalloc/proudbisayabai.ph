@@ -12,31 +12,31 @@ tags:
   - camping
   - stargazing
 views: "10"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jomax_peak/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jomax_peak/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jomax_peak/1.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jomax_peak/1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jomax_peak/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jomax_peak/1.jpg
 photo_credit: "Negros Finest | Ctto"
 photo_credit_link: ""
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "5 minutes"
 ---
 #### JOMAX PEAK
 A great place for sightseeing, bonfire, and stargazing. Jomax Peak is a picnic and camping grounds and a flower sanctuary in Salvador, Benedicto, Negros Occidental. As its name entails, this place is elevated and offers an overseeing view of the surroundings. It is a perfect spot to encounter *sea of clouds* during habagat or monsoon season. They have a handful of amenities to offer. A public veranda, a veranda shade, pool area, and a camping ground!
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jomax_peak/3.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jomax_peak/3.jpg)  
 <small>Source: Negros Finest</small>  
 
 If you enjoy sightseeing the most then this overlooking place is perfect as your next destination! Imagine yourself comfortably sitting in one of the verandas, looking far away on the wide horizon while sipping a perfectly hot cup of coffee. Indeed, a perfect place to chill and to have peace of mind. And by the way, the coffee being offered here is free (included in your entrance fee).  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jomax_peak/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jomax_peak/2.jpg)  
 <small>Source: Negros Finest</small>  
 
 You must book a spot on their website for an overnight stay before heading to Jomax Peak. Your receipts and valid ID will be checked upon entering the place. Children are free and you can bring your fur babies! Bringing your own food is alright because they don't have corkage fee. They have tents for rent but bring your own pillows and blankets. They limit their guests and most of the time don’t accept walk-ins. Everyone who wished to visit the place needs to have a reservation through their website.
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jomax_peak/9.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jomax_peak/9.jpg)
 
 ****
 ****
@@ -120,21 +120,21 @@ Take the Ceres Bus at Bacolod South Terminal bound for Cebu City via Don Salvado
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d74621.10262956229!2d123.22626194145752!3d10.595694318488594!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a93046ba0b1fc1%3A0x72cf5692b13484bf!2sJomax%20Peak!5e0!3m2!1sen!2sph!4v1622477016353!5m2!1sen!2sph" style="width: 100%; height:450px; border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jomax_peak/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jomax_peak/4.jpg)  
 <small>Source: Negros Finest</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jomax_peak/6.jpg)  
-<small>Source: Negros Finest</small>  
-
-
-****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jomax_peak/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jomax_peak/6.jpg)  
 <small>Source: Negros Finest</small>  
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jomax_peak/8.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jomax_peak/7.jpg)  
+<small>Source: Negros Finest</small>  
+
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jomax_peak/8.jpg)  
 <small>Source: Negros Finest</small>  
 
 ****
@@ -148,7 +148,7 @@ Facebook Page: [https://www.facebook.com/jomaxpeak](https://www.facebook.com/jom
   
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jomax_peak/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jomax_peak/5.jpg)  
 <small>Source: Negros Finest</small>  
 
 

@@ -10,12 +10,12 @@ tags:
   - beach
   - resort
 views: "175,132"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort2/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort2/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort2/1.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ritz_beach_resort2/1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ritz_beach_resort2/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ritz_beach_resort2/1.jpg
 photo_credit: "Proud Bisaya Bai, Photo Bloggers"
 photo_credit_link: ""
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/logo/pbb-logo.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo.jpg"
 read_time: "5 minutes"
 ---
 ##### Ritz Beach Resort  
@@ -23,17 +23,17 @@ read_time: "5 minutes"
 Looking for a place with a budget-friendly getaway? Then Ritz Beach Resort is what you are looking for. This is a great place for a family outing, team building or just chilling out with your barkadas. The place offers clean accommodations, friendly staff, and pristine waters that highlight the sunset view. 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort2/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ritz_beach_resort2/2.jpg)  
 <small>Source: Proud Bisaya Bai, Photo Bloggers</small>  
 
 The resort is situated in Sitio Kalipayan, Lapu-Lapu City, Cebu. It is just 20km away from Cebu City or an estimated 35 minutes drive depending on the traffic situation. 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort2/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ritz_beach_resort2/6.jpg)  
 <small>Source: Proud Bisaya Bai, Photo Bloggers</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort2/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ritz_beach_resort2/7.jpg)  
 <small>Source: Proud Bisaya Bai, Photo Bloggers</small> 
 
 Simple but Worth it Bai! Get unwind and bonding with family and friends at Ritz Beach Resort in Lapu-Lapu City, Cebu. No Entrance Fee! 🏖😍😯  
@@ -73,11 +73,11 @@ They will accept reservation in advance.
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort2/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ritz_beach_resort2/4.jpg)  
 <small>Source: Proud Bisaya Bai, Photo Bloggers</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort2/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ritz_beach_resort2/5.jpg)  
 <small>Source: Proud Bisaya Bai, Photo Bloggers</small>  
 
 ****
@@ -94,7 +94,7 @@ They will accept reservation in advance.
 ‼️ Take Note: Padung sa exact location medyo batoon ang dalan kay for construction pa siya peru pwedi rajud makasulod ang sakyanan.   
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/ritz_beach_resort2/3.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ritz_beach_resort2/3.jpg)  
 <small>Source: Proud Bisaya Bai, Photo Bloggers</small>  
 
 ♻️🗑LEAVE NO TRACE! (Gasa sa kina-iyahan nga angay ampingan, Matag usa kanato makatabang sa pag amping sa atong kalikopan sama sa pag punit sa basura ug paglabay niini sa saktong labayanan) 

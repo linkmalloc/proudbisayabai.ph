@@ -1,6 +1,6 @@
 ---
 author: "Twin De Los Reyes / Pbb Content Editor"
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/twin.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/twin.jpg"
 layout: post
 read_time: "5 minutes"
 title: "Therrish Beach Resort of Maravilla: A Peaceful Resort with NBA-inspired Murals"
@@ -12,9 +12,9 @@ tags:
   - resort
   - north-cebu
 views: "10"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/1.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/1.jpg
 photo_credit: "Twin De Los Reyes / Pbb Content Editor"
 photo_credit_link: ""
 ---
@@ -23,23 +23,23 @@ Are you looking for a place na makarelax and chill? Tara na mga Bai sa Therrish 
 
 A peaceful resort along the well-known Maravilla White Sand Shoreline. **Therrish Beach Resort** offers a relaxed ambiance, a white sand beach within walking distance, swimming pools, rooms and cottages with reasonable prices, and not to mention the NBA-inspired paintings on their walls.
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/2.jpg)  
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/6.jpg)  
 
 The resort cottages are in native styles and are made from antique bayong and tugas woods with common cr and shower. They also have middle-class rooms with reasonable prices that have cr and shower inside. Parking is not a problem for they have a big parking area for their guest. You can check the rates when you scroll down below.
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/20.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/20.jpg)  
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/15.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/15.jpg)  
 
 They have two swimming pools for both adults and kids to enjoy as well.
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/4.jpg)  
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/5.jpg)  
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/10.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/10.jpg)  
 
 Going north of Cebu, Therrish Beach resort is exactly located at barangay Maravilla, Tabuelan, Cebu. Their main priority is to provide happy services and new memories to all their guests. So mga bai, adto nata sa Therrish Beach Resort of Maravilla!
 
@@ -92,65 +92,65 @@ Therrish Beach Resort Maravilla
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9104.559541026763!2d123.89261385873859!3d10.902862555337911!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a85b6aa9d1bbbb%3A0x8304b49cf95afa61!2sTherrish%20Beach%20Resort!5e0!3m2!1sen!2sph!4v1621143459877!5m2!1sen!2sph" style="width: 100%; height: 450px; border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/3.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/3.jpg)  
 <small>Source: Twin De Los Reyes / Pbb Content Editor</small>  
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/7.jpg)  
 <small>Source: Twin De Los Reyes / Pbb Content Editor</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/9.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/9.jpg)  
 <small>Source: Twin De Los Reyes / Pbb Content Editor</small>  
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/11.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/11.jpg)  
 <small>Source: Twin De Los Reyes / Pbb Content Editor</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/12.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/12.jpg)  
 <small>Source: Twin De Los Reyes / Pbb Content Editor</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/13.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/13.jpg)  
 <small>Source: Michael Sagonoy | Pobreng Laagan | Drone Pilot</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/14.jpg)  
-<small>Source: Michael Sagonoy | Pobreng Laagan | Drone Pilot</small>  
-
-
-****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/16.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/14.jpg)  
 <small>Source: Michael Sagonoy | Pobreng Laagan | Drone Pilot</small>  
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/18.jpg)  
-<small>Source: Michael Sagonoy | Pobreng Laagan | Drone Pilot</small>  
-
-****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/19.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/16.jpg)  
 <small>Source: Michael Sagonoy | Pobreng Laagan | Drone Pilot</small>  
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/21.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/18.jpg)  
 <small>Source: Michael Sagonoy | Pobreng Laagan | Drone Pilot</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/22.jpg)  
-<small>Source: Michael Sagonoy | Pobreng Laagan | Drone Pilot</small>  
-
-****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/23.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/19.jpg)  
 <small>Source: Michael Sagonoy | Pobreng Laagan | Drone Pilot</small>  
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/therrish_beach_resort_maravilla/17.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/21.jpg)  
+<small>Source: Michael Sagonoy | Pobreng Laagan | Drone Pilot</small>  
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/22.jpg)  
+<small>Source: Michael Sagonoy | Pobreng Laagan | Drone Pilot</small>  
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/23.jpg)  
+<small>Source: Michael Sagonoy | Pobreng Laagan | Drone Pilot</small>  
+
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/17.jpg)  
 <small>Source: Michael Sagonoy | Pobreng Laagan | Drone Pilot</small>  
 
 ♻️🗑LEAVE NO TRACE!  

@@ -8,13 +8,13 @@ categories:
 tags:
   - mindanao
 views: "10"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/carmens_floating_cottages/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/carmens_floating_cottages/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/carmens_floating_cottages/1.jpg
-img_post_header: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/carmens_floating_cottages/cover.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carmens_floating_cottages/1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carmens_floating_cottages/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carmens_floating_cottages/1.jpg
+img_post_header: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carmens_floating_cottages/cover.jpg
 photo_credit: "PBB Mindanao Team + Cheranton TV via Juan Virtudazo, Contributor"
 photo_credit_link: ""
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/bench.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/bench.jpg"
 read_time: "4 minutes"
 ---
 ****
@@ -22,11 +22,11 @@ Carmen, Agusan del Norte is considered as the Floating Cottage Capital of the Ph
 
 These floating cottages are made up of bamboos and are perfectly designed not to capsize or sink at all.  
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/carmens_floating_cottages/5.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carmens_floating_cottages/5.jpg)
 
 The place has accommodating staff, delicious food, and excellent safety measures. With the pandemic still going, the resort owners imposed that they limit the number of people allowed, depending on the size. These floating cottages are for rent. You can check the rates provided below.    
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/carmens_floating_cottages/2.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carmens_floating_cottages/2.jpg)
 
 Floating Cottages for you, your friends and your family to have fun under the sun! Swim, dive and dine. Arats mga bai!  
 
@@ -67,7 +67,7 @@ Monday to Friday:
   
 PS. If wala mo’y dala nga foods, ayaw mog kabalaka kay daghay maorderan na foods sa kilid kilid. 😉   
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/carmens_floating_cottages/4.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carmens_floating_cottages/4.jpg)
 
 ♻️🗑LEAVE NO TRACE! ( Gasa sa kina-iyahan nga angay ampingan, Matag usa kanato makatabang sa pag amping sa atong kalikopan sama sa pag punit sa basura ug paglabay niini sa saktong labayanan)
 

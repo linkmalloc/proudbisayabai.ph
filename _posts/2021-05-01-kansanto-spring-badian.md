@@ -1,6 +1,6 @@
 ---
 author: "Thirdy Fua | Photo Blogger"
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/thirdy.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/thirdy.jpg"
 layout: post
 title: "Soak and be refreshed in this Cold Spring of Badian Cebu"
 description: "Kansanto Spring is one of the many water spots of Badian, Cebu in the Philippines. This gem is located between the boundary of barangays Banhigan and Poblacion. It's famed cold waters is guaranteed to refresh and help you beat the heat!  "
@@ -11,9 +11,9 @@ tags:
   -  south-cebu
 views: "10"
 read_time: "3 minutes"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/kansanto_spring_badian/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/kansanto_spring_badian/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/kansanto_spring_badian/1.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kansanto_spring_badian/1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kansanto_spring_badian/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kansanto_spring_badian/1.jpg
 photo_credit: "Ganados Photography"
 photo_credit_link: ""
 ---
@@ -23,12 +23,12 @@ Kansanto Spring is one of the many water spots of Badian, Cebu, Philippines. Thi
 
 The place offers a serene and nice place to relax and unwind. The water is clean and clear and moves with the tide so it’s best to come during high tides, the place is still enjoyable though during low tides. There are 3 pools but only 1 is allowed for swimming, the other pools are used for locally grown fishes.
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/kansanto_spring_badian/2.jpg)   
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kansanto_spring_badian/2.jpg)   
 
 They have cottages and if you plan to stay overnight, you can also avail their private rooms. Scroll down for more info on the prices. Take note, you can bring your food and drinks here. No corkage fee for the foods BUT they charge (P200 per kind) for drinks and liquors.
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/kansanto_spring_badian/3.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kansanto_spring_badian/3.jpg)  
 <small>Source: Ganados Photography</small>  
 
 🕒Open Hours: 8am - 5pm daily   
@@ -49,7 +49,7 @@ They have cottages and if you plan to stay overnight, you can also avail their p
 - Parking Lot  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/kansanto_spring_badian/9.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kansanto_spring_badian/9.jpg)  
 <small>Source: Ganados Photography</small>  
 
 ****
@@ -79,7 +79,7 @@ They have cottages and if you plan to stay overnight, you can also avail their p
 - PHP 20.00 for motorbike 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/kansanto_spring_badian/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kansanto_spring_badian/5.jpg)  
 <small>Source: Ganados Photography</small>  
 
 ****
@@ -98,22 +98,22 @@ They have cottages and if you plan to stay overnight, you can also avail their p
 #### MORE IMAGES
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/kansanto_spring_badian/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kansanto_spring_badian/4.jpg)  
 <small>Source: Ganados Photography</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/kansanto_spring_badian/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kansanto_spring_badian/6.jpg)  
 <small>Source: Ganados Photography</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/kansanto_spring_badian/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kansanto_spring_badian/7.jpg)  
 <small>Source: Ganados Photography</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/kansanto_spring_badian/8.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kansanto_spring_badian/8.jpg)  
 <small>Source: Ganados Photography</small>  
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/kansanto_spring_badian/10.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kansanto_spring_badian/10.jpg)  
 <small>Source: Ganados Photography</small>  

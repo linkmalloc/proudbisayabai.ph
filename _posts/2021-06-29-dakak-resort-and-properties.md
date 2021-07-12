@@ -10,12 +10,12 @@ tags:
   - resort
   - mindanao
 views: "49,021"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dakak_resort_and_properties/8.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dakak_resort_and_properties/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dakak_resort_and_properties/8.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dakak_resort_and_properties/8.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dakak_resort_and_properties/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dakak_resort_and_properties/8.jpg
 photo_credit: "Dakak Park And Beach Resort Via Mark Lester Oche"
 photo_credit_link: ""
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "5 minutes"
 ---
 ##### Dakak Park And Beach Resort
@@ -23,24 +23,24 @@ read_time: "5 minutes"
 Dreaming of making your way to a one of a kind travel destination? Imagine yourself being immersed in a lush paradise serenaded with the calming sounds of beach waves and the soft rhythm of the trees dancing with the breeze. With Dakak Resort and Properties, you are at the right place. With all medium access to the sea, air, and land, one can reach them with ease.   
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dakak_resort_and_properties/1.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dakak_resort_and_properties/1.jpg)  
 <small>Source: Dakak Park And Beach Resort Via Mark Lester Oche</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dakak_resort_and_properties/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dakak_resort_and_properties/2.jpg)  
 <small>Source: Dakak Park And Beach Resort Via Mark Lester Oche</small>  
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dakak_resort_and_properties/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dakak_resort_and_properties/7.jpg)  
 <small>Source: Dakak Park And Beach Resort Via Mark Lester Oche</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dakak_resort_and_properties/9.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dakak_resort_and_properties/9.jpg)  
 <small>Source: Dakak Park And Beach Resort Via Mark Lester Oche</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dakak_resort_and_properties/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dakak_resort_and_properties/6.jpg)  
 <small>Source: Dakak Park And Beach Resort Via Mark Lester Oche</small>  
 
 Generously situated in the southern region of the Philippines, in the historical city of Dapitan where our National Hero Jose Rizal was exiled.   
@@ -68,11 +68,11 @@ Dakak Resort and Properties prides itself with top of the class amenities and fa
 - Extra person - P2,500.00  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dakak_resort_and_properties/10.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dakak_resort_and_properties/10.jpg)  
 <small>Source: Dakak Park And Beach Resort Via Mark Lester Oche</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dakak_resort_and_properties/11.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dakak_resort_and_properties/11.jpg)  
 <small>Source: Dakak Park And Beach Resort Via Mark Lester Oche</small>  
 
 ****
@@ -101,15 +101,15 @@ Adventure sports
 - Adventure Zone Activities  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dakak_resort_and_properties/3.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dakak_resort_and_properties/3.jpg)  
 <small>Source: Dakak Park And Beach Resort Via Mark Lester Oche</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dakak_resort_and_properties/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dakak_resort_and_properties/4.jpg)  
 <small>Source: Dakak Park And Beach Resort Via Mark Lester Oche</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dakak_resort_and_properties/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dakak_resort_and_properties/5.jpg)  
 <small>Source: Dakak Park And Beach Resort Via Mark Lester Oche</small>  
 
 ****
@@ -124,7 +124,7 @@ Instagram: [@dakakbeachresort](https://instagram.com/dakakbeachresort)
 [09053152600](tel:09053152600)/[09182437745](tel:09182437745)  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dakak_resort_and_properties/12.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dakak_resort_and_properties/12.jpg)  
 <small>Source: Dakak Park And Beach Resort Via Mark Lester Oche</small>  
 
 ****
