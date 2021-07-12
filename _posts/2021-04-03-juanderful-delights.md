@@ -39,7 +39,8 @@ Plus, if you’ve missed the latest food craze in town, now is the best time to 
   
 They accept dine-in, pickup, takeout, and home deliveries.   
   
-Juanderful Delights’ Page: Juanderful Delights or [https://www.facebook.com/JuanderfulDelightsCARAGAOfficial/](https://www.facebook.com/JuanderfulDelightsCARAGAOfficial/)  
+Juanderful Delights’ Page: Juanderful Delights or 
+[ <span><i class="elegant-icon social_facebook"></i> JuanderfulDelightsCARAGAOfficial</span>](https://facebook.com/JuanderfulDelightsCARAGAOfficial/){: .btn-sm .btn-primary .text-white .text-center .font-small .btn-visit-fb .d-block .p-2}
   
 So, what are you waiting for? Visit us now!   
 
@@ -74,12 +75,27 @@ So, what are you waiting for? Visit us now!
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617417921/juanderful_delights/tun0m0is0e4q9plerfue.jpg)
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617417907/juanderful_delights/gxabydxym2s5i1isssov.jpg) 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617417910/juanderful_delights/bkg1yqgofh1pr5j9uo1f.jpg) 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617417914/juanderful_delights/od3h441fafuvmbxyfuwx.jpg) 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617417918/juanderful_delights/ni5zab7kmsxt1xlxhyjf.jpg) 
  
 ****
  👣  AMPING KANUNAY SA LAAG BAI 👣  
   
 ***
-[#ProudBisayaBai](https://www.facebook.com/hashtag/ProudBisayaBai/) [#TatakBisaya](https://www.facebook.com/hashtag/TatakBisaya/)
+[#ProudBisayaBai](https://facebook.com/hashtag/ProudBisayaBai/) [#TatakBisaya](https://facebook.com/hashtag/TatakBisaya/)
 
 ****
 Bai! Want to be featured? Send us your BEST Photos and share your Great Travel Experienced!

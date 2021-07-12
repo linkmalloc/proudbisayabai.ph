@@ -8,14 +8,14 @@ categories:
 tags:
   - 
 views: "10"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/3.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/3.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/3.jpg
-img_500_1: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/2.jpg
-img_500_2: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/3.jpg
-img_500_3: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/4.jpg
-img_500_4: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/5.jpg
-img_500_5: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/6.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/3.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/3.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/3.jpg
+img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/2.jpg
+img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/3.jpg
+img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/4.jpg
+img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/5.jpg
+img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/6.jpg
 photo_credit: "Lyndon Bridge"
 photo_credit_link: ""
 published: false
@@ -26,15 +26,15 @@ Looking for Instagrammable view with picturesque mountain background for your me
 A Mountain Resort with amazing view of the mountains and a secluded place to relax and chill. This greek-inspired resort is located at the beautiful town of Liloan, Cebu.
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/2.jpg)  
 <small>Source: Lyndon Bridge</small>  
 
 The place has 3 swimming pools, a big one for adult, a kiddie pool and a jacuzzi.  
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/5.jpg)  
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/4.jpg)  
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/13.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/13.jpg)  
 
 The place is built at the side of a hill. So when going to the resort be ready to climb the sloopy hill.
 
@@ -42,9 +42,9 @@ At the top of the hill, you can setup camping tents. It is where the restaurant 
 
 The place resides at the side of a hill so be ready to climb some stairs.
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/13.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/13.jpg)  
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/13.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/13.jpg)  
 
 
 
@@ -112,42 +112,42 @@ Senior, PWD, child(3-9 Yrs) = Php 150.00
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/1.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/1.jpg)  
 <small>Source: Lyndon Bridge</small>  
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/4.jpg)  
 <small>Source: Lyndon Bridge</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/5.jpg)  
 <small>Source: Lyndon Bridge</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/6.jpg)  
 <small>Source: Lyndon Bridge</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/7.jpg)  
 <small>Source: Lyndon Bridge</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/8.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/8.jpg)  
 <small>Source: Lyndon Bridge</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/9.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/9.jpg)  
 <small>Source: Lyndon Bridge</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/10.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/10.jpg)  
 <small>Source: Lyndon Bridge</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/11.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/11.jpg)  
 <small>Source: Lyndon Bridge</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_santorini_mountain_resort/12.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_santorini_mountain_resort/12.jpg)  
 <small>Source: Lyndon Bridge</small>  

@@ -12,40 +12,40 @@ tags:
   - zipline
   - clip jumping
 views: "10"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/funtastic_island/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/funtastic_island/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/funtastic_island/1.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/funtastic_island/1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/funtastic_island/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/funtastic_island/1.jpg
 photo_credit: "Jack Ponpon / Jak73"
 photo_credit_link: ""
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/daisy.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/daisy.jpg"
 read_time: "6 minutes"
 ---
 #### Funtastic Island   
 
 A place of fun and great adventure. **Funtastic Island** is a place to relax and enjoy the ocean breeze that will surely captivate your hearts. The place is worth experiencing with family and friends. The main highlight of **Funtastic Island** is the cliff jumping that gives you the adrenaline rush and the beautiful cottages on top of the boulders. The view that it offers is really amazing.
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/funtastic_island/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/funtastic_island/2.jpg)  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/funtastic_island/3.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/funtastic_island/3.jpg)  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/funtastic_island/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/funtastic_island/6.jpg)  
 <small>Source: Jack Ponpon / Jak73</small>
 
 Going there is already an adventure. Funtastic Island is located at Gibitngil Island, Medellin, so you need to ride a boat to get here.  
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/funtastic_island/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/funtastic_island/4.jpg)  
 
 On this Island, you can also enjoy swimming along with plenty of fishes, ride their zipline and do kayaking. Yes indeed! It’s more FUN on Funtastic Island! Arats na! 💦🌞  
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/funtastic_island/11.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/funtastic_island/11.jpg)  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/funtastic_island/12.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/funtastic_island/12.jpg)  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/funtastic_island/13.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/funtastic_island/13.jpg)  
 <small>Source: Marie Vanessa Alcover | Sentillas Nivri (어빈)</small>
 
 ****
@@ -80,10 +80,10 @@ The place is located at Gibitngil Island, Medellin, Northern Cebu,about 3-4 hour
   
  ♻️🗑LEAVE NO TRACE! (Gasa sa kina-iyahan nga angay ampingan, Matag usa kanato makatabang sa pag amping sa atong kalikopan sama sa pag punit sa basura ug paglabay niini sa saktong labayanan)  
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/funtastic_island/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/funtastic_island/7.jpg)  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/funtastic_island/8.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/funtastic_island/8.jpg)  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/funtastic_island/9.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/funtastic_island/9.jpg)  

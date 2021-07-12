@@ -3,61 +3,62 @@ layout: default
 isTop: true
 ---
 <!-- Start Main content -->
-    <main class="bg-grey pb-30">
-        <div class="container pt-30">
-            <div class="featured-slider-3 position-relative">
-                <div class="slider-3-arrow-cover"></div>
-                <div class="featured-slider-3-items">
-                    {% for post in site.posts limit: 25 %}
+<main class="bg-grey pb-30">
+    <div class="container pt-30">
+        <div class="featured-slider-3 position-relative">
+            <div class="slider-3-arrow-cover"></div>
+            <div class="featured-slider-3-items">
+                {% for post in site.posts limit: 25 %}
 
-                    <div class="slider-single overflow-hidden border-radius-10">
-                        <div class="post-thumb position-relative">
-                            {% assign image_big = post.img_big_1000x600 %}
-                            {% unless image_big %}
-                                {% assign image_big = site.data.defaults.pageholder.img_big_1000x600 %}
-                            {% endunless %}
-                            <div class="thumb-overlay position-relative" style="background-image: url( {{ image_big }} )">
-                                <div class="post-content-overlay">
-                                    <div class="container">
-                                        <div class="entry-meta meta-0 font-small mb-20">
-                                            {% for category in post.categories %}
-                                            {% capture category_name %}{{ category | first }}{% endcapture %}
-                                            <a href="{{site.baseurl}}/categories/#{{category|slugize}}" tabindex="0"><span class="post-cat text-info text-uppercase">{{category}}</span></a>
-                                            {% endfor %}
-                                        </div>
-                                        <h1 class="post-title mb-20 font-weight-900 text-white">
-                                            <a class="text-white" href="{{ post.url }}" tabindex="0">{{ post.title }}</a>
-                                        </h1>
-                                        <div class="entry-meta meta-1 font-small text-white mt-10 pr-5 pl-5">
-                                            <!-- <span class="post-on">{{ post.date | date: '%B %d, %Y'}}</span> -->
-                                            <!-- <span class="hit-count has-dot">{{ post.views }}</span> -->
-                                        </div>
+                <div class="slider-single overflow-hidden border-radius-10">
+                    <div class="post-thumb position-relative">
+                        {% assign image_big = post.img_big_1000x600 %}
+                        {% unless image_big %}
+                        {% assign image_big = site.data.defaults.pageholder.img_big_1000x600 %}
+                        {% endunless %}
+                        <div class="thumb-overlay position-relative" style="background-image: url( {{ image_big }} )">
+                            <div class="post-content-overlay">
+                                <div class="container">
+                                    <div class="entry-meta meta-0 font-small mb-20">
+                                        {% for category in post.categories %}
+                                        {% capture category_name %}{{ category | first }}{% endcapture %}
+                                        <a href="{{site.baseurl}}/categories/#{{category|slugize}}" tabindex="0"><span
+                                                class="post-cat text-info text-uppercase">{{category}}</span></a>
+                                        {% endfor %}
+                                    </div>
+                                    <h1 class="post-title mb-20 font-weight-900 text-white">
+                                        <a class="text-white" href="{{ post.url }}" tabindex="0">{{ post.title }}</a>
+                                    </h1>
+                                    <div class="entry-meta meta-1 font-small text-white mt-10 pr-5 pl-5">
+                                        <!-- <span class="post-on">{{ post.date | date: '%B %d, %Y'}}</span> -->
+                                        <!-- <span class="hit-count has-dot">{{ post.views }}</span> -->
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    {% endfor %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+    <!-- End feature -->
+    <div class="container">
+        <div class="hot-tags pt-30 pb-30 font-small align-self-center">
+            <div class="widget-header-3">
+                <div class="row align-self-center">
+                    <div class="col-md-4 align-self-center">
+                        <h5 class="widget-title">Featured posts</h5>
+                    </div>
+                    {% include tags.html %}
                 </div>
             </div>
         </div>
-        <!-- End feature -->
-        <div class="container">
-            <div class="hot-tags pt-30 pb-30 font-small align-self-center">
-                 <div class="widget-header-3">
-                    <div class="row align-self-center">
-                        <div class="col-md-4 align-self-center">
-                            <h5 class="widget-title">Featured posts</h5>
-                        </div>
-                        {% include tags.html %}
-                    </div>
-                </div>
-            </div>
 
 
-            <div class="loop-grid mb-30">
-                <div class="row">
-                    <div class="col-lg-8 mb-30">
+        <div class="loop-grid mb-30">
+            <div class="row">
+                <div class="col-lg-8 mb-30">
                     {% include carousel.html posts=site.data.defaults.posts %}
 
                     {% include ads.article.html ad=site.data.ads.article %}
@@ -70,13 +71,16 @@ isTop: true
 
                     <article class="col-lg-4 col-md-6 mb-30 wow fadeInUp animated" data-wow-delay="0.2s">
                         <div class="post-card-1 border-radius-10 hover-up">
-                            <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url({{ image_big }})">
+                            <div class="post-thumb thumb-overlay img-hover-slide position-relative"
+                                style="background-image: url({{ image_big }})">
                                 <a class="img-link" href="{{ post.url }}"></a>
-                                <span class="top-right-icon bg-success"><i class="elegant-icon icon_camera_alt"></i></span>
+                                <span class="top-right-icon bg-success"><i
+                                        class="elegant-icon icon_camera_alt"></i></span>
                                 <ul class="social-share">
                                     <li><a href="#"><i class="elegant-icon social_share"></i></a></li>
-                                    <li><div class="sharethis-inline-share-buttons"></div>
-                                    <!-- <li><a class="fb" href="{{ site.facebook }}" title="Share on Facebook" target="_blank"><i class="elegant-icon social_facebook"></i></a></li>
+                                    <li>
+                                        <div class="sharethis-inline-share-buttons"></div>
+                                        <!-- <li><a class="fb" href="{{ site.facebook }}" title="Share on Facebook" target="_blank"><i class="elegant-icon social_facebook"></i></a></li>
                                     <li><a class="tw" href="{{ site.twitter }}" target="_blank" title="Tweet now"><i class="elegant-icon social_twitter"></i></a></li>
                                     <li><a class="pt" href="{{ site.youtube }}" target="_blank" title="Pin it"><i class="elegant-icon social_pinterest"></i></a></li> -->
                                 </ul>
@@ -85,7 +89,8 @@ isTop: true
                                 <div class="entry-meta meta-0 font-small mb-10">
                                     {% for category in post.categories %}
                                     {% capture category_name %}{{ category | first }}{% endcapture %}
-                                    <a href="{{site.baseurl}}/categories/#{{category|slugize}}" tabindex="0"><span class="post-cat text-info text-uppercase">{{category}}</span></a>
+                                    <a href="{{site.baseurl}}/categories/#{{category|slugize}}" tabindex="0"><span
+                                            class="post-cat text-info text-uppercase">{{category}}</span></a>
                                     {% endfor %}
                                 </div>
                                 <div class="d-flex post-card-content">
@@ -106,150 +111,131 @@ isTop: true
 
                 </div>
             </div>
+
         </div>
-                                </article>
-                            </div>
-                        </div>
-                       
+
+    </div>
+</main>
+<!-- End Main content -->
+<!--site-bottom-->
+<div class="site-bottom pt-50 pb-50">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-4 col-md-6">
+                <div class="sidebar-widget widget-latest-posts mb-30 wow fadeInUp animated">
+                    <div class="widget-header-2 position-relative mb-30">
+                        <h5 class="mt-5 mb-30">Destinations</h5>
                     </div>
-                   
-                </div>
-            </div>
-        </div>
-    </main>
-    <!-- End Main content -->
-    <!--site-bottom-->
-    <div class="site-bottom pt-50 pb-50">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <div class="sidebar-widget widget-latest-posts mb-30 wow fadeInUp animated">
-                        <div class="widget-header-2 position-relative mb-30">
-                            <h5 class="mt-5 mb-30">Destinations</h5>
-                        </div>
-                        <div class="post-block-list post-module-1">
-                            <ul class="list-post">
+                    <div class="post-block-list post-module-1">
+                        <ul class="list-post">
 
-                                {% assign count = 0 %}
+                            {% assign count = 0 %}
 
-                                {% for post in site.posts %}
-                                {% if post.categories contains "destination" and count < 3 %}
-
-                                {% assign count = count | plus: 1 %}
-
-                                {% assign image_big = post.img_500x500 %}
-                                {% unless image_big %}
-                                    {% assign image_big = "https://via.placeholder.com/500x500" %}
-                                {% endunless %}
-
-                                <li class="mb-30">
-                                    <div class="d-flex hover-up-2 transition-normal">
-                                        <div class="post-thumb post-thumb-80 d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">
-                                            <a class="color-white" href="{{ post.url }}">
-                                                <img src="{{ image_big }}" alt="">
-                                            </a>
-                                        </div>
-                                        <div class="post-content media-body">
-                                            <h6 class="post-title mb-15 text-limit-2-row font-medium"><a href="{{ post.url }}">{{ post.title }}</a></h6>
-                                            <div class="entry-meta meta-1 float-left font-x-small text-uppercase">
-                                                <span class="post-on">{{ post.date | date_to_string }}</span>
-                                                <span class="post-by has-dot">{{ post.views }} views</span>
-                                            </div>
+                            {% for post in site.posts %}
+                            {% if post.categories contains "destination" and count < 3 %} {% assign count=count | plus:
+                                1 %} {% assign image_big=post.img_500x500 %} {% unless image_big %} {% assign
+                                image_big="https://via.placeholder.com/500x500" %} {% endunless %} <li class="mb-30">
+                                <div class="d-flex hover-up-2 transition-normal">
+                                    <div
+                                        class="post-thumb post-thumb-80 d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">
+                                        <a class="color-white" href="{{ post.url }}">
+                                            <img src="{{ image_big }}" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="post-content media-body">
+                                        <h6 class="post-title mb-15 text-limit-2-row font-medium"><a
+                                                href="{{ post.url }}">{{ post.title }}</a></h6>
+                                        <div class="entry-meta meta-1 float-left font-x-small text-uppercase">
+                                            <span class="post-on">{{ post.date | date_to_string }}</span>
+                                            <span class="post-by has-dot">{{ post.views }} views</span>
                                         </div>
                                     </div>
+                                </div>
                                 </li>
                                 {% endif %}
                                 {% endfor %}
 
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="sidebar-widget widget-latest-posts mb-30 wow fadeInUp animated" data-wow-delay="0.2s">
-                        <div class="widget-header-2 position-relative mb-30">
-                            <h5 class="mt-5 mb-30">Foods</h5>
-                        </div>
-                        <div class="post-block-list post-module-1">
-                            <ul class="list-post">
-
-                                {% assign count = 0 %}
-                                {% for post in site.posts %}
-                                {% if post.categories contains "food" and count < 3 %}
-
-                                {% assign count = count | plus: 1 %}
-                                {% assign image_big = post.img_500x500 %}
-                                {% unless image_big %}
-                                    {% assign image_big = "https://via.placeholder.com/500x500" %}
-                                {% endunless %}
-
-                                <li class="mb-30">
-                                    <div class="d-flex hover-up-2 transition-normal">
-                                        <div class="post-thumb post-thumb-80 d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">
-                                            <a class="color-white" href="{{ post.url }}">
-                                                <img src="{{ image_big }}" alt="">
-                                            </a>
-                                        </div>
-                                        <div class="post-content media-body">
-                                            <h6 class="post-title mb-15 text-limit-2-row font-medium"><a href="{{ post.url }}"> {{ post.title }}</a></h6>
-                                            <div class="entry-meta meta-1 float-left font-x-small text-uppercase">
-                                                <span class="post-on">{{ post.date | date_to_string }}</span>
-                                                <span class="post-by has-dot">{{ post.views }} views</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                {% endif %}
-                                {% endfor %}
-                                
-                            </ul>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="sidebar-widget widget-latest-posts mb-30 wow fadeInUp animated" data-wow-delay="0.4s">
-                        <div class="widget-header-2 position-relative mb-30">
-                            <h5 class="mt-5 mb-30">Lifestyle</h5>
-                        </div>
-                        <div class="post-block-list post-module-1">
-                            <ul class="list-post">
-
-                                {% assign count = 0 %}
-                                {% for post in site.posts %}
-                                {% if post.categories contains "destination" and count < 3 %}
-
-                                {% assign count = count | plus: 1 %}
-                                {% assign image_big = post.img_500x500 %}
-                                {% unless image_big %}
-                                    {% assign image_big = "https://via.placeholder.com/500x500" %}
-                                {% endunless %}
-
-                                <li class="mb-30">
-                                    <div class="d-flex hover-up-2 transition-normal">
-                                        <div class="post-thumb post-thumb-80 d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">
-                                            <a class="color-white" href="{{ post.url }}">
-                                                <img src="{{ image_big }}" alt="">
-                                            </a>
-                                        </div>
-                                        <div class="post-content media-body">
-                                            <h6 class="post-title mb-15 text-limit-2-row font-medium"><a href="{{ post.url }}">{{ post.title }}</a></h6>
-                                            <div class="entry-meta meta-1 float-left font-x-small text-uppercase">
-                                                <span class="post-on">{{ post.date | date_to_string }}</span>
-                                                <span class="post-by has-dot">{{ post.views }} views</span>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                               
-                                {% endif %}
-                                {% endfor %}
-
-                            </ul>
-                        </div>
+                        </ul>
                     </div>
                 </div>
             </div>
-            {% include ads.partners_sponsors.html %}
+            <div class="col-lg-4 col-md-6">
+                <div class="sidebar-widget widget-latest-posts mb-30 wow fadeInUp animated" data-wow-delay="0.2s">
+                    <div class="widget-header-2 position-relative mb-30">
+                        <h5 class="mt-5 mb-30">Foods</h5>
+                    </div>
+                    <div class="post-block-list post-module-1">
+                        <ul class="list-post">
+
+                            {% assign count = 0 %}
+                            {% for post in site.posts %}
+                            {% if post.categories contains "food" and count < 3 %} {% assign count=count | plus: 1 %} {%
+                                assign image_big=post.img_500x500 %} {% unless image_big %} {% assign
+                                image_big="https://via.placeholder.com/500x500" %} {% endunless %} <li class="mb-30">
+                                <div class="d-flex hover-up-2 transition-normal">
+                                    <div
+                                        class="post-thumb post-thumb-80 d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">
+                                        <a class="color-white" href="{{ post.url }}">
+                                            <img src="{{ image_big }}" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="post-content media-body">
+                                        <h6 class="post-title mb-15 text-limit-2-row font-medium"><a
+                                                href="{{ post.url }}"> {{ post.title }}</a></h6>
+                                        <div class="entry-meta meta-1 float-left font-x-small text-uppercase">
+                                            <span class="post-on">{{ post.date | date_to_string }}</span>
+                                            <span class="post-by has-dot">{{ post.views }} views</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                </li>
+                                {% endif %}
+                                {% endfor %}
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="sidebar-widget widget-latest-posts mb-30 wow fadeInUp animated" data-wow-delay="0.4s">
+                    <div class="widget-header-2 position-relative mb-30">
+                        <h5 class="mt-5 mb-30">Lifestyle</h5>
+                    </div>
+                    <div class="post-block-list post-module-1">
+                        <ul class="list-post">
+
+                            {% assign count = 0 %}
+                            {% for post in site.posts %}
+                            {% if post.categories contains "destination" and count < 3 %} {% assign count=count | plus:
+                                1 %} {% assign image_big=post.img_500x500 %} {% unless image_big %} {% assign
+                                image_big="https://via.placeholder.com/500x500" %} {% endunless %} <li class="mb-30">
+                                <div class="d-flex hover-up-2 transition-normal">
+                                    <div
+                                        class="post-thumb post-thumb-80 d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">
+                                        <a class="color-white" href="{{ post.url }}">
+                                            <img src="{{ image_big }}" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="post-content media-body">
+                                        <h6 class="post-title mb-15 text-limit-2-row font-medium"><a
+                                                href="{{ post.url }}">{{ post.title }}</a></h6>
+                                        <div class="entry-meta meta-1 float-left font-x-small text-uppercase">
+                                            <span class="post-on">{{ post.date | date_to_string }}</span>
+                                            <span class="post-by has-dot">{{ post.views }} views</span>
+                                        </div>
+                                    </div>
+                                </div>
+                                </li>
+
+                                {% endif %}
+                                {% endfor %}
+
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {% include ads.partners_sponsors.html %}
         <!--container-->
-    <!-- </div> -->
-    <!--end site-bottom-->
+    </div>
+</div>

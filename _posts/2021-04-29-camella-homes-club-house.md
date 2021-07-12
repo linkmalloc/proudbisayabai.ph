@@ -8,12 +8,12 @@ categories:
 tags:
   - pool
 views: "10"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/camella_homes_club_house/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/camella_homes_club_house/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/camella_homes_club_house/1.jpg
-img_500_1: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/camella_homes_club_house/2.jpg
-img_500_2: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/camella_homes_club_house/3.jpg
-img_500_3: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/camella_homes_club_house/4.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camella_homes_club_house/1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camella_homes_club_house/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camella_homes_club_house/1.jpg
+img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camella_homes_club_house/2.jpg
+img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camella_homes_club_house/3.jpg
+img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camella_homes_club_house/4.jpg
 img_500_4: 
 img_500_5: 
 photo_credit: "Thirdy Fua | Photo Blogger"
@@ -26,7 +26,7 @@ photo_credit_link: ""
 Camella Homes Club House Talisay City is a perfect place to chill. The place offers a swimming pool with clean water and a good, overlooking view of the city. The fees are pretty cheap, especially because the parking area is free to the public. If you wanted to exclusively enjoy the place, come here during weekdays because more likely there are only a few people during these days.
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/camella_homes_club_house/13.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camella_homes_club_house/13.jpg)  
 <small>Source: Thirdy Fua | Photo Blogger</small>  
 
 
@@ -40,7 +40,7 @@ Entrance is free unless you plan to swim
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/camella_homes_club_house/9.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camella_homes_club_house/9.jpg)  
 <small>Source: Thirdy Fua | Photo Blogger</small>
 
 ****
@@ -58,33 +58,33 @@ Entrance is free unless you plan to swim
 #### MORE IMAGES
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/camella_homes_club_house/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camella_homes_club_house/7.jpg)  
 <br>
 <small>Source: Thirdy Fua | Photo Blogger</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/camella_homes_club_house/8.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camella_homes_club_house/8.jpg)  
 <small>Source: Thirdy Fua | Photo Blogger</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/camella_homes_club_house/10.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camella_homes_club_house/10.jpg)  
 <small>Source: Thirdy Fua | Photo Blogger</small>    
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/camella_homes_club_house/11.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camella_homes_club_house/11.jpg)  
 <small>Source: Thirdy Fua | Photo Blogger</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/camella_homes_club_house/12.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camella_homes_club_house/12.jpg)  
 <small>Source: Thirdy Fua | Photo Blogger</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/camella_homes_club_house/5.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camella_homes_club_house/5.jpg)
 <br>
 <small>Source: Thirdy Fua | Photo Blogger</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/camella_homes_club_house/6.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camella_homes_club_house/6.jpg)
 <br>
 <small>Source: Thirdy Fua | Photo Blogger</small>  
 

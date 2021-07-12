@@ -11,24 +11,24 @@ tags:
   - cebu
   - cultural
 views: "10"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/bojo_river/3.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/bojo_river/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/bojo_river/3.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river/3.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river/3.jpg
 photo_credit: ""
 photo_credit_link: ""
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/michael.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/michael.jpg"
 ---
 #### Bojo River  
 
 A great place for nature lovers and environment-minded people to enjoy a boat ride by the river that is linked to the open sea. Bojo River is scenically located just south of the town of Aloguinsan, South Western part of Cebu. Along the river you will see various species of mangroves, among other flora and fauna, being protected and propagated by the local government authorities and inhabitants.
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/bojo_river/2.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river/2.jpg)
 
 Bojo River Cruise & Eco-Cultural Tour is one of the most popular attractions in the Municipality. This eco-cultural tour at Bojo River provides you not only fun time and ride on an outrigger boat but also an environmentally enlightening experience. It will take around 3 hours to complete the Bojo River Cruise package service and environmental lessons. 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/bojo_river/8.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river/8.jpg)
 
 ##### RATES
 - For 5 guests: Php800.00/head
@@ -43,10 +43,10 @@ You will surely love the walk to the river from the entrance. Wooden paths and b
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/bojo_river/11.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river/11.jpg)  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/bojo_river/9.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river/9.jpg)  
 
 ##### EXACT LOCATION
 
@@ -58,35 +58,35 @@ You will surely love the walk to the river from the entrance. Wooden paths and b
 Phone: [+63 32 583-6797](tel:+63 32 583-6797)
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/bojo_river/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river/4.jpg)  
 <small>Source: Jonathan Dy</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/bojo_river/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river/5.jpg)  
 <small>Source: Jonathan Dy</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/bojo_river/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river/6.jpg)  
 <small>Source: Jonathan Dy</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/bojo_river/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river/7.jpg)  
 <small>Source: Jonathan Dy</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/bojo_river/10.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river/10.jpg)  
 <small>Source: Jonathan Dy</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/bojo_river/13.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river/13.jpg)  
 <small>Source: Jonathan Dy</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/bojo_river/14.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river/14.jpg)  
 <small>Source: R-jay Ricafrente</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/bojo_river/16.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river/16.jpg)  
 <small>Source: R-jay Ricafrente</small>  
 
 ****

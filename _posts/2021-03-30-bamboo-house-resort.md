@@ -82,6 +82,22 @@ This one is spacious and good for a barkada overnight stay-in.
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
+
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617119969/basdaku_white_beach/usghixismtev32oqy8z0.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617119973/basdaku_white_beach/auh969kk0qq74cf7qd6l.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617119977/basdaku_white_beach/cgm0kyefi1vomvk0sj1g.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617119982/basdaku_white_beach/ndsy0ygzizwjuroukzew.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617119986/basdaku_white_beach/qcd26tnu5fdiacwp7hou.jpg)  
  
 ****
  👣  AMPING KANUNAY SA LAAG BAI 👣  

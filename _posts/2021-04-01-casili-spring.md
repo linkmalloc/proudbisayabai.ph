@@ -39,6 +39,16 @@ An enchanting hidden lagoon in Balamban. Pabugnaw sa ta bai gikan sa kainit sa p
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617208792/casili_spring/u2u8zk4tohmblgxapwnf.jpg) 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617208789/casili_spring/zm45vdkjttelnjmub8ut.jpg) 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617208796/casili_spring/lqdjndbjw67uhdi9njg5.jpg) 
+
  
 ****
  👣  AMPING KANUNAY SA LAAG BAI 👣  

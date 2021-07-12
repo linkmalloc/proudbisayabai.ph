@@ -9,7 +9,7 @@ tags:
   - mountain
   - cebu
   - chill
-views: "10"
+views: "103,141"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618151389/kanirag_peak/mzuitolboaub5ezsqzvu.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618152879/kanirag_peak/kanirag_ggbixa.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618151389/kanirag_peak/mzuitolboaub5ezsqzvu.jpg
@@ -20,6 +20,9 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618151403
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618151407/kanirag_peak/mts2dpd9ihq773v6s7ce.jpg
 photo_credit: "Fretxzie Ann Martinez | Ariel Alegado | Team Leader"
 photo_credit_link: ""
+
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo.jpg"
+read_time: "4 minutes"
 ---
 #### Kan-Irag Peak  
   
@@ -114,6 +117,21 @@ If you want to be away from the busy city, be in Kan-irag! You can chill and hav
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618151393/kanirag_peak/pnop08tnpizkkicnre8b.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618151396/kanirag_peak/d0vgylbiib99o3ekvjfk.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618151400/kanirag_peak/onndnm8na97wgu0xwlzi.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618151403/kanirag_peak/tkmqckrc8qrp0mifenwp.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618151407/kanirag_peak/mts2dpd9ihq773v6s7ce.jpg)  
  
 ****
  👣  AMPING KANUNAY SA LAAG BAI 👣  

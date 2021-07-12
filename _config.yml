@@ -19,6 +19,16 @@ twitter_username: proudbisayabai
 github_username:  linkmalloc
 url_sitemap: "https://proudbisayabai.ph"
 
+exclude:
+  - Gemfile
+  - images/PBB
+  - images/posts
+  - images/3000x1144
+  - images/ads
+  - s3sync
+  - serve
+  - README.md
+
 
 
 # Build settings
@@ -63,3 +73,30 @@ we_are: your Bisaya Ultimate Travel Blog which was founded last July 22, 2020 to
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-lazy-load-image
+  - jekyll-minifier
+
+
+s3_public: https://pbb-images.s3.us-east-2.amazonaws.com
+cloudfront: https://d3hukd8e3cn3kb.cloudfront.net
+
+lazy_load_image:
+  src_attr_name: data-src # [required] You need to specify the attributes to be saved for lazy loading
+  preload_image: https://d3hukd8e3cn3kb.cloudfront.net/images/shimmer.gif # [optional] you can add a data uri or loading image as fallback src
+  class_attr_values: # [optional] if you want to add custom class value, please add values
+    - lazyload
+  ignore_selectors: # [optional] if you want to ignore applying lazy load image, please add selector (css or xpath)
+    - ".ignore-lazy-image-load"
+  #   - "/*[@class='ignore-lazy-image-load']"
+  additional_attrs: # [optional] if you want to add attributes, please add key value
+    "data-size": auto
+    "loading": "lazy"
+
+jekyll-minifier:
+  remove_spaces_inside_tags: true   # Default: true
+  remove_multi_spaces: true         # Default: true
+  remove_comments: true             # Default: true
+  remove_intertag_spaces: true      # Default: false
+  remove_quotes: false              # Default: false
+  uglifier_args:
+    harmony: true

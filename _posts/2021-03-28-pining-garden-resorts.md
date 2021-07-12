@@ -68,10 +68,11 @@ Pining Garden Resorts offer ako Ride going to Pining Garden Resorts:
   
 >Note Proper Disinfect, Wearing Mask and applied social dinstancing from other visitors.   
   
-📞 📩 For any inquiries please Contact: [https://www.facebook.com/PiningGardenResortsOfficialPages/ ](https://www.facebook.com/PiningGardenResortsOfficialPages/ ) 
+📞 📩 For any inquiries please Contact: 
+[ <span><i class="elegant-icon social_facebook"></i> PiningGardenResortsOfficialPages</span>](https://facebook.com/PiningGardenResortsOfficialPages/){: .btn-sm .btn-primary .text-white .text-center .font-small .btn-visit-fb .d-block .p-2}
 📱[0999 8494104](tel: 0999 8494104)  
 📱[0995 3588016](tel: 0995 3588016)  
-📱[0922 9049852 ](tel: 0922 9049852 ) 
+📱[0922 9049852](tel: 0922 9049852) 
   
 📷 Photos From: Pining Garden Resorts Facebook Page (Admin)   
 ✍🏻 Featured By: Ariel Alegado - Team Leader   
@@ -107,6 +108,21 @@ Pining Garden Resorts offer ako Ride going to Pining Garden Resorts:
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025580/pining_garden_resorts/n5drb9ucgp76oyrjzasi.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025623/pining_garden_resorts/x2z7chewn8jbnudr1mjz.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025595/pining_garden_resorts/kebkmmvxouk3egruk4zh.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025601/pining_garden_resorts/hh9zl3gjmcyhxchbpb6q.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025617/pining_garden_resorts/nqvbcxnk2zl6jzbdpgyj.jpg)  
  
 ****
  👣  AMPING KANUNAY SA LAAG BAI 👣  

@@ -1,6 +1,6 @@
 ---
 author: "Ariel Alegado | Team Leader"
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 layout: post
 title: "Experience Turtle Beach Resort of Northern Cebu"
 description: "Turtle Beach Resort offers an outdoor pool, cottages and a variety of air-conditioned room with TV, refrigerator and private bathroom."
@@ -11,9 +11,9 @@ tags:
   - north-cebu
 views: "10"
 read_time: "3 minutes"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/4.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/4.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/4.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/4.jpg
 photo_credit: "Turtle Beach Resort Facebook Page"
 photo_credit_link: ""
 ---
@@ -25,7 +25,7 @@ Summer getaway with Family and Friends? Then this is for you! 💦☀️😍
 A peaceful stay away from the City life and experience the wonderful place of Turtle Beach Resort in Catmon, Cebu! The resort offers an outdoor pool, cottages and a variety of air-conditioned room with TV, refrigerator and private bathroom. It is best to experience the resort with your family and friends where you can enjoy the friendly environment, the fresh air and the beautiful view of the sea.
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/12.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/12.jpg)  
 
 ****
 ##### Entrance Fee    
@@ -36,7 +36,7 @@ A peaceful stay away from the City life and experience the wonderful place of Tu
 ##### Rooms    
 You can reserve through their website at [https://www.turtlebeachresort.org/](https://www.turtlebeachresort.org/)
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/8.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/8.jpg)  
 
 - Cottages - ₱700  
 - Room W/ AC ( ₱1,700 - Day use) - ₱2,500   
@@ -53,7 +53,7 @@ You can reserve through their website at [https://www.turtlebeachresort.org/](ht
 Please note, for the safety and well-being of both customers and staff, alcoholic drinks are no longer allowed in the resort.
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/3.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/3.jpg)  
 <small>Source: Turtle Beach Resort Facebook Page</small>  
 
 ****
@@ -78,29 +78,29 @@ For more details about the Resort and how to get there please visit:
 ****
 #### MORE IMAGES
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/7.jpg)  
 <small>Source: Turtle Beach Resort Facebook Page</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/10.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/10.jpg)  
 <small>Source: Turtle Beach Resort Facebook Page</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/1.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/1.jpg)  
 <small>Source: Turtle Beach Resort Facebook Page</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/6.jpg)  
 <small>Source: Turtle Beach Resort Facebook Page</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/5.jpg)  
 <small>Source: Turtle Beach Resort Facebook Page</small>
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/2.jpg)  
 <small>Source: Turtle Beach Resort Facebook Page</small>    
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/turtle_beach_resort/9.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/9.jpg)  
 <small>Source: Turtle Beach Resort Facebook Page</small>  

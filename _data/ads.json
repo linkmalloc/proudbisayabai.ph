@@ -4,9 +4,35 @@
         "img_big_3000x1144": "https://res.cloudinary.com/proudbisayabai/image/upload/w_3000,h_1144,c_fit/v1611023828/defaults/ads_placeholder/140046689_274641550998187_4763198278809587987_o.jpg_rzy0np.jpg",
         "img_big_1000x600": "https://res.cloudinary.com/proudbisayabai/image/upload/w_1000,h_600,c_fit/v1611023828/defaults/ads_placeholder/140046689_274641550998187_4763198278809587987_o.jpg_rzy0np.jpg",
         "title": "Advertise with Us",
-        "sub_title": "Reach over 96k people with your brand",
-        "description": "PBB helps you grow your visibility.",
+        "sub_title": "Reach over 110k people with your brand",
+        "description": "Proud Bisaya Bai helps you grow your visibility.",
         "facebook": "https://facebook.com/proudbisayabai",
         "click_url": "https://facebook.com/proudbisayabai"
-    }
+    },
+    "followers":{
+        "facebook": "110,000"
+    },
+    "partners_sponsors": [
+        {
+            "url": "https://linkmalloc.com/",
+            "img": "/images/ads/linkmalloc.gif",
+            "title": "Link Malloc",
+            "alt": "Link Malloc Innovations, Inc.",
+            "desc": "Website and Mobile Apps Developer In Cebu"
+        },
+        {
+            "url": "https://cebuhomepages.com/",
+            "img": "/images/ads/chp.gif",
+            "title": "Cebu Home Pages",
+            "alt": "Cebu Home Pages",
+            "desc": "Helping Home Buyers and Investors Since 2011"
+        },
+        {
+            "url": "https://lalamove.com/",
+            "img": "/images/ads/lalamove.jpg",
+            "title": "Lalamove",
+            "alt": "Lalamove",
+            "desc": "Leading Same-day delivery app and courier service."
+        }
+    ]
 }

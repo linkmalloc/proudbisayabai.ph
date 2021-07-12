@@ -8,7 +8,10 @@ categories:
 tags:
   - cebu-south
   - resort
-views: "10"
+views: "122,150"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
+read_time: "5 minutes"
+
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617273173/fantasy_lodge/ipb3agst9iyz2lkj8enz.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617273723/fantasy_lodge/fantasylodge_vmlojx.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617273173/fantasy_lodge/ipb3agst9iyz2lkj8enz.jpg
@@ -76,6 +79,23 @@ Our swimming pool is 5-9 ft. Proper swimming attire is a must.
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
+
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617273178/fantasy_lodge/zc7bzucnrsf0tq0xdknm.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617273181/fantasy_lodge/v3mmv3nguagpif1t0b2y.jpg) 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617273185/fantasy_lodge/dhp87nfebtlph5z1expx.jpg)
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617273189/fantasy_lodge/jqnb3grqk2jumknzgkdl.jpg) 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617273194/fantasy_lodge/nggyylg2jr4kelygkb8d.jpg) 
+
  
 ****
  👣  AMPING KANUNAY SA LAAG BAI 👣  
