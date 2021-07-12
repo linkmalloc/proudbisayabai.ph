@@ -19,10 +19,12 @@ layout: none
     {% include seo.html %}
     {% include ads.html %}
     <!-- NewsBoard CSS  -->
+
     <link rel="stylesheet" href="/assets/css/style.css">
     <link rel="stylesheet" href="/assets/css/widgets.css">
     <link rel="stylesheet" href="/assets/css/responsive.css">
     <link rel="stylesheet" href="/assets/css/vendor/viewer.css">
+    
     {% include gtm/head.html %}
 </head>
 
@@ -42,6 +44,8 @@ layout: none
     <div class="dark-mark"></div>
     <!-- Vendor JS-->
     {% include firebase.html %}
+    <script src="/assets/js/all-libs.merge.min.js"></script>
+    {% comment %}
     <script src="/assets/js/vendor/lazysizes.min.js"></script>
     <script src="/assets/js/vendor/modernizr-3.5.0.min.js"></script>
     <script src="/assets/js/vendor/jquery-1.12.4.min.js"></script>
@@ -62,6 +66,7 @@ layout: none
     <script src="/assets/js/vendor/viewer.js"></script>
     <script src="/assets/js/vendor/jquery-viewer.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11.0.16/dist/sweetalert2.all.min.js"></script>
+    {% endcomment %}
     <!-- NewsBoard JS -->
     <script src="/assets/js/main.js"></script>
     <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=60276b8be83dc40011356b53&product=inline-share-buttons' async='async'></script>
