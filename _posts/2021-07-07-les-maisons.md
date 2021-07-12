@@ -10,12 +10,12 @@ tags:
   - cebu
   - resort
 views: "109,520"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/17.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/cover1.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/17.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/17.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/cover1.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/17.jpg
 photo_credit: "Les Maisons d'itac Facebook Page"
 photo_credit_link: "https://www.facebook.com/Sugbo.Byahe/"
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "5 minutes"
 ---
 ##### Les Maisons d'Itac
@@ -23,13 +23,13 @@ A splendid little corner of paradise with luxurious houses, sea view, and with s
 
 Les Maisons d'Itac is located in a fishing town in a secluded section of Cebu Island, and its quiet ambiance provides the ideal chance to unwind and immerse in magnificent sunsets. It's a friendly and intimate setting where you may rest in luxury with a panoramic view of the sea and its gardens. Two hours' drive from Cebu City, on Cebu Island's west coast, Philippines. Your journey to Les Maisons d'Itac will be one of peace and leisure.
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/2.jpg)  
 <br>
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/8.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/8.jpg)  
 <br>
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/10.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/10.jpg)  
 <br>
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/14.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/14.jpg)  
 
 
 ##### HOW TO GET THERE?  
@@ -41,17 +41,17 @@ Les Maisons d'Itac is located in a fishing town in a secluded section of Cebu Is
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d129411.89786028219!2d123.38166692013792!3d10.01739134504184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33abe71711b0717b%3A0xf8f317c800e72324!2sLes%20Maisons%20D&#39;Itac!5e0!3m2!1sen!2sph!4v1625858580650!5m2!1sen!2sph" style="width: 100%; height: 450px; border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 *****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/3.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/3.jpg)  
 <br>
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/7.jpg)  
 <br>
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/9.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/9.jpg)  
 <br>
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/13.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/13.jpg)  
 <br>
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/6.jpg)  
 <br>
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/12.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/12.jpg)  
 
 *****
 *****
@@ -70,13 +70,13 @@ Les Maisons d'Itac is located in a fishing town in a secluded section of Cebu Is
 For information you may also visit our website [www.lesmaisonsditac.com](www.lesmaisonsditac.com) or email us at c[ontact@lesmaisonsditac.com](mailto:ontact@lesmaisonsditac.com)
 
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/16.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/16.jpg)  
 <br>
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/5.jpg)  
 <br>
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/18.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/18.jpg)  
 <br>
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/les_maisons/15.jpg)    
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/15.jpg)    
 
 ****
 <small>Source: Les Maisons d'itac Facebook Page</small>  

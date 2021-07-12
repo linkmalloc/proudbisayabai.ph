@@ -9,7 +9,7 @@ tags:
   - cebu-south
   - resort
 views: "122,150"
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "5 minutes"
 
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617273173/fantasy_lodge/ipb3agst9iyz2lkj8enz.jpg

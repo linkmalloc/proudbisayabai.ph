@@ -11,12 +11,12 @@ tags:
   - cebu
   - dalaguete
 views: "231,845"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dalaguete_beach_park/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dalaguete_beach_park/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dalaguete_beach_park/1.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dalaguete_beach_park/1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dalaguete_beach_park/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dalaguete_beach_park/1.jpg
 photo_credit: "Jay | R De La Caldaza"
 photo_credit_link: ""
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/bench.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/bench.jpg"
 read_time: "3 minutes"
 ---
 ##### Dalaguete Beach Park 
@@ -26,31 +26,31 @@ Dalaguete is a municipality located in the southern part of Cebu Province. The m
 If you want a quick get away from a tiring week, tara na mga bai sa Dalaguete Beach Park! Dagat is waving! 🌊  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dalaguete_beach_park/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dalaguete_beach_park/4.jpg)  
 <small>Source: Jay | R De La Caldaza</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dalaguete_beach_park/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dalaguete_beach_park/2.jpg)  
 <small>Source: Jay | R De La Caldaza</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dalaguete_beach_park/3.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dalaguete_beach_park/3.jpg)  
 <small>Source: Jay | R De La Caldaza</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dalaguete_beach_park/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dalaguete_beach_park/5.jpg)  
 <small>Source: Jay | R De La Caldaza</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dalaguete_beach_park/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dalaguete_beach_park/7.jpg)  
 <small>Source: Jay | R De La Caldaza</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dalaguete_beach_park/8.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dalaguete_beach_park/8.jpg)  
 <small>Source: Jay | R De La Caldaza</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dalaguete_beach_park/9.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dalaguete_beach_park/9.jpg)  
 <small>Source: Jay | R De La Caldaza</small> 
 
 ****
@@ -78,7 +78,7 @@ If you want a quick get away from a tiring week, tara na mga bai sa Dalaguete Be
 - Bringing food is allowed   
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/dalaguete_beach_park/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dalaguete_beach_park/6.jpg)  
 <small>Source: Jay | R De La Caldaza</small>  
 
 ****  

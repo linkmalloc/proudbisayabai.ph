@@ -10,11 +10,11 @@ tags:
   - trail
   - cebu
 views: "100,051"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/cover1.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/1.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/cover1.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/1.jpg
 photo_credit: "Richmond Inojales, Genro"
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "5 minutes"
 photo_credit_link: ""
 ---
@@ -23,25 +23,25 @@ photo_credit_link: ""
 Mesmerizing Green Scenery of Switzerland? Nope, this is just in Campo 6 Manipis, Talisay City! 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/14.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/14.jpg)  
 <small>Source: Hei Dee | Contributor</small>  
 
 Welcome and enjoy the tranquil surroundings of Talisay City’s Little Switzerland. A place to chill for cyclists, campers, and those who seek inner peace.
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/2.jpg)  
 <small>Source: Richmond Inojales, Genro</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/4.jpg)  
 <small>Source: Richmond Inojales, Genro</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/11.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/11.jpg)  
 <small>Source: Hei Dee | Contributor</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/18.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/18.jpg)  
 <small>Source: John Ray Aligato | The Island Nomad</small>  
 
 From a 3 hour forested trail at Campo 7 called “The Man-Made Forest” surrounded with bamboo, mahogany, and many Pine trees to a plain yellow greeny site. They also had 500 steps downward as a traverse going back to their jump-off.   
@@ -71,15 +71,15 @@ For camping, you need to ask permission from the barangay captain.
 no lights/electricity
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/8.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/8.jpg)  
 <small>Source: Richmond Inojales, Genro</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/9.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/9.jpg)  
 <small>Source: Richmond Inojales, Genro</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/10.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/10.jpg)  
 <small>Source: Richmond Inojales, Genro</small>  
 
 ****
@@ -89,41 +89,41 @@ no lights/electricity
 #### MORE PHOTO  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/13.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/13.jpg)  
 <small>Source: Hei Dee | Contributor</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/19.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/19.jpg)  
 <small>Source: John Ray Aligato | The Island Nomad</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/20.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/20.jpg)  
 <small>Source: John Ray Aligato | The Island Nomad</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/21.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/21.jpg)  
 <small>Source: John Ray Aligato | The Island Nomad</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/22.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/22.jpg)  
 <small>Source: John Ray Aligato | The Island Nomad</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/30.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/30.jpg)  
 <small>Source: Lalen Photography</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/31.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/31.jpg)  
 <small>Source: Lalen Photography</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/33.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/33.jpg)  
 <small>Source: Lalen Photography</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/35.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/35.jpg)  
 <small>Source: Lalen Photography</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/little_switzerland_of_cebu/36.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/36.jpg)  
 <small>Source: Lalen Photography</small>  

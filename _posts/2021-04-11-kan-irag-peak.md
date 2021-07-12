@@ -21,7 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618151407
 photo_credit: "Fretxzie Ann Martinez | Ariel Alegado | Team Leader"
 photo_credit_link: ""
 
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/logo/pbb-logo.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo.jpg"
 read_time: "4 minutes"
 ---
 #### Kan-Irag Peak  

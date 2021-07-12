@@ -8,9 +8,9 @@ categories:
 tags:
   - 
 views: "10"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panagsama_beach/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panagsama_beach/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panagsama_beach/1.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panagsama_beach/1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panagsama_beach/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panagsama_beach/1.jpg
 photo_credit: "Twin, Content Editor"
 photo_credit_link: ""
 ---
@@ -20,24 +20,24 @@ photo_credit_link: ""
 Moalboal is a peaceful little municipality located around 90 kilometers southwest of Cebu City. It used to be a fishing town, but it has developed in the last two decades, thanks mainly to the influx of tourists. One of the main tourist destination of moalboal is the Panagsama Beach, a beach strip about 4 kilometers from the town center. It is mostly a haven for visitors seeking their own private and peaceful time to unwind. 
 
 <br>
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panagsama_beach/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panagsama_beach/2.jpg)  
 <small>Source: [https://www.instagram.com/twindelosreyes/](https://www.instagram.com/twindelosreyes/) | Twin, Content Editor</small>  
 
 <br>
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panagsama_beach/12.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panagsama_beach/12.jpg)  
 <small>Source: [https://www.instagram.com/twindelosreyes/](https://www.instagram.com/twindelosreyes/) | Twin, Content Editor</small>  
 
 
 <br>
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panagsama_beach/8.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panagsama_beach/8.jpg)  
 <small>Source: [https://www.instagram.com/twindelosreyes/](https://www.instagram.com/twindelosreyes/) | Twin, Content Editor</small>  
 
 <br>
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panagsama_beach/11.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panagsama_beach/11.jpg)  
 <small>Source: [https://www.instagram.com/twindelosreyes/](https://www.instagram.com/twindelosreyes/) | Twin, Content Editor</small>  
 
 <br>
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panagsama_beach/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panagsama_beach/4.jpg)  
 <small>Source: [https://www.instagram.com/twindelosreyes/](https://www.instagram.com/twindelosreyes/) | Twin, Content Editor</small>  
 
 
@@ -61,20 +61,20 @@ Moalboal is a peaceful little municipality located around 90 kilometers southwes
 Featured by: [https://www.instagram.com/twindelosreyes/](https://www.instagram.com/twindelosreyes/)  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panagsama_beach/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panagsama_beach/5.jpg)  
 <small>Source: [https://www.instagram.com/twindelosreyes/](https://www.instagram.com/twindelosreyes/) | Twin, Content Editor</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panagsama_beach/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panagsama_beach/6.jpg)  
 <small>Source: [https://www.instagram.com/twindelosreyes/](https://www.instagram.com/twindelosreyes/) | Twin, Content Editor</small>  
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panagsama_beach/10.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panagsama_beach/10.jpg)  
 <small>Source: [https://www.instagram.com/twindelosreyes/](https://www.instagram.com/twindelosreyes/) | Twin, Content Editor</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panagsama_beach/3.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panagsama_beach/3.jpg)  
 <small>Source: [https://www.instagram.com/twindelosreyes/](https://www.instagram.com/twindelosreyes/) | Twin, Content Editor</small>  
 
   

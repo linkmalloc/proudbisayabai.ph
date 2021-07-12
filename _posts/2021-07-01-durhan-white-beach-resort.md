@@ -10,12 +10,12 @@ tags:
   - resort
   - cebu
 views: "134,347"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/durhan_white_beach_resort/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/durhan_white_beach_resort/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/durhan_white_beach_resort/1.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/durhan_white_beach_resort/1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/durhan_white_beach_resort/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/durhan_white_beach_resort/1.jpg
 photo_credit: "Durhan White Beach Resort"
 photo_credit_link: ""
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "5 minutes"
 ---
 ##### Durhan White Beach Resort  
@@ -23,18 +23,18 @@ read_time: "5 minutes"
 What are your plans for this weekend? This is for you, a peaceful stay away from the buzzling  city life at  Durhan White Beach Resort in Tabuelan, Cebu! 🏖💦☀️
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/durhan_white_beach_resort/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/durhan_white_beach_resort/2.jpg)  
 <small>Source: Durhan White Beach Resort</small>  
 
 A fantastic location for relaxation, unwinding, and family bonding. Durhan White Beach Resort is peaceful beachfront with powder white sand and crystal clear beach water. Allow your heart to be touched by their homely but 5-star resort service. Arats bai!
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/durhan_white_beach_resort/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/durhan_white_beach_resort/6.jpg)  
 <small>Source: Durhan White Beach Resort</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/durhan_white_beach_resort/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/durhan_white_beach_resort/7.jpg)  
 <small>Source: Durhan White Beach Resort</small>  
 
 📌 Room Rates:   
@@ -100,11 +100,11 @@ For more details, visit Durhan White Beach Resort Tabuelan Facebook page
 *Durhan also offers wedding packages*  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/durhan_white_beach_resort/3.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/durhan_white_beach_resort/3.jpg)  
 <small>Source: Durhan White Beach Resort</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/durhan_white_beach_resort/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/durhan_white_beach_resort/4.jpg)  
 <small>Source: Durhan White Beach Resort</small>  
 
 ****
@@ -124,7 +124,7 @@ For more details, visit Durhan White Beach Resort Tabuelan Facebook page
 [ <span><i class="elegant-icon social_facebook"></i> durhanwhitebeachresort</span>](https://facebook.com/durhanwhitebeachresort/){: .btn-sm .btn-primary .text-white .text-center .font-small .btn-visit-fb .d-block .p-2}
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/durhan_white_beach_resort/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/durhan_white_beach_resort/5.jpg)  
 <small>Source: Durhan White Beach Resort</small>  
 
 ♻️🗑LEAVE NO TRACE! (Gasa sa kina-iyahan nga angay ampingan, Matag usa kanato makatabang sa pag amping sa atong kalikopan sama sa pag punit sa basura ug paglabay niini sa saktong labayanan)  

@@ -10,10 +10,10 @@ tags:
   - behold bohol
   - hidden paradise
 views: "204,438"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/hidden_paradise_of_loon_bohol/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/hidden_paradise_of_loon_bohol/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/hidden_paradise_of_loon_bohol/1.jpg
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hidden_paradise_of_loon_bohol/1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hidden_paradise_of_loon_bohol/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hidden_paradise_of_loon_bohol/1.jpg
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "3 minutes"
 photo_credit: "Win Concha"
 photo_credit_link: ""
@@ -25,15 +25,15 @@ Kanindot sad mag humol sa tubig diri uy, ilawm sa mga kahoy unya mga lamian nga 
 A hideaway surrounded by beautiful mangroves. This place is located in the mangrove area of barangay Basac, Loon, Bohol. They have cottages installed good for salo-salo. Inform your friends mga bai, mangaligo ta in this peaceful sanctuary. Arats!
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/hidden_paradise_of_loon_bohol/3.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hidden_paradise_of_loon_bohol/3.jpg)  
 <small>Source: Win Concha</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/hidden_paradise_of_loon_bohol/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hidden_paradise_of_loon_bohol/4.jpg)  
 <small>Source: Win Concha</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/hidden_paradise_of_loon_bohol/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hidden_paradise_of_loon_bohol/5.jpg)  
 <small>Source: Win Concha</small>  
 
 ##### HOW TO GET THERE  
@@ -43,15 +43,15 @@ A hideaway surrounded by beautiful mangroves. This place is located in the mangr
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d13223.361829343985!2d123.79343021157982!3d9.822710981236426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33aa34ce884c0113%3A0xd282773804d63bd8!2sBasac%2C%20Loon%2C%20Bohol!5e0!3m2!1sen!2sph!4v1625283317750!5m2!1sen!2sph" style="width: 100%; height: 450px; border:0;" allowfullscreen="" loading="lazy"></iframe>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/hidden_paradise_of_loon_bohol/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hidden_paradise_of_loon_bohol/2.jpg)  
 <small>Source: Win Concha</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/hidden_paradise_of_loon_bohol/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hidden_paradise_of_loon_bohol/6.jpg)  
 <small>Source: Win Concha</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/hidden_paradise_of_loon_bohol/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hidden_paradise_of_loon_bohol/7.jpg)  
 <small>Source: Win Concha</small>
 
   

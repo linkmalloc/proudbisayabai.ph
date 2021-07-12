@@ -8,12 +8,12 @@ categories:
 tags:
   - resort
 views: "10"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pulcha_resort/5.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pulcha_resort/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pulcha_resort/5.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pulcha_resort/5.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pulcha_resort/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pulcha_resort/5.jpg
 photo_credit: "Edz Go , Pulchra Resort, Cebu Facebook Page"
 photo_credit_link: ""
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/thirdy.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/thirdy.jpg"
 read_time: "6 minutes"
 ---
 #### Pulchra Resort  
@@ -22,7 +22,7 @@ LOOK: Experience the warm embrace from the heart of one of the ASEAN Green Resor
 
 Pulchra is a Latin word that means "beautiful". Nature inspired the birth of Pulchra. The particular combination of the sky, sea, and earth enables one to find pleasure in tranquility. Pulchra's calm and relaxing ambience helps to unfold one's inner peace and unravels one's inner treasures - a path towards true beauty.
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pulcha_resort/11.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pulcha_resort/11.jpg)  
 
 Pulchra anticipates this moment after a long rest of healing. They are full of new energy as they open their arms to the Philippine market.  
 
@@ -46,24 +46,24 @@ EARLY CHECK-IN is allowed at **8 a.m.**
 Plated LUNCH - Taste the best, Organic produce! Healthy and savory assorted menus of organic vegetables with deep and tender flavors.  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pulcha_resort/8.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pulcha_resort/8.jpg)  
 <small>Source: Edz Go , Pulchra Resort, Cebu Facebook Page</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pulcha_resort/9.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pulcha_resort/9.jpg)  
 <small>Source: Edz Go , Pulchra Resort, Cebu Facebook Page</small>  
 
 ###### Free Rentals &amp; Activities
 Snorkeling set, Sea kayak, Aquabics or Snorkeling lessons &amp; Farm Tour - upon request  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pulcha_resort/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pulcha_resort/7.jpg)  
 
 ###### Use of Resort Facilities
 Main Swimming Pool, Beach &amp; Game Room  
   
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pulcha_resort/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pulcha_resort/2.jpg)  
 
 ****
 ****
@@ -109,24 +109,24 @@ E-mail: [info@pulchraresorts.com](mailto: info@pulchraresorts.com)
   
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pulcha_resort/12.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pulcha_resort/12.jpg)  
   
 ♻️🗑LEAVE NO TRACE! ( Gasa sa kina-iyahan nga angay ampingan, Matag usa kanato makatabang sa pag amping sa atong kalikopan sama sa pag punit sa basura ug paglabay niini sa saktong labayanan)  
   
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pulcha_resort/1.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pulcha_resort/1.jpg)  
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pulcha_resort/3.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pulcha_resort/3.jpg)  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pulcha_resort/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pulcha_resort/4.jpg)  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pulcha_resort/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pulcha_resort/6.jpg)  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/pulcha_resort/10.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pulcha_resort/10.jpg)  
 
 <small>Photos From: Edz Go and Pulchra Resort, Cebu Facebook Page </small>

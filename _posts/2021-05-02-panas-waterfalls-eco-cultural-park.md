@@ -1,6 +1,6 @@
 ---
 author: "Ariel Alegado | Team Leader"
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 layout: post
 title: "Experience the beauty of nature at Panas Waterfalls Eco-Cultural Park"
 description: "Experience the beauty of nature! Come and visit Panas Waterfalls Eco-cultural Park in Davao. Relax your mind from your busy daily living and meditate for a while!"
@@ -12,9 +12,9 @@ tags:
   -  mindanao
 read_time: "2 minutes"
 views: "10"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panas_waterfalls_ecocultural_park/2.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panas_waterfalls_ecocultural_park/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panas_waterfalls_ecocultural_park/2.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panas_waterfalls_ecocultural_park/2.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panas_waterfalls_ecocultural_park/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panas_waterfalls_ecocultural_park/2.jpg
 photo_credit: "Tagum Tilapips"
 photo_credit_link: ""
 ---
@@ -24,11 +24,11 @@ Experience the beauty of nature! Come and visit Panas Waterfalls Eco-cultural Pa
 
 Panas Waterfalls is categorized as a multi-tiered waterfalls. It is located about 10-20 minutes away from the town proper of New Corella and about 2 hours away from Davao City. It is one of the most visited eco-tourism site in the province of Davao del Norte.
 
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panas_waterfalls_ecocultural_park/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panas_waterfalls_ecocultural_park/6.jpg)  
 
 Surrounded by thick greenery, you can spend the entire stay here, just relaxing and staying away from the blistering heat of the sun.
  
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panas_waterfalls_ecocultural_park/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panas_waterfalls_ecocultural_park/5.jpg)  
 
 The water here is so inviting that tourist would usually take a dip in its cold and clear water. It's a perfect place especially during hot summer season. A great place to bond with your family and friends.
 
@@ -63,18 +63,18 @@ TM - [0953 4217 740](tel:0953 4217 740)
 TNT - [0963 9723 919](tel:0963 9723 919)  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panas_waterfalls_ecocultural_park/1.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panas_waterfalls_ecocultural_park/1.jpg)  
 <small>Source: Tagum Tilapips</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panas_waterfalls_ecocultural_park/3.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panas_waterfalls_ecocultural_park/3.jpg)  
 <small>Source: Tagum Tilapips</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panas_waterfalls_ecocultural_park/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panas_waterfalls_ecocultural_park/4.jpg)  
 <small>Source: Tagum Tilapips</small>  
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/panas_waterfalls_ecocultural_park/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panas_waterfalls_ecocultural_park/7.jpg)  
 <small>Source: Tagum Tilapips</small>  

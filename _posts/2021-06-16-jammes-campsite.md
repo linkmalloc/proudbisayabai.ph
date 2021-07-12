@@ -10,12 +10,12 @@ tags:
   - staycation
   - campsite
 views: "378,512"
-img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jamme_s_campsite/1.jpg
-img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jamme_s_campsite/cover.jpg
-img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jamme_s_campsite/1.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jamme_s_campsite/1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jamme_s_campsite/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jamme_s_campsite/1.jpg
 photo_credit: "Julie Ann June Madrigal"
 photo_credit_link: ""
-author_img: "https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/team/ariel.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "3 minutes"
 ---
 ##### Jamme's Campsite  
@@ -23,43 +23,43 @@ read_time: "3 minutes"
 A newly opened attraction in Busay, Cebu City. Jamme's Campsite is an exclusive foggy home with a cozy natural setting that gives you the feeling of being at home but away from home. The place is ideal for those who are looking for a quick escape from the busy city.  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jamme_s_campsite/2.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jamme_s_campsite/2.jpg)  
 <small>Source: Julie Ann June Madrigal</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jamme_s_campsite/3.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jamme_s_campsite/3.jpg)  
 <small>Source: Julie Ann June Madrigal</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jamme_s_campsite/5.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jamme_s_campsite/5.jpg)  
 <small>Source: Julie Ann June Madrigal</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jamme_s_campsite/6.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jamme_s_campsite/6.jpg)  
 <small>Source: Julie Ann June Madrigal</small> 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jamme_s_campsite/12.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jamme_s_campsite/12.jpg)  
 <small>Source: Julie Ann June Madrigal</small>  
 
 Enjoy the opportunity to slow down and chill atop the mountains at Jamme's Campsite. Here you can dine, cook and sleep with the luxury of being surrounded by the beauty of nature.
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jamme_s_campsite/4.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jamme_s_campsite/4.jpg)  
 <small>Source: Julie Ann June Madrigal</small>  
  
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jamme_s_campsite/7.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jamme_s_campsite/7.jpg)  
 <small>Source: Julie Ann June Madrigal</small>  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jamme_s_campsite/8.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jamme_s_campsite/8.jpg)  
 <small>Source: Julie Ann June Madrigal</small>  
 
 They are located in Sitio Lupa (Lower Cantipla) Brgy. Sudlon 2, Cebu City. They have one cottage with 1 room and will be exclusively used for your group. They will not accept other guests on that day once your booking is confirmed. They have Superb customer service and very accomodating staff Jamme Mabini Leuman. The place is very accessible, child-friendly and what's more, is you can bring your furbabies.  
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jamme_s_campsite/9.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jamme_s_campsite/9.jpg)  
 <small>Source: Julie Ann June Madrigal</small>  
 
 Nindot jud dre bai! Best during rainy days! Arats na!  
@@ -112,7 +112,7 @@ Visit their facebook page at [Jamme's Campsite](https://www.facebook.com/pages/J
 
 
 ****
-![](https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/jamme_s_campsite/11.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jamme_s_campsite/11.jpg)  
 <small>Source: Julie Ann June Madrigal</small>  
 
 ****
