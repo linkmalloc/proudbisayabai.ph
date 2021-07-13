@@ -6,7 +6,7 @@ description: "G na dayon! mo adto sa Bacolod aron mangape lang, Saan aabot ang p
 categories:
   - food
 tags:
-  - cafe
+  - cafe-shop-in-negros
   - negros
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616477176/g_hideout_cafe/rrcenof7fscqnjo4cvir.jpg

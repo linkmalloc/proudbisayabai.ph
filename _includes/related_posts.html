@@ -1,0 +1,87 @@
+<!--related posts-->
+<div class="related-posts">
+    <div class="post-module-3">
+        <div class="widget-header-2 position-relative mb-10 mt-30">
+            <h5 class="mt-5 mb-30">Related posts</h5>
+        </div>
+        <div class="loop-list loop-list-style-1">
+
+            {% assign maxRelated = 5 %}
+            {% assign minCommonTags = 2 %}
+            {% assign maxRelatedCounter = 0 %}
+
+            {% for post in site.posts %}
+
+            {% assign sameTagCount = 0 %}
+            {% assign commonTags = '' %}
+
+            {% for tag in post.tags %}
+            {% if post.url != page.url %}
+            {% if page.tags contains tag %}
+            {% assign sameTagCount = sameTagCount | plus: 1 %}
+            {% capture tagmarkup %}  
+            <a href="{{site.baseurl}}/tags/#{{tag|slugize}}" tabindex="0"><span
+                class="post-cat text-info text-uppercase">{{tag}}</span></a>
+            {% endcapture %}
+            {% assign commonTags = commonTags | append: tagmarkup %}
+            {% endif %}
+            {% endif %}
+            {% endfor %}
+
+            {% if sameTagCount >= minCommonTags %}
+
+
+
+            <article class="hover-up-2 transition-normal wow fadeInUp  animated">
+                <div class="row mb-20 list-style-2">
+                    <div class="col-md-4">
+                        <div class="post-thumb position-relative border-radius-5">
+                            <a class="img-link img-hover-slide border-radius-5 position-relative" href="{{ post.url }}">
+                                <figure class="image mb-15 m-auto text-center border-radius-10">
+                                    {% if post.img_post_header %}
+                                    <img class="border-radius-10" src="{{ post.img_post_header }}" alt="post-title" />
+                                    {% else %}
+                                    <img class="border-radius-10" src="{{ post.img_big_1000x600 }}" alt="post-title" />
+                                    {% endif %}
+                                </figure>
+                            </a>
+                            <ul class="social-share">
+                                <li><a href="#"><i class="elegant-icon social_share"></i></a></li>
+                                <li><a class="fb" href="#" title="Share on Facebook" target="_blank"><i
+                                            class="elegant-icon social_facebook"></i></a></li>
+                                <li><a class="tw" href="#" target="_blank" title="Tweet now"><i
+                                            class="elegant-icon social_twitter"></i></a></li>
+                                <li><a class="pt" href="#" target="_blank" title="Pin it"><i
+                                            class="elegant-icon social_pinterest"></i></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <div class="col-md-8 align-self-center">
+                        <div class="post-content">
+                            <div class="entry-meta meta-0 font-small mb-10">
+                                {{ commonTags }}
+                            </div>
+                            <h5 class="post-title font-weight-900 mb-20">
+                                <a href="{{ post.url }}">{{ post.title }}</a>
+                                <span class="post-format-icon"><i class="elegant-icon icon_star_alt"></i></span>
+                            </h5>
+                            <div class="entry-meta meta-1 float-left font-x-small text-uppercase">
+                                <span class="post-on">{{ post.date | date_to_string }}</span>
+                                <span class="time-reading has-dot">{{ post.read_time }} read</span>
+                                <span class="post-by has-dot">{{ post.views }} views</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
+            {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+            {% if maxRelatedCounter >= maxRelated %}
+            {% break %}
+            {% endif %}
+            {% endif %}
+
+            {% endfor %}
+
+        </div>
+    </div>
+</div>

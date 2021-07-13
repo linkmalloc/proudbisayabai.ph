@@ -8,6 +8,8 @@ categories:
 tags:
   - coffee-shop
   - negros
+  - coffee
+  - cafe
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618153312/anceno_kape_antigo_vintagestyle_coffee_shop_of_san_carlos_city/po1t7an3l0bzu5im25zf.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618154378/anceno_kape_antigo_vintagestyle_coffee_shop_of_san_carlos_city/Anceno_kwbwzg.jpg
@@ -86,6 +88,17 @@ The place can be navigated on Waze. Whether you are riding a bus or your own veh
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
+
+
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618153316/anceno_kape_antigo_vintagestyle_coffee_shop_of_san_carlos_city/mxruzumzojgxeljhgrcd.jpg)
+
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618153320/anceno_kape_antigo_vintagestyle_coffee_shop_of_san_carlos_city/cumdmjvgvn9mkgourbpg.jpg)
+
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618153324/anceno_kape_antigo_vintagestyle_coffee_shop_of_san_carlos_city/afyukofudubceym0kqy2.jpg)
+
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618153328/anceno_kape_antigo_vintagestyle_coffee_shop_of_san_carlos_city/waetvgi2zhmduxo9dicj.jpg)
+
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618153332/anceno_kape_antigo_vintagestyle_coffee_shop_of_san_carlos_city/ubalvcnhgdnv4qk2nlzb.jpg)
  
 ****
  👣  AMPING KANUNAY SA LAAG BAI 👣  
