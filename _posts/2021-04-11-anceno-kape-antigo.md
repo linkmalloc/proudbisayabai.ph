@@ -8,6 +8,8 @@ categories:
 tags:
   - coffee-shop
   - negros
+  - coffee
+  - cafe
 views: "10"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618153312/anceno_kape_antigo_vintagestyle_coffee_shop_of_san_carlos_city/po1t7an3l0bzu5im25zf.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618154378/anceno_kape_antigo_vintagestyle_coffee_shop_of_san_carlos_city/Anceno_kwbwzg.jpg
