@@ -482,13 +482,35 @@ jQuery.fn.isMobile = () => {
     }
 
     var live = function () {
-        var data = JSON.parse(document.getElementById('page_data').innerHTML);
-        setInterval(function(){
-            var views = data.views
-            toastr["info"](`${views} are viewing this post`);
-        },10000);
-        //toastr["info"](`102,123 are viewing this post`);
+        var data = JSON.parse(document.getElementById('post_data').innerHTML);
+        function arbitraryViews(min, max) { // min and max included 
+            return Math.floor(Math.random() * (max - min + 1) + min)
+        }
+        const formatNumber = function(num){ 
+            var retVal = (num).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+            return retVal;
+        }
         
+        var views = parseInt(data.views)
+        if( views < 1000 ){
+            views = formatNumber(arbitraryViews(1000, 200000));
+        }
+        var messages = [
+            `👀👍 ${views} have viewed this post ❤️`,
+            `✏️ ${data.author} wrote this post`,
+            `📷 ${data.photo_credit}, uploaded these photos`,
+            `‎😃💁 This post has reached ${data.social_reach ? data.social_reach : views } people on social media`,
+            `📍 Your facebook friends have visited this place ${data.location}`
+        ]
+        setInterval(function () {
+            try {
+                var showToastMsg = messages[Math.floor((Math.random() * messages.length - 1) + 1)];
+                toastr["info"](`${showToastMsg}`);
+            } catch (e) {
+                console.error(e);
+            }
+        }, 15000);
+
     }
     /* WOW active */
     new WOW().init();
@@ -518,4 +540,4 @@ jQuery.fn.isMobile = () => {
         live();
     });
 
-})(jQuery,toastr);
+})(jQuery, toastr);
