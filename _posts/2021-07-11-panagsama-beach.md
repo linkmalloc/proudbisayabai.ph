@@ -1,5 +1,5 @@
 ---
-author: "Twin, Content Editor"
+author: Twin, Content Editor
 layout: post
 title: "Panagsama Beach: A Very Affordable Siargao Vibe in South Cebu"
 description: ""
@@ -9,12 +9,14 @@ tags:
   - beach
   - getaway
   - resort
-views: "10"
+views: "34,145"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panagsama_beach/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panagsama_beach/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panagsama_beach/1.jpg
-photo_credit: "Twin, Content Editor"
+photo_credit: Twin, Content Editor
 photo_credit_link: ""
+social_reach: "10,218"
+location: Moalboal, Cebu
 ---
 ###### PANAGSAMA BEACH  
 
