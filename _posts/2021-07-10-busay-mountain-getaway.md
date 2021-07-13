@@ -20,6 +20,10 @@ img_500_4: /images/posts/busay_mountain_getaway/5.jpg
 img_500_5: /images/posts/busay_mountain_getaway/6.jpg
 photo_credit: "Pete Abellana, Official Photographer"
 photo_credit_link: ""
+
+social_reach: "109,520"
+location: Tops, Busay, Cebu
+
 published: false
 ---
 ##### Busay Mountain Getaway

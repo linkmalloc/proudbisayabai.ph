@@ -13,7 +13,7 @@ tags:
   - bonfire
   - pool
   - coffee
-views: "10"
+views: "1,524"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614178018/jomax-peak/154306281_300021195126889_1501211823735653570_n_1_qpard1.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614221061/jomax-peak/My_Post_1_la8imj.png
 img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/c_scale,w_500/v1614178018/jomax-peak/154306281_300021195126889_1501211823735653570_n_1_qpard1.jpg
@@ -25,6 +25,9 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/c_scale,w_800
 photo_credit: "Negros Finest | ctto"
 photo_credit_link: ""
 published: false
+
+social_reach: "44,216"
+location: Don Salvador Benedicto Negros Occidental 
 ---
 LOOK: Another perfect place to chill and to have a peace of mind. A great place for bonfire and stargazing  
 

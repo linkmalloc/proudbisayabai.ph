@@ -8,7 +8,7 @@ categories:
 tags:
   - cebu-south
   - resort
-views: "122,150"
+views: "12,633"
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "5 minutes"
 
@@ -22,6 +22,9 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617273189
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617273194/fantasy_lodge/nggyylg2jr4kelygkb8d.jpg
 photo_credit: "Jay Delos Angeles | Fantasy Lodge Facebook Page"
 photo_credit_link: ""
+
+social_reach: "319,600"
+location: Samboan, South of Cebu 
 ---
 #### Fantasy Lodge
    

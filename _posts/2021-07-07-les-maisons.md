@@ -17,6 +17,10 @@ photo_credit: "Les Maisons d'itac Facebook Page"
 photo_credit_link: "https://www.facebook.com/Sugbo.Byahe/"
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "5 minutes"
+
+social_reach: "109,520"
+location: Ronda, Cebu
+
 ---
 ##### Les Maisons d'Itac
 A splendid little corner of paradise with luxurious houses, sea view, and with swimming pool and wifi in the Island of Cebu.

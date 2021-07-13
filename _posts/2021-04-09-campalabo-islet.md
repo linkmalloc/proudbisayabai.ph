@@ -8,7 +8,7 @@ categories:
 tags:
   - island
   - cebu
-views: "10"
+views: "1,085"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617903592/campalabo_islet/ytroaqbltkp7gfjjgpsa.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617979549/campalabo_islet/campalabo_zhgtz9.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617903592/campalabo_islet/ytroaqbltkp7gfjjgpsa.jpg
@@ -19,6 +19,9 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617903608
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617903611/campalabo_islet/emkfok9iav8bqkmve7zb.jpg
 photo_credit: "Ivan Semat Perez"
 photo_credit_link: ""
+
+social_reach: "46,261"
+location: Pinamungahan, Cebu 
 ---
 #### Campalabo Islet   
   

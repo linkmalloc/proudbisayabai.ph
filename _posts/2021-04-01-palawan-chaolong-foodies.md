@@ -8,7 +8,7 @@ categories:
 tags:
   - food
   - cebu
-views: "10"
+views: "4,031"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275798/palawan_chaolong_foodies/zpvvd9iesalp17vmj0zb.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617276205/palawan_chaolong_foodies/palawanchaolong_q3jlhw.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275798/palawan_chaolong_foodies/zpvvd9iesalp17vmj0zb.jpg
@@ -19,6 +19,9 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275814
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275818/palawan_chaolong_foodies/u4krzmdstsjqkbyxnslt.jpg
 photo_credit: "PBB Admins"
 photo_credit_link: ""
+
+social_reach: "98,879"
+location: Canduman, Mandaue City
 ---
 #### J.E. Chaolong  
 
@@ -81,6 +84,22 @@ Mobile #:
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275802/palawan_chaolong_foodies/zp8ika1mqaxdvnnl6p1w.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275810/palawan_chaolong_foodies/m719peq74yp6jujb0eyb.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275814/palawan_chaolong_foodies/m1k5sww5sr9tzrhsyaj8.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275818/palawan_chaolong_foodies/u4krzmdstsjqkbyxnslt.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617275818/palawan_chaolong_foodies/u4krzmdstsjqkbyxnslt.jpg)  
+
  
 ****
  👣  AMPING KANUNAY SA LAAG BAI 👣  
