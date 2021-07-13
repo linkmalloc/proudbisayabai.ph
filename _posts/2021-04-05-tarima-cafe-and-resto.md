@@ -65,6 +65,21 @@ Eat and chat with friends and experience calm and serenity in this seaview reast
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617555948/tarima_cafe_and_resto/e47twzkvlnsswzwgskht.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617555952/tarima_cafe_and_resto/ifmj4ysp9sxd4idckira.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617555955/tarima_cafe_and_resto/q5xab9vdnm5saymogxtk.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617555959/tarima_cafe_and_resto/qmytsvj1xwg62hu9sx8e.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617555963/tarima_cafe_and_resto/uqa42in6rthf1iefvgjv.jpg)  
  
 ****
  👣  AMPING KANUNAY SA LAAG BAI 👣  
