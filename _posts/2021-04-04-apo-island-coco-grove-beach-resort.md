@@ -9,7 +9,7 @@ tags:
   - island
   - beach
   - negros
-views: "10"
+views: "1,028"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617548626/apo_island_coco_grove_beach_resort/rnpie3bvrc4jbajtkywy.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617548626/apo_island_coco_grove_beach_resort/rnpie3bvrc4jbajtkywy.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617548626/apo_island_coco_grove_beach_resort/rnpie3bvrc4jbajtkywy.jpg
@@ -20,6 +20,9 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617548641
 img_500_5: 
 photo_credit: "Alden Paulo Asok | Photo Blogger"
 photo_credit_link: ""
+
+social_reach: "3,902"
+location: Apo Island, Negros
 ---
 #### Apo Island Coco Grove Beach Resort
 Relax, Dive and Swim with turtles at Apo Island Coco Grove Beach Resort. 🏝  
@@ -36,6 +39,18 @@ How to get there?
 📍Upon arrival in Malatapay, ride a boat bound for Apo Island Negros. Make sure to put your belongings in a waterproof bag because the sea swells are strong, you and your gadgets might get wet.   
   
 📍You can either stay in Coco Grove Resort or in other Villas within the island.   
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617548630/apo_island_coco_grove_beach_resort/r3nidv87mjdwqcfgk3pi.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617548634/apo_island_coco_grove_beach_resort/hw85vyfntigq0nmxmji7.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617548637/apo_island_coco_grove_beach_resort/mhvfprroidtzzcgjr8nk.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617548641/apo_island_coco_grove_beach_resort/slyqa4jocfwbeykznbnt.jpg)  
 
 ****
 ##### Map Location
