@@ -9,7 +9,7 @@ tags:
   - mountain
   - trail
   - cebu
-views: "100,051"
+views: "1,775"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/little_switzerland_of_cebu/1.jpg
@@ -17,6 +17,9 @@ photo_credit: "Richmond Inojales, Genro"
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "5 minutes"
 photo_credit_link: ""
+
+social_reach: "151,307"
+location: Talisay City, Cebu 
 ---
 ##### LAAGAN CHECK  
 
