@@ -8,7 +8,7 @@ categories:
 tags:
   - falls
   - cebu
-views: "10"
+views: "3,178"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616687751/tumalog_falls/xipmv9kr2d1bivt5tuit.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616688494/tumalog_falls/tumalogfalls_fggqpt.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616687751/tumalog_falls/xipmv9kr2d1bivt5tuit.jpg
@@ -19,6 +19,9 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616687766/t
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616687770/tumalog_falls/rpq7zjg5xwzprenssutt.jpg
 photo_credit: "Tumalog Falls Facebook Page"
 photo_credit_link: ""
+
+social_reach: "117,392"
+location: Oslob, Cebu 
 ---
 #### Tumalog Falls
 
