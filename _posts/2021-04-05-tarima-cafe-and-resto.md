@@ -8,7 +8,9 @@ categories:
 tags:
   - cafe
   - cebu
-views: "10"
+  - coffee-shop
+  - coffee
+views: "3,106"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617555944/tarima_cafe_and_resto/trjvbgfppjo26hfabblh.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617556932/tarima_cafe_and_resto/tarimacafe_gv622w.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617555944/tarima_cafe_and_resto/trjvbgfppjo26hfabblh.jpg
@@ -19,6 +21,9 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617555959
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617555963/tarima_cafe_and_resto/uqa42in6rthf1iefvgjv.jpg
 photo_credit: "Daniela Tinamisan | Pbb Admin"
 photo_credit_link: ""
+
+social_reach: "3,156"
+location: Catmon, Cebu
 ---
 #### Tarima Café and Resto   
   
