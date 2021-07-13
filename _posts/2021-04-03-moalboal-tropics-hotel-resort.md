@@ -20,6 +20,9 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617432455
 img_500_5: 
 photo_credit: "Moalboal Tropics"
 photo_credit_link: ""
+
+social_reach: "915"
+location: Moalboal, Cebu 
 ---
 #### Moalboal Tropics Hotel Resort
   
@@ -55,6 +58,20 @@ For Day use 175/head 5 years old below is free and 500 for the cottage from 8am 
 
 **** 
 >TAKE NOTE !  SAFETY FIRST! 
+
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617432443/moalboal_tropics_hotel_resort/ryucamq1gpsadivvkawm.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617432447/moalboal_tropics_hotel_resort/hkapfqmiogownkzu4qpf.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617432451/moalboal_tropics_hotel_resort/ufzktieggajcu658pawu.jpg)  
+
+****
+![](https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617432455/moalboal_tropics_hotel_resort/auhgsxg2vtmulmunknoi.jpg)  
+
  
 ****
  👣  AMPING KANUNAY SA LAAG BAI 👣  
