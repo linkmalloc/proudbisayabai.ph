@@ -9,8 +9,8 @@ tags:
   - coffee
   - cafe
   - coffee-shop
-views: "10"
-read_time: "4 minutes"
+views: "300,421"
+read_time: "7 minutes"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/charlies_cup/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/charlies_cup/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/charlies_cup/1.jpg
