@@ -9,7 +9,7 @@ tags:
   - mountain
   - cebu
   - chill
-views: "103,141"
+views: "1,044"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618151389/kanirag_peak/mzuitolboaub5ezsqzvu.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618152879/kanirag_peak/kanirag_ggbixa.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618151389/kanirag_peak/mzuitolboaub5ezsqzvu.jpg
@@ -23,6 +23,9 @@ photo_credit_link: ""
 
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo.jpg"
 read_time: "4 minutes"
+
+social_reach: "29,829"
+location: Sirao, Cebu City
 ---
 #### Kan-Irag Peak  
   
