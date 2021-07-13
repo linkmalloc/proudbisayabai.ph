@@ -8,7 +8,7 @@ categories:
 tags:
   - cebu
   - chill
-views: "10"
+views: "2,445"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618075704/jvr_island_in_the_sky/cfj7lt6qbs183hf0pvq2.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618076122/jvr_island_in_the_sky/jvr_uhrclo.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618075704/jvr_island_in_the_sky/cfj7lt6qbs183hf0pvq2.jpg
@@ -19,6 +19,9 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618075723
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618075728/jvr_island_in_the_sky/thppo00z8821nhjwsp3k.jpg
 photo_credit: "Cliffchard Dumaran | Pbb Contributor"
 photo_credit_link: ""
+
+social_reach: "115,166"
+location: Balamban, Transcentral Highway   
 ---
 #### JVR Island in the Sky
   
