@@ -504,33 +504,35 @@ jQuery.fn.isMobile = () => {
             }
         }, 15000);
 
+        var text = [
+            `👀👍 Katoltol ka asa ni? ❤️`,
+            `✏️ Nindot kaayu diri. 👍👍👍`,
+            `📷 Naka-anhi na ko. Nindot kaayu ang lugar.😃`,
+            `‎😃💁 Laag ta diri mga bisaya. Arats na! ❤️ ❤️`,
+            `📍 Suroy nya ta diri ninyo. Nindot kaayu.👍`,
+            `😃 Arats na ta diri guys! 📷❤️👍`
+        ]
+
         setTimeout( function(){
             setInterval(function () {
                 try {
-
-                    var text = [
-                        `👀👍 Katoltol ka asa ni? ❤️`,
-                        `✏️ Nindot kaayu diri. 👍👍👍`,
-                        `📷 Naka-anhi na ko. Nindot kaayu ang lugar.😃`,
-                        `‎😃💁 Laag ta diri mga bisaya. Arats na! ❤️ ❤️`,
-                        `📍 Suroy nya ta diri ninyo. Nindot kaayu.👍`,
-                        `😃 Arats na ta diri guys! 📷❤️👍`
-                    ]
+                    var textToUse = text[Math.floor((Math.random() * text.length - 1) + 1)];
+                    var nextArticle = data.nextArticles[Math.floor((Math.random() * data.nextArticles.length - 1) + 1)];
                     
-                    toastr.info(`<div class='d-flex flex-column'>
-                        <span class='pb-3'>${text[Math.floor((Math.random() * text.length - 1) + 1)]}</span>
-                        <img src="${data.nextArticle.img}" />
+                    toastr.info(`<div class='d-flex flex-column nextArticle'>
+                        <span class='pb-3'>${textToUse}</span>
+                        <img src="${nextArticle.img}" style='max-height: 60%'/>
                         </div>`,null, { 
                             "toastClass": 'bg-success toast-notif',
                             "onclick": (e)=>{
-                                window.location.href = `${data.nextArticle.url}`
+                                window.location.href = `${nextArticle.url}`
                             }
                         });
                 } catch (e) {
                     console.error(e);
                 }
             }, 10000);
-        }, 40000);
+        }, 35000);
         
 
     }
