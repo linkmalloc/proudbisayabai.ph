@@ -462,13 +462,6 @@ jQuery.fn.isMobile = () => {
         "newestOnTop": false,
         "progressBar": true,
         "positionClass": "toast-bottom-left",
-        "toastClass": 'bg-primary p-10',
-        "iconClasses": {
-            "error": 'alert-error',
-            "info": 'alert-info',
-            "success": 'alert-success',
-            "warning": 'alert-warning'
-        },
         "preventDuplicates": false,
         "onclick": null,
         "showDuration": "300",
@@ -505,11 +498,40 @@ jQuery.fn.isMobile = () => {
         setInterval(function () {
             try {
                 var showToastMsg = messages[Math.floor((Math.random() * messages.length - 1) + 1)];
-                toastr["info"](`${showToastMsg}`);
+                toastr.info(`${showToastMsg}`,null,{'toastClass': 'bg-primary toast-notif'});
             } catch (e) {
                 console.error(e);
             }
         }, 15000);
+
+        setTimeout( function(){
+            setInterval(function () {
+                try {
+
+                    var text = [
+                        `👀👍 Katoltol ka asa ni? ❤️`,
+                        `✏️ Nindot kaayu diri. 👍👍👍`,
+                        `📷 Naka-anhi na ko. Nindot kaayu ang lugar.😃`,
+                        `‎😃💁 Laag ta diri mga bisaya. Arats na! ❤️ ❤️`,
+                        `📍 Suroy nya ta diri ninyo. Nindot kaayu.👍`,
+                        `😃 Arats na ta diri guys! 📷❤️👍`
+                    ]
+                    
+                    toastr.info(`<div class='d-flex flex-column'>
+                        <span class='pb-3'>${text[Math.floor((Math.random() * text.length - 1) + 1)]}</span>
+                        <img src="${data.nextArticle.img}" />
+                        </div>`,null, { 
+                            "toastClass": 'bg-success toast-notif',
+                            "onclick": (e)=>{
+                                window.location.href = `${data.nextArticle.url}`
+                            }
+                        });
+                } catch (e) {
+                    console.error(e);
+                }
+            }, 10000);
+        }, 40000);
+        
 
     }
     /* WOW active */
