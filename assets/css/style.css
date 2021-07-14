@@ -639,3 +639,9 @@ ul.pricing-list.mt-3.mb-4 li::marker {
     content: "✓";
     color: green;
 }
+
+/*** Toastr **/
+#toast-container>.toast-notif {
+	background-image: none!important;
+	padding: 8px 8px 8px 8px !important;
+}
