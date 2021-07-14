@@ -1,7 +1,5 @@
+{% comment %}
 {% for post in site.posts %}
-
-    
-
     {% for tag in post.tags | sort %}
         {% if post.url != page.url %}
             {% if page.tags contains tag %}
@@ -15,6 +13,7 @@
     {% endfor %}
 
 {% endfor %}
+{% endcomment %}
 
 <script type="application/json" id="post_data">
     {
@@ -23,19 +22,42 @@
         "photo_credit": "{{ page.photo_credit }}",
         "social_reach": "{{ page.social_reach }}",
         "location": "{{ page.location }}",
-        "nextArticle": {
-            "img": "{{ nextArticleIMG }}",
-            "url": "{{ nextArticleURL }}"
-        }
+        "nextArticles": [
+
+        {% assign maxRelated = 5 %}
+        {% assign minCommonTags = 2 %}
+        {% assign maxRelatedCounter = 0 %}
+
+        {% for post in site.posts %}
+
+        {% assign sameTagCount = 0 %}
+        {% assign commonTags = '' %}
+
+        {% for tag in post.tags %}
+        {% if post.url != page.url %}
+        {% if page.tags contains tag %}
+        {% unless post.img_500x500 contains 'proudbisayabaii' %}
+            {% assign nextArticleIMG = post.img_500x500 %}
+            {% assign nextArticleURL = post.url %}
+            {% assign sameTagCount = sameTagCount | plus: 1 %}
+        {% endunless %}
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+
+        {% if sameTagCount >= minCommonTags %}
+            {
+                "img": "{{ nextArticleIMG }}",
+                "url": "{{ nextArticleURL }}"
+            }
+        {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+        {% if maxRelatedCounter >= maxRelated %}
+        {% break %}
+        {% else %}
+            ,
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+        ]
     }
 </script>
-<!-- 
-<script type="application/json" id="post_data">
-    {
-        "views": "34,123",
-        "author": "Proud Bisaya Bai Admin",
-        "photo_credit": "Proud Bisaya Bai Admin",
-        "social_reach": "102,00",
-        "location": "Moalboal, Cebu"
-    }
-</script> -->
