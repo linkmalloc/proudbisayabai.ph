@@ -54,7 +54,7 @@
         {% endcapture %}
         {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
         {% if maxRelatedCounter >= maxRelated %}
-            {{ nextArticle }}
+            ,{{ nextArticle }}
         {% break %}
         {% elsif maxRelatedCounter == 1  %}
             {{ nextArticle }}
