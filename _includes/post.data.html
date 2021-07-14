@@ -53,7 +53,7 @@
         {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
         {% if maxRelatedCounter >= maxRelated %}
         {% break %}
-        {% else %}
+        {% elseif sameTagCount >= 1 %}
             ,
         {% endif %}
         {% endif %}
