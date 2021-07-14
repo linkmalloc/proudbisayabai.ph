@@ -46,15 +46,20 @@
         {% endfor %}
 
         {% if sameTagCount >= minCommonTags %}
+        {% capture nextArticle %}
             {
                 "img": "{{ nextArticleIMG }}",
                 "url": "{{ nextArticleURL }}"
             }
+        {% endcapture %}
         {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
         {% if maxRelatedCounter >= maxRelated %}
+            {{ nextArticle }}
         {% break %}
-        {% elseif sameTagCount >= 1 %}
-            ,
+        {% elsif maxRelatedCounter == 1  %}
+            {{ nextArticle }}
+        {% else %}
+            ,{{ nextArticle }}
         {% endif %}
         {% endif %}
         {% endfor %}
