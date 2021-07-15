@@ -474,7 +474,7 @@ jQuery.fn.isMobile = () => {
         "hideMethod": "fadeOut"
     }
 
-    var _DATA = JSON.parse(document.getElementById('post_data').innerHTML);
+    var _DATA;
     var factory = function(){
 
         var data = _DATA;
@@ -534,6 +534,7 @@ jQuery.fn.isMobile = () => {
     }
 
     var live = function () {
+        _DATA = JSON.parse(document.getElementById('post_data').innerHTML);
         var Generator = factory();
         setInterval(function () {
             try {
@@ -594,7 +595,12 @@ jQuery.fn.isMobile = () => {
         imageViewer();
 
         newsletter();
-        live();
+        try{
+            live();
+        }catch(e){
+            console.log(e);
+        }
+        
     });
 
 })(jQuery, toastr);
