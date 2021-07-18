@@ -9,13 +9,13 @@ tags:
   - mountain
   - cebu
   - getaway
-views: "10"
+views: "2,547"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/13.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/13.jpg
 photo_credit: "PBB Admin"
 photo_credit_link: ""
-social_reach: "109,520"
+social_reach: "2,547"
 location: Tops, Busay, Cebu
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/bench.jpg"
 read_time: "5 minutes"
@@ -26,8 +26,11 @@ Need a quick weekend getaway that isn't too far from the city? Busay Mountain Ge
 One of the newest relaxing staycation and breathtaking Mountain Getaway in Busay. It provides a magnificent panoramic view of the Cebu City skyline. It is, indeed, an ideal location for you to photograph the view during sunrise and by night time.
 
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/14.jpg)  
+
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/18.jpg)
+
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/15.jpg)
+
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/1.jpg)
 <small>Image Source: PBB Admin</small>  
 
@@ -39,17 +42,24 @@ Here's a video sneak glimpse at Busay Mountain Getaway!
 Somewhere you can unwind and appreciate the calm surroundings while still having fun with the amenities they offer. Inside their room, they feature a queen-size bed and a desirable space of their comfort rooms. And you can also spend the entire day watching Netflix and chilling. 
 
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/19.jpg)
+
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/7.jpg)  
+
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/8.jpg)  
+
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/6.jpg)  
+
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/4.jpg)
+
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/3.jpg)
 <small>Image Source: PBB Admin</small> 
 
 Outside the room, the inviting hot tub is definitely the property's highlight. There is also a pool table where you and your buddies may have some fun. Because they offer exercise equipment, you can also conduct strength or resistance training. When you're hungry, you could use their cooking utensils and then dine with your friends while enjoying the cool mountain breeze. Aside from that, cafes and eateries are located just outside the premises.
 
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/20.jpg)
+
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/10.jpg)  
+
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/2.jpg)  
 <small>Image Source: PBB Admin</small>  
 
