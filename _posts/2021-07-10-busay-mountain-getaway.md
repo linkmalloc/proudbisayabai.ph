@@ -92,7 +92,7 @@ All you need is a quick recharge, and this is the perfect place for you. Arats m
    
 🗺 Via Private Vehicle: The place can be navigated on Waze. Whether you are riding a motorbike or your own vehicle, it’s best to navigate via Waze.  
   
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d37336.46617971283!2d123.86487435390949!3d10.380802905019081!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a9a10c9e06d5a1%3A0x350ca72b08bd44a2!2sBusay%20Mountain%20Getaway!5e0!3m2!1sen!2sid!4v1626231796779!5m2!1sen!2sid" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d37336.46617971283!2d123.86487435390949!3d10.380802905019081!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a9a10c9e06d5a1%3A0x350ca72b08bd44a2!2sBusay%20Mountain%20Getaway!5e0!3m2!1sen!2sid!4v1626231796779!5m2!1sen!2sid" style="border:0; width: 100%; height: 450px;"  allowfullscreen="" loading="lazy"></iframe>
   
 <br>
 
