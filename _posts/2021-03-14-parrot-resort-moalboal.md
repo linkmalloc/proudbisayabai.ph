@@ -8,7 +8,7 @@ categories:
 tags:
   - resort
   - cebu
-views: "10"
+views: "1,009"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615739917/parrot_resort_moalboal/eoyf6uuyjjnlaniam02u.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615739917/parrot_resort_moalboal/eoyf6uuyjjnlaniam02u.jpg
 img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615739917/parrot_resort_moalboal/eoyf6uuyjjnlaniam02u.jpg
@@ -20,6 +20,9 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615739938/p
 photo_credit: "Parrot Resort Moalboal"
 photo_credit_link: "https://www.facebook.com/ParrotResortMoalboal/"
 published: false
+
+social_reach: "39,977"
+location: Basdiot, Molboal Cebu 
 ---
 #### Parrot Resort Moalboal
   

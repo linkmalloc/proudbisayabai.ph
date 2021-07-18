@@ -17,6 +17,9 @@ photo_credit: "Win Concha"
 photo_credit_link: ""
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "3 minutes"
+
+social_reach: "64,906"
+location: Alicia, Bohol
 ---
 ##### THE ALICIA PANORAMIC PARK  
   

@@ -9,7 +9,7 @@ tags:
   - garden
   - resort
   - cebu
-views: "10"
+views: "6,499"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025567/pining_garden_resorts/jnyxzpb9aianuafj1dnp.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025654/pining_garden_resorts/pininggarden_wskvcu.png
 img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025567/pining_garden_resorts/jnyxzpb9aianuafj1dnp.jpg
@@ -20,6 +20,9 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025601
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617025617/pining_garden_resorts/nqvbcxnk2zl6jzbdpgyj.jpg
 photo_credit: "Pining Garden Resorts Facebook Page (admin)"
 photo_credit_link: ""
+
+social_reach: "115,166"
+location: Dungga, Danao City  
 ---
 #### Pining Garden Resorts  
   

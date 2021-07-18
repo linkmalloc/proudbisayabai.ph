@@ -462,13 +462,6 @@ jQuery.fn.isMobile = () => {
         "newestOnTop": false,
         "progressBar": true,
         "positionClass": "toast-bottom-left",
-        "toastClass": 'bg-primary p-10',
-        "iconClasses": {
-            "error": 'alert-error',
-            "info": 'alert-info',
-            "success": 'alert-success',
-            "warning": 'alert-warning'
-        },
         "preventDuplicates": false,
         "onclick": null,
         "showDuration": "300",
@@ -481,8 +474,11 @@ jQuery.fn.isMobile = () => {
         "hideMethod": "fadeOut"
     }
 
-    var live = function () {
-        var data = JSON.parse(document.getElementById('post_data').innerHTML);
+    var _DATA;
+    var factory = function(){
+
+        var data = _DATA;
+
         function arbitraryViews(min, max) { // min and max included 
             return Math.floor(Math.random() * (max - min + 1) + min)
         }
@@ -495,21 +491,83 @@ jQuery.fn.isMobile = () => {
         if( views < 1000 ){
             views = formatNumber(arbitraryViews(1000, 200000));
         }
-        var messages = [
+        var postInfoText = [
             `👀👍 ${views} have viewed this post ❤️`,
             `✏️ ${data.author} wrote this post`,
             `📷 ${data.photo_credit}, uploaded these photos`,
             `‎😃💁 This post has reached ${data.social_reach ? data.social_reach : views } people on social media`,
             `📍 Your facebook friends have visited this place ${data.location}`
         ]
+
+        var nextArticleText = [
+            `👀👍 Katoltol ka asa ni? ❤️`,
+            `✏️ Nindot kaayu diri. 👍👍👍`,
+            `📷 Naka-anhi na ko. Nindot kaayu ang lugar.😃`,
+            `‎😃💁 Laag ta diri mga bisaya. Arats na! ❤️ ❤️`,
+            `📍 Suroy nya ta diri ninyo. Nindot kaayu.👍`,
+            `😃 Arats na ta diri guys! 📷❤️👍`
+        ]
+
+        function generateNextArticles(){
+            var nextArticles = [];
+            var allArticles = $('.related-posts .post-thumb').toArray().concat($('.widget-latest-posts .list-post li').toArray());
+
+            allArticles.map((post)=>{
+                nextArticles.push( {
+                    url: $(post).find('a').attr('href'),
+                    img: $(post).find('img').attr('data-src')
+                })
+            });
+            return nextArticles;
+        }
+        var nextArticles = generateNextArticles();
+        debugger;
+        return {
+            getPostInfoText : () => postInfoText[Math.floor((Math.random() * postInfoText.length - 1) + 1)],
+            getNextArticle : function (){
+                return {
+                    text: nextArticleText[Math.floor((Math.random() * nextArticleText.length - 1) + 1)],
+                    nextArticle: nextArticles[Math.floor((Math.random() * nextArticles.length - 1) + 1)]
+                }
+            }
+        };
+    }
+
+    var live = function () {
+        _DATA = JSON.parse(document.getElementById('post_data').innerHTML);
+        var Generator = factory();
         setInterval(function () {
             try {
-                var showToastMsg = messages[Math.floor((Math.random() * messages.length - 1) + 1)];
-                toastr["info"](`${showToastMsg}`);
+                var showToastMsg = Generator.getPostInfoText();
+                toastr.info(`${showToastMsg}`,null,{'toastClass': 'bg-primary toast-notif'});
             } catch (e) {
                 console.error(e);
             }
         }, 15000);
+
+        setTimeout( function(){
+            setInterval(function () {
+                try {
+                    
+                    var generateNextArticle = Generator.getNextArticle();
+                    var textToUse = generateNextArticle.text;
+                    var nextArticle = generateNextArticle.nextArticle;
+                    
+                    toastr.info(`<div class='d-flex flex-column nextArticle'>
+                        <span class='pb-3'>${textToUse}</span>
+                        <img src="${nextArticle.img}" style='max-height: 60%'/>
+                        </div>`,null, { 
+                            "toastClass": 'bg-success toast-notif',
+                            "onclick": (e)=>{
+                                window.location.href = `${nextArticle.url}`
+                            }
+                        });
+                } catch (e) {
+                    console.error(e);
+                }
+            }, 10000);
+        }, 35000);
+        
 
     }
     /* WOW active */
@@ -537,7 +595,12 @@ jQuery.fn.isMobile = () => {
         imageViewer();
 
         newsletter();
-        live();
+        try{
+            live();
+        }catch(e){
+            console.log(e);
+        }
+        
     });
 
 })(jQuery, toastr);

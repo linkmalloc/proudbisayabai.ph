@@ -17,6 +17,8 @@ photo_credit: Twin, Content Editor
 photo_credit_link: ""
 social_reach: "10,218"
 location: Moalboal, Cebu
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/twin.jpg"
+read_time: "5 minutes"
 ---
 ###### PANAGSAMA BEACH  
 

@@ -9,7 +9,7 @@ tags:
   - cove
   - beach
   - cebu
-views: "10"
+views: "2,785"
 img_big_1000x600: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617029957/hermits_cove/kzzt0gg8jf9jun2hvd3i.jpg
 img_big_3000x1144: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617030519/hermits_cove/hermitscove_wq93cd.png
 img_500x500: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617029957/hermits_cove/kzzt0gg8jf9jun2hvd3i.jpg
@@ -20,6 +20,10 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617029938
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617029961/hermits_cove/rh8zcnal2v6belvnlshb.jpg
 photo_credit: "Michael Audrey Jacobe Sagonoy | Proud Bisaya Bai Drone Pilot"
 photo_credit_link: "https://www.instagram.com/michaelsagoo/"
+
+social_reach: "94,031"
+location: Aloguinsan, Cebu
+
 ---
 #### 100 PESOS CHALLENGE  
   
