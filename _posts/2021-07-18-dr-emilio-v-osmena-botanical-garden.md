@@ -21,7 +21,7 @@ read_time: "7 minutes"
   
 #BukidGoals: Are you stressed out about your job or schoolwork? Take a quick dip and enjoy the beauty of the Botanical Garden to wash away your worries! 🍃😮😍  
 
-The Dr. Emilio Osmeña Botanical Garden is a both a resort and a botanical garden located in Brgy. Busay in Cebu City's mountainous region. It gives you a spacious venue for your fun activities, a garden area with wide range of beatiful plants and flowers, and as well as a beautiful view of the mountains! The circular elevated swimming pool is one of its most distinctive features due to its circular innate beauty, and it is accompanied by cottages with tables and seats.
+The Dr. Emilio Osmeña Botanical Garden is both a resort and a botanical garden located in Brgy. Busay in Cebu City's mountainous region. It gives you a spacious venue for your fun activities, a garden area with wide range of beatiful plants and flowers, and as well as a beautiful view of the mountains! The circular elevated swimming pool is one of its most distinctive features due to its circular innate beauty, and it is accompanied by cottages with tables and seats.
 
 This little paradise is wonderfully tucked along the route to Cebu Tops, right after the Balay sa Busay but before Lavie in the Sky and Tops Skyline Garden. Click the button for a little video glimpse of what Dr. Emilio V. Osmeña Botanical Garden can offer.
 
