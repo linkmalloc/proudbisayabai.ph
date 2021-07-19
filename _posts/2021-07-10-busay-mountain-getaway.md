@@ -11,7 +11,7 @@ tags:
   - getaway
 views: "10"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/13.jpg
-img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/cover.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/13.jpg
 photo_credit: "PBB Admin"
 photo_credit_link: ""
