@@ -560,7 +560,12 @@ jQuery.fn.isMobile = () => {
                             "toastClass": 'bg-success toast-notif',
                             "onclick": (e)=>{
                                 e.preventDefault();
-                                ga('send', 'event', 'toastr clicks', 'next article', `${nextArticle.url}`);
+                                ga('send', 'event', {
+                                    eventCategory: 'toastr clicks',
+                                    eventAction: 'next article',
+                                    eventLabel: `${nextArticle.url}`,
+                                    transport: 'beacon'
+                                  });
                                 window.location.href = `${nextArticle.url}`;
                             }
                         });
