@@ -559,8 +559,9 @@ jQuery.fn.isMobile = () => {
                         </div>`,null, { 
                             "toastClass": 'bg-success toast-notif',
                             "onclick": (e)=>{
+                                e.preventDefault();
                                 ga('send', 'event', 'toastr clicks', 'next article', `${nextArticle.url}`);
-                                window.location.href = `${nextArticle.url}`
+                                window.location.href = `${nextArticle.url}`;
                             }
                         });
                 } catch (e) {
