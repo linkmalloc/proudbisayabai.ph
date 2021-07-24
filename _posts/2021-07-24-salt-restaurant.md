@@ -16,10 +16,11 @@ img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/salt_restaurant/
 photo_credit: "Pete Abellana, Official Photographer"
 photo_credit_link: ""
 ---
-###### A Taste of Home  
-
-
-
+###### The Same Homely Feeling in a New Location
+  
+Our favorite seafood restaurant have moved! Visit the new location in Casa Rosario Hotel and enjoy finest quality, MSG-FREE, and the best tasting foods with a warm and welcoming ambience which is just perfect to catch up with family and friends!  
+  
+They try their best to serve you healthy and flavourful meals made from  FRESH INGREDIENTS and cooked from Scratch! They want to create homely touch to dishes and bring out this nostalgic feeling for the guest, to evoke something that was part of them growing up.  
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/salt_restaurant/9.jpg)  
@@ -28,13 +29,6 @@ photo_credit_link: ""
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/salt_restaurant/10.jpg)  
 <small>Source: Pete Abellana, Official Photographer</small>  
-
-###### The Same Homely Feeling in a New Location
-  
-Our favorite seafood restaurant have moved! Visit the new location in Casa Rosario Hotel and enjoy finest quality, MSG-FREE, and the best tasting foods with a warm and welcoming ambience which is just perfect to catch up with family and friends!  
-  
-They try their best to serve you healthy and flavourful meals made from  FRESH INGREDIENTS and cooked from Scratch! They want to create homely touch to dishes and bring out this nostalgic feeling for the guest, to evoke something that was part of them growing up.  
-
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/salt_restaurant/5.jpg)  
