@@ -645,3 +645,26 @@ ul.pricing-list.mt-3.mb-4 li::marker {
 	background-image: none!important;
 	padding: 8px 8px 8px 8px !important;
 }
+
+/**** Custom Buttons *****/
+a.btn-foodpanda {
+	background: white;
+	border: 1px solid #d84665;
+	color: #d84665 !important;
+}
+
+a.btn-foodpanda:hover{
+	background: #d84665;
+	color: white !important;
+}
+
+a.btn-grab-food{
+	background: white;
+	border: 1px solid #499d49;
+	color: #499d49 !important;
+}
+
+a.btn-grab-food:hover{
+	background: #499d49;
+	color: white !important;
+}

@@ -521,7 +521,6 @@ jQuery.fn.isMobile = () => {
             return nextArticles;
         }
         var nextArticles = generateNextArticles();
-        debugger;
         return {
             getPostInfoText : () => postInfoText[Math.floor((Math.random() * postInfoText.length - 1) + 1)],
             getNextArticle : function (){
