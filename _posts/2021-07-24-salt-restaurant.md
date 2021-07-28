@@ -15,6 +15,7 @@ img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/salt_resta
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/salt_restaurant/1.jpg
 photo_credit: "Pete Abellana, Official Photographer"
 photo_credit_link: ""
+read_time: "3 minutes"
 ---
 ###### The Same Homely Feeling in a New Location
   
