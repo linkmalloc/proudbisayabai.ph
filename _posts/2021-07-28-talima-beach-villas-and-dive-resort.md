@@ -42,7 +42,7 @@ Talima Beach Villas and Dive Resort is a small, peaceful beach resort on Olango 
 <small>Source: Talima Beach Villas Facebook Page, Credits To Owner</small>  
 
 
-They assure you total rest and relaxation in their secluded and private location on a coral rock cliff. Talima Resort is perfect for couples, groups, divers, snorkellers and people who want to get away from the hustle and bustle of the city life.
+There is a small swimming pool in a attractive garden and anyone can swim out to the reef. Everything on this resort is just perfect without worrying. They assure you total rest and relaxation in their secluded and private location on a coral rock cliff. Talima Resort is perfect for couples, groups, divers, snorkellers and people who want to get away from the hustle and bustle of the city life.
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/talima_beach_villas_and_dive_resort/4.jpg)  
