@@ -1,8 +1,8 @@
 ---
 author: "Ariel Alegado, Writer"
 layout: post
-title: "Talima Beach Villas and Dive Resort "
-description: "A tropical hide-away in Olanggo Island."
+title: "A tropical hide-away in Olanggo Island"
+description: "Take a break at Talima Beach Villas and Dive Resort"
 categories:
   - destination
 tags:
@@ -36,11 +36,9 @@ Talima Beach Villas and Dive Resort is a small, peaceful beach resort on Olango 
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/talima_beach_villas_and_dive_resort/9.jpg)  
 <small>Source: Talima Beach Villas Facebook Page, Credits To Owner</small>  
 
-
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/talima_beach_villas_and_dive_resort/2.jpg)  
 <small>Source: Talima Beach Villas Facebook Page, Credits To Owner</small>  
-
 
 There is a small swimming pool in a attractive garden and anyone can swim out to the reef. Everything on this resort is just perfect without worrying. They assure you total rest and relaxation in their secluded and private location on a coral rock cliff. Talima Resort is perfect for couples, groups, divers, snorkellers and people who want to get away from the hustle and bustle of the city life.
 
@@ -51,7 +49,6 @@ There is a small swimming pool in a attractive garden and anyone can swim out to
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/talima_beach_villas_and_dive_resort/7.jpg)  
 <small>Source: Talima Beach Villas Facebook Page, Credits To Owner</small>  
-
 
 Pahuway sad panagsa Bai!  Feeling stressed or burn out, or you just want to get that feeling of inner peace? Ari ta, Talima Resort in Olango Island! 💦😮🏝
 
