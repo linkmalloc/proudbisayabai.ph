@@ -11,7 +11,7 @@ tags:
   - resort
   - cebu
   - island
-views: "10"
+views: "4,479"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/talima_beach_villas_and_dive_resort/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/talima_beach_villas_and_dive_resort/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/talima_beach_villas_and_dive_resort/1.jpg

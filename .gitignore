@@ -6,3 +6,5 @@ _site
 serve
 images
 .s3
+node_modules
+dist
