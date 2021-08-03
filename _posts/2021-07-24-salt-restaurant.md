@@ -9,7 +9,7 @@ tags:
   - cebu
   - restaurant
   - seafoods
-views: "10"
+views: "447"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/salt_restaurant/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/salt_restaurant/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/salt_restaurant/1.jpg
