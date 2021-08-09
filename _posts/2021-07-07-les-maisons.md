@@ -71,7 +71,7 @@ Les Maisons d'Itac is located in a fishing town in a secluded section of Cebu Is
 💻 Facebook Page: 
 [ <span><i class="elegant-icon social_facebook"></i> LesMaisonsDitac</span>](https://facebook.com/LesMaisonsDitac/){: .btn-sm .btn-primary .text-white .text-center .font-small .btn-visit-fb .d-block .p-2}
 
-For information you may also visit our website [www.lesmaisonsditac.com](www.lesmaisonsditac.com) or email us at c[ontact@lesmaisonsditac.com](mailto:ontact@lesmaisonsditac.com)
+For information you may also visit our website [www.lesmaisonsditac.com](https://www.lesmaisonsditac.com) or email us at c[ontact@lesmaisonsditac.com](mailto:ontact@lesmaisonsditac.com)
 
 
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/16.jpg)  
