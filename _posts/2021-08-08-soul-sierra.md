@@ -44,10 +44,11 @@ Join yoga sessions in Soul Sierra at The Shala or Sacral Studio, all of which ar
 
 #Chillvibes: Murag mao jud ni imong gipangita nga Chill! Imagine going to a place where you can unwind and recharge after an exhausting work week. Why not pamper yourself with a rejuvenating weekend staycation at Soul Sierra! 🥺☕️🍂  
 
+
+****
 ###### HOW TO GET THERE?  
 
 🌍 Located at Babag Busay, Cebu 🇵🇭  
-  
   
 🗺 Via Commute: From Colon St. just ride a bus or beep bus bound for IT Park Cebu and tell the driver to drop you off at JY Square Mall. From there look for habal-habal drivers to bring you to the exact location. (make sure to clarify the fare before riding estimated fare is P100-150 one way)11 minutes / 3km from Temple of Leah in Babag Uno. Go up to Mountain View and pass the Temple of Leah. Head straight for 9-11 minutes until you reach our sign ahead then follow the road right until you reach Soul Sierra on the left.  
   
@@ -55,12 +56,14 @@ Join yoga sessions in Soul Sierra at The Shala or Sacral Studio, all of which ar
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15698.707944285708!2d123.8599026!3d10.3676914!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x4bd77d3d8bf1efbc!2sSoul%20Sierra!5e0!3m2!1sen!2sph!4v1628452086799!5m2!1sen!2sph" style="border:0; width: 100%; height: 450px" allowfullscreen="" loading="lazy"></iframe>
 
+****
 ###### RATES AND OPERATION HOURS  
 
 🕑 Operating hours: 9AM - 9PM daily   
 
 💰 Entrance fee: 100 pesos / person  
   
+****
 ###### ACTIVITIES    
 Eperience holistic wellness services such as:   
 - Reiki Energy Healing  
