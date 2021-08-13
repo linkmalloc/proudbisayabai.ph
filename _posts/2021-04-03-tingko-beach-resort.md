@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617439680
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617439684/tingko_beach_resort/brfe6fjbnredejtkmqen.jpg
 photo_credit: "Motojerne"
 photo_credit_link: ""
+published: false
 ---
 #### Tingko Beach Resort 
   

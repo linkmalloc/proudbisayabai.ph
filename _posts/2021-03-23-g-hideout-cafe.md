@@ -19,6 +19,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616477204/g
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616477211/g_hideout_cafe/xc0tfi50sapyh9acjeok.jpg
 photo_credit: "Merla Serna"
 photo_credit_link: ""
+published: false
 ---
 To all coffee monsters out there... Check this out! 🤩☕  
   

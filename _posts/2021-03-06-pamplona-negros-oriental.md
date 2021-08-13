@@ -19,6 +19,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615009660/p
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615009663/pamplona_negros_oriental/gyukcqgs9igwtxb4rydi.jpg
 photo_credit: "Carl Dave Black Ang"
 photo_credit_link: ""
+published: false
 ---
 Province life is the best. Uli ta Puhon Bai! 🍃😯 Ingun ani imong makita nig mata nimo sa Kabuntagon.   
   

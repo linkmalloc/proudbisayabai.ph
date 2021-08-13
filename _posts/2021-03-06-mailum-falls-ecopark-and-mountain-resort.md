@@ -21,6 +21,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615012356/m
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615012360/mailum_falls_ecopark_and_mountain_resort/wjfjmes7xomrucofb7j1.jpg
 photo_credit: "Wandering Tita"
 photo_credit_link: "https://www.facebook.com/wanderingtita/"
+published: false
 ---
 #### MAILUM FALLS ECOPARK  AND MOUNTAIN RESORT
 <center><i>“Paradise in the mountain” 🍃🌺😯 <br> Kanang mag “nga2x” ka ig kita nimus lugar mga bai! </i></center>  

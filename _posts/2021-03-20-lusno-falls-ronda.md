@@ -19,6 +19,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616200453/l
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616200456/lusno_falls_ronda/wa5zmxepfgzg6xbxhsxu.jpg
 photo_credit: "Joshua Rafael"
 photo_credit_link: ""
+published: false
 ---
 #### Lusno Falls, Ronda
   

@@ -21,6 +21,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616003591/s
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616003594/skips_beach_resort/fzozqq7n7dd4hkzozlyf.jpg
 photo_credit: "Marie Vanessa Alcover"
 photo_credit_link: ""
+published: false
 ---
 #### Skip's  Beach Resort
   

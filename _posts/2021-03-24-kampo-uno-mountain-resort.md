@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616689566/k
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616689551/kampo_uno_mountain_resort/bmjiacc98p6ggwgihcm8.jpg
 photo_credit: "Arat Travel"
 photo_credit_link: "https://www.facebook.com/arattravel/"
+published: false
 ---
 #### Kampo Uno Mountain Resort  
   

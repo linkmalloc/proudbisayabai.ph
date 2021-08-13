@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617629597
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617629602/palayan_valley/eliuqyi80c2lbr2oscpq.jpg
 photo_credit: "Joseph The Explorer"
 photo_credit_link: ""
+published: false
 ---
 #### Palayan Valley
 

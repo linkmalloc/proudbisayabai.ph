@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616288711/v
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616288715/voda_krasna_beach_resort/mzntqjmj97iccfiqlnol.jpg
 photo_credit: "Ariel Alegado | Team Leader"
 photo_credit_link: ""
+published: false
 ---
 #### Voda Krasna Beach Resort
   

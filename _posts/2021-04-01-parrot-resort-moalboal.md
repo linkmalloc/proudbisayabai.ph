@@ -19,6 +19,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617274215
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617274219/parrot_resort_moalboal/nsyrbicfxnhafm7ekmmn.jpg
 photo_credit: "Pbb Admins"
 photo_credit_link: ""
+published: false
 ---
 #### PARROT RESORT MOALBOAL
   

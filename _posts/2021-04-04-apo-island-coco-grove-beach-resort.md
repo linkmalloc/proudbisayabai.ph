@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617548641
 img_500_5: 
 photo_credit: "Alden Paulo Asok | Photo Blogger"
 photo_credit_link: ""
+published: false
 
 social_reach: "3,902"
 location: Apo Island, Negros

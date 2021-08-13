@@ -18,6 +18,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617433177
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617433181/jollibeee_drive_thru/sf6vrayqtvqccy0vagni.jpg
 photo_credit: "Vivi Moore | Daniela Tinamisan"
 photo_credit_link: ""
+published: false
 ---
 #### Barkadas CHECK
 SUMMER is finally here! Ready na ba ang Tanan sa Laag? Take that convenient drive thru in JOLLIBEE! And arrive at your destination in no time. 🍟🍔🥤  

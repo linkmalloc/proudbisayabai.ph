@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616004159/b
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616004179/bantayan_island_cebu/zlzlvlvaoflsnrrwaaqq.jpg
 photo_credit: "Michael Audrey Jacobe Sagonoy | Pbb Drone Pilot"
 photo_credit_link: ""
+published: false
 ---
 #### YES to Bantayan na ba this SUMMER? 😯💦🏖  
 

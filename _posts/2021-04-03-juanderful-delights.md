@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617417914
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617417918/juanderful_delights/ni5zab7kmsxt1xlxhyjf.jpg
 photo_credit: "Juan Virtudazo | Page Contributor (business Owner)"
 photo_credit_link: ""
+published: false
 ---
 #### JUANDERFUL DELIGHTS
 <center><i>Sweetness Made for Every Juan!</i></center>

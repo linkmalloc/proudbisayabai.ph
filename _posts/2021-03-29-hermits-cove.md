@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617029938
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617029961/hermits_cove/rh8zcnal2v6belvnlshb.jpg
 photo_credit: "Michael Audrey Jacobe Sagonoy | Proud Bisaya Bai Drone Pilot"
 photo_credit_link: "https://www.instagram.com/michaelsagoo/"
+published: false
 
 social_reach: "94,031"
 location: Aloguinsan, Cebu

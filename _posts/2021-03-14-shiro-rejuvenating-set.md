@@ -18,6 +18,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615735058/s
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615735063/shiro_rejuvenating_set/sii6u829y5apfqtovgfo.jpg
 photo_credit: "Vivi Moore | Yull Calvez"
 photo_credit_link: ""
+published: false
 ---
 #### SHIRO REJUVENATING SET  
 <center>DAVAO’S BEST SKIN CARE BRAND IS FINALLY HERE IN CEBU! 😱🤩</center>

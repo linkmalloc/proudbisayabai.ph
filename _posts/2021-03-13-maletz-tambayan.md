@@ -21,6 +21,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621974/m
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621978/maletz_tambayan/tkat9cqmduwpj8lftjuh.jpg
 photo_credit: "Amor Rellon"
 photo_credit_link: ""
+published: false
 ---
 #### MALETZ TAMBAYAN
 Looking for a place to chill and dine with family and friends?  

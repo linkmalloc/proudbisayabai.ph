@@ -19,6 +19,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616687766/t
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616687770/tumalog_falls/rpq7zjg5xwzprenssutt.jpg
 photo_credit: "Tumalog Falls Facebook Page"
 photo_credit_link: ""
+published: false
 
 social_reach: "117,392"
 location: Oslob, Cebu 

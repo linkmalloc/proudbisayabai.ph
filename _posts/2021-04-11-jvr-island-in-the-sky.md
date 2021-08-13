@@ -19,6 +19,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618075723
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618075728/jvr_island_in_the_sky/thppo00z8821nhjwsp3k.jpg
 photo_credit: "Cliffchard Dumaran | Pbb Contributor"
 photo_credit_link: ""
+published: false
 
 social_reach: "115,166"
 location: Balamban, Transcentral Highway   

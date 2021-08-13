@@ -18,7 +18,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618411071
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618410443/camotes/narwagkhvxuk8lplhkzs.jpg
 photo_credit: "Jeriel Nuñez"
 photo_credit_link: ""
-published: true
+published: false
 ---
 
 #### Santiago White Beach Camotes

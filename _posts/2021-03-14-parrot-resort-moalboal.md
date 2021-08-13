@@ -20,7 +20,6 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615739938/p
 photo_credit: "Parrot Resort Moalboal"
 photo_credit_link: "https://www.facebook.com/ParrotResortMoalboal/"
 published: false
-
 social_reach: "39,977"
 location: Basdiot, Molboal Cebu 
 ---

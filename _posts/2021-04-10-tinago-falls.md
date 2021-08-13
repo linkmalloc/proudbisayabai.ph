@@ -19,6 +19,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618028453
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618028461/iligan_a_city_known_as_the_city_of_majestic_waterfalls/hklfhejnh32sxcyqx2hs.jpg
 photo_credit: "Joseph The Explorer"
 photo_credit_link: ""
+published: false
 ---
 #### Tinago Falls
   

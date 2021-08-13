@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616327185/s
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616327189/sermon_on_the_mount_retreat_resort/cy7alretxmi7ak4u0eld.jpg
 photo_credit: "Sermon On The Mount Retreat Resort Facebook Page"
 photo_credit_link: ""
+published: false
 ---
 #### Sermon on the Mount Retreat Resort
   

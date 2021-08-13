@@ -21,6 +21,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617555959
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617555963/tarima_cafe_and_resto/uqa42in6rthf1iefvgjv.jpg
 photo_credit: "Daniela Tinamisan | Pbb Admin"
 photo_credit_link: ""
+published: false
 
 social_reach: "3,156"
 location: Catmon, Cebu

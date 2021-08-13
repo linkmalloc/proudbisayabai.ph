@@ -19,6 +19,7 @@ img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613383133/e
 img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613383133/enchanted_mountain_cebu/150438985_293935139068828_47701110245202513_o_ckirnt.jpg
 img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613383133/enchanted_mountain_cebu/149420191_293935645735444_2854665049257872664_o_j2fhoy.jpg
 photo_credit: "Edz GO"
+published: false
 ---
 Experience Breathtaking view and take your mind to places where you see yourself being whoever you want to be at ENCHANTED MOUNTAIN CEBU in Dalaguete, Cebu. 🍃😯 😍  
 

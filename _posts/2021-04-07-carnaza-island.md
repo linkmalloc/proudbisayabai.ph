@@ -19,6 +19,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617806309
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617806313/carnaza_island/uqurlpoikdhcxbo5ggp6.jpg
 photo_credit: "Jacque Gader"
 photo_credit_link: ""
+published: false
 ---
 #### Carnaza Island Eco Park
 

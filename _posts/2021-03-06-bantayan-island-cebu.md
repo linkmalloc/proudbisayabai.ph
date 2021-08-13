@@ -21,7 +21,6 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010506/b
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615010510/bantayan_island_cebu/yo4kq7j6syay01zb3vm3.jpg
 photo_credit: "Nelson Judaya"
 photo_credit_link: ""
-published: true
 published: false
 ---
 #### Bantayan, Island, Philippines

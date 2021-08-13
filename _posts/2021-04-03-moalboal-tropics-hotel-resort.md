@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617432455
 img_500_5: 
 photo_credit: "Moalboal Tropics"
 photo_credit_link: ""
+published: false
 
 social_reach: "915"
 location: Moalboal, Cebu 

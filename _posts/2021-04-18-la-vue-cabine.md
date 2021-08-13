@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614274999/L
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614275000/LaVueCabine/152691933_299266638535678_8889680383324551572_n_sdmo4u.jpg
 photo_credit: "Abert Catamco"
 photo_credit_link: ""
+published: false
 ---
 #### La Vue Cabine
 <center>Want to escape from buzzling City life with friends? Rekindle your soul by taking in good air in a relaxing place! 😯🍃</center>

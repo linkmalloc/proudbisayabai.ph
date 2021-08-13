@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615009049/l
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615009052/lake_bensis/mx9m1bodqvwx5opycwse.jpg
 photo_credit: "Genro"
 photo_credit_link: ""
+published: false
 ---
 #### Lake Bensis
   

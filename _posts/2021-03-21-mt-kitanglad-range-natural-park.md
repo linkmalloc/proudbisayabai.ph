@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616335135/m
 img_500_5: 
 photo_credit: "Bukidnon Travels"
 photo_credit_link: ""
+published: false
 ---
 #### Mt. Kitanglad Range Natural Park
 <center> KANINDOT! 😯🏕</center>

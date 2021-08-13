@@ -20,7 +20,6 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615048088/m
 photo_credit: "Discover Cauayan"
 photo_credit_link: ""
 published: false
-published: false
 ---
 You don't have to go to New Zealand kay may ari man ta di sa pinas 😁. Instead of flying on a plane for hours, you just have to trek 4.5 hours for you to see these marvelous and adventure worthy places. Experience the unusual knife edge trails and conquer yourselves by reaching the summit according to your paces.  
 

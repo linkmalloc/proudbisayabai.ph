@@ -22,6 +22,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617273189
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617273194/fantasy_lodge/nggyylg2jr4kelygkb8d.jpg
 photo_credit: "Jay Delos Angeles | Fantasy Lodge Facebook Page"
 photo_credit_link: ""
+published: false
 
 social_reach: "319,600"
 location: Samboan, South of Cebu 

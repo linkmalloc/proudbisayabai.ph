@@ -21,6 +21,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618153328
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618153332/anceno_kape_antigo_vintagestyle_coffee_shop_of_san_carlos_city/ubalvcnhgdnv4qk2nlzb.jpg
 photo_credit: "Jerk Runner/ Anceno Kape Antigo"
 photo_credit_link: ""
+published: false
 ---
 #### Anceno Kape Antigo    
 

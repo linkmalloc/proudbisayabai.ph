@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615785691/m
 img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615785695/magikland/izypcg5mb3snj9bkz6bi.jpg
 photo_credit: "Solo Traveler"
 photo_credit_link: "https://www.facebook.com/solotravelernegros/"
+published: false
 ---
 #### MAGIKLAND
   

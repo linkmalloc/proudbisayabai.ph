@@ -20,7 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618151403
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618151407/kanirag_peak/mts2dpd9ihq773v6s7ce.jpg
 photo_credit: "Fretxzie Ann Martinez | Ariel Alegado | Team Leader"
 photo_credit_link: ""
-
+published: false
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo.jpg"
 read_time: "4 minutes"
 

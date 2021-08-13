@@ -19,6 +19,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617903608
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617903611/campalabo_islet/emkfok9iav8bqkmve7zb.jpg
 photo_credit: "Ivan Semat Perez"
 photo_credit_link: ""
+published: false
 
 social_reach: "46,261"
 location: Pinamungahan, Cebu 

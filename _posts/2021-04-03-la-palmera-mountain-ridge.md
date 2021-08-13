@@ -19,6 +19,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617383293
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617383297/la_palmera_mountain_ridge/xroqadtpuvip8g3tjqpj.jpg
 photo_credit: "Jazzia Telebanco &amp; Malia Papillero"
 photo_credit_link: ""
+published: false
 ---
 👣 𝗟𝗔 𝗣𝗔𝗟𝗠𝗘𝗥𝗔 𝗠𝗢𝗨𝗡𝗧𝗔𝗜𝗡 𝗥𝗜𝗗𝗚𝗘   
   

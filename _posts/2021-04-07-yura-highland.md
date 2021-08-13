@@ -20,6 +20,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617808054
 img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617808058/yura_highland/pzkfezjaba0v5tx8n36r.jpg
 photo_credit: "Brian Granada"
 photo_credit_link: ""
+published: false
 ---
 #### Yura Highland
   
