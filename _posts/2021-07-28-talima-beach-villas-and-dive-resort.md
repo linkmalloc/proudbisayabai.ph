@@ -47,10 +47,6 @@ There is a small swimming pool in a attractive garden and anyone can swim out to
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/talima_beach_villas_and_dive_resort/4.jpg)  
 <small>Source: Talima Beach Villas Facebook Page, Credits To Owner</small>  
 
-****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/talima_beach_villas_and_dive_resort/7.jpg)  
-<small>Source: Talima Beach Villas Facebook Page, Credits To Owner</small>  
-
 Pahuway sad panagsa Bai!  Feeling stressed or burn out, or you just want to get that feeling of inner peace? Ari ta, Talima Resort in Olango Island! 💦😮🏝
 
 ###### How to get there?   
