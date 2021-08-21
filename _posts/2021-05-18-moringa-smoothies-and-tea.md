@@ -7,7 +7,8 @@ description: "The benefits and healing effect of Moringa is legendary so start y
 categories:
   - food
 tags:
-  - Start your week with a healthy dose of nutritious Moringa smoothies and Cookies from Moringa Smoothies &amp; Tea!
+  - cebu
+  - milktea
 views: "10"
 read_time: "5 minutes"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/moringa_smoothies_and_tea/cover.jpg
