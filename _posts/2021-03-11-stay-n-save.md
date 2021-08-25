@@ -10,22 +10,24 @@ tags:
   - cebu
   - cebu-south
 views: "10"
-img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484874/stay_n_save/zb9uyy86mtvjtal3f1qr.jpg
-img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484874/stay_n_save/zb9uyy86mtvjtal3f1qr.jpg
-img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484874/stay_n_save/zb9uyy86mtvjtal3f1qr.jpg
-img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484880/stay_n_save/lufiv9qxdkcw3xpffoud.jpg
-img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484884/stay_n_save/lmbxsbl1ahv1gib3zsgn.jpg
-img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484888/stay_n_save/zyv42ztztqxxrgzomcoh.jpg
-img_500_4: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484891/stay_n_save/yeevlxdruwfu9ribdzza.jpg
-img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615484895/stay_n_save/bgibl9fswk20jccut1tw.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/63.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/63.jpg
+img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/66.jpg
+img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/7.jpg
+img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/8.jpg
+img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/5.jpg
+img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/3.jpg
 photo_credit: "Katkat Talita"
 photo_credit_link: ""
-published: false
+published: true
 ---
 #### Stay N Save
   
 Makawala sa kakapoy ug ka stress sa life CORON Palawan feels in Oslob, Cebu!   
-  
+
+A private, very exclusive location that is ideal for a beach getaway - an ideal escape from the bustling, noisy, congested environment that a city gives! So, if you enjoy the scent of the sea breeze, the splash of waves on your feet, the beauty of rock formations formed by sediments, and the nature-perfect landscape in front of your eyes, then “Stay N Save” is the ideal place for you!
+
 🕑 FRONT desk hours: 6AM-11PM daily  
   
 ##### 📌 Required at check-in:   
@@ -35,10 +37,11 @@ Makawala sa kakapoy ug ka stress sa life CORON Palawan feels in Oslob, Cebu!
 N. Bacalso Avenue, Brgy. Tan-awan, Oslob, Cebu Philippines.  
 
 <div style="display: flex">
-	<img src="https://res.cloudinary.com/proudbisayabaii/image/upload/v1615485181/stay_n_save/149910513_293023245826684_6266663064812977608_n_ufynyo.jpg" style="width: 50%;margin: 5px;">
-	<img src="https://res.cloudinary.com/proudbisayabaii/image/upload/v1615485182/stay_n_save/150213655_293023195826689_4607224424015550262_n_wxpv4u.jpg" style="width: 50%;margin: 5px;">
+	<img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/61.jpg" style="width: 50%;margin: 5px;">
+	<img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/35.jpg" style="width: 50%;margin: 5px;">
 </div> 
 <small>Source: Michael Audrey Jacobe Sagonoy</small> 
+
 
 ##### 📌 Room Rates:   
 - Cliffside Suite- P2,500  
@@ -69,20 +72,28 @@ Email ad: loweva3178@yahoo.com
 4. Health and Safety Protocols are strictly implemented. 😷  
 
 ****
-![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615485104/stay_n_save/150060701_293524885776520_1500122772315951331_n_ui558o.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/49.jpg)  
 <small>Source: Twin De Los Reyes - Pbb Content Editor</small>  
 
 ****
-![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615485103/stay_n_save/150120142_293525082443167_4666451808077974048_n_b76q2p.jpg)  
-<small>Source: Twin De Los Reyes - Pbb Content Editor</small>  
-
-****
-![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615485103/stay_n_save/149848973_293524779109864_812871654622256615_n_ampbrw.jpg)  
-<small>Source: Twin De Los Reyes - Pbb Content Editor</small>  
-
-****
-![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615485103/stay_n_save/150609252_293524845776524_675747753724557976_n_y6xd7e.jpg)  
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/56.jpg)  
 <small>Source: Twin De Los Reyes - Pbb Content Editor</small> 
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/60.jpg)  
+<small>Source: Twin De Los Reyes - Pbb Content Editor</small> 
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/17.jpg)  
+<small>Source: Twin De Los Reyes - Pbb Content Editor</small> 
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/41.jpg)  
+<small>Source: Marie Kith</small>  
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/46.jpg)  
+<small>Source: Marie Kith</small>  
 
 ****
 ****
@@ -100,25 +111,34 @@ The place can be navigated on Waze. Whether you are riding a bus or your own veh
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d36374.65516278283!2d123.35233997750517!3d9.469598725190751!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcce7ae9c97cda58b!2sStay%20N%20Save%20B%26B%20-%202%20Star!5e0!3m2!1sen!2sph!4v1615485464516!5m2!1sen!2sph" style="width: 100%; height: 450px; border: 0" allowfullscreen="" loading="lazy"></iframe>
 
 ****
-![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615485856/stay_n_save/142483785_281740103621665_3862337739311397363_n_e07mgi.jpg)  
-<small>Source: Ariel Alegado - Team Leader</small>  
-
-****
-![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615485856/stay_n_save/142200944_281740056955003_8523168809102869842_n_meczd8.jpg)  
-<small>Source: Ariel Alegado - Team Leader</small>  
-
-****
-![](https://res.cloudinary.com/proudbisayabaii/image/upload/v1615485857/stay_n_save/143633764_281740030288339_1582542021140822893_n_yck3vp.jpg)  
-<small>Source: Ariel Alegado - Team Leader</small>  
-
-**** 
->TAKE NOTE !  SAFETY FIRST! 
- 
-****
- 👣  AMPING KANUNAY SA LAAG BAI 👣  
-  
-***
-[#ProudBisayaBai](https://www.facebook.com/hashtag/ProudBisayaBai/) [#TatakBisaya](https://www.facebook.com/hashtag/TatakBisaya/)  
-
-****
 Bai! Want to be featured? Send us your BEST Photos and share your Great Travel Experienced!
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/40.jpg)  
+<small>Source: Proud Bisaya Bai, Photographer</small>  
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/3.jpg)  
+<small>Source: Proud Bisaya Bai, Photographer</small>  
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/4.jpg)  
+<small>Source: Proud Bisaya Bai, Photographer</small>  
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/11.jpg)  
+<small>Source: Proud Bisaya Bai, Photographer</small>  
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/6.jpg)  
+<small>Source: Proud Bisaya Bai, Photographer</small>  
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/47.jpg)  
+<small>Source: Proud Bisaya Bai, Photographer</small>  
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/9.jpg)  
+<small>Source: Proud Bisaya Bai, Photographer</small>  
+
+♻️🗑LEAVE NO TRACE! (Gasa sa kina-iyahan nga angay ampingan, Matag usa kanato makatabang sa pag amping sa atong kalikopan sama sa pag punit sa basura ug paglabay niini sa saktong labayanan)  
