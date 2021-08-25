@@ -1,7 +1,7 @@
 ---
 author: "Ariel Alegado - Team Leader"
 layout: post
-title: "Stay N Save - Oslob, Cebu"
+title: "Stay N Save: Exclusive beach getaway in Oslob, Cebu"
 description: "Makawala sa kakapoy ug ka stress sa life CORON Palawan feels in Oslob, Cebu!   "
 categories:
   - destination
@@ -18,15 +18,17 @@ img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/7.jpg
 img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/8.jpg
 img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/5.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/3.jpg
-photo_credit: "Katkat Talita"
+photo_credit: "PBB Admin"
 photo_credit_link: ""
+read_time: "4 minutes"
 published: true
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 ---
 #### Stay N Save
   
 Makawala sa kakapoy ug ka stress sa life CORON Palawan feels in Oslob, Cebu!   
 
-A private, very exclusive location that is ideal for a beach getaway - an ideal escape from the bustling, noisy, congested environment that a city gives! So, if you enjoy the scent of the sea breeze, the splash of waves on your feet, the beauty of rock formations formed by sediments, and the nature-perfect landscape in front of your eyes, then “Stay N Save” is the ideal place for you!
+A private, very exclusive place that is ideal for a beach getaway - an ideal escape from the bustling, noisy, congested environment that a city gives! So, if you enjoy the scent of the sea breeze, the splash of waves on your feet, the beauty of rock formations formed by sediments, and the nature-perfect landscape in front of your eyes, then “Stay N Save” is the ideal place for you!
 
 🕑 FRONT desk hours: 6AM-11PM daily  
   
