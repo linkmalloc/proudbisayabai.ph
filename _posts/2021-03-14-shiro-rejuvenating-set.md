@@ -5,6 +5,7 @@ title: "Davao's BEST Skin care brand is finally here in cebu! | SHIRO REJUVENATI
 description: "Smoother, Lighter and Younger Skin in just 7 days!"
 categories:
   - product
+  - brand
 tags:
   - skin-care
 views: "10"

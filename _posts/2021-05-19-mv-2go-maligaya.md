@@ -4,7 +4,7 @@ layout: post
 title: "LOOK: 2GO Upholds Filipino Aspirations and Values With Newest Vessel, MV 2GO Maligaya"
 description: "MANILA, 12 May 2021 – 2GO Group Inc., the Philippines’ largest integrated transportation and logistics provider, upholds Filipino aspirational values by naming its newest state-of-the-art passenger vessel as MV 2GO Maligaya."
 categories:
-  - product
+  - brand
 tags:
   - vessel
   - ship

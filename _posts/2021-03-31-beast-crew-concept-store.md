@@ -5,6 +5,7 @@ title: "Beast Crew Concept Store"
 description: "All Mens apparel - Wide selection from Summer OOTD to street wear to casual smart to dapper look to sports apparel. Name it! "
 categories:
   - product
+  - brand
 tags:
   - apparel
 views: "10"
