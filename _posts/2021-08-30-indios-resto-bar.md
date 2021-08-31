@@ -22,14 +22,16 @@ img_500_4:
 img_500_5: 
 photo_credit: "Michael Sagonoy| Vivi Moore"
 photo_credit_link: ""
+read_time: "4 minutes"
 ---
 ****
-UNLI SUGBA IS REAL FOR ONLY PHP 249 😱 🦐🥩😍  
+UNLI SUGBA IS REAL FOR ONLY PHP 299 😱 🦐🥩😍  
 
 ****
 ##### 📍 Indios Resto Bar  
 
-Want to experience another style of unli restaurant with a reasonable price?  Here it is mga Bai! Come and Indulge your cravings for unlimited Pork, Chicken, Shrimps, Rice, Drinks and other side dish for **ONLY P249**! 
+Want to experience another style of unli restaurant with a reasonable price?  Here it is mga Bai! Come and Indulge your cravings for unlimited Pork, Chicken, Shrimps, Rice, Drinks and other side dish for **ONLY P299**! 
+
 
 ##### Operating hours:  
 10:00 AM - 8:00 PM 
@@ -58,6 +60,16 @@ The place can be navigated on Waze. Whether you are riding a motorbike or your o
 - Pancit
 - Halang-halang
 - Kinilaw nga guso
+
+****
+##### 🎉 SPECIAL EVENTS 🎉  
+  
+(Food and Venue Package = Php 4500.00)  
+- Exclusive use of the VIP Room   
+- Food and drinks good for 15pax.  
+- Basic sound system and microphone  
+- Karaoke  
+- Table with covers and chairs  
 
 ****
 Magpauwahi pa ba ka bai? ARATS NA!
@@ -92,8 +104,12 @@ Click the Full details here: [https://www.facebook.com/indiosrestobar/](https://
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/indios_restobar/8.jpg)  
 <small>Source: Michael Audrey Jacobe Sagonoy, Digital Creator | Pobreng Laagan</small>  
 
->Take Note! Safety First! 
->Precautionary measures are to be observed upon arrival. Don't forget to bring your new normal essentials!
+> No corkage for 1 lechon,  1 bottle of wine and 1 cake  
+> 500/item corkage for other foods and drinks  
+
+##### CONTACT INFORMATION  
+💻 Facebook Page: [https://www.facebook.com/indiosrestobar/](https://www.facebook.com/indiosrestobar/)  
+📥 Contact number: 0917-273-7185  
 
 ****
 👣  PABUSOG KANUNAY SA KAON BAI 👣
