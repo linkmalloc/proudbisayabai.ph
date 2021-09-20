@@ -1,0 +1,168 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Content Manager</title>
+
+    <link rel="stylesheet" href="/assets/css/vendor/toastr.min.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/widgets.css">
+    <link rel="stylesheet" href="/assets/css/responsive.css">
+    <link rel="stylesheet" href="/assets/css/vendor/viewer.css">
+
+    <!-- <script src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script> -->
+    <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-auth.js"></script>
+
+    <script src="/assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="/assets/js/vendor/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <!-- <script src="https://unpkg.com/netlify-cms@^2.0/dist/cms.js"></script> -->
+    <div id="login" style="display: none;">
+      <form class="form-signin" id="form-signin">
+        <img class="mb-4" src="/assets/imgs/theme/logo.png" alt="">
+        <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+        <label for="inputEmail" class="sr-only">Email address</label>
+        <input type="email" id="inputEmail" class="form-control mt-5" placeholder="Email address" required="" autofocus="">
+        <label for="inputPassword" class="sr-only">Password</label>
+        <input type="password" id="inputPassword" class="form-control mt-5" placeholder="Password" required="">
+        <!-- <div class="checkbox mb-3">
+          <label>
+            <input type="checkbox" value="remember-me"> Remember me
+          </label>
+        </div> -->
+        <div class="text-right mt-5">
+          <button class="btn btn-radius bg-primary text-white ml-15 font-small box-shadow right" type="submit">Sign in</button>
+          <p class="mt-5 mb-3 text-muted">© 2017-2018</p>
+        </div>
+      </form>
+    </div>
+
+    <div id="blog-tool" style="display: none;">
+        BLOG TOOL
+        <button id="create-post">Create a Blog Post</button>
+        <button id="logout">Log out</button>
+
+        <table class="table" id="posts-table">
+          <thead>
+            <tr>
+              <th>Title</th>
+              <th>Author</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody>
+            
+          </tbody>
+        </table>
+    </div>
+
+    <script>
+      // Your web app's Firebase configuration
+      const firebaseConfig = {
+        apiKey: "AIzaSyBCPzUyylI2kELAIDo-IryuIhcui3oXnXw",
+        authDomain: "proudbisayabaiph.firebaseapp.com",
+        projectId: "proudbisayabaiph",
+        storageBucket: "proudbisayabaiph.appspot.com",
+        messagingSenderId: "1000822839652",
+        appId: "1:1000822839652:web:0e0678396ee723e3c3c271",
+        measurementId: "G-HG59DT0Z7S"
+      };
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+      const DB = firebase.firestore();
+      DB.settings({timestampsInSnapshots: true});
+      var posts = [];
+
+      var appendPostData = function(post){
+        var tr = `<tr><td>test</td><td>test</td><td>test</td></tr>`;
+        debugger
+        $('#posts-table').find('tbody').append(tr)
+      }
+
+      var initDashboard = function(){
+        DB.collection("invoices").where("status", "==", 5).get().then((querySnapshot) => {
+          querySnapshot.forEach((doc) => {
+            data = doc.data();
+            posts << data;
+            appendPostData(data);
+          });
+        });
+      }
+
+      var showPost = function(post){
+        // DB.collection('posts').doc('BIUR8LefeI8eq6YQm3Tk').get().then((docRef) => {
+        //     data = docRef.data();
+        //     console.log(data);
+        //   }).catch((err) => {
+        //     console.log(err)
+        //   });
+      }
+
+
+
+
+
+
+      firebase.auth().onAuthStateChanged((user) => {
+        if (user) {
+          // User is signed in, see docs for a list of available properties
+          // https://firebase.google.com/docs/reference/js/firebase.User
+          var uid = user.uid;
+          console.log('User is signed in')
+          $('#login').hide();
+          $('#blog-tool').show()
+
+          initDashboard();
+        } else {
+          // User is signed out
+          $('#blog-tool').hide()
+          $('#login').show();
+          console.log('User is signed out')
+        }
+      });
+      
+      function login(email, password){
+        firebase.auth().setPersistence(firebase.auth.Auth.Persistence.LOCAL)
+        .then(() => {
+          return firebase.auth().signInWithEmailAndPassword(email, password);
+        })
+        .catch((error) => {
+          // Handle Errors here.
+          var errorCode = error.code;
+          var errorMessage = error.message;
+        });
+      }
+
+      $(document).ready(function(){
+        $(document).on('submit', '#form-signin', function(e){
+          e.preventDefault();
+          console.log('logging in')
+          var email = $('#inputEmail').val()
+          var password = $('#inputPassword').val()
+
+          login(email, password);
+        })
+
+        $('#logout').on('click', function(){
+          firebase.auth().signOut().then(function() {
+            window.location = '/admin/dashboard.html'
+          }, function(error) {
+          console.log('error')
+          });
+        })
+      });
+    </script>
+  </body>
+  <style>
+    #login{
+      width: 100%;
+      max-width: 330px;
+      padding: 15px;
+      margin: 0 auto;
+    }
+  </style>
+</html>
