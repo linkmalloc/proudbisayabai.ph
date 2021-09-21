@@ -42,22 +42,28 @@
     </div>
 
     <div id="blog-tool" style="display: none;">
-        BLOG TOOL
-        <button id="create-post">Create a Blog Post</button>
-        <button id="logout">Log out</button>
-
-        <table class="table" id="posts-table">
-          <thead>
-            <tr>
-              <th>Title</th>
-              <th>Author</th>
-              <th>Action</th>
-            </tr>
-          </thead>
-          <tbody>
-            
-          </tbody>
-        </table>
+        <div class="container pt-30">
+          <h3>
+            <img class="mb-4" src="/assets/imgs/theme/logo.png" alt=""> 
+            BLOG TOOL
+            <button class="btn btn-danger" style="float:right" id="logout">Log out</button>
+          </h3>
+          <div class="">
+            <button class="btn btn-primary mb-10" id="create-post">Create a Blog Post</button>
+          </div>
+          <table class="table" id="posts-table">
+            <thead>
+              <tr>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody>
+              <!-- Dynamic table rows  -->
+            </tbody>
+          </table>
+        </div>
     </div>
 
     <script>
@@ -78,15 +84,15 @@
       var posts = [];
 
       var appendPostData = function(post){
-        var tr = `<tr><td>test</td><td>test</td><td>test</td></tr>`;
-        debugger
+        var tr = `<tr><td>${post.title}</td><td>${post.author}</td><td><a href="/admin/post.html?edit=${post.id}">Edit</a></td></tr>`;
         $('#posts-table').find('tbody').append(tr)
       }
 
       var initDashboard = function(){
-        DB.collection("invoices").where("status", "==", 5).get().then((querySnapshot) => {
+        DB.collection("posts").get().then((querySnapshot) => {
           querySnapshot.forEach((doc) => {
             data = doc.data();
+            data['id'] = doc.id;
             posts << data;
             appendPostData(data);
           });

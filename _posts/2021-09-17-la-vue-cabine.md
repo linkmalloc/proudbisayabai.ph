@@ -9,7 +9,7 @@ tags:
   - Mountain
   - Relaxation
   - Toledo
-views: "10"
+views: "123,999"
 img_big_1000x600:  https://d3hukd8e3cn3kb.cloudfront.net/images/posts/la_vue_cabine/5.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/la_vue_cabine/cover.jpg
 img_500x500:  https://d3hukd8e3cn3kb.cloudfront.net/images/posts/la_vue_cabine/5.jpg
@@ -23,12 +23,13 @@ photo_credit_link: ""
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "4 minutes"
 ---
-#### La Vue Cabine
-#BukidGoals: Murag need sad jud nato mo palayo usahay, Rekindle your soul by taking in good air in a relaxing place! 🔦😯🍃
+#### La Vue Cabine  
+\#BukidGoals: Murag need sad jud nato mo palayo usahay, Rekindle your soul by taking in good air in a relaxing place! 🔦😯🍃
 What's more amazing in this cabin is that they are eco friendly. They use wooden spoon and forks, coconut shell bowls and bamboo straws. 
 
 ****
 La Vue Cabine is an ideal and super-exclusive place to relax and chill with the people you love. It is located in Brgy. Pangamihan, Toledo City, Cebu. Being surrounded by mountains in the center of Cebu, the place offers beautiful, serene, quiet, and verdant scenery. The service and amenities they offer are commendable. The Staffs are very accommodating and requests are openly accepted. It's a perfect place for finding your inner peace in luxury living.
+
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/la_vue_cabine/1.jpg)
