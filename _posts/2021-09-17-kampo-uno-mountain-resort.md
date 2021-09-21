@@ -1,7 +1,7 @@
 ---
 author: "Ariel Alegado, Writer"
 layout: post
-title: "Discover a Bali-style Mountain Resort in Bukidnon."
+title: "Discover a Bali-style Mountain Resort in Bukidnon"
 description: "Discover some of the reasons why people want to be here. This small resort is surrounded by lush green vegetation and a stunning view of the morning sun and a river of clouds!"
 categories:
   - destination
