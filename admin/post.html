@@ -30,13 +30,26 @@
     <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-app.js"></script>
     <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-firestore.js"></script>
     <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-storage.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css">
     <script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
+    <script src="https://sdk.amazonaws.com/js/aws-sdk-SDK_VERSION_NUMBER.js"></script>
 </head>
 
 <body>
+    <div class="body-wrapper" id="body-wrapper">
+        <div class="loader-wrapper">
+            <div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div>
+        </div>
     <div class="body-form" style="display: none;">
+        <div class="row">
+            <div class="col-md-12 p-10">
+                <a href="/admin/dashboard.html" class="pull-left btn btn-danger ml-10">Cancel</a>
+                <button class="pull-right btn btn-primary mr-10" id="savePost">Save</button>
+                <button class="pull-right btn btn-primary mr-10" id="previewPost">Preview</button>
+            </div>
+        </div>
         <div class="row">
             <div class="col-lg-5">
             <div class="card">
@@ -209,6 +222,7 @@
                 </div>
             </div>
         </div>
+    </div>
     </div>
 
     <!-- #################################################################### -->
@@ -642,7 +656,7 @@
         </footer>
     </div>
     <!-- End Footer -->
-    <div class="dark-mark"></div>
+    <div class="body-markdown" style="display:none;"></div>
     <!-- Vendor JS-->
 
     <script src="/assets/js/all-libs.merge.min.js"></script>
@@ -672,7 +686,7 @@
     <script src="/assets/js/main.js"></script>
     <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=60276b8be83dc40011356b53&product=inline-share-buttons' async='async'></script>
     <script data-cfasync="false" type="text/javascript" src="/assets/js/contact-form-submission-handler.js"></script>
-   
+</div>
 </body>
 <script>
     // Your web app's Firebase configuration
@@ -688,7 +702,31 @@
       // Initialize Firebase
       firebase.initializeApp(firebaseConfig);
       const DB = firebase.firestore();
+      const Storage = firebase.storage();
+
       DB.settings({timestampsInSnapshots: true});
+
+    //   ref.put(file).then((snapshot) => {
+    //     console.log('Uploaded a blob or file!');
+    //   });
+        //   AWS SDK
+
+        // var albumBucketName = "BUCKET_NAME";
+        // var bucketRegion = "REGION";
+        // var IdentityPoolId = "IDENTITY_POOL_ID";
+
+        // AWS.config.update({
+        // region: bucketRegion,
+        // credentials: new AWS.CognitoIdentityCredentials({
+        //     IdentityPoolId: IdentityPoolId
+        // })
+        // });
+
+        // var s3 = new AWS.S3({
+        // apiVersion: "2006-03-01",
+        // params: { Bucket: albumBucketName }
+        // });
+
 
       var displayCollage = function(img1, img2, img3, img4, img5){
           return `<ul class="blocks-gallery-grid grid-5">
@@ -707,11 +745,15 @@
       }
 
       function showPreview(id){
+        setTimeout(function() {
+            $('.body-form').hide();
+            $('.body-preview').show();
+            $('.body-markdown').hide();
+            $('.loader-wrapper').hide();
+        }, 2000);
+       
 
-        $('.body-form').hide();
-        $('.body-preview').show();
-
-        DB.collection('posts').doc('BIUR8LefeI8eq6YQm3Tk').get().then((docRef) => {
+        DB.collection('posts').doc(`${id}`).get().then((docRef) => {
             data = docRef.data();
             console.log(data);
             $('title').html(data.title)
@@ -740,48 +782,148 @@
             $('#image-gallery').find('.collage-preview').html(collage_content);
             $('#image-gallery').find('figcaption').find('a').attr('href', data.photo_credit_link)
             $('#image-gallery').find('figcaption').find('a i.ti-credit-card').html(`Media Credit: ${data.photo_credit}`)
-
           }).catch((err) => {
             console.log(err)
           });
       }
 
+      var savePost = function(id){
+        return new Promise((resolve, error) => {
+            var post = {
+                author: $('.author').val(),
+                author_image: '',
+                body: window.editor.codemirror.getValue(),
+                description: $('.description').val(),
+                categories: $('.category').val().split(","),
+                tags: $('.tags').val().split(","),
+                photo_credit: $('.photo_credit').val(),
+                photo_credit_link: $('.photo_credit_link').val(),
+                img_big_1000x600: $('.seo_image_url').val(),
+                img_big_3000x1144: $('.banner_image_url').val(),
+                img_500x500: $('.small_banner_image_url').val(),
+                img_500_1: $('.collage_image1_url').val(),
+                img_500_2: $('.collage_image2_url').val(),
+                img_500_3: $('.collage_image3_url').val(),
+                img_500_4: $('.collage_image4_url').val(),
+                img_500_5: $('.collage_image5_url').val(),
+                read_time: '4 minutes',
+                layout: 'post',
+                title: $('.title').val(),
+                place_name: $('.place_name').val()
+            }
+
+            DB.collection("posts").doc(`${id}`).set(post, {merge: true})
+                .then(() => {
+                    console.log("Document successfully written!");
+                    resolve();
+                })
+                .catch((error) => {
+                    console.log("Error writing document: ", error);
+                    error();
+                });
+        });
+      }
+
       var showEditForm = function(id){
-        $('.body-form').show();
-        $('.body-preview').hide();
+        $(document).on('click', '#previewPost', function(){
+            console.log('saving post.. and then preview');
+            savePost(id).then(function(){
+                window.location = "/admin/post.html?preview="+id;
+            }).catch((err) =>{
+                console.log(err)
+            });
+        })
 
-        $('title').html('Edit Post')
+        $(document).on('click', '#savePost', function(){
+            savePost(id);
+        })
 
-        window.editor = new SimpleMDE({ element: $("#markdown_body")[0] });
-        window.editor.codemirror.on("update", function() {
-          value = window.editor.codemirror.getValue()
-          $("#markdown_body").text(value);
+        return new Promise((resolve, error) => {
+            setTimeout(function() {
+                $('.body-form').show();
+                $('.body-preview').hide();
+                $('.body-markdown').hide();
+                $('.loader-wrapper').hide();
+            }, 2000);
+
+            $('title').html('Edit Post')
+
+            window.editor = new SimpleMDE({ element: $("#markdown_body")[0] });
+            window.editor.codemirror.on("update", function() {
+            value = window.editor.codemirror.getValue()
+            $("#markdown_body").text(value);
+            });
+
+            DB.collection('posts').doc(`${id}`).get().then((docRef) => {
+                data = docRef.data();
+                
+                var body_content = data.body.replace(/\\n/g, "\n");
+                body_content = body_content.replace(/\\t/g, "\t");
+                window.editor.codemirror.setValue(body_content);
+
+                $('.title').val(data.title)
+                $('.author').val(data.author)
+                $('.description').val(data.description)
+                $('.category').val(data.categories.join(','))
+                $('.tags').val(data.tags.join(','));
+                $('.photo_credit').val(data.photo_credit)
+                $('.photo_credit_link').val(data.photo_credit_link)
+                $('.seo_image_url').val(data.img_big_1000x600)
+                $('.banner_image_url').val(data.img_big_3000x1144)
+                $('.small_banner_image_url').val(data.img_500x500)
+                $('.collage_image1_url').val(data.img_500_1)
+                $('.collage_image2_url').val(data.img_500_2)
+                $('.collage_image3_url').val(data.img_500_3)
+                $('.collage_image4_url').val(data.img_500_4)
+                $('.collage_image5_url').val(data.img_500_5)
+
+                $('.place_name').val(data.place_name)
+                resolve()
+            }).catch(function(err){
+                console.log(err)
+                error()
+            });
         });
+      }
 
-        DB.collection('posts').doc('BIUR8LefeI8eq6YQm3Tk').get().then((docRef) => {
+      var showMarkdown = function(id){
+        setTimeout(function() {
+            $('.body-form').hide();
+            $('.body-preview').hide();
+            $('.body-markdown').show();
+            $('.loader-wrapper').hide();
+        }, 2000);
+        DB.collection('posts').doc(`${id}`).get().then((docRef) => {
             data = docRef.data();
-            
-            var body_content = data.body.replace(/\\n/g, "\n");
-            body_content = body_content.replace(/\\t/g, "\t");
-            window.editor.codemirror.setValue(body_content);
+            var categories = "  - " + data.categories.join("\n  - ");
+            var tags = "  - " + data.tags.join("\n  - ");
 
-            $('.title').val(data.title)
-            $('.author').val(data.author)
-            $('.description').val(data.description)
-            $('.category').val(data.categories.first)
-            $('.tags').val(data.tags.join(','));
-            $('.photo_credit').val(data.photo_credit)
-            $('.photo_credit_link').val(data.photo_credit_link)
-            $('.seo_image_url').val(data.img_big_1000x600)
-            $('.banner_image_url').val(data.img_big_3000x1144)
-            $('.small_banner_image_url').val(data.img_500x500)
-            $('.collage_image1_url').val(data.img_500_1)
-            $('.collage_image2_url').val(data.img_500_2)
-            $('.collage_image3_url').val(data.img_500_3)
-            $('.collage_image4_url').val(data.img_500_4)
-            $('.collage_image5_url').val(data.img_500_5)
-        });
-
+            window.markdown = `<pre id="markdown_content">
+---
+author: "${data.author}"
+layout: post
+title: "${data.title}"
+description: "${data.description}"
+categories:
+${categories}
+tags:
+${tags}               
+views: "10"
+img_big_1000x600: ${data.banner_image_url}
+img_big_3000x1144: ${data.seo_image_url}
+img_500x500: ${data.small_banner_image_url}
+img_500_1: ${data.img_500_1}
+img_500_2: ${data.img_500_2}
+img_500_3: ${data.img_500_3}
+img_500_4: ${data.img_500_4}
+img_500_5: ${data.img_500_5}
+photo_credit: "${data.photo_credit}"
+photo_credit_link: "${data.photo_credit_link}"
+---
+${data.body}`;
+        
+        $('.body-markdown').html(markdown)
+        })
       }
 
       $(document).ready(function(){
@@ -789,11 +931,12 @@
         let searchParams = new URLSearchParams(window.location.search)
 
         if(searchParams.has('edit')){
-            showEditForm(searchParams.has('edit'))
-        }else{
+            showEditForm(searchParams.get('edit'))
+        }else if(searchParams.has('preview')){
             showPreview(searchParams.get('preview'))
+        }else if(searchParams.has('markdown')){
+            showMarkdown(searchParams.get('markdown'))
         }
-
       })
 </script>
 <style>
@@ -820,5 +963,76 @@
     body{
         background: #c5c5c5;
     }
-</style>
+    .lds-ellipsis,
+    .lds-ellipsis div {
+      box-sizing: border-box;
+    }
+    .lds-ellipsis {
+        display: block;
+        width: 80px;
+        height: 80px;
+        margin: 0 auto;
+        position: absolute;
+        top: 50vh;
+        left: 46vw;
+        width: 8vw;
+        min-width: 80px'
+    }
+    .lds-ellipsis div {
+      position: absolute;
+      top: 33.33333px;
+      width: 13.33333px;
+      height: 13.33333px;
+      border-radius: 50%;
+      background: currentColor;
+      color: white;
+      animation-timing-function: cubic-bezier(0, 1, 1, 0);
+    }
+    .lds-ellipsis div:nth-child(1) {
+      left: 8px;
+      animation: lds-ellipsis1 0.6s infinite;
+    }
+    .lds-ellipsis div:nth-child(2) {
+      left: 8px;
+      animation: lds-ellipsis2 0.6s infinite;
+    }
+    .lds-ellipsis div:nth-child(3) {
+      left: 32px;
+      animation: lds-ellipsis2 0.6s infinite;
+    }
+    .lds-ellipsis div:nth-child(4) {
+      left: 56px;
+      animation: lds-ellipsis3 0.6s infinite;
+    }
+    @keyframes lds-ellipsis1 {
+      0% {
+        transform: scale(0);
+      }
+      100% {
+        transform: scale(1);
+      }
+    }
+    @keyframes lds-ellipsis3 {
+      0% {
+        transform: scale(1);
+      }
+      100% {
+        transform: scale(0);
+      }
+    }
+    @keyframes lds-ellipsis2 {
+      0% {
+        transform: translate(0, 0);
+      }
+      100% {
+        transform: translate(24px, 0);
+      }
+    }
+    .loader-wrapper{
+        background: darkorange;
+        background-size: 120%;
+        width: 100%;
+        height: 100vh;
+    }
+    </style>
 </html>

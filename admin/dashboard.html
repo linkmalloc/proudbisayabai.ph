@@ -84,7 +84,7 @@
       var posts = [];
 
       var appendPostData = function(post){
-        var tr = `<tr><td>${post.title}</td><td>${post.author}</td><td><a href="/admin/post.html?edit=${post.id}">Edit</a></td></tr>`;
+        var tr = `<tr><td>${post.title}</td><td>${post.author}</td><td><a href="/admin/post.html?edit=${post.id}">Edit</a>&nbsp;&nbsp;<a href="/admin/post.html?preview=${post.id}">Preview</a></td></tr>`;
         $('#posts-table').find('tbody').append(tr)
       }
 
@@ -108,16 +108,31 @@
         //   });
       }
 
+      $(document).on('click', '#create-post', function(){
+        DB.collection("posts").add({
+          title: "New Post",
+          editor: window.current_user_email
+        })
+        .then((docRef) => {
+            console.log("Document written with ID: ", docRef.id);
+            window.location = "/admin/post.html?edit=" + docRef.id;
+        })
+        .catch((error) => {
+          console.error(error)
+        });
+      });
 
-
-
-
+      var createPost = function(){
+        
+      }
 
       firebase.auth().onAuthStateChanged((user) => {
         if (user) {
           // User is signed in, see docs for a list of available properties
           // https://firebase.google.com/docs/reference/js/firebase.User
           var uid = user.uid;
+          window.current_user_email = user.email;
+          window.current_user = user.uid;
           console.log('User is signed in')
           $('#login').hide();
           $('#blog-tool').show()
