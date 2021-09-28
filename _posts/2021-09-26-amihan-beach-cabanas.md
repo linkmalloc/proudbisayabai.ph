@@ -1,5 +1,6 @@
 ---
 author: "Ariel Alegado"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 layout: post
 title: "Amihan Beach Cabanas in Bantayan Island"
 description: "These Cabanas are made of bamboo and local materials combined with a western touch."
@@ -11,7 +12,7 @@ tags:
   - resort               
 views: "10"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/amihan/1.jpg
-img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/amihan/cover.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/amihan/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/amihan/1.jpg
 img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/amihan/2.jpg
 img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/amihan/3.jpg
@@ -19,6 +20,7 @@ img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/amihan/4.jpg
 img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/amihan/5.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/amihan/6.jpg
 photo_credit: "John Austin Perez via IG theyoungjuanderer |  (No copyright infringement intended) "
+read_time: "4 minutes"
 photo_credit_link: "https://www.instagram.com/theyoungjuanderer/"
 ---
 ##### Amihan Beach Cabanas  
