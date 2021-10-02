@@ -14,9 +14,9 @@ tags:
   - river
   - ecotourism               
 views: "10"
-img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river2/8.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river2/7.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river2/cover.jpg
-img_500x500: https://firebasestorage.oriver%2F8.jpg?alt=media&token=add8e2ac-e66d-4cgoogleapis.com/v0/b/proudbisayabaiph.appspot.com/o/posts%2Fboj3e-ba14-1ca7e833efdf
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river2/7.jpg
 img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river2/1.jpg
 img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river2/2.jpg
 img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river2/5.jpg
