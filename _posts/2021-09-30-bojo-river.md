@@ -38,7 +38,9 @@ A must-see ecotourism destination that features Aloguinsan's magnificent jewel.
 
 ###### How to get there? 
 
-Google Map Link: Aloguinsan, Cebu https://g.co/kgs/3yJGv3
+Google Map Link: Aloguinsan, Cebu [https://g.co/kgs/3yJGv3](https://g.co/kgs/3yJGv3) 
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3926.6895720778666!2d123.54244436479593!3d10.205844842710246!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a9643c2b8b3be1%3A0x3bf2354777f7e91b!2sBojo%20River!5e0!3m2!1sen!2sph!4v1633135560882!5m2!1sen!2sph" style="border:0;width: 100%;height: 450px;" allowfullscreen="" loading="lazy"></iframe>
 
 🗺 Via Commute: Ride a Ceres Bus or V-hire bound for Municipality of Pinamungajan Cebu approx. 2-3hrs travel time. Ask the conductor to drop you in front of The Farmhouse in Aloguinsan. Estimated fare is P100.
 
