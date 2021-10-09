@@ -23,6 +23,8 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/anjo_world2/6.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/anjo_world2/11.jpg
 photo_credit: "Michael Audrey Jacobe Sagonoy, Drone Pilot | Pobreng Laagan"
 photo_credit_link: ""
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/michael.jpg"
+editor: "Evner Negro, Editor"
 ---
 ****
 ##### Anjo World Theme Park
