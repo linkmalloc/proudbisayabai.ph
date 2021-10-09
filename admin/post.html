@@ -886,6 +886,31 @@
         });
       }
 
+      var format_image_url = function(url){
+        base = url.split('?')[0];
+        firestorage_url = "https://firebasestorage.googleapis.com/v0/b/proudbisayabaiph.appspot.com/o/posts";
+        cloudfront_url = "https://d3hukd8e3cn3kb.cloudfront.net/images/posts";
+
+        if (base){
+            url = base.replace(firestorage_url, cloudfront_url);
+            return unescape(url)
+        }
+        
+        return image_url;
+      }
+      var formatted_body = function(body){
+        firestore_regex = /(https:\/\/firebasestorage.googleapis.com)([a-zA-Z\?\=\&\-0-9_\.\%|\/])*/g
+
+        urls = data.body.match(firestore_regex)
+
+        for (let index = 0; index < urls.length; index++) {
+            url = urls[index];
+            body = body.replace(url, format_image_url(url))
+        }
+
+        return body;
+      }
+
       var showMarkdown = function(id){
         setTimeout(function() {
             $('.body-form').hide();
@@ -909,18 +934,19 @@ ${categories}
 tags:
 ${tags}               
 views: "10"
-img_big_1000x600: ${data.banner_image_url}
-img_big_3000x1144: ${data.seo_image_url}
-img_500x500: ${data.small_banner_image_url}
-img_500_1: ${data.img_500_1}
-img_500_2: ${data.img_500_2}
-img_500_3: ${data.img_500_3}
-img_500_4: ${data.img_500_4}
-img_500_5: ${data.img_500_5}
+img_big_1000x600: ${format_image_url(data.img_big_1000x600)}
+img_big_3000x1144: ${format_image_url(data.img_big_3000x1144)}
+img_500x500: ${format_image_url(data.img_500x500)}
+img_500_1: ${format_image_url(data.img_500_1)}
+img_500_2: ${format_image_url(data.img_500_2)}
+img_500_3: ${format_image_url(data.img_500_3)}
+img_500_4: ${format_image_url(data.img_500_4)}
+img_500_5: ${format_image_url(data.img_500_5)}
 photo_credit: "${data.photo_credit}"
 photo_credit_link: "${data.photo_credit_link}"
 ---
-${data.body}`;
+${formatted_body(data.body)}
+</pre>`;
         
         $('.body-markdown').html(markdown)
         })
