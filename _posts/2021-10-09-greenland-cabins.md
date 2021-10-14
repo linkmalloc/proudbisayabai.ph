@@ -24,6 +24,7 @@ photo_credit: "The GreenLand Cabins (No copyright infringement intended)"
 photo_credit_link: ""
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 editor: "Evner Negro, Editor"
+read_time: "4 minutes"
 ---
 ****
 ##### The Greenland Cabins
