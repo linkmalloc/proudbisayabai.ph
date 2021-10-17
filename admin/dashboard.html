@@ -54,6 +54,7 @@
           <table class="table" id="posts-table">
             <thead>
               <tr>
+                <th>Place</th>
                 <th>Title</th>
                 <th>Author</th>
                 <th>Action</th>
@@ -84,7 +85,7 @@
       var posts = [];
 
       var appendPostData = function(post){
-        var tr = `<tr><td>${post.title}</td><td>${post.author}</td><td><a href="/admin/post.html?edit=${post.id}">Edit</a>&nbsp;&nbsp;<a href="/admin/post.html?preview=${post.id}">Preview</a></td></tr>`;
+        var tr = `<tr><td>${post.place_name}</td><td>${post.title}</td><td>${post.author}</td><td><a href="/admin/post.html?edit=${post.id}">Edit</a>&nbsp;&nbsp;<a href="/admin/post.html?preview=${post.id}">Preview</a></td></tr>`;
         $('#posts-table').find('tbody').append(tr)
       }
 
