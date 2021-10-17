@@ -1,7 +1,7 @@
 ---
 author: "Michael Sagonoy"
 layout: post
-title: "Experience the pure white sand and crystal clear waters of Kalanggaman Island"
+title: "Experience the pure white sand and crystal clear waters of Kalanggaman Island!"
 description: "Kalanggaman Island, Derived from the word “langgam,” which translates to “bird” in the Cebuano dialect, Kalanggaman Island got its name because of its peculiar shape."
 categories:
   - destination
