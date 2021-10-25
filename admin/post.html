@@ -57,7 +57,7 @@
                 <div class="card-header">
                     <strong>Edit Post</strong>
                 </div>
-                <div class="card-body card-block">
+                <div class="card-body card-block" style="zoom: 90%">
                     <div class="row form-group">
                         <div class="col col-md-3">
                             <label for="recipient-name" class="col-form-label">Author:</label>
@@ -66,7 +66,16 @@
                             <input type="text" class="form-control author">
                         </div>
                     </div>
-    
+                    
+                    <div class="row form-group">
+                        <div class="col col-md-3">
+                            <label for="recipient-name" class="col-form-label">Editor:</label>
+                        </div>
+                        <div class="col-12 col-md-9">
+                            <input type="text" class="form-control editor">
+                        </div>
+                    </div>
+
                     <div class="row form-group">
                         <div class="col col-md-3">
                             <label for="recipient-name" class="col-form-label">Place Name:</label>
@@ -138,6 +147,14 @@
                         </div>
                         <div class="col-12 col-md-9">
                             <input type="text" class="form-control photo_credit_link">
+                        </div>
+                    </div>
+                    <div class="row form-group">
+                        <div class="col col-md-3">
+                            <label for="recipient-name" class="col-form-label">Read Time:</label>
+                        </div>
+                        <div class="col-12 col-md-9">
+                            <input type="text" class="form-control read_time">
                         </div>
                     </div>
                     <hr>
@@ -816,7 +833,9 @@
                 read_time: '4 minutes',
                 layout: 'post',
                 title: $('.title').val(),
-                place_name: $('.place_name').val()
+                place_name: $('.place_name').val(),
+                editor: $('.editor').val(),
+                read_time: $('.read_time').val()
             }
 
             DB.collection("posts").doc(`${id}`).set(post, {merge: true})
@@ -906,6 +925,8 @@
                 $('.collage_image3_url').val(data.img_500_3)
                 $('.collage_image4_url').val(data.img_500_4)
                 $('.collage_image5_url').val(data.img_500_5)
+                $('.editor').val(data.editor)
+                $('.read_time').val(data.read_time)
 
                 $('.place_name').val(data.place_name)
                 resolve()
@@ -957,6 +978,7 @@
             window.markdown = `<pre id="markdown_content">
 ---
 author: "${data.author}"
+author_img: ""
 layout: post
 title: "${data.title}"
 description: "${data.description}"
@@ -975,6 +997,8 @@ img_500_4: ${format_image_url(data.img_500_4)}
 img_500_5: ${format_image_url(data.img_500_5)}
 photo_credit: "${data.photo_credit}"
 photo_credit_link: "${data.photo_credit_link}"
+editor: "${data.editor}"
+read_time: "${data.read_time}"
 ---
 ${formatted_body(data.body)}
 </pre>`;

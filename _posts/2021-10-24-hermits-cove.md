@@ -2,7 +2,7 @@
 author: "Ariel Alegado, Writer"
 layout: post
 title: "Hermit’s Cove: The hidden Gem of Aloguinsan, Cebu"
-description: ""
+description: "This is one of the best Family-Friendly destinations in Southern Cebu! With only Php 100 per person you get to avail free cottages and enjoy a fun day at the beach!"
 categories:
   - destination
 tags:
