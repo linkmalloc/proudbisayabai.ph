@@ -12,7 +12,7 @@ tags:
   - cebu               
 views: "10"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kotabeach/1.jpg
-img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kotabeach,over.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kotabeach/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kotabeach/1.jpg
 img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kotabeach/1.jpg
 img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kotabeach/2.jpg
