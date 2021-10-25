@@ -112,7 +112,7 @@
       $(document).on('click', '#create-post', function(){
         DB.collection("posts").add({
           title: "New Post",
-          editor: window.current_user_email
+          created_by: window.current_user_email
         })
         .then((docRef) => {
             console.log("Document written with ID: ", docRef.id);
