@@ -1,6 +1,6 @@
 ---
 author: "Ariel Alegado, Writer "
-author_img: ""
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 layout: post
 title: "Witness a panoramic view of the whole City and the mountains in this Highland Eco-Farm"
 description: "Highland Mango Ecofarm in Consolacion Cebu is your next to-go Mountain Destination."
