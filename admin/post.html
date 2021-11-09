@@ -536,6 +536,9 @@
                                                 </p>
                                                 <span class="mr-10 date-published"> {{ page.date | date: '%B %d, %Y'}}</span>
                                                 <span class="has-dot read-time"> {{ page.read_time }} read</span>
+                                                <div class="mt-2">
+                                                    <span class="text-muted font-small pageeditor">Edited by: {{ page.editor}}</span>
+                                                </div>
                                             </div>
                                         </div>
                                         <div class="col-md-4 text-right d-none d-md-inline">
@@ -790,6 +793,7 @@
             }
 
             $('.author-name').html(data.author)
+            $('.pageeditor').html(`Edited by: ${data.editor}`)
             $('.read-time').html(data.read_time)
             $('.date-published').html('Date to be Published')
             

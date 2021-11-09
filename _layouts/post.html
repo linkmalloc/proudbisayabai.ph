@@ -27,6 +27,11 @@ layout: default
                                             </p>
                                             <span class="mr-10"> {{ page.date | date: '%B %d, %Y'}}</span>
                                             <span class="has-dot"> {{ page.read_time }} read</span>
+                                            <div class="mt-2">
+                                                {% if page.editor %}
+                                                    <span class="text-muted font-small">Edited by: {{ page.editor}}</span>
+                                                {%endif%}
+                                            </div>
                                         </div>
                                     </div>
                                     <div class="col-md-4 text-right d-none d-md-inline">
@@ -35,11 +40,6 @@ layout: default
                                                 Share this:
                                             </li>
                                             <li class="list-inline-item"><div class="sharethis-inline-share-buttons"></div></li>
-                                            <li class="list-inline-item mt-5 mr-5">
-                                                {% if page.editor %}
-                                                    <span class="text-muted font-small p-10">Edited by: {{ page.editor}}</span>
-                                                {%endif%}
-                                            </li>
                                         </ul>
                                     </div>
                                 </div>
@@ -79,11 +79,6 @@ layout: default
                                             Share this:
                                         </li>
                                         <li class="list-inline-item"><div class="sharethis-inline-share-buttons"></div></li>
-                                        <li class="mt-10">
-                                            {% if page.editor %}
-                                                <span class="text-muted font-small">Edited by: {{ page.editor}}</span>
-                                            {%endif%}
-                                        </li>
                                     </ul>
                                 </div>
                                 

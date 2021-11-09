@@ -382,7 +382,7 @@ h1.page-404{font-size:5.2rem;}
 
 /*SINGLE POST*/
 .entry-meta .author-avatar{float:left;margin:-3px 15px 0 0;}
-.entry-meta .author-avatar img{height:40px;width:40px;border:2px solid #fff;}
+.entry-meta .author-avatar img{height:60px;width:60px;border:2px solid #fff;}
 .entry-meta span{position:relative;}
 .entry-header .entry-title{font-size:2.5em;}
 .entry-wraper .excerpt p,
