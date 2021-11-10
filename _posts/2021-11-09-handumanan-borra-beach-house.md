@@ -2,7 +2,7 @@
 author: "Ariel Alegado, Writer "
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 layout: post
-title: "A Must-Visit new exclusive resort in Western Cebu"
+title: "A Must-Visit, New and Exclusive Resort in Western Cebu"
 description: "The Beach House - HANDUMANAN flourishes inside a small community of fisher folk, and everything is done with extra love."
 categories:
   - destination
