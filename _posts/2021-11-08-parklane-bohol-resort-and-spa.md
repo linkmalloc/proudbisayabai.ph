@@ -2,7 +2,7 @@
 author: "Ariel Alegado, Writer"
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 layout: post
-title: "Experience Next-Level Staycation at Parklane Bohol Resort and Spa in Anda, Bohol"
+title: "Experience Next-Level Staycation in this Resort and Spa"
 description: "Parklane Bohol Resort and Spa is a beautiful property featuring its own private beach area. Rooms are comfortable, clean and fully air-conditioned. Guests can also enjoy free WiFi throughout the resort.  "
 categories:
   - destination
