@@ -21,19 +21,20 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/strawberry_guyaban
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/strawberry_guyabano_farm/10.jpg
 photo_credit: "Strawberry Guyabano Farm"
 photo_credit_link: "https://www.facebook.com/SGFarmPh/"
+read_time: "4 minutes"
+editor: "JM Derecho"
 ---
 ****
 ###### STRAWBERRY GUYABANO FARM
-Experience farm life like no other
+Experience farm life like no other.
 
-<br>
 The best Farm Tourism Site in South Cotabato offering not only a refreshing view of the beauty of Mt. Matutum and its surrounding landscape, but also the unforgettable experience of nature that is truly a perfect escape from the city. The place is accessible by any vehicle and has a huge parking space. Surely, you will love the diversity of the place and the way they utilize a large portion of their site with instagrammable installations and structures.
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/strawberry_guyabano_farm/6.jpg)
 <small> Source: Strawberry Guyabano Farm</small>
 
-Farm tourism is starting to be a thing nowadays and STRAWBERRY GUYABANO Farm provides every tourists the perfect getaway from the urban city life.  
+Farm tourism is starting to be a thing nowadays and **STRAWBERRY GUYABANO Farm** provides every tourists the perfect getaway from the urban city life.  
   
 
 ****
