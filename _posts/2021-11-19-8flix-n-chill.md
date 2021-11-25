@@ -40,6 +40,9 @@ Tuslob buwa is a Cebuano street food which originated from the barangays of Pasi
 
 🗺 Via Private Vehicle: The place can be navigated via Waze or Google Map: https://g.co/kgs/5tzTTL  
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d981.3514980557461!2d123.90078908525012!3d10.309357089070781!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x472db4357788b65a!2s8Flix%20and%20Chill%20Cebu%20City!5e0!3m2!1sen!2sph!4v1637812533409!5m2!1sen!2sph" style="border:0;width: 100%; height: 450px;" allowfullscreen="" loading="lazy"></iframe>
+
+****
 📌 Main dish:  
 - Unlimited Tuslob Buwa for only 200 pesos (good for 1-2 persons only). 
 - 3rd person will add P50.00
@@ -55,6 +58,7 @@ Tuslob buwa is a Cebuano street food which originated from the barangays of Pasi
 - Proven
 - Chinese Ngohiong
 - Longganisa
+
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/8flix/10.jpg)
 <small> Source: Michael Audrey Jacobe Sagonoy |  PBB Photographer , Pobreng Laagan  </small>
@@ -65,10 +69,10 @@ Tuslob buwa is a Cebuano street food which originated from the barangays of Pasi
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/8flix/6.jpg)
 <small> Source: Michael Audrey Jacobe Sagonoy |  PBB Photographer , Pobreng Laagan  </small>
 
-💻 Facebook page: https://www.facebook.com/eightflixcebucity/
+💻 Facebook page: [https://www.facebook.com/eightflixcebucity/](https://www.facebook.com/eightflixcebucity/)
 
 🌐 Email: 8flixcebucity@gmail.com 
 
-📷 Photos by: Michael Audrey Jacobe Sagonoy |  PBB Photographer , Pobreng Laagan
+📷 Photos by: Michael Audrey Jacobe Sagonoy \|  PBB Photographer , Pobreng Laagan
 
 ♻️🗑LEAVE NO TRACE! (Gasa sa kina-iyahan nga angay ampingan, Matag usa kanato makatabang sa pag amping sa atong kalikopan sama sa pag punit sa basura ug paglabay niini sa saktong labayanan.)
