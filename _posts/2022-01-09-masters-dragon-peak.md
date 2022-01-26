@@ -7,8 +7,9 @@ description: "Introducing Master’s Dragon Peak with 360° view!"
 categories:
   - destination
 tags:
-  - home
-  - typhoon
+  - pirate
+  - ship
+  - borbon
   - cebu
 views: "10"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/master_dragons_peak/1.jpg
