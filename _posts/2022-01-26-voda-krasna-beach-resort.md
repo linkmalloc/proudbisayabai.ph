@@ -88,4 +88,12 @@ Exact Location: Voda Krasna, Daanglungsod, Alcoy
 - Corkage fee for foods and drinks
 
 ****
+###### CONTACT INFORMATION
+Website: [https://vodakrasna.com/](https://vodakrasna.com/)  
+Phone: [(+63) 32 483 9063](+63324839063)  
+Email: [vodakrasna@gmail.com](mailto:vodakrasna@gmail.com)  
+Facebook: [https://www.instagram.com/voda.krasna/](https://www.instagram.com/voda.krasna/)  
+Instagram: [https://www.instagram.com/voda.krasna/](https://www.instagram.com/voda.krasna/)
+
+****
 IMPORTANTE NGA PAHINUMDOM: Please take responsibility sa inyong basura Laagan. Let us strictly impose and follow #LeaveNoTrace! 💚
