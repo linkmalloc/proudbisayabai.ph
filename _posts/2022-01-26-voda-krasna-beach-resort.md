@@ -92,7 +92,7 @@ Exact Location: Voda Krasna, Daanglungsod, Alcoy
 Website: [https://vodakrasna.com/](https://vodakrasna.com/)  
 Phone: [(+63) 32 483 9063](+63324839063)  
 Email: [vodakrasna@gmail.com](mailto:vodakrasna@gmail.com)  
-Facebook: [https://www.instagram.com/voda.krasna/](https://www.instagram.com/voda.krasna/)  
+Facebook: [https://www.facebook.com/vodakrasnaresort/](https://www.facebook.com/vodakrasnaresort/)  
 Instagram: [https://www.instagram.com/voda.krasna/](https://www.instagram.com/voda.krasna/)
 
 ****
