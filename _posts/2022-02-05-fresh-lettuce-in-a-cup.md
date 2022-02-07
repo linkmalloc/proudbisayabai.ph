@@ -1,5 +1,6 @@
 ---
-author: "Ariel Alegado, PBB Writer "
+author: "Ariel Alegado, PBB Writer"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 layout: post
 title: "LOOK: Fresh Lettuce in a cup for only 25 PESOS!"
 description: "What started as a love for lettuce and a passion of farming are now fused in the thriving business of young couple Paul Alvin Tan and Louielen Zanoria Jalipa."
