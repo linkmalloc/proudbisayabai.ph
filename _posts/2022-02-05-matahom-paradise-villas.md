@@ -3,7 +3,7 @@ author: "Ariel Alegado, Writer"
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 layout: post
 title: "Matahom Paradise Villas: The Newest Exclusive Resort in the North!"
-description: "Experience Bali vibes at the newest exclusive Resort Villa in Medillin Cebu, Matahom Paradise! "
+description: "Experience Bali vibes at the newest exclusive Resort Villa in Medellin Cebu, Matahom Paradise! "
 categories:
   - destination
 tags:
