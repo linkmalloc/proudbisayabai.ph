@@ -74,7 +74,7 @@ GMap: [https://g.co/kgs/HvdFqF](https://g.co/kgs/HvdFqF)
 
 ****
 Photos From: Cha Chabels  
-Featured by: Daniela Moore, PBB Media Manager    
+Featured by: Daniela Tinamisan Calvez, PBB Media Manager    
 
 IMPORTANTE NGA PAHINUMDOM: Please take responsibility sa inyong basura Laagan. Let us strictly impose and follow #LeaveNoTrace!
 
