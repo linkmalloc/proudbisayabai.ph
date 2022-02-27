@@ -6,10 +6,9 @@ description: "Nothing is more hurtful than a broken promise and shattered dreams
 categories:
   - destination
 tags:
-  - sea of clouds
-  - camping
-  - alcoy
-  - cebu               
+  - cebu
+  - cnu
+  - student
 views: "10"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/shattered_dreams/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/shattered_dreams/cover1.jpg
