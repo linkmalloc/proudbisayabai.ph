@@ -2,14 +2,14 @@
 author: "Therese Pacaña"
 layout: post
 title: "The Fog House: Instagram-worthy Panoramic View at the Top of Cebu"
-description: "If you've been thinking about rewarding yourself by taking a break, The Fog House will make your vision into a
-reality"
+description: "Whether you want to get away from the hustle and bustle of the city or have your own one-of-akind exclusive house party experience, The Fog House has you covered."
 categories:
   - destination
 tags:
   - cebu
-  - cnu
-  - student
+  - busay
+  - mountain
+  - getaway
 views: "10"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_fog_house/20.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_fog_house/cover.jpg
@@ -129,4 +129,3 @@ ubang trabahante niini, pero dili lamang unta kini kutob lamang diri kung dili b
 lugar kutob sa matamakan sa atoang lapa-lapa. Maanindot ang kayang itanyag sa
 kinaiyahan, maong dili angay nato kining ialang sa wala. Never doubt the power of a small
 group of thoughtful, committed citizens to make the world better.  
-
