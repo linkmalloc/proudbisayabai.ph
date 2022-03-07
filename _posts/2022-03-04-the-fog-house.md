@@ -19,7 +19,7 @@ img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_fog_house/3.jp
 img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_fog_house/14.jpg
 img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_fog_house/10.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_fog_house/11.jpg
-photo_credit: "Therese Pacaña"
+photo_credit: "Pete Abellana, Official Photographer"
 photo_credit_link: ""
 editor: "JM Derecho"
 read_time: "4 minutes"
@@ -37,7 +37,9 @@ making it happen for you can’t seem to find the perfect ‘dream place’ you 
 since these are the exact descriptions of the villa, The Fog House will make your vision into a
 reality!  
 
+****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_fog_house/5.jpg)
+<small>Source: Pete Abellana, Official Photographer </small>
 
 Though The Fog House is isolated from the rest of Cebu, just having a look out the window
 while sipping your warm cup of coffee while the cold foggy breeze touches your skin will make
@@ -47,9 +49,11 @@ appreciation for connections.
 
 <br>
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_fog_house/7.jpg)
+<small>Source: Pete Abellana, Official Photographer </small>
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_fog_house/12.jpg)
+<small>Source: Pete Abellana, Official Photographer </small>
 
 
 Whether you want to get away from the hustle and bustle of the city or have your own one-of-akind exclusive house party experience, The Fog House has you covered.  
@@ -70,6 +74,8 @@ cleaning protocol in place, which is extremely for any event setting looking to 
 groups gatherings, whether for business or any personal events. This isn't just having policies
 that's important; it's also about ensuring your safety as a guest, since safety and convenience
 while seizing the day are always the top priorities at The Fog House.  
+
+<iframe src="https://www.facebook.com/plugins/video.php?height=314&href=https%3A%2F%2Fwww.facebook.com%2Fproudbisayabai%2Fvideos%2F359119719411259%2F&show_text=false&width=560&t=0" width="560" height="314" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
 
 ****
 ###### Rates
@@ -109,6 +115,23 @@ microwave, fridge, small oven toaster, XL size rice cooker)
 - Dining utensils are available, but may bring disposables if you don’t want to clean
 the dishes. Uncleaned utensils will be charged; other damages and stains will be
 charged accordingly.  
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_fog_house/4.jpg)
+<small>Source: Pete Abellana, Official Photographer </small>
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_fog_house/16.jpg)
+<small>Source: Pete Abellana, Official Photographer </small>
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_fog_house/18.jpg)
+<small>Source: Pete Abellana, Official Photographer </small>
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_fog_house/19.jpg)
+<small>Source: Pete Abellana, Official Photographer </small>
+
 
 ****
 ###### How to get there?
