@@ -1,6 +1,5 @@
 ---
 author: "Ariel Alegado, PBB Writer "
-author_img: ""
 layout: post
 title: "Luka Coffee: A Beach Side Coffee Shop You Should Not Miss!"
 description: "Scenic and picture perfect for your travel memories while enjoying a cup of coffee and indulging on sumptuous cakes feeling the fresh sea breeze leisurely gazing at the islands of hushed Siquijor, a mile distant Sumilon and the bustling Dumaguete."
@@ -11,8 +10,8 @@ tags:
   - coffee
   - food               
 views: "10"
-img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lukacoffee/cover.jpg
-img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lukacoffee/4.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lukacoffee/4.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lukacoffee/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lukacoffee/4.jpg
 img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lukacoffee/1.jpg
 img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lukacoffee/2.jpg
@@ -50,15 +49,17 @@ Scenic and picture perfect for your travel memories while enjoying a cup of coff
 - Dark choco
 - White choco
 - Plumberry
-- Tea      
-Frappes:
+- Tea   
+
+****
+###### Frappes:
 - Hazelnut
 - Vanilla Caramel
 - Java Chip
 - Salted Caramel  
 ... Many more! 
-****
 
+****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lukacoffee/4.jpg)  
 <small> Source: PBB Official Photographer  </small>
 
