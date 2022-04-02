@@ -1,4 +1,5 @@
 ---
+author: "PBB Admin"
 layout: post
 title: Little Santorini of Catmon, Northern Cebu | BERCEDE BAY RESORT
 description: You can get a piece of Santorini even without flying to Greece! 
@@ -10,18 +11,36 @@ tags:
   - catmon
   - featured
 views: "10"
-<!-- img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1612969777/10_zgmaw4.jpg -->
-img_big_1000x600: https://res.cloudinary.com/proudbisayabaii/image/upload/v1612969774/2_q1jcsa.jpg
-img_big_3000x1144: https://res.cloudinary.com/proudbisayabaii/image/upload/v1612969776/6_dwyzss.jpg
-img_500x500: https://res.cloudinary.com/proudbisayabaii/image/upload/v1612969775/9_ebgyof.jpg
-img_500_1: https://res.cloudinary.com/proudbisayabaii/image/upload/v1612969776/1_uwljfg.jpg
-img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1612969774/8_l7jylz.jpg
-img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1612969775/4_tnql0t.jpg
-published: false
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/cover.jpg
+img_500x500:  https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/1.jpg
+img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/2.jpg
+img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/3.jpg
+img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/4.jpg
+img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/5.jpg
+img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/6.jpg
+photo_credit: "PBB Admin"
+photo_credit_link: ""
+editor: "JM Derecho"
+read_time: "4 minutes"
 ---
+****
 You can get a piece of Santorini even without flying to Greece! Bercede Bay Resort is a
 Santorini-inspired resort in Northern Cebu that will truly make you feel like you’ve gone abroad.
 PLUS! It offers amazing panoramic view of the sea and front-row seats to golden sunrise
+
+<br>
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/8.jpg)
+
+<br>
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/9.jpg)
+
+<br>
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/10.jpg)
+
+<br>
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/11.jpg)
+
 
 Exact location: Panalipan, Catmon Cebu
 
@@ -34,7 +53,7 @@ Exact location: Panalipan, Catmon Cebu
 - Unli Karaoke (Additional Php 1,000)
 - NO Corkage Fee for Food and Drinks  
 
-** **
+****
 **Php 17,000 (WeekdaysRate)**
 - Good for 15 pax (Excess is Php 250/ pax)
 - 5 Rooms Exclusive
@@ -43,6 +62,26 @@ Exact location: Panalipan, Catmon Cebu
 - Free use of Kitchen and cooking utensils
 - Unli Karaoke (Additional Php 1,000)
 - NO Corkage Fee for Food and Drinks
+
+<br>
+<div class="row">
+  <div class="col-md-6">
+    <img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/13.jpg">
+  </div>
+  <div class="col-md-6">
+    <img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/15.jpg">
+  </div>
+</div>
+
+<br>
+<div class="row">
+  <div class="col-md-6">
+    <img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/17.jpg">
+  </div>
+  <div class="col-md-6">
+    <img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/18.jpg">
+  </div>
+</div>
 
 ****
 **Promo price Feb to Mar 15,2021**
