@@ -29,7 +29,7 @@ read_time: "4 minutes"
 ****
 ##### Exhibit FUR A Real Cause
 
-Street Life is a photography exhibit that advocates Rabies Awareness and serves as a platform for a cause by showcasing the lives of stray animals and their symbiotic interaction with society through pet photography. It runs through by its owner, Miss Beverly Cañedo, from March 1 to April 03 at Ayala Central Bloc. It is a special place to see and bring your furbabies with you! 
+Street Life is a photography exhibit that advocates Rabies Awareness and serves as a platform for a cause by showcasing the lives of stray animals and their symbiotic interaction with society through pet photography. It runs through by its owner, Miss Beverly Tañedo, from March 1 to April 03 at Ayala Central Bloc. It is a special place to see and bring your furbabies with you! 
 
 <div class="row">
   <div class="col-md-6">
