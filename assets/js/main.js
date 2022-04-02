@@ -537,8 +537,10 @@ jQuery.fn.isMobile = () => {
         var Generator = factory();
         setInterval(function () {
             try {
-                var showToastMsg = Generator.getPostInfoText();
-                toastr.info(`${showToastMsg}`,null,{'toastClass': 'bg-primary toast-notif'});
+                if (false){
+                    var showToastMsg = Generator.getPostInfoText();
+                    toastr.info(`${showToastMsg}`,null,{'toastClass': 'bg-primary toast-notif'});
+                }
             } catch (e) {
                 console.error(e);
             }
