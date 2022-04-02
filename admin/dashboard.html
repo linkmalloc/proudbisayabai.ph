@@ -20,8 +20,47 @@
 		<link href="assets/style.bundle.css" rel="stylesheet" type="text/css" />
 		<!--end::Global Stylesheets Bundle-->
 	</head>
-  <body>
+  	<body style="display: none">
+		<div id="login" style="display: none;">
+			<div class="d-flex flex-row h-100px">
+
+			</div>
+			<div class="d-flex flex-row h-500px">
+				<div class="d-flex flex-column flex-row-fluid">
+					<div class="d-flex flex-row flex-column-fluid">
+						<div class="d-flex flex-row-auto w-200px flex-center">
+						</div>
+						<div class="d-flex flex-row-fluid flex-center">
+							<div class="card shadow-sm" style="width: 400px;">
+								<div class="card-body">
+									<form class="form-signin" id="form-signin">
+										<img class="mb-4" src="/assets/imgs/theme/logo.png" alt="">
+										<h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+										<label for="inputEmail" class="sr-only">Email address</label>
+										<input type="email" id="inputEmail" class="form-control mt-5" placeholder="Email address" required="" autofocus="">
+										<label for="inputPassword" class="sr-only">Password</label>
+										<input type="password" id="inputPassword" class="form-control mt-5" placeholder="Password" required="">
+										<!-- <div class="checkbox mb-3">
+											<label>
+											<input type="checkbox" value="remember-me"> Remember me
+											</label>
+										</div> -->
+										<div class="text-right mt-5">
+											<button class="btn btn-radius bg-primary text-white ml-15 font-small box-shadow right" type="submit">Sign in</button>
+											<p class="mt-5 mb-3 text-muted">© 2021-2022</p>
+										</div>
+									</form>
+								</div>
+							</div>
+						</div>
+						<div class="d-flex flex-row-auto w-200px flex-center">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
     		<!--begin::Main-->
+		<div  id="blog-tool">
 		<div class="d-flex flex-column flex-root">
 			<!--begin::Page-->
 			<div class="page d-flex flex-row flex-column-fluid">
@@ -221,7 +260,7 @@
 										<!--end::Menu item-->
 										<!--begin::Menu item-->
 										<div class="menu-item px-5">
-											<a href="#" class="menu-link px-5 logout">Log Out</a>
+											<a class="menu-link px-5 logout">Log Out</a>
 										</div>
 										<!--end::Menu item-->
 									</div>
@@ -259,6 +298,7 @@
 				<!--end::Wrapper-->
 			</div>
 			<!--end::Page-->
+		</div>
 		</div>
 		<!--begin::Drawers-->
 
@@ -377,12 +417,13 @@
           window.current_user_email = user.email;
           window.current_user = user.uid;
           console.log('User is signed in')
-          $('#login').hide();
+		  $('body').show()
+		  $('#login').hide();
           $('#blog-tool').show()
-
           initDashboard();
         } else {
           // User is signed out
+		  $('body').show()
           $('#blog-tool').hide()
           $('#login').show();
           console.log('User is signed out')
