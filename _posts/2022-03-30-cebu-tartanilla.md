@@ -1,6 +1,6 @@
 ---
 author: "Ariel Alegado, Writer"
-author_img: ""
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 layout: post
 title: "Tartanilla: Cebu's King of the Road"
 description: "Did you know that tartanillas were a vital form of transportation in the previous decades, not only in Cebu but across the Philippines? They were commonly employed before the invention of motorized vehicles. Tartanilla is a Cebuano name for a horse-drawn carriage, introduced in the Philippines during the Spanish invasion."
