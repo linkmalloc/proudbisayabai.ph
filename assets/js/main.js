@@ -535,46 +535,44 @@ jQuery.fn.isMobile = () => {
     var live = function () {
         _DATA = JSON.parse(document.getElementById('post_data').innerHTML);
         var Generator = factory();
-        setInterval(function () {
-            try {
-                if (false){
-                    var showToastMsg = Generator.getPostInfoText();
-                    toastr.info(`${showToastMsg}`,null,{'toastClass': 'bg-primary toast-notif'});
-                }
-            } catch (e) {
-                console.error(e);
-            }
-        }, 15000);
+        // setInterval(function () {
+        //     try {
+        //         var showToastMsg = Generator.getPostInfoText();
+        //         toastr.info(`${showToastMsg}`,null,{'toastClass': 'bg-primary toast-notif'});
+        //     } catch (e) {
+        //         console.error(e);
+        //     }
+        // }, 15000);
 
-        setTimeout( function(){
-            setInterval(function () {
-                try {
+        // setTimeout( function(){
+        //     setInterval(function () {
+        //         try {
                     
-                    var generateNextArticle = Generator.getNextArticle();
-                    var textToUse = generateNextArticle.text;
-                    var nextArticle = generateNextArticle.nextArticle;
+        //             var generateNextArticle = Generator.getNextArticle();
+        //             var textToUse = generateNextArticle.text;
+        //             var nextArticle = generateNextArticle.nextArticle;
                     
-                    toastr.info(`<div class='d-flex flex-column nextArticle'>
-                        <span class='pb-3'>${textToUse}</span>
-                        <img src="${nextArticle.img}" style='max-height: 60%'/>
-                        </div>`,null, { 
-                            "toastClass": 'bg-success toast-notif',
-                            "onclick": (e)=>{
-                                e.preventDefault();
-                                ga('send', 'event', {
-                                    eventCategory: 'toastr clicks',
-                                    eventAction: 'next article',
-                                    eventLabel: `${nextArticle.url}`,
-                                    transport: 'beacon'
-                                  });
-                                window.location.href = `${nextArticle.url}`;
-                            }
-                        });
-                } catch (e) {
-                    console.error(e);
-                }
-            }, 10000);
-        }, 35000);
+        //             toastr.info(`<div class='d-flex flex-column nextArticle'>
+        //                 <span class='pb-3'>${textToUse}</span>
+        //                 <img src="${nextArticle.img}" style='max-height: 60%'/>
+        //                 </div>`,null, { 
+        //                     "toastClass": 'bg-success toast-notif',
+        //                     "onclick": (e)=>{
+        //                         e.preventDefault();
+        //                         ga('send', 'event', {
+        //                             eventCategory: 'toastr clicks',
+        //                             eventAction: 'next article',
+        //                             eventLabel: `${nextArticle.url}`,
+        //                             transport: 'beacon'
+        //                           });
+        //                         window.location.href = `${nextArticle.url}`;
+        //                     }
+        //                 });
+        //         } catch (e) {
+        //             console.error(e);
+        //         }
+        //     }, 10000);
+        // }, 35000);
         
 
     }
