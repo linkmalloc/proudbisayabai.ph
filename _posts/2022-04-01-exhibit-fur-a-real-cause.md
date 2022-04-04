@@ -29,7 +29,13 @@ read_time: "4 minutes"
 ****
 ##### Exhibit FUR A Real Cause
 
-Street Life is a photography exhibit that advocates Rabies Awareness and serves as a platform for a cause by showcasing the lives of stray animals and their symbiotic interaction with society through pet photography. It runs through by its owner, Miss Beverly Tañedo, from March 1 to April 03 at Ayala Central Bloc. It is a special place to see and bring your furbabies with you! 
+Street Life is a photography exhibit that advocates Rabies Awareness and serves as a platform for a cause by showcasing the lives of stray animals and their symbiotic interaction with society through pet photography. It runs through by its owner, Beverly Tañedo, from March 1 to April 03 at Ayala Central Bloc. It’s an eye-opener exhibit that will render the reality for every dog who has a home and to those who don’t have any. Indeed, a special place to see and bring your furbabies with you!
+
+<br>
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/exhibit_for_a_real_cause/30.jpg)  
+<small>Source: Jason Rabaya</small>
+
+Beverly's advocacy began in March 2013, when she received her first invitation to exhibit photographs that also happened to fall during Rabies Awareness Month. "Pawsitive" was the title of the exhibit, which featured dog and cat pawtraits that she took early on. She didn't get to do her second one, "Stillness," until February last year. It was a modest celebration dedicated to the animal companions that brought a feeling of tranquility to our lives despite what we all had to go through. She had planned to do one later this year, in the last quarter of 2022, but was pleasantly delighted when the invitation arrived early
 
 <div class="row">
   <div class="col-md-6">
@@ -42,10 +48,11 @@ Street Life is a photography exhibit that advocates Rabies Awareness and serves 
 <small>Source: Jason Rabaya</small>
 
 <br>
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/exhibit_for_a_real_cause/26.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/exhibit_for_a_real_cause/27.jpg)
 <small>Source: Jason Rabaya</small>
 
-It’s an eye-opener exhibit that will render the reality for every dog who has a home and to those who don’t have any. May we all be reminded to be friendly and kind to the street animals that we will encounter in the streets because they matter. Tomorrow’s the last day and she will be picking guests to have an Instax souvenir with the rescued dogs. The next project will be launched in October and she will organize shooting sessions open to everyone this summer!
+
+Beverly didn't want to wait too long because she had set a goal to get certain projects off the ground that had been smoldering on the back burner for quite some time. Her exhibit's primary goal is to raise awareness and lead by example. "If we have the same empathy for the dog on the street as we do for our own, it begs the question: is there anything I can do to encourage others to treat all dogs the same? I find myself wanting to be a part of any solution or, at the very least, kindle a flame to spark a discussion," she said.
 
 <br>
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/exhibit_for_a_real_cause/22.jpg)
@@ -65,9 +72,19 @@ It’s an eye-opener exhibit that will render the reality for every dog who has 
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/exhibit_for_a_real_cause/25.jpg)
 <small>Source: Jason Rabaya</small>
 
+Street Life exhibit showcased the notion of homelessness where our stray dogs are wrongly blamed for carrying rabies. There is a great deal of misconceptions about it, as well as a clear lack of respect for our local dogs. When it comes to rabies, though, all dogs are at risk. This is a tribute to the dogs who live on the streets, the majority of whom are aspins who have a specific fondness for dogs as subjects in black and white photography. Beverly's past exhibitions featured dogs of various breeds alongside their owners.  
+
 <br>
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/exhibit_for_a_real_cause/27.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/exhibit_for_a_real_cause/29.jpg)  
 <small>Source: Jason Rabaya</small>
+
+Buddy is one of the reasons she was prompted to accomplish all of these things. He is a three-legged dog that Beverly rescued from the streets. She was apprehensive to take the dog home at first, so she supplied a portion of food to High-Precision's security guard and requested to feed Buddy in case he encountered him around. Buddy required medical attention and care till the time came since his condition had deteriorated. He stayed at the vet for approximately six months before being given Beverly's loving care. He is their second rescued dog, following Spite, whom her mother had previously adopted from a foundation but had to give up due to an illness caused by Spite's previous owners' irresponsibility.
+
+<br>
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/exhibit_for_a_real_cause/26.jpg)
+<small>Source: Jason Rabaya</small>
+
+The next project will be launched in October and she will organize shooting sessions open to everyone this summer. May we all be reminded to be friendly and kind to the street animals that we will encounter in the streets because they matter.  
 
 The mall is pet-friendly, so bring your pet’s vet card and enjoy the exhibit together with the rest of the paw mates. Pay a visit now!
 
