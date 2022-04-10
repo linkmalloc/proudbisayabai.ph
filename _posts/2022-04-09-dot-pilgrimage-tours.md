@@ -11,7 +11,7 @@ tags:
   -  department of tourism               
 views: "10"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dot7/10.jpg
-img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dot7/cover.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dot7/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dot7/10.jpg
 img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dot7/4.jpg
 img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dot7/5.jpg
@@ -30,9 +30,6 @@ The Department of Tourism – Central Visayas, Archdiocese of Cebu and the Order
 
 The tour doesn’t just stop there, the guest shall also take the other option, wherein they also get a chance to visit Marian Pilgrimages Site in Metro Cebu. This one-day tour will take pilgrims to the following Marian Churches in the Metro: National Shrine of Nuestra Señora Virgen dela Regla Parish Church (Lapu-Lapu City), Archdiocesan Shrine of our Lady of Lourdes (Labangon, Cebu City), Archdiocesan Shrine of Our Lady of Guadalupe (Guadalupe, Cebu City) and Our Mother of Perpetual Help Church – Redemptorist (Camputhaw, Cebu City). While visiting the churches, pilgrims will pray the Holy Rosary culminating at the final church visited. Perfect for those families who wants to spend their Lenten Season closer to God, and feel the real essence and ambience of being a true Cebuano Christian. 
 
-More ambitious tourism projects are to come in Cebu as for the Regional Office is planning to develop more pilgrimage circuits such as Marian Pilgrimage and Heritage Churches Tours in Northern and Southern Cebu, and Camino de Santiago Walks. It’s truly More Fun in the Philippines. Visit Cebu and experience what it has in store for you!
-
-📷 Photos by: Ariel Alegado, Proud Bisaya Bai Admin  
-✍🏻 Featured by: Christian Lucky Saligumba
+More ambitious tourism projects are to come in Cebu as for the Regional Office is planning to develop more pilgrimage circuits such as Marian Pilgrimage and Heritage Churches Tours in Northern and Southern Cebu, and Camino de Santiago Walks. It’s truly More Fun in the Philippines. Visit Cebu and experience what it has in store for you!  
 
 IMPORTANTE NGA PAHINUMDOM: Please take responsibility sa inyong basura Laagan. Let us strictly impose and follow #LeaveNoTrace! 💚
