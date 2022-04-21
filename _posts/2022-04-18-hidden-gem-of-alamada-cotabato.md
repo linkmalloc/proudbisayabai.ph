@@ -2,8 +2,8 @@
 author: "Lovers Lane Quiamco, Head Writer"
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo.jpg"
 layout: post
-title: "Make your “Switzerland” dream come true at Coco's Funville & Nature Park!"
-description: "A Switzerland of Wonder: The Hidden Gem of Alamada Cotobato"
+title: "A Switzerland of Wonder: The Hidden Gem of Alamada Cotobato"
+description: "Make your “Switzerland” dream come true at Coco's Funville & Nature Park!"
 categories:
   - destination
 tags:
@@ -11,7 +11,7 @@ tags:
   - mindanao
   - hiking
   - biodiversity
-  - bukidnon
+  - cotabato
   - nature              
 views: "10"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/alamada_cotabato/4.jpg
