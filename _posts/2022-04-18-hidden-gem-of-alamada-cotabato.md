@@ -96,5 +96,9 @@ Grabe! Pwede ka kiligon, pwede sad ka magmaoy diri!
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/alamada_cotabato/17.jpg)
 <small>Photos from Reymund Mejica Requina | Idolwanderer Photography</small>
 
+****
+##### Location
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1431075.1159378889!2d124.24758207159975!3d7.822733704668927!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd663e5c135cf85d9!2sCoco&#39;s%20Funville!5e0!3m2!1sen!2sph!4v1650559497566!5m2!1sen!2sph" style="border:0; width: 100%; height: 450px" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+****
 IMPORTANTE NGA PAHINUMDOM: Please take responsibility sa inyong basura Laagan. Let us strictly impose and follow #LeaveNoTrace! 
