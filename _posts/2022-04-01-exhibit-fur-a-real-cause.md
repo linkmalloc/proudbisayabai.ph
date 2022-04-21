@@ -72,13 +72,13 @@ Beverly didn't want to wait too long because she had set a goal to get certain p
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/exhibit_for_a_real_cause/25.jpg)
 <small>Source: Jason Rabaya</small>
 
-Street Life exhibit showcased the notion of homelessness where our stray dogs are wrongly blamed for carrying rabies. There is a great deal of misconceptions about it, as well as a clear lack of respect for our local dogs. When it comes to rabies, though, all dogs are at risk. This is a tribute to the dogs who live on the streets, the majority of whom are aspins who have a specific fondness for dogs as subjects in black and white photography. Beverly's past exhibitions featured dogs of various breeds alongside their owners.  
+Street Life exhibit showcased the notion of homelessness where our stray dogs are wrongly blamed for carrying rabies. There is a great deal of misconceptions about it, as well as a clear lack of respect for our local dogs. When it comes to rabies, though, all dogs are at risk.  This is a tribute to the dogs who live on the streets, the majority of whom are aspins. She has a specific fondness for dogs as subjects in black and white photography. Beverly's past exhibitions featured dogs of various breeds alongside their owners.  
 
 <br>
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/exhibit_for_a_real_cause/29.jpg)  
-<small>Source: Jason Rabaya</small>
+<small>Source: Jason Rabaya</small>  
 
-Buddy is one of the reasons she was prompted to accomplish all of these things. He is a three-legged dog that Beverly rescued from the streets. She was apprehensive to take the dog home at first, so she supplied a portion of food to High-Precision's security guard and requested to feed Buddy in case he encountered him around. Buddy required medical attention and care till the time came since his condition had deteriorated. He stayed at the vet for approximately six months before being given Beverly's loving care. He is their second rescued dog, following Spite, whom her mother had previously adopted from a foundation but had to give up due to an illness caused by Spite's previous owners' irresponsibility.
+Buddy is one of the reasons she was prompted to accomplish all of these things. He is a three-legged dog that Beverly rescued from the streets. She was apprehensive to take the dog home at first, so she supplied a portion of food to High-Precision's security guard and requested to feed Buddy in case he encountered him around. Buddy required medical attention and care till the time came since his condition had deteriorated. He stayed at the vet for approximately six months before being given Beverly's loving care. He is their second rescued dog, following Spite, whom her mother had previously adopted.  
 
 <br>
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/exhibit_for_a_real_cause/26.jpg)
