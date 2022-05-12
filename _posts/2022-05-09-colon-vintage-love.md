@@ -37,16 +37,17 @@ Colon has far more historical significance in the Philippines than most people r
 The streetscape is a little run-down. It's a crowded urban boulevard. You can come here to relive the glory days of Cebu's old city that many Cebuanos associate with personal memories!  
 
 ***
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/colon_vintage_love/1.jpg)
-<br>
-<small><a href="https://www.instagram.com/idolwandererphotography/">Source: Idolwanderer Photography</a></small>
-
-***
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/colon_vintage_love/14.jpg)
 <small><a href="https://www.instagram.com/idolwandererphotography/">Source: Idolwanderer Photography</a></small>
 
 
 Couples in love have sparked wars and controversy throughout history, created masterpieces in writing, music, and art, and grabbed the public's hearts through the power of their relationships. This is why Ciel and Ryan were holding hands while exchanging vows and promises in front of old buildings along with the lovely commercial districts to reminisce the ties that were created by the both of them. Shots were taken on the spur of the moment when all the stars aligned for them to meet. This beautiful antique elopement in Colon is ideal for lovers looking to experience "l'amour à la française" photography or even traveling back in Cebu’s old times.    
+
+***
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/colon_vintage_love/1.jpg)
+<br>
+<small><a href="https://www.instagram.com/idolwandererphotography/">Source: Idolwanderer Photography</a></small>
+
 
 ***
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/colon_vintage_love/2.jpg)
