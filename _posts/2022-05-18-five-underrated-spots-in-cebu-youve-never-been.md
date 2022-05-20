@@ -1,7 +1,7 @@
 ---
-author: "Christian Lucky Bunao, Writer"
+author: "Christian Lucky Saligumba, Writer"
 layout: post
-title: "5 Underrated Spots in Cebu, You’ve Never Been!"
+title: "5 Tourist Spots in Cebu, I bet you haven't been yet"
 description: "To know more of these, I looked at new tourist-potential sites in Cebu that are unquestionably captivating and handpicked five to highlight. This is 5 Underrated Spots in Cebu, You’ve Never Been!"
 categories:
   - destination
