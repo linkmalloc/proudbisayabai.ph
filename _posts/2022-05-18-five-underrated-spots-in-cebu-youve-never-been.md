@@ -15,7 +15,7 @@ img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/5_underrated_spo
 photo_credit: "Proud Bisaya Bai Team"
 photo_credit_link: ""
 editor: "JM Derecho"
-read_time: "10 minutes"
+read_time: "5 minutes"
 ---
 ****
 <div class="text-justify">
