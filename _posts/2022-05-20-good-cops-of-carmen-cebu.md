@@ -10,7 +10,7 @@ tags:
   - good cops             
 views: "10"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/good_cops_of_carmen_cebu/1.png
-img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/good_cops_of_carmen_cebu/cover.png
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/good_cops_of_carmen_cebu/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/good_cops_of_carmen_cebu/1.png
 img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/good_cops_of_carmen_cebu/2.png
 img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/good_cops_of_carmen_cebu/3.png
