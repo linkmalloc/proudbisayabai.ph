@@ -20,7 +20,7 @@ img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/good_cops_of_carme
 photo_credit: "Carmen Police Office"
 photo_credit_link: ""
 editor: "JM Derecho"
-read_time: "5 minutes"
+read_time: "4 minutes"
 ---
 ****  
 
