@@ -44,6 +44,7 @@ Make the best of your time away from the busy streets of Cebu. Relax and connect
 - 3000 php/ night good for a family of 2 adults and 2 kids with age 12 years old and below. 
 - 4500php/ night good for 4-6 adults
 - 2500 php/ night for couples  
+
 ****
 ###### IMPORTANTE NGA PAHIBALO:
 The maximum comfortable capacity of the cabin is 6 persons. For exceeding guests, you can bring your own tents but we will charge additonal P350 for adults and P150 for children ages 12 years old and below.  
