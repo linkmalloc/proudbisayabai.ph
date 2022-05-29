@@ -1,6 +1,5 @@
 ---
-author: "Ariel Alegado"
-author_img: ""
+author: "Lovers Lane Quiamco | Head Writer"
 layout: post
 title: "A Taste of Home: Fit Your Cravings at Tita Beb’s Specialty"
 description: "Tita Beb's Specialty and Dimsum are here to serve alongside some of your favorite Pinoy dishes! TBS promotes Asian fusion cuisine with distinct flavors derived from Pinoy and Chinese delicacies.  "
