@@ -52,6 +52,10 @@ jQuery.fn.isMobile = () => {
         $('.search-close').on('click', function () {
             $('body').removeClass("open-search-form");
         });
+        $(document).on('click', '.category-search', function(){
+            $('.gsc-input').val($(this).html())
+            $('.gsc-search-button').click();
+        })
     };
 
     // Mobile menu
