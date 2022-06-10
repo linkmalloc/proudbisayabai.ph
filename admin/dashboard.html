@@ -18,6 +18,7 @@
 
     <script src="/assets/js/vendor/jquery-1.12.4.min.js"></script>
     <script src="/assets/js/vendor/bootstrap.min.js"></script>
+    <script src="/assets/js/vendor/jquery.scrollUp.min.js"></script>
   </head>
   <body>
     <!-- <script src="https://unpkg.com/netlify-cms@^2.0/dist/cms.js"></script> -->
@@ -42,19 +43,27 @@
     </div>
 
     <div id="blog-tool" style="display: none;">
+      <div class="header-top">
+        <div class="container">
+            <div class="row pt-20 pb-20">
+                <div class="col-md-3 col-xs-6">
+                    <a href="/admin/dashboard.html"><img class="logo" src="/assets/imgs/theme/logo.png" alt=""></a>
+                    BLOG TOOL
+                </div>
+                <div class="col-md-9 col-xs-6 text-right header-top-right ">
+                    <button class="btn btn-radius bg-danger text-white ml-15 font-small box-shadow be-featured-btn" id="logout">Logout</button>
+                </div>
+            </div>
+        </div>
+      </div>
         <div class="container pt-30">
-          <h3>
-            <img class="mb-4" src="/assets/imgs/theme/logo.png" alt=""> 
-            BLOG TOOL
-            <button class="btn btn-danger" style="float:right" id="logout">Log out</button>
-          </h3>
-          <div class="">
+          <div class="text-right">
             <button class="btn btn-primary mb-10" id="create-post">Create a Blog Post</button>
           </div>
           <table class="table" id="posts-table">
             <thead>
               <tr>
-                <th>Place</th>
+                <th>Cover</th>
                 <th>Title</th>
                 <th>Author</th>
                 <th>Action</th>
@@ -85,7 +94,30 @@
       var posts = [];
 
       var appendPostData = function(post){
-        var tr = `<tr><td>${post.place_name}</td><td>${post.title}</td><td>${post.author}</td><td><a href="/admin/post.html?edit=${post.id}">Edit</a>&nbsp;&nbsp;<a href="/admin/post.html?preview=${post.id}">Preview</a></td></tr>`;
+        var created_at = ""
+        var description = "";
+
+        if (post.created_at){
+          created_at = post.created_at.toDate()
+        }
+
+        if (post.description && post.description.length){
+          description = post.description.substring(0,80);
+        }
+
+        var tr = `<tr>
+          <td><img style="width: 200px" src="${post.img_big_3000x1144}"/></td>
+          <td>
+            <p>${post.title}</p>
+            <small class="d-block text-muted">${description}</small>
+          </td>
+          <td>${post.author}</td>
+          <td style="width: 180px" >
+            <a class="btn btn-primary btn-sm" href="/admin/post.html?edit=${post.id}">Edit</a>
+            &nbsp;&nbsp;
+            <a class="btn btn-secondary btn-sm" href="/admin/post.html?preview=${post.id}">Preview</a>
+            </td>
+          </tr>`;
         $('#posts-table').find('tbody').append(tr)
       }
 
@@ -97,7 +129,7 @@
             posts << data;
             appendPostData(data);
           });
-        });
+        })
       }
 
       var showPost = function(post){

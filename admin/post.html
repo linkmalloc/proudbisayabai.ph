@@ -43,14 +43,27 @@
             <div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div>
         </div>
     <div class="body-form" style="display: none;">
-        <div class="row">
+    <div class="header-top" style="background-color: white;">
+        <div class="container-fluid">
+            <div class="row pt-20 pb-20">
+                <div class="col-md-3 col-xs-6">
+                    <a href="/admin/dashboard.html"><img class="logo" src="/assets/imgs/theme/logo.png" alt=""></a>
+                    BLOG TOOL
+                </div>
+                <div class="col-md-9 col-xs-6 text-right header-top-right ">
+                    <button class="btn btn-radius bg-danger text-white ml-15 font-small box-shadow be-featured-btn" id="logout">Logout</button>
+                </div>
+            </div>
+        </div>
+        </div>
+        <div class="row p-10">
             <div class="col-md-12 p-10">
                 <a href="/admin/dashboard.html" class="pull-left btn btn-danger ml-10">Cancel</a>
                 <button class="pull-right btn btn-primary mr-10" id="savePost">Save</button>
                 <button class="pull-right btn btn-primary mr-10" id="previewPost">Preview</button>
             </div>
         </div>
-        <div class="row">
+        <div class="row p-10">
             <div class="col-lg-4">
             <div class="card">
                 <div class="card-header">
@@ -858,16 +871,10 @@
             savePost(id).then(function(){
                 let timerInterval
                 Swal.fire({
-                title: 'Good job!',
+                title: 'Please wait',
                 html: 'Blog post is saved, redirecting to the preview page. Please wait for a few seconds.',
-                timer: 2000,
-                timerProgressBar: true,
-                didOpen: () => {
-                    Swal.showLoading()
-                },
-                willClose: () => {
-                    console.log('willclose')
-                }
+                timer: 1000,
+                timerProgressBar: true
                 }).then((result) => {
                 /* Read more about handling dismissals below */
                 if (result.dismiss === Swal.DismissReason.timer) {
@@ -883,7 +890,7 @@
         $(document).on('click', '#savePost', function(){
             savePost(id).then(function(){
                 Swal.fire(
-                'Good job!',
+                'Success',
                 'The blog post is now saved!',
                 'success'
                 )
@@ -1042,7 +1049,6 @@ ${formatted_body(data.body)}
     }
     .body-form{
         background-color: #d8d9da;
-        padding: 0 20px;
         background: rgb(176,47,22);
         background: linear-gradient(180deg, rgba(176,47,22,1) 4%, rgba(224,98,35,1) 73%, rgba(237,138,66,1) 100%);
     }

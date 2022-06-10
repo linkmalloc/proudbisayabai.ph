@@ -26,7 +26,7 @@ read_time: "5 minutes"
 ****
 ##### Nasayod Ka Ani Bai?  
 
-Did you know that we can grow grapes here in Cebu? I know right? It seemed impossible when they first planted it 8 years ago here in the Island City of Lapu-lapu! 🍇😮🥤  
+Did you know that we can grow grapes here in Cebu? I know right? It seemed impossible when they first planted it 8 years ago here in the Island City of Lapu-lapu!
 
 At first they wanted it to be just shade for the parking area. To their surprise, it has provided them fruits regularly and they are able to harvest 3-4x a year. 100% Fully Organic and growing in a small 30cm wide planter!  
 

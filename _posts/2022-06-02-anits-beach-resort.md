@@ -27,7 +27,7 @@ read_time: "5 minutes"
 ****
 ##### Anit's Beach Resort
 
-LOOK: Are you looking for an affordable yet an exclusive beach house you and your family and friends can enjoy? Arats na sa Anit's! ⛱🏖✨  
+LOOK: Are you looking for an affordable yet an exclusive beach house you and your family and friends can enjoy? Arats na sa Anit's!  
 
 Anit's Beach Resort is a newly-opened private beach house located in the North of Cebu, specifically in the town of Catmon. Perfect for family gatherings, team buildings, retreats and reunions as they offer very spacious rooms, budget-friendly rates, scenic views, and most importantly exclusive resort experience!  
 
