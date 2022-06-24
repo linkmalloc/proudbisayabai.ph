@@ -1,7 +1,7 @@
 ---
 author: "Daniela Tinamisan Calvez"
 layout: post
-title: "LOOK: Sunrise in Capelinha de Fatima in Cebu. Newest pilgrimage destination."
+title: "LOOK: Sunrise in Capelinha de Fatima in Cebu, Newest pilgrimage destination."
 description: "The 1st replica of Capelinha de Fatima in Asia and 4th of it’s kind. This replica was opened last April 4, 2022 in Barangay Lambusan in the municipality of San Remigio,  91 kilometers northwest of Cebu City."
 categories:
   - destination
