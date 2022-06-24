@@ -20,7 +20,7 @@ img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee_kamusta/2
 photo_credit: "PBB Admins"
 photo_credit_link: ""
 editor: "JM Derecho"
-read_time: "5 minutes"
+read_time: "2 minutes"
 ---
 ###### “Kamusta? Tara Jollibee ta na!"
 
