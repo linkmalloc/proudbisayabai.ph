@@ -1,0 +1,669 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+    <title>{{ title }} </title>
+    <meta name="description" content="{{ site.description }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" type="image/x-icon" href="https://res.cloudinary.com/proudbisayabai/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1610956956/logo/transparentbackgroundpbb_unybsh.png">
+    
+    <meta property="og:url"                content="{{ page.url }}" />
+    <meta property="og:type"               content="article" />
+    <meta property="og:title"              content="{{ page.title }}" />
+    <meta property="og:description"        content="{{ og_desc | truncatewords: 50 }}" />
+    <meta property="og:image"              content="{{ image_big }}" />
+    <meta property="og:updated_time"              content="{{ page.date | date: '%s' }}" />
+    <meta property="article:published_time"              content="{{ page.date | date: '%s'}}" />
+    <meta property="article:modified_time"              content="{{ page.date | date: '%s'}}" />
+    <!-- NewsBoard CSS  -->
+
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/responsive.css">
+    <link rel="stylesheet" href="/assets/css/vendor/viewer.css">
+    <link rel="stylesheet" href="/assets/css/widgets.css">
+    
+
+    <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-auth.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-storage.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.9.0/showdown.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.css">
+    <script src="https://cdn.jsdelivr.net/simplemde/latest/simplemde.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+
+<body>
+    <div class="body-wrapper" id="body-wrapper">
+        <div class="loader-wrapper">
+            <div class="lds-ellipsis"><div></div><div></div><div></div><div></div></div>
+        </div>
+        <div class="body-form" style="display: none;">
+            <div class="container-fluid p-0">
+                <div class="header-top" style="background-color: white;">
+                    <div class="container-fluid">
+                        <div class="row pt-20 pb-20">
+                            <div class="col-md-3 col-xs-6">
+                                <a href="/admin/dashboard.html"><img class="logo" src="/assets/imgs/theme/logo.png" alt=""></a>
+                                BLOG TOOL
+                            </div>
+                            <div class="col-md-9 col-xs-6 text-right header-top-right ">
+                                <button class="btn btn-radius bg-danger text-white ml-15 font-small box-shadow be-featured-btn" id="logout">Logout</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-md-10 pt-10 pb-10">
+                        <a href="/admin/dashboard.html" class="float-left btn btn-danger ml-10 font-small">Cancel</a>
+                        <button class="float-right btn btn-success mr-10 font-small" id="savePost">Save</button>
+                        <button class="float-right btn btn-primary mr-10 font-small" id="previewPost">Preview</button>
+                    </div>
+                </div>
+                <div class="row justify-content-center">
+                    <div class="col-md-10">
+                        <div class="card">
+                            <div class="card-header">
+                                <ul class="nav nav-tabs card-header-tabs">
+                                    <li class="nav-item">
+                                    <a class="nav-link active" href="#header-details" data-toggle="tab" role="tab">Header Details</a>
+                                    </li>
+                                    <li class="nav-item">
+                                    <a class="nav-link" href="#image-collage" data-toggle="tab" role="tab">Image Collage</a>
+                                    </li>
+                                    <li class="nav-item">
+                                    <a class="nav-link" href="#post-body" data-toggle="tab" role="tab" tabindex="-1">Post Body</a>
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link" href="#finalize" data-toggle="tab" role="tab" tabindex="-1">Finalize</a>
+                                    </li>
+                                </ul>
+                            </div>
+                            <div class="card-body">
+                                <div class="tab-content">
+                                    <div class="tab-pane active" id="header-details" role="tabpanel" aria-labelledby="home-tab">
+                                        <div class="form-group row">
+                                            <label class="col-sm-1 col-form-label col-form-label-sm">Author:</label>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control form-control-sm author">
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group row pt-10">
+                                            <label class="col-sm-1 col-form-label col-form-label-sm">Editor:</label>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control form-control-sm editor">
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group row pt-10">
+                                            <label class="col-sm-1 col-form-label col-form-label-sm">Place Name:</label>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control form-control-sm place_name">
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group row pt-10">
+                                            <label class="col-sm-1 col-form-label col-form-label-sm">Title:</label>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control form-control-sm title">
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group row pt-10">
+                                            <label class="col-sm-1 col-form-label col-form-label-sm">Description:</label>
+                                            <div class="col-sm-6">
+                                                <textarea class="form-control form-control-sm description"style="height: 120px !important"></textarea>
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group row pt-10">
+                                            <label class="col-sm-1 col-form-label col-form-label-sm">Categories:</label>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control form-control-sm category">
+                                                <small class="form-text text-muted">(options: destination,food,product,brand</small>
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="form-group row pt-10">
+                                            <label class="col-sm-1 col-form-label col-form-label-sm">Tags:</label>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control form-control tags">
+                                                <small class="form-text text-muted">A List Separated by comma.</small>
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group row pt-10">
+                                            <label class="col-sm-1 col-form-label col-form-label-sm">Credit:</label>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control form-control photo_credit">
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group row pt-10">
+                                            <label class="col-sm-1 col-form-label col-form-label-sm">Credit Url:</label>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control form-control photo_credit_link">
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group row pt-10">
+                                            <label class="col-sm-1 col-form-label col-form-label-sm">Read Time:</label>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control form-control read_time">
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="tab-pane" id="image-collage" role="tabpanel" aria-labelledby="profile-tab">
+                                        <div class="form-group row pt-10">
+                                            <label class="col-sm-1 col-form-label col-form-label-sm">Facebook Banner</label>
+                                            <div class="col-sm-2">
+                                                <img class="img-thumbnail"/>
+                                                <span class="fa fa-pencil"></span>
+                                                <input type="file" class="image-input" data-class="banner_image_url" accept=".png, .jpg, .jpeg">
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control form-control banner_image_url">
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group row pt-10">
+                                            <label class="col-sm-1 col-form-label col-form-label-sm">Landing Page Carousel Image</label>
+                                            <div class="col-sm-2">
+                                                <img class="img-thumbnail"/>
+                                                <span class="fa fa-pencil"></span>
+                                                <input type="file" class="image-input" data-class="seo_image_url" accept=".png, .jpg, .jpeg">
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control form-control seo_image_url">
+                                            </div>
+                                        </div>
+
+                                        <div class="form-group row pt-10">
+                                            <label class="col-sm-1 col-form-label col-form-label-sm">Small Widget Post Banner</label>
+                                            <div class="col-sm-2">
+                                                <img class="img-thumbnail"/>
+                                                <span class="fa fa-pencil"></span>
+                                                <input type="file" class="image-input" data-class="small_banner_image_url" accept=".png, .jpg, .jpeg">
+                                            </div>
+                                            <div class="col-sm-6">
+                                                <input type="text" class="form-control form-control small_banner_image_url">
+                                            </div>
+                                        </div>
+                                        <hr>
+                                        <div class="row">
+                                            <div class="col-md-6" style="border-right: 1px solid #eceff8">
+                                                <h6>Bottom Collage</h6>
+                                                <br>
+                                                <br>
+                                                <br>
+                                                <br>
+                                                <br>
+                                                <br>
+                                                <br>
+                                            </div>
+                                            <div class="col-md-6">
+                                                <h6>Preview</h6>
+                                                <div class="collage-preview">
+                                                    &nbsp;
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="tab-pane" id="post-body" role="tabpanel" aria-labelledby="messages-tab">
+                                        <textarea class="form-control" id="markdown_body"></textarea>
+                                    </div>
+                                    <div class="tab-pane" id="finalize" role="tabpanel" aria-labelledby="settings-tab">Finalize</div>
+                                </div>
+                            </div>
+                            <div class="card-footer">
+                                <button class="float-right btn btn-primary mr-10 font-small" id="next">Next</button>
+                                <button class="float-right btn btn-primary mr-10 font-small" id="previous">Previous</button>
+                            </div>
+                        </div>
+                        <br>
+                        <br>
+                    </div>
+                </div>
+            </div>
+        </div>
+    <script src="/assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="/assets/js/vendor/bootstrap.min.js"></script>
+    <script src="/assets/js/vendor/jquery.scrollUp.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11.0.16/dist/sweetalert2.all.min.js"></script>
+    </div>
+</body>
+<script>
+    // Your web app's Firebase configuration
+    const firebaseConfig = {
+        apiKey: "AIzaSyBCPzUyylI2kELAIDo-IryuIhcui3oXnXw",
+        authDomain: "proudbisayabaiph.firebaseapp.com",
+        projectId: "proudbisayabaiph",
+        storageBucket: "proudbisayabaiph.appspot.com",
+        messagingSenderId: "1000822839652",
+        appId: "1:1000822839652:web:0e0678396ee723e3c3c271",
+        measurementId: "G-HG59DT0Z7S"
+      };
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+      const DB = firebase.firestore();
+      const Storage = firebase.storage();
+
+      DB.settings({timestampsInSnapshots: true});
+
+    //   ref.put(file).then((snapshot) => {
+    //     console.log('Uploaded a blob or file!');
+    //   });
+        //   AWS SDK
+
+        // var albumBucketName = "BUCKET_NAME";
+        // var bucketRegion = "REGION";
+        // var IdentityPoolId = "IDENTITY_POOL_ID";
+
+        // AWS.config.update({
+        // region: bucketRegion,
+        // credentials: new AWS.CognitoIdentityCredentials({
+        //     IdentityPoolId: IdentityPoolId
+        // })
+        // });
+
+        // var s3 = new AWS.S3({
+        // apiVersion: "2006-03-01",
+        // params: { Bucket: albumBucketName }
+        // });
+
+
+      var displayCollage = function(img1, img2, img3, img4, img5){
+          return `<ul class="blocks-gallery-grid grid-5">
+            <li class="blocks-gallery-item">
+                <img class="border-radius-5" src="${img1}" alt="">
+            </li>
+            <li class="blocks-gallery-item">
+                <img class="border-radius-5" src="${img2}" alt="">
+                <img class="border-radius-5" src="${img3}" alt="">
+            </li>
+            <li class="blocks-gallery-item">
+                <img class="border-radius-5" src="${img4}" alt="">
+                <img class="border-radius-5" src="${img5}" alt="">
+            </li>
+        </ul>`;
+      }
+
+      var displayPreview = function(element, event, preview){
+        if(event.target.files.length > 0){
+            var src = URL.createObjectURL(event.target.files[0]);
+            preview.prop('src', src);
+        }
+      }
+
+      var detectImagePresence = function(){
+        $('.small_banner_image_url, .banner_image_url, .seo_image_url').each(function(){
+            if ($(this).val().length){
+                $(this).parents('.form-group').find('.img-thumbnail').prop('src', $(this).val())
+            }
+        })
+      }
+
+      var uploadToRemote = function(){
+        return true;
+      }
+
+      var savePost = function(id){
+        return new Promise((resolve, error) => {
+            var post = {
+                author: $('.author').val(),
+                author_image: '',
+                body: (window.editor && window.editor.codemirror && window.editor.codemirror.getValue()),
+                description: $('.description').val(),
+                categories: $('.category').val().split(","),
+                tags: $('.tags').val().split(","),
+                photo_credit: $('.photo_credit').val(),
+                photo_credit_link: $('.photo_credit_link').val(),
+                img_big_1000x600: $('.seo_image_url').val(),
+                img_big_3000x1144: $('.banner_image_url').val(),
+                img_500x500: $('.small_banner_image_url').val(),
+                img_500_1: $('.collage_image1_url').val(),
+                img_500_2: $('.collage_image2_url').val(),
+                img_500_3: $('.collage_image3_url').val(),
+                img_500_4: $('.collage_image4_url').val(),
+                img_500_5: $('.collage_image5_url').val(),
+                read_time: '4 minutes',
+                layout: 'post',
+                title: $('.title').val(),
+                place_name: $('.place_name').val(),
+                editor: $('.editor').val(),
+                read_time: $('.read_time').val()
+            }
+
+            DB.collection("posts").doc(`${id}`).set(post, {merge: true})
+                .then(() => {
+                    console.log("Document successfully written!");
+                    resolve();
+                })
+                .catch((error) => {
+                    console.log("Error writing document: ", error);
+                    error();
+                });
+        });
+      }
+
+      var checkButtons = function(){
+        if (elem = $('ul.card-header-tabs .nav-link.active')){
+            if (elem.parent().next('.nav-item').length){
+                $('#next').prop('disabled', false)
+            } else {
+                $('#next').prop('disabled', true)
+            }
+        }
+
+        if (elem = $('ul.card-header-tabs .nav-link.active')){
+            if (elem.parent().prev('.nav-item').length){
+                $('#previous').prop('disabled', false)
+            } else {
+                $('#previous').prop('disabled', true)
+            }
+        }
+      }
+
+      var showEditForm = function(id){
+        $(document).on('click', '#previewPost', function(){
+            savePost(id).then(function(){
+                let timerInterval
+                Swal.fire({
+                title: 'Please wait',
+                html: 'Blog post is saved, redirecting to the preview page. Please wait for a few seconds.',
+                timer: 1000,
+                timerProgressBar: true
+                }).then((result) => {
+                /* Read more about handling dismissals below */
+                if (result.dismiss === Swal.DismissReason.timer) {
+                    window.location = "/admin/post.html?preview="+id;
+                }
+                })
+                
+            }).catch((err) =>{
+                console.log(err)
+            });
+        })
+
+        $(document).on('click', '#image-collage .fa.fa-pencil', function(){
+            $(this).parent().find('.image-input').trigger('click')
+        })
+
+        $(document).on('change', '.image-input', function(e){
+            displayPreview(this, e, $(this).parent().find('.img-thumbnail'))
+            uploadToRemote()
+        })
+
+        $(document).on('click', '#savePost', function(){
+            savePost(id).then(function(){
+                Swal.fire(
+                'Success',
+                'The blog post is now saved!',
+                'success'
+                )
+            });
+        })
+
+        $(document).on('click', '#next', function(){
+            var elem = $('ul.card-header-tabs .nav-link.active')
+            if(elem.parent().next('.nav-item').length){
+                elem.parent().next('.nav-item').find('.nav-link').trigger('click')
+            }
+
+            checkButtons()
+        })
+        $(document).on('click', '#previous', function(){
+            var elem = $('ul.card-header-tabs .nav-link.active')
+            if(elem.parent().prev('.nav-item').length){
+                elem.parent().prev('.nav-item').find('.nav-link').trigger('click')
+            }
+
+            checkButtons()
+        })
+
+        
+
+        return new Promise((resolve, error) => {
+            setTimeout(function() {
+                $('.body-form').show();
+                $('.body-preview').hide();
+                $('.body-markdown').hide();
+                $('.loader-wrapper').hide();
+            }, 2000);
+
+            $('title').html('Edit Post')
+
+            if ($('#markdown_body').length){
+                window.editor = new SimpleMDE({ element: $("#markdown_body")[0] });
+                window.editor.codemirror.on("update", function() {
+                    value = window.editor.codemirror.getValue()
+                    $("#markdown_body").text(value);
+                });
+            }
+           
+
+            DB.collection('posts').doc(`${id}`).get().then((docRef) => {
+                data = docRef.data();
+                
+                var body_content = data.body.replace(/\\n/g, "\n");
+                body_content = body_content.replace(/\\t/g, "\t");
+                window.editor.codemirror.setValue(body_content);
+
+                $('.title').val(data.title)
+                $('.author').val(data.author)
+                $('.description').val(data.description)
+                $('.category').val(data.categories.join(','))
+                $('.tags').val(data.tags.join(','));
+                $('.photo_credit').val(data.photo_credit)
+                $('.photo_credit_link').val(data.photo_credit_link)
+                $('.seo_image_url').val(data.img_big_1000x600)
+                $('.banner_image_url').val(data.img_big_3000x1144)
+                $('.small_banner_image_url').val(data.img_500x500)
+                $('.collage_image1_url').val(data.img_500_1)
+                $('.collage_image2_url').val(data.img_500_2)
+                $('.collage_image3_url').val(data.img_500_3)
+                $('.collage_image4_url').val(data.img_500_4)
+                $('.collage_image5_url').val(data.img_500_5)
+                $('.editor').val(data.editor)
+                $('.read_time').val(data.read_time)
+                $('.place_name').val(data.place_name)
+                detectImagePresence()
+                checkButtons()
+                resolve()
+            }).catch(function(err){
+                console.log(err)
+                error()
+            });
+        });
+      }
+
+      var format_image_url = function(url){
+        base = url.split('?')[0];
+        firestorage_url = "https://firebasestorage.googleapis.com/v0/b/proudbisayabaiph.appspot.com/o/posts";
+        cloudfront_url = "https://d3hukd8e3cn3kb.cloudfront.net/images/posts";
+
+        if (base){
+            url = base.replace(firestorage_url, cloudfront_url);
+            return unescape(url)
+        }
+        
+        return url;
+      }
+      var formatted_body = function(body){
+        firestore_regex = /(https:\/\/firebasestorage.googleapis.com)([a-zA-Z\?\=\&\-0-9_\.\%|\/])*/g
+
+        urls = data.body.match(firestore_regex)
+
+        if (urls){
+            for (let index = 0; index < urls.length; index++) {
+                url = urls[index];
+                body = body.replace(url, format_image_url(url))
+            }
+        }
+        return body;
+      }
+
+
+      $(document).ready(function(){
+        console.log('ready')
+        let searchParams = new URLSearchParams(window.location.search)
+
+        if(searchParams.has('edit')){
+            showEditForm(searchParams.get('edit'))
+        }
+      });
+</script>
+<style>
+    .body-preview::before {
+        content: "PREVIEW MODE";
+        /* border: 1px solid #4e3a3a; */
+        /* background: #8a7f65; */
+        color: #cc3928;
+        padding: 3px;
+        width: 100%;
+        text-align: center;
+        font-size: 25px;
+        margin: 10px;
+    }
+    .body-preview{
+        border: 1px solid #c5c5c5;
+        margin: 50px;
+        background: white;
+    }
+    .body-form{
+        background-color: #c5c5c5;
+    }
+    body{
+        background: #c5c5c5;
+    }
+    .lds-ellipsis,
+    .lds-ellipsis div {
+      box-sizing: border-box;
+    }
+    .lds-ellipsis {
+        display: block;
+        width: 80px;
+        height: 80px;
+        margin: 0 auto;
+        position: absolute;
+        top: 50vh;
+        left: 46vw;
+        width: 8vw;
+        min-width: 80px'
+    }
+    .lds-ellipsis div {
+      position: absolute;
+      top: 33.33333px;
+      width: 13.33333px;
+      height: 13.33333px;
+      border-radius: 50%;
+      background: currentColor;
+      color: white;
+      animation-timing-function: cubic-bezier(0, 1, 1, 0);
+    }
+    .lds-ellipsis div:nth-child(1) {
+      left: 8px;
+      animation: lds-ellipsis1 0.6s infinite;
+    }
+    .lds-ellipsis div:nth-child(2) {
+      left: 8px;
+      animation: lds-ellipsis2 0.6s infinite;
+    }
+    .lds-ellipsis div:nth-child(3) {
+      left: 32px;
+      animation: lds-ellipsis2 0.6s infinite;
+    }
+    .lds-ellipsis div:nth-child(4) {
+      left: 56px;
+      animation: lds-ellipsis3 0.6s infinite;
+    }
+    @keyframes lds-ellipsis1 {
+      0% {
+        transform: scale(0);
+      }
+      100% {
+        transform: scale(1);
+      }
+    }
+    @keyframes lds-ellipsis3 {
+      0% {
+        transform: scale(1);
+      }
+      100% {
+        transform: scale(0);
+      }
+    }
+    @keyframes lds-ellipsis2 {
+      0% {
+        transform: translate(0, 0);
+      }
+      100% {
+        transform: translate(24px, 0);
+      }
+    }
+    .loader-wrapper{
+        background: darkorange;
+        background-size: 120%;
+        width: 100%;
+        height: 100vh;
+    }
+    .editor-toolbar{
+        background: white !important;
+        opacity: 1 !important;
+    }
+    .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+        color: #495057 !important;
+        background-color: #fff !important;
+        border-color: #dee2e6 #dee2e6 #fff !important;
+        border-top: 1px rgb(222, 226, 230) solid;
+        border-left: 1px rgb(222, 226, 230) solid;
+        border-right: 1px rgb(222, 226, 230) solid;
+        padding: 8px 16px !important;
+        border-bottom: none !important;
+    }
+    .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+        color: #000 !important;
+    }
+    .nav-tabs .nav-link.active, .nav-tabs .nav-link, .nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover{
+        padding: 8px 16px !important;
+    }
+    .row{
+        margin: 0 !important;
+    }
+    input[type="text"].form-control{
+        height: 40px !important;
+    }
+    #image-collage .img-thumbnail{
+        width: 214px;
+        height: 120px;
+    }
+    #image-collage span.fa.fa-pencil{
+        position: absolute;
+        right: 20px;
+        border: 1px solid white;
+        border-radius: 12px;
+        padding: 5px;
+        font-size: 12px;
+        background: white;
+        color: rgb(181, 181, 195);
+        box-shadow: 0px 9px 16px 0px rgb(24 28 50 / 25%) !important
+    }
+    #image-collage span.fa.fa-pencil:hover{
+        cursor: pointer;
+    }
+
+    #image-collage input[type="file"].image-input{
+        width: 0 !important;
+        height: 0 !important;
+        overflow: hidden;
+        opacity: 0;
+        display: none;
+    }
+    </style>
+</html>
