@@ -71,9 +71,19 @@
             </thead>
             <tbody>
               <!-- Dynamic table rows  -->
+              <tr><td colspan="4" class="text-center"><span class="fa fa-pulse fa-spinner"></span></td></tr>
             </tbody>
           </table>
+          <div class="text-center">
+            <a href="javascript:showNext()" style="display: none" id="show_next">Show Next</a>
+          </div>
+          <br>
+          <br>
+          <br>
         </div>
+        <p class="font-small text-muted text-center" style="background-color: transparent">
+          Proud Bisaya Admin Tool v2
+      </p>
     </div>
 
     <script>
@@ -92,6 +102,7 @@
       const DB = firebase.firestore();
       DB.settings({timestampsInSnapshots: true});
       var posts = [];
+      window.last_visible = null;
 
       var appendPostData = function(post){
         var created_at = ""
@@ -113,7 +124,7 @@
           </td>
           <td>${post.author}</td>
           <td style="width: 180px" >
-            <a class="btn btn-primary btn-sm" href="/admin/post.html?edit=${post.id}">Edit</a>
+            <a class="btn btn-primary btn-sm" href="/admin/create.html?edit=${post.id}">Edit</a>
             &nbsp;&nbsp;
             <a class="btn btn-secondary btn-sm" href="/admin/post.html?preview=${post.id}">Preview</a>
             </td>
@@ -122,14 +133,43 @@
       }
 
       var initDashboard = function(){
-        DB.collection("posts").get().then((querySnapshot) => {
+        DB.collection("posts").orderBy("title").limit(30).get().then((querySnapshot) => {
+          $('#posts-table tbody').html('')
           querySnapshot.forEach((doc) => {
-            data = doc.data();
-            data['id'] = doc.id;
-            posts << data;
-            appendPostData(data);
+            loadPosts(doc)
           });
+
+          showNextButton();
         })
+      }
+
+      var showNextButton = function(){
+        if (window.last_visible){
+          $('#show_next').show();
+        } else {
+          $('#show_next').hide();
+        }
+      }
+
+      var showNext = function(){
+        if (window.last_visible){
+          DB.collection("posts").orderBy("title").startAfter(window.last_visible).limit(10).get().then((querySnapshot) => {
+            querySnapshot.forEach((doc) => {
+              loadPosts(doc)
+            });
+            showNextButton();
+          }).catch(function(){
+            window.last_visible = null;
+          })
+        }
+      }
+
+      var loadPosts = function(doc){
+        data = doc.data();
+        data['id'] = doc.id;
+        posts << data;
+        window.last_visible = doc.id;
+        appendPostData(data);
       }
 
       var showPost = function(post){
@@ -148,7 +188,7 @@
         })
         .then((docRef) => {
             console.log("Document written with ID: ", docRef.id);
-            window.location = "/admin/post.html?edit=" + docRef.id;
+            window.location = "/admin/create.html?edit=" + docRef.id;
         })
         .catch((error) => {
           console.error(error)

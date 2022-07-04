@@ -79,7 +79,7 @@
                                     <a class="nav-link" href="#post-body" data-toggle="tab" role="tab" tabindex="-1">Post Body</a>
                                     </li>
                                     <li class="nav-item">
-                                        <a class="nav-link" href="#finalize" data-toggle="tab" role="tab" tabindex="-1">Finalize</a>
+                                        <a class="nav-link" href="#post_preview" data-toggle="tab" role="tab" tabindex="-1">Post Preview</a>
                                     </li>
                                 </ul>
                             </div>
@@ -196,14 +196,45 @@
                                             </div>
                                         </div>
                                         <hr>
-                                        <div class="row">
+                                        <div class="row" id="collage_inputs">
                                             <div class="col-md-6" style="border-right: 1px solid #eceff8">
                                                 <h6>Bottom Collage</h6>
                                                 <br>
                                                 <br>
-                                                <br>
-                                                <br>
-                                                <br>
+                                                <div class="form-group row pt-10">
+                                                    <label class="col-sm-3 col-form-label col-form-label-sm">Collage Photo 1</label>
+                                                    <div class="col-sm-9">
+                                                        <input type="text" class="form-control collage_image1_url">
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row pt-10">
+                                                    <label class="col-sm-3 col-form-label col-form-label-sm">Collage Photo 2</label>
+                                                    <div class="col-sm-9">
+                                                        <input type="text" class="form-control collage_image2_url">
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row pt-10">
+                                                    <label class="col-sm-3 col-form-label col-form-label-sm">Collage Photo 3</label>
+                                                    <div class="col-sm-9">
+                                                        <input type="text" class="form-control collage_image3_url">
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row pt-10">
+                                                    <label class="col-sm-3 col-form-label col-form-label-sm">Collage Photo 4</label>
+                                                    <div class="col-sm-9">
+                                                        <input type="text" class="form-control collage_image4_url">
+                                                    </div>
+                                                </div>
+
+                                                <div class="form-group row pt-10">
+                                                    <label class="col-sm-3 col-form-label col-form-label-sm">Collage Photo 5</label>
+                                                    <div class="col-sm-9">
+                                                        <input type="text" class="form-control collage_image5_url">
+                                                    </div>
+                                                </div>
                                                 <br>
                                                 <br>
                                             </div>
@@ -211,6 +242,21 @@
                                                 <h6>Preview</h6>
                                                 <div class="collage-preview">
                                                     &nbsp;
+                                                    <figure class="wp-block-gallery columns-3 wp-block-image" id="image-gallery">
+                                                        <ul class="blocks-gallery-grid grid-5">
+                                                            <!-- <li class="blocks-gallery-item">
+                                                                <img class="border-radius-5 lazyloaded" src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee_kamusta/4.jpg" alt="" data-src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee_kamusta/4.jpg" data-size="auto" loading="lazy">
+                                                            </li>
+                                                            <li class="blocks-gallery-item">
+                                                                <img class="border-radius-5 lazyloaded" src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee_kamusta/7.jpg" alt="" data-src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee_kamusta/7.jpg" data-size="auto" loading="lazy">
+                                                                <img class="border-radius-5 lazyloaded" src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee_kamusta/8.jpg" alt="" data-src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee_kamusta/8.jpg" data-size="auto" loading="lazy">
+                                                            </li>
+                                                            <li class="blocks-gallery-item">
+                                                                <img class="border-radius-5 lazyloaded" src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee_kamusta/9.jpg" alt="" data-src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee_kamusta/9.jpg" data-size="auto" loading="lazy">
+                                                                <img class="border-radius-5 ls-is-cached lazyloaded" src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee_kamusta/2.jpg" alt="" data-src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee_kamusta/2.jpg" data-size="auto" loading="lazy">
+                                                            </li> -->
+                                                        </ul>
+                                                    </figure>
                                                 </div>
                                             </div>
                                         </div>
@@ -218,7 +264,42 @@
                                     <div class="tab-pane" id="post-body" role="tabpanel" aria-labelledby="messages-tab">
                                         <textarea class="form-control" id="markdown_body"></textarea>
                                     </div>
-                                    <div class="tab-pane" id="finalize" role="tabpanel" aria-labelledby="settings-tab">Finalize</div>
+                                    <div class="tab-pane" id="post_preview" role="tabpanel" aria-labelledby="settings-tab">
+                                        <div class="row">
+                                            <div class="col-md-6">
+                                                <h6>Desktop News Feed</h6>
+                                                <small>Post Previews can give you idea of how your post will appear in different placements on Facebook, but they're not meant to be exact representations.</small>
+                                                <div class="card mt-10" style="width: 500px; margin: 0 auto;">
+                                                    <div class="card-body p-0">
+                                                        <div class="preview-post-header p-10">
+                                                            <div class="d-flex mt-10">
+                                                                <img class="rounded-circle" style="width: 50px"  src="https://d3hukd8e3cn3kb.cloudfront.net/images/logo/logo2022_256.png">
+                                                                <div class="ml-10">
+                                                                    <h6>Proud Bisaya Bai</h6>
+                                                                    <small>9m</small> · <span class="fa fa-globe" style="color: grey"></span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pt-10 pl-10">
+                                                            <p>Test Description</p>
+                                                        </div>
+                                                        <div class="preview-post-cover mt-5" style="width: 499px;height: 256px; background-size: cover;">
+                                                        </div>
+                                                        <div class="bg-grey p-10">
+                                                            <p class="text-muted" style="text-transform: uppercase; font-size: 12px">PROUDBISAYABAI.PH</p>
+                                                            <h5 class="preview-post-title" style="font-size: 15px"></h5>
+                                                            <p class="preview-post-description" style="font-size: 15px"></p>
+                                                        </div>
+                                                        
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 bg-grey">
+                                                Mobile News Feed
+                                                
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                             <div class="card-footer">
@@ -237,6 +318,9 @@
     <script src="/assets/js/vendor/jquery.scrollUp.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11.0.16/dist/sweetalert2.all.min.js"></script>
     </div>
+    <p class="font-small text-muted text-center" style="background-color: transparent">
+        Proud Bisaya Admin Tool v2
+    </p>
 </body>
 <script>
     // Your web app's Firebase configuration
@@ -313,6 +397,79 @@
         return true;
       }
 
+      var previewCollage = function(){
+        $('#image-gallery ul').html('')
+        $('#image-gallery ul').html(loadingPreview())
+        var collage_images = collageImages()
+
+        if (collage_images.length <= 0){
+            $('#image-gallery ul').html('')
+            return false;
+        }
+        switch (collage_images.length) {
+            case 1:
+                mapCollageColumn(collageColumn1(collage_images[0]))
+                break;
+            case 2:
+                mapCollageColumn(collageColumn1(collage_images[0]))
+                mapCollageColumn(collageColumn1(collage_images[1]))
+                break;
+            case 3:
+                mapCollageColumn(collageColumn1(collage_images[0]))
+                mapCollageColumn(collageColumn1(collage_images[1]))
+                mapCollageColumn(collageColumn1(collage_images[2]))
+                break;
+            case 4:
+                mapCollageColumn(collageColumn1(collage_images[0]))
+                mapCollageColumn(collageColumn1(collage_images[1]))
+                mapCollageColumn(collageColumn2(collage_images[2], collage_images[3]))
+                break;
+            case 5:
+                mapCollageColumn(collageColumn1(collage_images[0]))
+                mapCollageColumn(collageColumn2(collage_images[1], collage_images[2]))
+                mapCollageColumn(collageColumn2(collage_images[3], collage_images[4]))
+                break;
+            default:
+                break;
+        }
+
+        $('.preview-spinner').remove()
+      }
+
+      var mapCollageColumn = function(column){
+        $('#image-gallery ul').append(column);
+      }
+
+      var collageColumn1 = function(url){
+        return ` <li class="blocks-gallery-item">
+                <img class="border-radius-5 ls-is-cached lazyloaded" src="${url}" alt="" data-src="${url}" data-size="auto" loading="lazy">
+            </li>`;
+      }
+
+      var collageColumn2 = function(url1, url2){
+        return `<li class="blocks-gallery-item">
+            <img class="border-radius-5 lazyloaded" src="${url1}" alt="" data-src="${url1}" data-size="auto" loading="lazy">
+            <img class="border-radius-5 ls-is-cached lazyloaded" src="${url2}" alt="" data-src="${url2}" data-size="auto" loading="lazy">
+        </li>`;
+      }
+
+      var collageImages = function(){
+        var collage_images = []
+        for(var i=1; i<=5; i++){
+            var value = $('.collage_image'+i+'_url').val()
+            if (value) {
+                collage_images[collage_images.length] = value
+            }
+        }
+        return collage_images;
+      }
+      
+      var loadingPreview = function(){
+        return `<div class="preview-spinner" style="width: 40vw; text-align: center; height: 200px;">
+            <span class="fa fa-pulse fa-spinner " style=" margin-top: 100px; font-size: 25px; color: darkred; "></span>
+        </div>`
+      }
+
       var savePost = function(id){
         return new Promise((resolve, error) => {
             var post = {
@@ -368,6 +525,12 @@
                 $('#previous').prop('disabled', true)
             }
         }
+
+        if($('ul.card-header-tabs .nav-link.active').text() == 'Post Preview'){
+            $('.preview-post-cover').css('background-image', 'url('+$('.banner_image_url').val()+')')
+            $('.preview-post-title').text($('.title').val())
+            $('.preview-post-description').text($('.description').val())
+        }
       }
 
       var showEditForm = function(id){
@@ -377,13 +540,13 @@
                 Swal.fire({
                 title: 'Please wait',
                 html: 'Blog post is saved, redirecting to the preview page. Please wait for a few seconds.',
-                timer: 1000,
+                timer: 500,
                 timerProgressBar: true
                 }).then((result) => {
-                /* Read more about handling dismissals below */
-                if (result.dismiss === Swal.DismissReason.timer) {
-                    window.location = "/admin/post.html?preview="+id;
-                }
+                    /* Read more about handling dismissals below */
+                    if (result.dismiss === Swal.DismissReason.timer) {
+                        window.open("/admin/post.html?preview="+id, '_blank');
+                    }
                 })
                 
             }).catch((err) =>{
@@ -397,7 +560,11 @@
 
         $(document).on('change', '.image-input', function(e){
             displayPreview(this, e, $(this).parent().find('.img-thumbnail'))
-            uploadToRemote()
+            // uploadToRemote()
+        })
+
+        $(document).on('change', '.banner_image_url,.seo_image_url,.small_banner_image_url', function(){
+            $(this).parents('.form-group').find('.img-thumbnail').prop('src', $(this).val())
         })
 
         $(document).on('click', '#savePost', function(){
@@ -418,6 +585,7 @@
 
             checkButtons()
         })
+
         $(document).on('click', '#previous', function(){
             var elem = $('ul.card-header-tabs .nav-link.active')
             if(elem.parent().prev('.nav-item').length){
@@ -427,6 +595,13 @@
             checkButtons()
         })
 
+        $(document).on('click', '.nav-link', function(){
+            checkButtons();
+        })
+
+        $(document).on('keyup', '#collage_inputs input[type=text]', function(){
+            previewCollage();
+        })
         
 
         return new Promise((resolve, error) => {
@@ -475,6 +650,7 @@
                 $('.place_name').val(data.place_name)
                 detectImagePresence()
                 checkButtons()
+                previewCollage()
                 resolve()
             }).catch(function(err){
                 console.log(err)
