@@ -1,6 +1,5 @@
 ---
-author: "Ariel Alegado, Founder / Writer "
-author_img: ""
+author: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "Jollibee USC: Officially Signing Off Leaving Thousands of Memories"
 description: "A place where so many memories have been created is like golden poetry full of diverse emotions that may fill the void of yearning and even build a home out of heartache where tears can yield great bliss."
