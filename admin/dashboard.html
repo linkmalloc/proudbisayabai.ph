@@ -153,7 +153,7 @@
 
       var showNext = function(){
         if (window.last_visible){
-          DB.collection("posts").orderBy("title").startAfter(window.last_visible).limit(10).get().then((querySnapshot) => {
+          DB.collection("posts").orderBy("title", "asc").startAfter(window.last_visible).limit(10).get().then((querySnapshot) => {
             querySnapshot.forEach((doc) => {
               loadPosts(doc)
             });

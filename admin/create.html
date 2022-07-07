@@ -693,6 +693,14 @@
         if(searchParams.has('edit')){
             showEditForm(searchParams.get('edit'))
         }
+
+        document.onkeydown = (e) => {
+          if (e.ctrlKey && e.key === 's') {
+            e.preventDefault();
+            console.log('CTRL + S');
+            $('#savePost').trigger('click')
+          }
+        }
       });
 </script>
 <style>
