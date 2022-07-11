@@ -165,7 +165,7 @@
                                             <div class="col-sm-2">
                                                 <img class="img-thumbnail"/>
                                                 <span class="fa fa-pencil"></span>
-                                                <input type="file" class="image-input" data-class="banner_image_url" accept=".png, .jpg, .jpeg">
+                                                <input type="file" class="image-input" data-filename="cover" data-class="banner_image_url" accept=".png, .jpg, .jpeg">
                                             </div>
                                             <div class="col-sm-6">
                                                 <input type="text" class="form-control form-control banner_image_url">
@@ -177,10 +177,10 @@
                                             <div class="col-sm-2">
                                                 <img class="img-thumbnail"/>
                                                 <span class="fa fa-pencil"></span>
-                                                <input type="file" class="image-input" data-class="seo_image_url" accept=".png, .jpg, .jpeg">
+                                                <input type="file" class="image-input" data-filename="landing" data-class="landing_image_url" accept=".png, .jpg, .jpeg">
                                             </div>
                                             <div class="col-sm-6">
-                                                <input type="text" class="form-control form-control seo_image_url">
+                                                <input type="text" class="form-control form-control landing_image_url">
                                             </div>
                                         </div>
 
@@ -189,7 +189,7 @@
                                             <div class="col-sm-2">
                                                 <img class="img-thumbnail"/>
                                                 <span class="fa fa-pencil"></span>
-                                                <input type="file" class="image-input" data-class="small_banner_image_url" accept=".png, .jpg, .jpeg">
+                                                <input type="file" class="image-input" data-filename="small" data-class="small_banner_image_url" accept=".png, .jpg, .jpeg">
                                             </div>
                                             <div class="col-sm-6">
                                                 <input type="text" class="form-control form-control small_banner_image_url">
@@ -288,17 +288,44 @@
                                                         <div class="bg-grey p-10">
                                                             <p class="text-muted" style="text-transform: uppercase; font-size: 12px">PROUDBISAYABAI.PH</p>
                                                             <h5 class="preview-post-title" style="font-size: 15px"></h5>
-                                                            <p class="preview-post-description" style="font-size: 15px"></p>
+                                                            <p class="preview-post-description" style="font-size: 15px;text-overflow: ellipsis; overflow: hidden; white-space: nowrap;"></p>
                                                         </div>
                                                         
                                                     </div>
                                                 </div>
                                             </div>
                                             <div class="col-md-6 bg-grey">
-                                                Mobile News Feed
-                                                
+                                                <h6>Mobile News Feed</h6>
+                                                <br>
+                                                <br>
+                                                <br>
+                                                <div class="card mt-10" style="width: 320px; margin: 0 auto;">
+                                                    <div class="card-body p-0">
+                                                        <div class="preview-post-header p-10">
+                                                            <div class="d-flex mt-10">
+                                                                <img class="rounded-circle" style="width: 40px"  src="https://d3hukd8e3cn3kb.cloudfront.net/images/logo/logo2022_256.png">
+                                                                <div class="ml-10">
+                                                                    <h6>Proud Bisaya Bai</h6>
+                                                                    <small>9m</small> · <span class="fa fa-globe" style="color: grey"></span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="pt-10 pl-10">
+                                                            <p>Test Description</p>
+                                                        </div>
+                                                        <div class="preview-post-cover mt-5" style="width: 320px;height: 169px; background-size: cover;">
+                                                        </div>
+                                                        <div class="bg-grey p-10">
+                                                            <p class="text-muted" style="text-transform: uppercase; font-size: 12px">PROUDBISAYABAI.PH</p>
+                                                            <h5 class="preview-post-title" style="font-size: 15px"></h5>
+                                                            <p class="preview-post-description" style="font-size: 15px; text-overflow: ellipsis; overflow: hidden; white-space: nowrap;"></p>
+                                                        </div>
+                                                        
+                                                    </div>
+                                                </div>
                                             </div>
                                         </div>
+                                        
                                     </div>
                                 </div>
                             </div>
@@ -337,31 +364,10 @@
       firebase.initializeApp(firebaseConfig);
       const DB = firebase.firestore();
       const Storage = firebase.storage();
+      const storageRef = Storage.ref(); 
 
       DB.settings({timestampsInSnapshots: true});
-
-    //   ref.put(file).then((snapshot) => {
-    //     console.log('Uploaded a blob or file!');
-    //   });
-        //   AWS SDK
-
-        // var albumBucketName = "BUCKET_NAME";
-        // var bucketRegion = "REGION";
-        // var IdentityPoolId = "IDENTITY_POOL_ID";
-
-        // AWS.config.update({
-        // region: bucketRegion,
-        // credentials: new AWS.CognitoIdentityCredentials({
-        //     IdentityPoolId: IdentityPoolId
-        // })
-        // });
-
-        // var s3 = new AWS.S3({
-        // apiVersion: "2006-03-01",
-        // params: { Bucket: albumBucketName }
-        // });
-
-
+     
       var displayCollage = function(img1, img2, img3, img4, img5){
           return `<ul class="blocks-gallery-grid grid-5">
             <li class="blocks-gallery-item">
@@ -386,15 +392,75 @@
       }
 
       var detectImagePresence = function(){
-        $('.small_banner_image_url, .banner_image_url, .seo_image_url').each(function(){
+        $('.small_banner_image_url, .banner_image_url, .landing_image_url').each(function(){
             if ($(this).val().length){
                 $(this).parents('.form-group').find('.img-thumbnail').prop('src', $(this).val())
             }
         })
       }
 
-      var uploadToRemote = function(){
-        return true;
+      var string_parameterize = function (str1) {
+            return str1.trim().toLowerCase().replace(/[^a-zA-Z0-9 -]/, "").replace(/\s/g, "-");
+        };
+
+      var image_path = function(){
+        let searchParams = new URLSearchParams(window.location.search)
+        return 'posts/v2/' + searchParams.get('edit').substring(0,5) + "_" + string_parameterize($('.place_name').val()) + '/';
+      }
+
+      var file_name = function(elem, filename){
+        return $(elem).data('filename') + "." + filename.split('.').pop();
+      }
+
+      var uploadToRemote = function(file, elem){
+
+        var metadata = {
+            contentType: file.type
+        };
+
+        var uploadTask = storageRef.child(image_path() + file_name(elem, file.name)).put(file, metadata);
+
+        // Listen for state changes, errors, and completion of the upload.
+        uploadTask.on(firebase.storage.TaskEvent.STATE_CHANGED, // or 'state_changed'
+        (snapshot) => {
+            // Get task progress, including the number of bytes uploaded and the total number of bytes to be uploaded
+            var progress = (snapshot.bytesTransferred / snapshot.totalBytes) * 100;
+            console.log('Upload is ' + progress + '% done');
+            switch (snapshot.state) {
+            case firebase.storage.TaskState.PAUSED: // or 'paused'
+                console.log('Upload is paused');
+                break;
+            case firebase.storage.TaskState.RUNNING: // or 'running'
+                console.log('Upload is running');
+                break;
+            }
+        }, 
+        (error) => {
+            // A full list of error codes is available at
+            // https://firebase.google.com/docs/storage/web/handle-errors
+            switch (error.code) {
+            case 'storage/unauthorized':
+                // User doesn't have permission to access the object
+                break;
+            case 'storage/canceled':
+                // User canceled the upload
+                break;
+
+            // ...
+
+            case 'storage/unknown':
+                // Unknown error occurred, inspect error.serverResponse
+                break;
+            }
+        }, 
+        () => {
+            // Upload completed successfully, now we can get the download URL
+            uploadTask.snapshot.ref.getDownloadURL().then((downloadURL) => {
+                console.log('File available at', downloadURL);
+                $(elem).parents('.form-group').find("input[type=text]").val(downloadURL)
+            });
+        }
+        );
       }
 
       var previewCollage = function(){
@@ -481,7 +547,7 @@
                 tags: $('.tags').val().split(","),
                 photo_credit: $('.photo_credit').val(),
                 photo_credit_link: $('.photo_credit_link').val(),
-                img_big_1000x600: $('.seo_image_url').val(),
+                img_big_1000x600: $('.landing_image_url').val(),
                 img_big_3000x1144: $('.banner_image_url').val(),
                 img_500x500: $('.small_banner_image_url').val(),
                 img_500_1: $('.collage_image1_url').val(),
@@ -559,11 +625,15 @@
         })
 
         $(document).on('change', '.image-input', function(e){
-            displayPreview(this, e, $(this).parent().find('.img-thumbnail'))
-            // uploadToRemote()
+            
+            if (e.target.files.length){
+                const file = e.target.files[0];
+                displayPreview(this, e, $(this).parent().find('.img-thumbnail'))
+                uploadToRemote(file, this);
+            }
         })
 
-        $(document).on('change', '.banner_image_url,.seo_image_url,.small_banner_image_url', function(){
+        $(document).on('change', '.banner_image_url,.landing_image_url,.small_banner_image_url', function(){
             $(this).parents('.form-group').find('.img-thumbnail').prop('src', $(this).val())
         })
 
@@ -637,7 +707,7 @@
                 $('.tags').val(data.tags.join(','));
                 $('.photo_credit').val(data.photo_credit)
                 $('.photo_credit_link').val(data.photo_credit_link)
-                $('.seo_image_url').val(data.img_big_1000x600)
+                $('.landing_image_url').val(data.img_big_1000x600)
                 $('.banner_image_url').val(data.img_big_3000x1144)
                 $('.small_banner_image_url').val(data.img_500x500)
                 $('.collage_image1_url').val(data.img_500_1)
