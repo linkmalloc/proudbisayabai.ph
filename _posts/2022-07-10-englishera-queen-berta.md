@@ -3,7 +3,7 @@ author: "Lovers Lane Quiamco, Head Writer"
 author_img: ""
 layout: post
 title: "Berta: The Viral Englishera Queen is Now an Inspiration to All"
-description: "Berta, also known as the \"Englishera Queen\" in Cebu, has gained encouragement from others by sharing his experience using illicit drugs as a guest speaker."
+description: "Berta, also known as the Englishera Queen in Cebu, has gained encouragement from others by sharing his experience using illicit drugs as a guest speaker."
 categories:
   - story
 tags:
