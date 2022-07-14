@@ -25,10 +25,15 @@ read_time: "5 minutes"
 hide_header_image: true
 ---
 ****
-<div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div>
-<script async="" defer="" crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v14.0&amp;appId=423521155390099&amp;autoLogAppEvents=1" nonce="1KMzpeBc"></script>
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v14.0&appId=423521155390099&autoLogAppEvents=1" nonce="ajvGd3H8"></script>
+<div style="text-align: center;">
+<div class="fb-post" data-href="https://www.facebook.com/watch/?v=357868983169669" data-width="350" data-show-text="true"><blockquote cite="https://www.facebook.com/proudbisayabai/videos/357868983169669/" class="fb-xfbml-parse-ignore"><p>NAKA HILAK INTAWN SI MAM 🥺
 
-<div class="fb-post fb_iframe_widget fb_iframe_widget_fluid" data-href="https://www.facebook.com/watch/?v=357868983169669" data-width="500" data-show-text="false" fb-xfbml-state="rendered" fb-iframe-plugin-query="app_id=423521155390099&amp;container_width=447&amp;href=https%3A%2F%2Fwww.facebook.com%2Fwatch%2F%3Fv%3D357868983169669&amp;locale=en_US&amp;sdk=joey&amp;show_text=false" style="display: block; width: 100%; height: auto;"><span style="vertical-align: bottom; width: 552px; height: 981px;"><iframe name="f6bc3b603fc63c" height="1000px" data-testid="fb:post Facebook Social Plugin" title="fb:post Facebook Social Plugin" frameborder="0" allowtransparency="true" allowfullscreen="true" scrolling="no" allow="encrypted-media" src="https://www.facebook.com/v14.0/plugins/post.php?app_id=423521155390099&amp;channel=https%3A%2F%2Fstaticxx.facebook.com%2Fx%2Fconnect%2Fxd_arbiter%2F%3Fversion%3D46%23cb%3Df3c63dd5e569408%26domain%3Dproudbisayabai.ph%26is_canvas%3Dfalse%26origin%3Dhttps%253A%252F%252Fproudbisayabai.ph%252Ffac01e7fa71ae%26relation%3Dparent.parent&amp;container_width=447&amp;href=https%3A%2F%2Fwww.facebook.com%2Fwatch%2F%3Fv%3D357868983169669&amp;locale=en_US&amp;sdk=joey&amp;show_text=false" style="border: none; visibility: visible; height: 981px; position: static; width: 552px;" class=""></iframe></span></div>
+LOOK: “ Jollibee Crew members Touched a Customer&#039;s Heart” 🍗
+
+The jollibee crew members...</p>Posted by <a href="https://www.facebook.com/proudbisayabai/">Proud Bisaya Bai</a> on&nbsp;<a href="https://www.facebook.com/proudbisayabai/videos/357868983169669/">Thursday, July 14, 2022</a></blockquote></div>  
+</div>  
 
 ****
 LOOK: The Jollibee crew members surprised a customer on her birthday as she sat alone having breakfast before going to the doctor to get her insulin.  
