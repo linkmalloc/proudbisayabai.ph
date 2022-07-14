@@ -1,6 +1,5 @@
 ---
 author: "LOVERS LANE QUIAMCO"
-author_img: ""
 layout: post
 title: "Jollibee Crew Members Touched a Customer's Heart"
 description: "LOOK: The Jollibee crew members surprised a customer on her birthday as she sat alone having breakfast before going to the doctor to get her insulin."
