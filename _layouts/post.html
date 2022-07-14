@@ -45,13 +45,15 @@ layout: default
                                 </div>
                             </div>
                             <!--end single header-->
-                            <figure class="image mb-15 m-auto text-center border-radius-10">
-                                {% if page.img_post_header %}
-                                    <img class="border-radius-10" src="{{ page.img_post_header }}" alt="post-title" />
-                                {% else %}
-                                    <img class="border-radius-10" src="{{ page.img_big_1000x600 }}" alt="post-title" />
-                                {% endif %}
-                            </figure>
+                            {% if post.img_post_header %}
+                                <figure class="image mb-15 m-auto text-center border-radius-10">
+                                    <img class="border-radius-10" src="{{ post.img_post_header }}" alt="post-title" />
+                                </figure>
+                            {% elsif post.img_big_1000x600 %}
+                                <figure class="image mb-15 m-auto text-center border-radius-10">
+                                    <img class="border-radius-10" src="{{ post.img_big_1000x600 }}" alt="post-title" />
+                                </figure>
+                            {% endif %}
                             <!--figure-->
                             <article class="entry-wraper mb-50" id="article-body">
                                 <div class="entry-main-content dropcap wow fadeIn animated">
