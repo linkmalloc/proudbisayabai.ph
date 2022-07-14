@@ -12,7 +12,7 @@ tags:
   -  jollibee               
 views: "10"
 img_big_1000x600: 
-img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee-ates-birthday/4.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee-ates-birthday/cover1.jpg
 img_500x500: 
 img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee-ates-birthday/1.jpg
 img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee-ates-birthday/2.jpg
