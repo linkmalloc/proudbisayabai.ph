@@ -11,9 +11,9 @@ tags:
   -  cebu
   -  jollibee               
 views: "10"
-img_big_1000x600: 
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee-ates-birthday/cover1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee-ates-birthday/cover1.jpg
-img_500x500: 
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee-ates-birthday/cover1.jpg
 img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee-ates-birthday/1.jpg
 img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee-ates-birthday/2.jpg
 img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee-ates-birthday/3.jpg
@@ -23,6 +23,7 @@ photo_credit: " Cristine Sumayang Bustillo"
 photo_credit_link: ""
 editor: "JM Derecho"
 read_time: "5 minutes"
+hide_header_image: true
 ---
 ****
 <div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div>
