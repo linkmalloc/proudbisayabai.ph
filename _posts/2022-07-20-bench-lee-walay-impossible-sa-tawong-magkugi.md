@@ -1,6 +1,5 @@
 ---
 author: "Ariel Alegado"
-author_img: ""
 layout: post
 title: "Walay impossible sa tawong mag kugi"
 description: "As he reached the pinnacle of his victory, Bench Lee, a content writer for Proud Bisaya Bai, unveiled his academic journey and life story."
