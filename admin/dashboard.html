@@ -63,6 +63,7 @@
           <table class="table" id="posts-table">
             <thead>
               <tr>
+                <th></th>
                 <th>Cover</th>
                 <th>Title</th>
                 <th>Author</th>
@@ -116,7 +117,10 @@
           description = post.description.substring(0,80);
         }
 
-        var tr = `<tr>
+        let index = $('tr.blog-post').length + 1;
+
+        var tr = `<tr class="blog-post">
+          <td class="text-muted">${index}</td>
           <td><img style="width: 200px" src="${post.img_big_3000x1144}"/></td>
           <td>
             <p>${post.title}</p>
@@ -133,13 +137,15 @@
       }
 
       var initDashboard = function(){
-        DB.collection("posts").orderBy("title").limit(30).get().then((querySnapshot) => {
+        DB.collection("posts").orderBy("title", "asc").limit(10).get().then((querySnapshot) => {
           $('#posts-table tbody').html('')
           querySnapshot.forEach((doc) => {
             loadPosts(doc)
           });
 
-          showNextButton();
+          if (!querySnapshot.empty){
+            showNextButton();
+          }
         })
       }
 
@@ -153,22 +159,28 @@
 
       var showNext = function(){
         if (window.last_visible){
-          DB.collection("posts").orderBy("title", "asc").startAfter(window.last_visible).limit(10).get().then((querySnapshot) => {
-            querySnapshot.forEach((doc) => {
-              loadPosts(doc)
-            });
-            showNextButton();
-          }).catch(function(){
-            window.last_visible = null;
-          })
+          // DB.collection("posts").doc(window.last_visible).get().then((lastDoc)=>{
+            DB.collection("posts").orderBy("title", "asc").startAfter(window.last_visible).limit(10).get().then((querySnapshot) => {
+              querySnapshot.forEach((doc) => {
+                loadPosts(doc)
+              });
+              if (querySnapshot.empty){
+                window.last_visible = null;
+              } else {
+                showNextButton();
+              }
+            }).catch(function(){
+              window.last_visible = null;
+            })
+          // })
         }
       }
 
       var loadPosts = function(doc){
+        window.last_visible = doc;
         data = doc.data();
         data['id'] = doc.id;
         posts << data;
-        window.last_visible = doc.id;
         appendPostData(data);
       }
 
