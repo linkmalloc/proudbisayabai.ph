@@ -46,9 +46,26 @@ Serenity Farm and Resort is a calm and serene haven to visit when you need to de
 
 Are you a coffee lover but a bit of a discoverer? Serenity Mountain Café is fit for you!  
 
+<div class="row">
+  <div class="col-sm-6"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/35.jpg"/></center></div>
+  <div class="col-sm-6"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/38.jpg"/></center></div>
+</div>
+
+****
 Asian cuisine is among the best in the world. Delve into the different tastes of every Asian food and be enlightened with a cup of coffee. Whether you are starting your day, in the middle of embracing it, or maybe getting to its end, let your coffee mirrors your face.   
 If you have not had the pleasure of savoring Asian food&nbsp;and its tastes, now is the time to do so! Let your mind drifts as you sit in stillness, watching the mist rising from your coffee while pondering life and the cosmos.   
 
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/42.jpg)  
+
+****
+<div class="row">
+  <div class="col-sm-4"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/34.jpg"/></center></div>
+  <div class="col-sm-4"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/36.jpg"/></center></div>
+</div>
+
+
+****
 Mountain Cafe and Liel’s Kitchen accept events and parties exclusive or non-exclusive.  
 
 ****
