@@ -47,14 +47,9 @@ Serenity Farm and Resort is a calm and serene haven to visit when you need to de
 Are you a coffee lover but a bit of a discoverer? Serenity Mountain Café is fit for you!  
 
 <div class="row">
-  <div class="col-sm-12"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/35.jpg"/></center></div>
-  <div class="col-12">
-    <img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/44.jpg"/>
-  </div>
-  <div class="col-12">
-    <img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/45.jpg"/>
-  </div>
-  <div class="col-sm-12"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/38.jpg"/></center></div>
+  <div class="col-sm-4"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/35.jpg"/></center></div>
+  <div class="col-sm-4"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/38.jpg"/></center></div>
+  <div class="col-sm-4"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/44.jpg"/></center></div>
 </div>
 
 ****
