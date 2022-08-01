@@ -47,8 +47,14 @@ Serenity Farm and Resort is a calm and serene haven to visit when you need to de
 Are you a coffee lover but a bit of a discoverer? Serenity Mountain Café is fit for you!  
 
 <div class="row">
-  <div class="col-sm-6"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/35.jpg"/></center></div>
-  <div class="col-sm-6"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/38.jpg"/></center></div>
+  <div class="col-sm-12"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/35.jpg"/></center></div>
+  <div class="col-12">
+    <img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/44.jpg"/>
+  </div>
+  <div class="col-12">
+    <img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/45.jpg"/>
+  </div>
+  <div class="col-sm-12"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/38.jpg"/></center></div>
 </div>
 
 ****
@@ -58,12 +64,10 @@ If you have not had the pleasure of savoring Asian food&nbsp;and its tastes, now
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/42.jpg)  
 
-****
 <div class="row">
-  <div class="col-sm-4"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/34.jpg"/></center></div>
-  <div class="col-sm-4"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/36.jpg"/></center></div>
+  <div class="col-6" style="padding-right: 10px"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/34.jpg"/></center></div>
+  <div class="col-6" style="padding-left: 10px"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/36.jpg"/></center></div>
 </div>
-
 
 ****
 Mountain Cafe and Liel’s Kitchen accept events and parties exclusive or non-exclusive.  
@@ -71,23 +75,23 @@ Mountain Cafe and Liel’s Kitchen accept events and parties exclusive or non-ex
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/merge4.jpg)  
 
-****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/29.jpg)  
-
-****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/30.jpg)  
-
-****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/33.jpg)  
-
-****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/23.jpg)  
-
 ###### Liel’s Kitchen (Modern Japanese dishes)  
 
 Aren't all-in-one recipes with carbs, proteins, fats, and vegetables your favorite? This is your time to feel like you are in Japan!   
 There is a whole universe of delectable flavors and dishes to be discovered. Asian cuisine is diverse and wonderful in a variety of ways. So, if you have not eaten much Asian cuisine, such as Japanese food, this is most likely the one for you!  
 
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/29.jpg)  
+
+<div class="row">
+  <div class="col-6" style="padding-right: 10px"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/30.jpg"/></center></div>
+  <div class="col-6" style="padding-left: 10px"><center><img src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/33.jpg"/></center></div>
+</div>
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/serenity_farm_and_resort/23.jpg)   
+
+****
 The home is nestled among the vast wilderness and flawlessly blends luxury with nature. You may get the best of both worlds at Serenity Farm and Resort. It is truly a divine retreat where you may enjoy soulful and visual bliss.  
 
 ****
