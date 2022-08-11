@@ -2,7 +2,7 @@
 author: "PBB Admin"
 layout: post
 title: "CERTIFIED  BISAYA  CHALLENGE"
-description: "Here are some Cebuano words and Bisaya Phrases that would definitely come in handy when conversing like a Local! "
+description: "Learn the meanings of these Cebuano and Bisaya phrases that will come in handy when conversing like a local! "
 categories:
   - story
 tags:
