@@ -162,6 +162,7 @@ Travel like a local and enjoy the local scene with these Bisaya words and phrase
   @media only screen and (max-width: 800px) {
   #score-total {
     font-size: 20px !important;
+    margin-bottom: 20px !important;
   }
 }
 </style>
