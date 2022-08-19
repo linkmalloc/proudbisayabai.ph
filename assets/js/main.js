@@ -427,7 +427,8 @@ jQuery.fn.isMobile = () => {
                 $('.newsletter .subscribe-btn').prop('disabled', true);
 
                 __DB.collection('newsletter').add({
-                    "email": email
+                    "email": email,
+                    "date": firebase.firestore.Timestamp.now()
                 }).then(() => {
                     Swal.fire('Thank you for subscribing');
                 });
