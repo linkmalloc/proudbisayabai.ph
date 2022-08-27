@@ -1,6 +1,5 @@
 ---
 author: "Daniela Tinamisan Calvez"
-author_img: ""
 layout: post
 title: "Move Your Business Toward Success with Lalamove"
 description: "Lalamove Expands in the South, Offers Winning Moves for Local Biz"
