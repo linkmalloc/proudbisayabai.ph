@@ -428,7 +428,8 @@ jQuery.fn.isMobile = () => {
 
                 __DB.collection('newsletter').add({
                     "email": email,
-                    "date": firebase.firestore.Timestamp.now()
+                    "date": firebase.firestore.Timestamp.now(),
+                    "subscribed": true
                 }).then(() => {
                     Swal.fire('Thank you for subscribing');
                 });
@@ -538,8 +539,8 @@ jQuery.fn.isMobile = () => {
     }
 
     var live = function () {
-        _DATA = JSON.parse(document.getElementById('post_data').innerHTML);
-        var Generator = factory();
+        // _DATA = JSON.parse(document.getElementById('post_data').innerHTML);
+        // var Generator = factory();
         // setInterval(function () {
         //     try {
         //         var showToastMsg = Generator.getPostInfoText();

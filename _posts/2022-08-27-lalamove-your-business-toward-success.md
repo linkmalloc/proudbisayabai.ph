@@ -45,7 +45,7 @@ Other exclusive features and benefits that businesses can also take advantage of
 
 Lalamove offers Individual accounts for basic personal and small business use, and business accounts for corporate clients. To inquire and apply for a Lalamove business account, email sales.cebu@lalamove.com or go to lalamove.com/en-ph/business.  
 
-Move your business towards success with Lalamove. Download the Lalamove app available on Google Play Store, Apple App Store, or go to web.lalamove.com. For more information, visit www.lalamove.com and like @LalamovePH on Facebook.  
+Move your business towards success with Lalamove. Download the Lalamove app available on Google Play Store, Apple App Store, or go to web.lalamove.com. For more information, visit www.lalamove.com and like [@LalamovePH](https://www.facebook.com/LalamovePH) on Facebook.  
 
 
 ###### ABOUT LALAMOVE
