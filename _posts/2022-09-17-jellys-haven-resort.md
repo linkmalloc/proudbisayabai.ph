@@ -87,7 +87,7 @@ The resort offers a variety of accommodation options, ranging from the Superior 
 ***
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jellys_haven_resort/12.jpg)  
 
-Perfect kaayo nga lugar mga bai! Especially kung kauban nimo imong mga friends or family, really a must-visit resort in Northern Cebu. 
+Perfect kaayo nga lugar mga bai! Especially kung kauban nimo imong mga friends or family. It is certainly a must-visit resort in Northern Cebu.
 [#TravelLokal](https://www.facebook.com/hashtag/TravelLokal/)!
 
 
