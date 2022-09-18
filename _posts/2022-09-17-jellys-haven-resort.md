@@ -34,7 +34,7 @@ read_time: "4 minutes"
 
 If you're looking for a beautiful getaway on a stunning white sand beach with crystal clear water, Jelly's Haven Resort is the place for you.  
 
-About 4 hours travel away from Cebu City, Jelly's Haven Resort is located at Sta. Fe, Bantayan Island, Cebu. It is a beach spot where you may  unwind while listening to the sound of rustling leaves and splashing waves. Aside from the natural beauty that the beach provides. This resort also has beautiful beach decorations that are incredibly Instagrammable.
+About 4 hours travel away from Cebu City, Jelly's Haven Resort is located at Sta. Fe, Bantayan Island, Cebu. It is a beach spot where you may  unwind while listening to the sound of rustling leaves and splashing waves. Aside from the natural beauty that the beach provides. This resort also has colorful beach decorations that are incredibly Instagrammable.
 
 ***
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jellys_haven_resort/2.jpg) 
