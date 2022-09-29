@@ -1,0 +1,78 @@
+<html>
+<head>
+  <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+  <link rel="stylesheet" href="/assets/css/vendor/toastr.min.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/widgets.css">
+  <link rel="stylesheet" href="/assets/css/responsive.css">
+  <link rel="stylesheet" href="/assets/css/vendor/viewer.css">
+  <script src="/admin/facebook/facebook.js"></script>
+  <title>Facebook Post Scraper</title>
+  <script>
+    $(document).ready(function() {
+      $.ajaxSetup({ cache: true });
+      $.getScript('https://connect.facebook.net/en_US/sdk.js', function(){
+        window.CustomFB.init();
+      });
+    });
+
+    var updateStatusCallback = function(data){
+        console.log(data)
+    }
+
+  </script>
+</head>
+<body>
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <a class="navbar-brand" href="#">Website Post Scraper</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" target="_blank" id="view_on_fb" href="#">View in Facebook</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link btn btn-sm btn-success" href="#">Convert as Blog</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+<!-- Page Content -->
+<div class="container mt-120" >
+
+    <!-- Portfolio Item Heading -->
+    <h1 class="my-4" id="title">Page Heading
+      <small>Secondary Text</small>
+    </h1>
+  
+    <!-- Portfolio Item Row -->
+    <div class="row">
+      <div class="col-md-6">
+        <img id="full_image" class="img-fluid" src="https://via.placeholder.com/750x500" alt="">
+      </div>
+  
+      <div class="col-md-6" id="message" style="    white-space: pre-line; max-height: 500px; height: 500px; overflow-y: auto;">
+      </div>
+    </div>
+
+    <h5 class="my-4">Post Sub Attachments</h5>
+    <div class="row text-center text-lg-start" id="sub_images">
+    </div>
+
+    <div class="row">
+      &nbsp;
+    </div>
+  </div>
+
+  <footer  class="flex-shrink-0 pt-4 pb-3" style="background-color: #f5f5f5;">
+    <div class="container text-center">
+      <small>Copyright © jmderecho.com</small>
+    </div>
+  </footer>
+</body>
+<style>
+</style>
+</html>
