@@ -38,7 +38,7 @@ Here are some Cebuano words and Bisaya Phrases that would definitely come in han
       <img class="d-block w-100" src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bisaya_words/2.jpg" alt="First slide">
       <div class="carousel-caption ">
        <div class="text-left" style="background-color: #ff000022;">1. KANUNAY</div>
-        <a class="w-100 text-white btn btn-primary answer-true record-answer" href="#carouselExampleIndicators" role="button" data-slide="next">Always</a>
+        <a class="w-100 text-white btn btn-primary answer-true record-answer" id="demo" href="#carouselExampleIndicators" role="button" data-slide="next">Always</a>
         <a class="mt-5 w-100 text-white btn btn-primary answer-false record-answer" href="#carouselExampleIndicators" role="button" data-slide="next">Sometimes</a>
       </div>
     </div>
@@ -110,8 +110,8 @@ Here are some Cebuano words and Bisaya Phrases that would definitely come in han
       <img class="d-block w-100" src="https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bisaya_words/11.jpg" alt="Third slide">
       <div class="carousel-caption ">
        <div class="text-left" style="background-color: #ff000022;">10. DAKBAYAN</div>
-        <a class="w-100 text-white btn btn-primary answer-false record-answer show-answer" href="#carouselExampleIndicators" role="button" data-slide="next">Town</a>
-        <a class="mt-5 w-100 text-white btn btn-primary answer-true record-answer show-answer" href="#carouselExampleIndicators" role="button" data-slide="next">City</a>
+        <a class="w-100 text-white btn btn-primary answer-false record-answer show-answer" id="show-answer1" href="#carouselExampleIndicators" role="button" data-slide="next">Town</a>
+        <a class="mt-5 w-100 text-white btn btn-primary answer-true record-answer show-answer" id="show-answer2" href="#carouselExampleIndicators" role="button" data-slide="next">City</a>
       </div>
     </div>
     <div class="carousel-item">
@@ -132,7 +132,22 @@ Travel like a local and enjoy the local scene with these Bisaya words and phrase
 
 💻 Graphic by: Joel Legazpi, Graphic Artist
 
+<script src="https://pbb.local:4000/assets/js/confetti.min.js"></script>
+
 <script>
+  let confetti = new Confetti("show-answer1");
+
+  confetti.setCount(75);
+  confetti.setSize(1);
+  confetti.setPower(25);
+  confetti.setFade(false);
+
+  let confetti2 = new Confetti("show-answer2");
+  confetti2.setCount(75);
+  confetti2.setSize(1);
+  confetti2.setPower(25);
+  confetti2.setFade(false);
+
   window.score = 0;
   window.answers = []
   
