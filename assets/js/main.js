@@ -472,8 +472,8 @@ jQuery.fn.isMobile = () => {
         "onclick": null,
         "showDuration": "300",
         "hideDuration": "1000",
-        "timeOut": "5000",
-        "extendedTimeOut": "1000",
+        "timeOut": "10000",
+        "extendedTimeOut": "10000",
         "showEasing": "swing",
         "hideEasing": "linear",
         "showMethod": "fadeIn",
@@ -497,21 +497,13 @@ jQuery.fn.isMobile = () => {
         if( views < 1000 ){
             views = formatNumber(arbitraryViews(1000, 200000));
         }
-        var postInfoText = [
-            `👀👍 ${views} have viewed this post ❤️`,
-            `✏️ ${data.author} wrote this post`,
-            `📷 ${data.photo_credit}, uploaded these photos`,
-            `‎😃💁 This post has reached ${data.social_reach ? data.social_reach : views } people on social media`,
-            `📍 Your facebook friends have visited this place ${data.location}`
-        ]
 
         var nextArticleText = [
-            `👀👍 Katoltol ka asa ni? ❤️`,
-            `✏️ Nindot kaayu diri. 👍👍👍`,
-            `📷 Naka-anhi na ko. Nindot kaayu ang lugar.😃`,
-            `‎😃💁 Laag ta diri mga bisaya. Arats na! ❤️ ❤️`,
+            `Katoltol ka asa ni? 👀`,
+            `Nindot kaayu diri. 👍`,
+            `Laag ta diri mga bisaya. Arats na! ❤️ ❤️`,
             `📍 Suroy nya ta diri ninyo. Nindot kaayu.👍`,
-            `😃 Arats na ta diri guys! 📷❤️👍`
+            `Arats na ta diri guys! 📷❤️👍`
         ]
 
         function generateNextArticles(){
@@ -528,7 +520,6 @@ jQuery.fn.isMobile = () => {
         }
         var nextArticles = generateNextArticles();
         return {
-            getPostInfoText : () => postInfoText[Math.floor((Math.random() * postInfoText.length - 1) + 1)],
             getNextArticle : function (){
                 return {
                     text: nextArticleText[Math.floor((Math.random() * nextArticleText.length - 1) + 1)],
@@ -539,46 +530,45 @@ jQuery.fn.isMobile = () => {
     }
 
     var live = function () {
-        // _DATA = JSON.parse(document.getElementById('post_data').innerHTML);
-        // var Generator = factory();
-        // setInterval(function () {
-        //     try {
-        //         var showToastMsg = Generator.getPostInfoText();
-        //         toastr.info(`${showToastMsg}`,null,{'toastClass': 'bg-primary toast-notif'});
-        //     } catch (e) {
-        //         console.error(e);
-        //     }
-        // }, 15000);
+        _DATA = JSON.parse(document.getElementById('post_data').innerHTML);
+        var Generator = factory();
 
-        // setTimeout( function(){
-        //     setInterval(function () {
-        //         try {
+
+        setTimeout( function(){
+            setInterval(function () {
+                try {
                     
-        //             var generateNextArticle = Generator.getNextArticle();
-        //             var textToUse = generateNextArticle.text;
-        //             var nextArticle = generateNextArticle.nextArticle;
+                    var generateNextArticle = Generator.getNextArticle();
+                    var textToUse = generateNextArticle.text;
+                    var nextArticle = generateNextArticle.nextArticle;
                     
-        //             toastr.info(`<div class='d-flex flex-column nextArticle'>
-        //                 <span class='pb-3'>${textToUse}</span>
-        //                 <img src="${nextArticle.img}" style='max-height: 60%'/>
-        //                 </div>`,null, { 
-        //                     "toastClass": 'bg-success toast-notif',
-        //                     "onclick": (e)=>{
-        //                         e.preventDefault();
-        //                         ga('send', 'event', {
-        //                             eventCategory: 'toastr clicks',
-        //                             eventAction: 'next article',
-        //                             eventLabel: `${nextArticle.url}`,
-        //                             transport: 'beacon'
-        //                           });
-        //                         window.location.href = `${nextArticle.url}`;
-        //                     }
-        //                 });
-        //         } catch (e) {
-        //             console.error(e);
-        //         }
-        //     }, 10000);
-        // }, 35000);
+                    toastr.info(`<div>
+                            <div class='d-none d-sm-flex flex-column nextArticle'>
+                                <span class='pb-3'>${textToUse}</span>
+                                <img src="${nextArticle.img}" style='max-height: 60%'/>
+                            </div>
+                            <div class='d-flex d-sm-none nextArticle'>
+                                <img src="${nextArticle.img}" style='max-width: 40%;'/>
+                                <span class='ml-2 pb-3'>${textToUse}</span>
+                            </div>
+                            </div>`,null, { 
+                            "toastClass": 'bg-success toast-notif',
+                            "onclick": (e)=>{
+                                e.preventDefault();
+                                ga('send', 'event', {
+                                    eventCategory: 'toastr clicks',
+                                    eventAction: 'next article',
+                                    eventLabel: `${nextArticle.url}`,
+                                    transport: 'beacon'
+                                  });
+                                window.location.href = `${nextArticle.url}`;
+                            }
+                        });
+                } catch (e) {
+                    console.error(e);
+                }
+            }, 15000);
+        }, 5000);
         
 
     }

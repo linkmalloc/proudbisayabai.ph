@@ -8,3 +8,5 @@ images
 .s3
 node_modules
 dist
+_certificates
+serve
