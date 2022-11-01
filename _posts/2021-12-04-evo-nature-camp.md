@@ -12,7 +12,6 @@ tags:
   - cebu
   - forest
   - camp
-  - cebu
 views: "10"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/evo_nature_camp/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/evo_nature_camp/cover.jpg

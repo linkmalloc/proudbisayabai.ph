@@ -65,7 +65,7 @@ button.box-shadow{box-shadow:0px 0px 10px 0px rgba(0,0,0,0.1);}
 .entry-meta.meta-2 .create-date{position:relative;}
 .entry-meta.meta-2 .create-date::after{content:"";width:1px;background:#999;height:100%;position:absolute;left:-15px;top:0;transform:rotate(21deg);}
 figure .post-format{background:#fff;display:block;width:25px;height:25px;text-align:center;line-height:28px;border-radius:2px;}
-.post-thumb-80 img{width:90px;height:80px;}
+.post-thumb-80 img{height:80px;}
 .post-thumb-64 img{width:64px;height:64px;border-radius:50%;}
 .position-left-bottom{position:absolute;bottom:15px;left:15px;z-index:1}
 .position-top-right{position:absolute;top:15px;right:15px;z-index:1}
@@ -118,7 +118,7 @@ span.has-dot::before{content:"";width:3px;height:3px;background:#999;border-radi
 .post-module-1 .post-content-overlay .entry-meta span.post-cat,
 .entry-meta.meta-0 span.post-cat{padding-right:7px;margin-right:10px;font-weight:bold;color:#666;}
 .post-module-1 .post-content-overlay .entry-meta span.post-cat::after,
-.entry-meta.meta-0 span.post-cat::after{content:"";width:3px;height:3px;background:#999;position:absolute;right:0;bottom:3px;border-radius:50%}
+/* .entry-meta.meta-0 span.post-cat::after{content:"";width:3px;height:3px;background:#999;position:absolute;right:0;bottom:3px;border-radius:50%} */
 .post-module-1 .post-content-overlay .entry-meta.text-white span.post-cat::after{background:#fff;}
 .slick-dots{display:-webkit-box;display:flex;-webkit-box-pack:center;justify-content:center;margin:0;padding:0;list-style-type:none;}
 .slick-dots li{margin:0 0.15rem;}
