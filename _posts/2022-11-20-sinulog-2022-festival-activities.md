@@ -7,11 +7,11 @@ categories:
   - story
 tags:
   - sinulog
-  -  cebu
-  -  sinulog 2022
-  -  festival
-  -  sinulog festival
-  -  sinulog festival activities               
+  -  ebu
+  - sinulog 2022
+  - festival
+  - sinulog festival
+  - sinulog festival activities               
 views: "10"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinulog_2022/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinulog_2022/cover.jpg
