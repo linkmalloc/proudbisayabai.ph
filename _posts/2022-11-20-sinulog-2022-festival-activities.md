@@ -62,7 +62,8 @@ With this little background of the history of the festivities, it is exciting to
 Below is the schedule of activities for the 458th Fiesta Señor celebration.
   
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinulog_2022/3.jpg)
-<small class="text-muted">Sayri Niño Fiesta Señor 2023 Schedule of Activities from the official page of Basilica Minore del Sto Nino.</small>
+<small class="text-muted">Sayri Niño Fiesta Señor 2023 Schedule of Activities from the official page of Basilica Minore del Sto Nino.</small>  
+
 ****
 Almost 2 months before the big celebration, let us prepare ourselves physically, mentally, emotionally, and spiritually as we embrace the walk of faith in the new normal. Kita-kits, mga Bai!
 
