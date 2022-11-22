@@ -66,6 +66,6 @@ Below is the schedule of activities for the 458th Fiesta Señor celebration.
 ****
 Almost 2 months before the big celebration, let us prepare ourselves physically, mentally, emotionally, and spiritually as we embrace the walk of faith in the new normal. Kita-kits, mga Bai!
 
-![https://santoninodecebubasilica.org/events/fiesta-senor-2023](https://santoninodecebubasilica.org/events/fiesta-senor-2023)  
+[https://santoninodecebubasilica.org/events/fiesta-senor-2023](https://santoninodecebubasilica.org/events/fiesta-senor-2023)  
 
 ****
