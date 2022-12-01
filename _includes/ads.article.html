@@ -1,7 +1,7 @@
 {% assign ad = include.ad %}
 <article class="col-lg-4 col-md-6 mb-30 wow fadeInUp animated adspace" data-wow-delay="0.2s">
     <div class="post-card-1 border-radius-10 hover-up">
-        <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url({{ ad.img_big_3000x1144 }})">
+        <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="min-height: 160px; height: 160px; background-image: url({{ ad.img_big_3000x1144 }})">
             <a class="img-link" href="{{ ad.url }}"></a>
             <span class="top-right-icon bg-success"><i class="elegant-icon icon_camera_alt"></i></span>
             <ul class="social-share">
@@ -20,9 +20,13 @@
                 <h5 class="post-title mb-20 font-weight-900">
                     <a href="{{ ad.click_url }}">{{ ad.sub_title }}</a>
                 </h5>
-                <div class="entry-meta meta-1 float-left font-x-small text-uppercase">
+                <div class="entry-meta meta-1 float-left font-x-small text-uppercase mb-10">
                     <span class="post-on">{{ ad.description }}</span>
-                    
+                </div>
+                <div class="fb-page" data-href="https://www.facebook.com/proudbisayabai/" data-tabs="timeline" data-width="" data-height="70" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                    <blockquote cite="https://www.facebook.com/proudbisayabai/" class="fb-xfbml-parse-ignore">
+                        <a href="https://www.facebook.com/proudbisayabai/">Proud Bisaya Bai</a>
+                    </blockquote>
                 </div>
             </div>
         </div>
