@@ -1,6 +1,5 @@
 ---
 author: "Lovers Lane Quiamco, Head Writer"
-author_img: ""
 layout: post
 title: "Food Trip by the Sea with Play area for your Kids at City Di Mare!"
 description: "CITY DI MARE- “Come together for Christmas” helps you celebrate the holiday cheer. Bond over delicious eats and fun moments with your family while being serenaded by a live acoustic performance. It is known as a master-planned neighborhood in Cebu City that encourages a full-fledged modern live-work-play lifestyle surrounded by nature."
