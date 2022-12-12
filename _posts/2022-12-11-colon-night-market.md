@@ -2,7 +2,7 @@
 author: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "Colon Night Market is Finally Back to Hype You Up!"
-description: "Cebuanos and our local and foreign tourists can now go thrift shopping, fill their bellies with the wide stretch of food stalls, and dive into the huge selections of both "ukay-ukay" and branded apparel, shoes, and other accessories. Thanks to the night market, which opened in September to coincide with Tourism Month and the start of the infamous "ber months.""
+description: "Cebuanos and our local and foreign tourists can now go thrift shopping, fill their bellies with the wide stretch of food stalls, and dive into the huge selections of both \"ukay-ukay\" and branded apparel, shoes, and other accessories. Thanks to the night market, which opened in September to coincide with Tourism Month and the start of the famous ber months"
 categories:
   - destination
 tags:
