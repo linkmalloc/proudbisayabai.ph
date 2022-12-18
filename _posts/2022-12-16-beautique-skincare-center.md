@@ -90,3 +90,18 @@ Mobile Number: 0947 681 3807
 Email address: [mailto:beautique.cebucitybranch@gmail.com](beautique.cebucitybranch@gmail.com)  
 Facebook Page: The Beautique Aesthetic & Skincare Center  
 
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/beautique_aesthetic/13.jpg)
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/beautique_aesthetic/14.jpg)
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/beautique_aesthetic/15.jpg)
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/beautique_aesthetic/16.jpg)
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/beautique_aesthetic/17.jpg)
+
