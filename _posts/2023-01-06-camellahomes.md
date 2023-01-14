@@ -30,13 +30,13 @@ There is no better place to experience modern luxuries without breaking the bank
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camellahomes/1.jpg)
-<small>Pasadena is a mix of Spanish and Italian inspirations within the bustling Guadalupe in Cebu.</small>
+<small class="text-muted">Pasadena is a mix of Spanish and Italian inspirations within the bustling Guadalupe in Cebu.</small>
 
 Because of the work and educational opportunities it offers, Cebu City is a hotspot for the most sought-after family homes in the province, of which Camella properties are at the forefront. Camella has two family-friendly subdivisions with breathtaking views of sloping hills and the sea within Talamban in Cebu City: Riverdale and Riverfront.   
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camellahomes/2.jpg)
-<small>Riverdale is a community set against the panoramic hills of Talamban in Cebu featuring Southern American-themed luxury homes.</small>
+<small class="text-muted">Riverdale is a community set against the panoramic hills of Talamban in Cebu featuring Southern American-themed luxury homes.</small>
 
 Riverdale is a verdant 13-ha community set against the panoramic hills of Talamban featuring Southern American themed luxury homes amidst hundreds of pine trees.   
 
@@ -46,7 +46,7 @@ For those preferring a more laidback and relaxed atmosphere, yet still want the 
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camellahomes/3.jpg)  
-<small>Linked to Cebu City via the South Coastal Highway, Azienda sits atop the hills of Talisay with five enclaves, each of which stays true to its Italian them.</small>  
+<small class="text-muted">Linked to Cebu City via the South Coastal Highway, Azienda sits atop the hills of Talisay with five enclaves, each of which stays true to its Italian them.</small>  
 
 Lapu-Lapu City is on Mactan Island, where the abundance of beach resorts and natural sites is what every family will appreciate. It is also where the Mactan-Cebu International Airport is located, making Lapu-Lapu City a good jump-off point for travel. Most house-and-lot units are also in-demand since it is a popular spot for many expatriates, lending a fusion of food and activities.   
 
