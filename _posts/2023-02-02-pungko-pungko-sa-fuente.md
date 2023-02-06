@@ -42,6 +42,12 @@ Ginabot is much bigger than chicharon bulaklak. It is a deep-fried pig intestine
 
 Siomai sa tisa is prepared uniquely in Cebu. Over the years, this particular style of siomai has developed great popularity due to its flavorful combination of meat and spices. Sautéed pig brain with spices and aromatics is known as tuslob buwa, which is generally eaten by dipping your puso (rice wrapped in a palm leaf) into the sizzling pan of brainy goodness.  
 
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pungkopungko_sa_fuente/7.jpg)  
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pungkopungko_sa_fuente/8.jpg)  
+
 It is a must-try for foodies, locals, and tourists who want to explore the cultural immersion of Cebu. They also follow sanitary regulations, so feel secure during your gastronomic excursion!   
 
 ****
