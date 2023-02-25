@@ -1,7 +1,7 @@
 ---
 author: "Vivi Moore- PBB Editor in Chief"
 layout: post
-title: "Tara na bai! Mangao ta sa mga LAMI SA CEBU"
+title: "Tara na bai! Mangaon ta sa mga LAMI SA CEBU"
 description: "Cebuanos are ultimate food lovers and you are not a certified Cebuano if you haven’t tasted these Local Foods that we can call our own. Here’s our take on DA BEST BISDAK FOOD LIST na maka ingon jod ka ug Lami kaayo."
 categories:
   - food
