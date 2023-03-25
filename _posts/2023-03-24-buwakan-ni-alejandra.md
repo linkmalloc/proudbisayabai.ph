@@ -2,7 +2,7 @@
 author: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "Buwakan ni Alejandra: The Breathtaking View of Nature"
-description: "Discover the hidden greenery and take in the extraordinary succulents. This is it! The most relaxing thing you can do if you need a break from everything that\'s stressful in your life. Learn more about the vegetation while savoring a picnic on the grounds and strolling the adjacent trails. Buwakan ni Alejandra gives the impression that you are on another side of the world."
+description: "Discover the hidden greenery and take in the extraordinary succulents. This is it! The most relaxing thing you can do if you need a break from everything that's stressful in your life. Learn more about the vegetation while savoring a picnic on the grounds and strolling the adjacent trails. Buwakan ni Alejandra gives the impression that you are on another side of the world."
 categories:
   - destination
 tags:
