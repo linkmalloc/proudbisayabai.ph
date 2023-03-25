@@ -7,6 +7,11 @@
   <link rel="stylesheet" href="/assets/css/responsive.css">
   <link rel="stylesheet" href="/assets/css/vendor/viewer.css">
   <script src="/admin/facebook/facebook.js"></script>
+   <!-- <script src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script> -->
+   <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-app.js"></script>
+   <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-firestore.js"></script>
+   <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-auth.js"></script>
+
   <title>Facebook Post Scraper</title>
   <script>
     $(document).ready(function() {
@@ -19,6 +24,38 @@
     var updateStatusCallback = function(data){
         console.log(data)
     }
+
+    // Your web app's Firebase configuration
+    const firebaseConfig = {
+      apiKey: "AIzaSyBCPzUyylI2kELAIDo-IryuIhcui3oXnXw",
+      authDomain: "proudbisayabaiph.firebaseapp.com",
+      projectId: "proudbisayabaiph",
+      storageBucket: "proudbisayabaiph.appspot.com",
+      messagingSenderId: "1000822839652",
+      appId: "1:1000822839652:web:0e0678396ee723e3c3c271",
+      measurementId: "G-HG59DT0Z7S"
+    };
+    // Initialize Firebase
+    firebase.initializeApp(firebaseConfig);
+    const DB = firebase.firestore();
+    DB.settings({timestampsInSnapshots: true});
+
+    $(document).on('click', '#convert_as_blog', function(){
+      if(confirm("Are you sure you want to convert this to a post?")){
+        DB.collection("posts").add({
+          title: $('#title').html(),
+          body: $('#message').html(),
+          created_by: "jmanuel.derecho@gmail.com",
+          created_at: firebase.firestore.Timestamp.now()
+        })
+        .then((docRef) => {
+            window.open("/admin/create.html?edit=" + docRef.id, '_blank');
+        })
+        .catch((error) => {
+          console.error(error)
+        });
+      }
+    })
 
   </script>
 </head>
@@ -35,7 +72,7 @@
         </li>
 
         <li class="nav-item">
-          <a class="nav-link btn btn-sm btn-success" href="#">Convert as Blog</a>
+          <button class="nav-link btn btn-sm btn-success" id="convert_as_blog">Convert as Blog</button>
         </li>
       </ul>
     </div>

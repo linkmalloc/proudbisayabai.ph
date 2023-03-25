@@ -137,7 +137,7 @@
       }
 
       var initDashboard = function(){
-        DB.collection("posts").orderBy("title", "asc").limit(10).get().then((querySnapshot) => {
+        DB.collection("posts").orderBy("created_at", "desc").orderBy("title", "asc").limit(10).get().then((querySnapshot) => {
           $('#posts-table tbody').html('')
           querySnapshot.forEach((doc) => {
             loadPosts(doc)
@@ -196,7 +196,8 @@
       $(document).on('click', '#create-post', function(){
         DB.collection("posts").add({
           title: "New Post",
-          created_by: window.current_user_email
+          created_by: window.current_user_email,
+          created_at: firebase.firestore.Timestamp.now()
         })
         .then((docRef) => {
             console.log("Document written with ID: ", docRef.id);
