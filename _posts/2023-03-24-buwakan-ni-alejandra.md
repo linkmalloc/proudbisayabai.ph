@@ -68,8 +68,10 @@ Via Commute: Take a V-hire from the Ayala Center Terminal going to Balamban via 
 
 Via Private Vehicle: The place can be navigated on Waze. Whether you are riding a van or your own vehicle, it’s best to navigate via Waze: Buwakan ni Alejandra 0921 812 9664
 
-[](https://g.co/kgs/kZDRXM)
+[https://g.co/kgs/kZDRXM](https://g.co/kgs/kZDRXM)
 
+****
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31391.51755577635!2d123.78030864606322!3d10.426360360823073!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x33a90a60f1d72fc3%3A0x2ae7d7bfc1cdf740!2sBuwakan%20ni%20Alejandra!5e0!3m2!1sen!2sph!4v1679819424029!5m2!1sen!2sph" style="width: 100%; height: 450px;border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/buwakan_ni_alejandra2/11.jpg)
