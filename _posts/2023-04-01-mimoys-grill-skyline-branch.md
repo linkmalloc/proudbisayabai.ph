@@ -15,7 +15,7 @@ img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrill
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/cover2.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/cover2.jpg
 img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/12.jpg
-img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/7.jpg
+img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/4.jpg
 img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/8.jpg
 img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/12.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/13.jpg
@@ -33,8 +33,6 @@ Indulge in their amazing dishes as you wander in the breathtaking scenery. It’
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/3.jpg)
 
-****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/4.jpg)
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/5.jpg)
@@ -61,6 +59,9 @@ After a lengthy, breathtaking descent, it is always a delight to arrive in this 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/2.jpg)
 
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/7.jpg)
 
 It might be daylight or at nightfall, dining here is refreshing because of the mellow vibe.  
 
