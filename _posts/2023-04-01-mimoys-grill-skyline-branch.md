@@ -19,7 +19,7 @@ img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline
 img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/8.jpg
 img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/12.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/13.jpg
-photo_credit: "Edward Charles Tinga \| PBB Official Photographer  "
+photo_credit: "Edward Charles Tinga - PBB Official Photographer"
 photo_credit_link: ""
 editor: "John Manuel Derecho"
 read_time: "4 minutes"
