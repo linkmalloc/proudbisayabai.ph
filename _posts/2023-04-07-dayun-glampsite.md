@@ -47,7 +47,7 @@ Lahi rajod ang feeling kung naa ka sa bukid, bai!
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dayunglampsite/3.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dayunglampsite.6.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dayunglampsite/6.jpg)
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dayunglampsite/11.jpg)
