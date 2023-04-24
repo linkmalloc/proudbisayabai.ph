@@ -30,10 +30,10 @@ Looking for a scenic adventure with friends? Look no further than Mt. Tagaytay, 
 The location, also known as "Old Bucao" among locals, is famous for its scenic views of Malubog Lake. The serene lake nestled in the mountains adds an extra layer of natural beauty to the already breathtaking landscape. It's a perfect spot for nature lovers and photography enthusiasts alike.  
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mt_tagaytay/4.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mt_tagaytay/12.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mt_tagaytay/6.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mt_tagaytay/11.jpg)
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mt_tagaytay/7.jpg)
@@ -44,17 +44,23 @@ The location, also known as "Old Bucao" among locals, is famous for its scenic v
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mt_tagaytay/10.jpg)
 
-
-****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mt_tagaytay/11.jpg)
+At Mt. Tagaytay, you can immerse yourself in nature's majesty and enjoy panoramic vistas that are perfect for Instagram-worthy photos. Setting up camp amidst the lush greenery is also a great option for those who want to experience the beauty of the mountains up close and personal.  
 
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mt_tagaytay/12.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mt_tagaytay/4.jpg)
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mt_tagaytay/6.jpg)
+
 
 So, if you're seeking a scenic adventure with picturesque views and camping spots, Mt. Tagaytay in Toledo, Cebu is the place to be. Get ready to fall in love with nature all over again and create unforgettable memories amidst the stunning beauty of Tagaytay Hills.
 
-📍Located at Brgy. Gen. Climaco in Toledo City 
+Located at Brgy. Gen. Climaco in Toledo City 
 
-How to get there: 
-From Toledo City, drop-off in the Julie’s Bakeshop in Brgy. Magdugo. Then take a habal-habal (P60/pair) going to Brgy. Gen. Climaco. Then ask locals the way to Tagaytay Hills jump-off point.
+
+###### How to get there:  
+
+From Toledo City, drop-off in the Julie’s Bakeshop in Brgy. Magdugo.   
+Then take a habal-habal (P60/pair) going to Brgy. Gen. Climaco.   
+Then ask locals the way to Tagaytay Hills jump-off point.
