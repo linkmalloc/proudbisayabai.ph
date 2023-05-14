@@ -36,6 +36,17 @@ It provides various beautiful panoramas overlooking parts of Cebu City and the n
 Additionally, there are several flower farms in the neighborhood, and locals use a man-made pond to irrigate their farms. The widely recognized Budlaan Falls and several other tiny waterfalls along the route offer swimming opportunities preceding the camping. It would be an ideal plan to gaze at the stars here at night while you reminisce on your life. You can also make a bonfire while enjoying some toasted marshmallows with your friends.  
 
 ****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kang-irag/15.jpg)
+
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kang-irag/12.jpg)
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kang-irag/13.jpg)
+
+
+****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kang-irag/6.jpg)
 
 ****
@@ -54,16 +65,7 @@ Additionally, there are several flower farms in the neighborhood, and locals use
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kang-irag/11.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kang-irag/12.jpg)
-
-****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kang-irag/13.jpg)
-
-****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kang-irag/14.jpg)
-
-****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kang-irag/15.jpg)
 
 Wanderers have always been in awe of and mesmerized as the vicinity offers a wide variety of fascinating and fun activities, including hiking, camping, and more. Everyone needs to experience the area's natural culture before going back to reality.  
 
