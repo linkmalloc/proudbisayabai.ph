@@ -1,7 +1,7 @@
 ---
 author: "PBB Admin"
 layout: post
-title: "Your Premium Drive. \"GAC Motor Cebu Gateway\""
+title: "Mark a new age of excellence with the All-new GAC GS8"
 description: "GAC GS8 Technology is one of the finest in the market and they are so happy to first introduce it with you. "
 categories:
   - brand
@@ -25,7 +25,7 @@ editor: "PBB Editor"
 read_time: "4 minutes"
 ---
 ****
-Mark a new age of excellence with the All-new GAC GS8
+Your Premium Drive: GAC Motor Cebu Gateway  
 
 LOOK: Murag Sign najod ni! 
 
