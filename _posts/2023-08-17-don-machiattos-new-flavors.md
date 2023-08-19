@@ -1,14 +1,14 @@
 ---
-author: "PBB Admin"
+author: "Ariel Alegado PBB Founder"
 layout: post
 title: "Moments of Timeless Pleasure: DON MACCHIATOS UNLOCKED NEW FLAVORS!"
-description: "Last July 21, Ally Mango, the popular mango snack brand, is opening its new branch in Ayala Center Cebu tomorrow!  "
+description: "The first and original ₱39 premium coffee has now launched “Don Darko” and “Dony Berry!”"
 categories:
   - food
 tags:
   - mango
   -  drinks
-  -  desserts               
+  -  coffee               
 views: "10"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/don_machiattos_new_flavors/cover2.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/don_machiattos_new_flavors/cover2.jpg
