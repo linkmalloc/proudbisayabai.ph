@@ -6,7 +6,8 @@ description: "The first and original ₱39 premium coffee has now launched “Do
 categories:
   - food
 tags:
-  - mango
+  - strawberry
+  - choco
   -  drinks
   -  coffee               
 views: "10"
@@ -28,6 +29,10 @@ The first and original ₱39 premium coffee has now launched “Don Darko” and
 
 Introducing the latest additions to the flavor lineup: the dark chocolate macchiato "Don Darko" and the strawberry macchiato "Donya Berry" from Taiwan.  
 
+These are the ideal summertime drinks that are sure to satisfy your sweet tooth. 
+
+It will not only keep you energized but will also help you stay cool on a hot day and increase your level of energy. Let the new tastes sate your sugar cravings while your go-to trendy beverage got a glow up!
+
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/don_machiattos_new_flavors/5.jpg)  
 
@@ -36,11 +41,6 @@ Introducing the latest additions to the flavor lineup: the dark chocolate macchi
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/don_machiattos_new_flavors/12.jpg)
-
-
-These are the ideal summertime drinks that are sure to satisfy your sweet tooth. 
-
-It will not only keep you energized but will also help you stay cool on a hot day and increase your level of energy. Let the new tastes sate your sugar cravings while your go-to trendy beverage got a glow up!
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/don_machiattos_new_flavors/3.jpg)

@@ -1,0 +1,49 @@
+{% assign current_date = site.time | date: "%Y-%m-%d" %}
+{% assign filtered_posts = site.posts | where: 'categories', 'event' | "post.event_date >= current_date" %}
+
+{% if filtered_posts %}
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12">
+                <div class="mt-30 mb-30 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
+                    <div class="widget-header-2 position-relative mb-30">
+                        <h5 class="mt-5 mb-30">Upcoming Events</h5>
+                    </div>
+                </div>
+            </div>
+            {% for post in filtered_posts %}
+
+                {% assign image_big = post.img_big_3000x1144 %}
+                {% unless image_big %}
+                {% assign image_big = site.data.defaults.pageholder.img_big_3000x1144 %}
+                {% endunless %}
+  
+                <article class="col-lg-4 col-md-6 mb-30 wow fadeInUp animated" data-wow-delay="0.2s">
+                    <div class="post-card-1 border-radius-10 hover-up">
+                        <div class="post-thumb thumb-overlay img-hover-slide position-relative"
+                            style="background-image: url({{ image_big }})">
+                            <a class="img-link" href="{{ post.url }}"></a>
+                        </div>
+                        <div class="post-content p-30">
+                            <div class="d-flex entry-meta meta-0 font-small mb-10 justify-content-between">
+                                <div>
+                                    <a tabindex="0">
+                                        <span class="post-cat text-info text-uppercase">Upcoming Event</span>
+                                    </a>
+                                </div>
+                                <div>
+                                    <span class="post-cat mr-0 text-info text-uppercase">{{ post.event_date | date_to_string }}</span>
+                                </div>
+                            </div>
+                            <div class="d-flex post-card-content">
+                                <h5 class="post-title mb-10 font-weight-900">
+                                    <a href="{{ post.url }}">{{ post.title }}</a>
+                                </h5>
+                                <p >{{ post.description | truncatewords : 30}}</p>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+            {% endfor %}
+        </div>
+{% endif %}
