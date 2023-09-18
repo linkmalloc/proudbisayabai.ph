@@ -1,6 +1,8 @@
 version: '3.8'
 services:
   jekyll:
+    environment:
+      - JEKYLL_ENV=development
     build:
       context: .
       dockerfile: Dockerfile

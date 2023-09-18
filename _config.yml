@@ -37,6 +37,9 @@ theme: minima
 # minima theme settings
 show_excerpts: false # set to true to show excerpts on the homepage
 
+# shorten build times by only generating documents and pages that were updated
+# incremental: true
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:

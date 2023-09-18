@@ -21,6 +21,7 @@ photo_credit_link: ""
 editor: "JM Derecho"
 read_time: "4 minutes"
 event_date: 2023-09-23
+published: false
 ---
 ****
 CEBU, Philippines — One of the popular singer-actresses, Sandara Park, is among the lined-up Korean stars to perform at the concert that will take place in the City of Cebu, particularly at the City di Mare Events Grounds on September 23.
