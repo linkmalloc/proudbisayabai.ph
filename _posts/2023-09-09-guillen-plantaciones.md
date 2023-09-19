@@ -13,9 +13,9 @@ tags:
   - pool
   - glamping
 views: "10"
-img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/guillen_plantaciones/cover.jpg
-img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/guillen_plantaciones/cover.jpg
-img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/casa_guillen_plantacionesroca/cover.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/guillen_plantaciones/cover1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/guillen_plantaciones/cover1.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/casa_guillen_plantacionesroca/cover1.jpg
 img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/guillen_plantaciones/10.jpg
 img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/guillen_plantaciones/6.jpg
 img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/guillen_plantaciones/13.jpg
