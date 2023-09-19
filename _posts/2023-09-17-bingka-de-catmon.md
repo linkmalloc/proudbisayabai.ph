@@ -11,9 +11,9 @@ tags:
   - catmon
   - bingka
 views: "10"
-img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bingka_de_catmon/cover2.jpg
-img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bingka_de_catmon/cover2.jpg
-img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bingka_de_catmon/cover2.jpg
+img_big_1000x600: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/bingka_de_catmon/cover2.jpg
+img_big_3000x1144: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/bingka_de_catmon/cover2.jpg
+img_500x500: https://pbb-images.s3.us-east-2.amazonaws.com/images/posts/bingka_de_catmon/cover2.jpg
 img_500_1:
 img_500_2:
 img_500_3:
