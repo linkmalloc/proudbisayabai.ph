@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "NEWLY OPENED: Discover a New Standard of Care at Cebu Healthspec Medical Diagnostic and Dental Clinic  "
 description: "Step into a world of exceptional healthcare at HealthSpec Medical Diagnostic and Dental Clinic,

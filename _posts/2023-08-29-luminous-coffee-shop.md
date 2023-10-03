@@ -1,5 +1,6 @@
 ---
-author: "Andre Salazar"
+author: "Ariel Alegado - PBB Founder"
+author2: "Andre Salazar"
 layout: post
 title: "Luminous Espresso Industry PH: Coffee by the sea"
 description: The shop serves not just freshly brewed coffee, but also a variety of palate-stimulating dishes and desserts, all set to a calming soundscape that brings you closer to the sea.

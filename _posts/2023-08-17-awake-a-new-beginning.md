@@ -1,5 +1,5 @@
 ---
-author: "PBB ADMIN"
+author: "Ariel Alegado - PBB Founder"
 layout: post
 title: "AWAKE: A New Beginning"
 description: "Rise and shine, KPop fans! Experience a new era of entertainment with MB Crew, 1Million, AB6ix, Viviz, Younite, and Sandara Park!"

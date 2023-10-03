@@ -1,5 +1,6 @@
 ---
-author: "Andre Salazar"
+author: "Ariel Alegado - PBB Founder"
+author2: "Andre Salazar"
 layout: post
 title: "Embrace the cozy vibes of October with Castle Peak Hotel's exclusive sale of ₱1,999 (Deluxe Room)!"
 description: "Castle Peak Hotel is a charming boutique hotel located in the heart of Cebu City, Philippines. Just a few minutes away from the city's busy commercial, shopping, and business hub, Castle Peak Hotel offers guests a convenient and comfortable stay."

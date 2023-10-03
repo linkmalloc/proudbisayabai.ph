@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "Pangpang Bar & Restaurant: A Rustic Retreat for Authentic Filipino Cuisine and Adventure"
 description: "Located in the picturesque town of Santa Fe, Cebu, a hidden gem has emerged to redefine dining experiences and offer adventure seekers an adrenaline rush"

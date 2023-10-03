@@ -1,5 +1,6 @@
 ---
-author: "Andre Salazar"
+author: "Ariel Alegado - PBB Founder"
+author2: "Andre Salazar"
 layout: post
 title: Tops Cebu Wins Prestigious International Award for Architecture
 description: The award was given by the Asia Architecture Design Awards (AADA), which is a leading competition that recognizes excellence in architectural design in Asia.

@@ -1,5 +1,5 @@
 ---
-author: "PBB Admin"
+author: "Ariel Alegado - PBB Founder"
 layout: post
 title: "New Ally Mango Branch opens in Ayala Center Cebu!"
 description: "Last July 21, Ally Mango, the popular mango snack brand, is opening its new branch in Ayala Center Cebu tomorrow!  "

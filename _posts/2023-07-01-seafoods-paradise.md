@@ -1,5 +1,6 @@
 ---
-author: "Andre Salazar"
+author: "Ariel Alegado - PBB Founder"
+author2: "Andre Salazar"
 layout: post
 title: "Seafood Paradise SM City Cebu: A Delicious All-You-Can Seafood Buffet"
 description: "Seafood Paradise SM City Cebu is an all-you-can seafood buffet restaurant located in the heart of Cebu City. It offers a wide variety of fresh seafood dishes, as well as other Filipino and international favorites. "

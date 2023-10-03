@@ -1,5 +1,6 @@
 ---
-author: "Andre Salazar"
+author: "Ariel Alegado - PBB Founder"
+author2: "Andre Salazar"
 layout: post
 title: "Bingka de Catmon: Garbo sa Sugbo, Garbo sa Catmon"
 description: "The town of Catmon, Cebu, is known for many things: its beautiful beaches, its lush mountains, and its friendly people. But one thing that Catmon is most famous for is its bingka."

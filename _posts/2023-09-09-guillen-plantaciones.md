@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "Plantation in the Sky: A Sustainable Oasis of Natural Beauty"
 description: Perched at an elevation of 784 meters above sea level and a mere 40-minute drive from Cebu City, Guillen Plantaciones offers a warm welcome with its panoramic vistas.

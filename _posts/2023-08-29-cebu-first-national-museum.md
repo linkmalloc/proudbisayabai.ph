@@ -1,5 +1,6 @@
 ---
-author: "Andre Salazar"
+author: "Ariel Alegado - PBB Founder"
+author2: "Andre Salazar"
 layout: post
 title: First National Museum of Cebu Opens to the Public
 description: The National Museum of the Philippines - Cebu (NMP-Cebu) officially opened its doors to the public on August 1, 2023. The museum is located in the historic Plaza Independencia in Cebu City, and is housed in the former Aduana building, which was built in 1910.  

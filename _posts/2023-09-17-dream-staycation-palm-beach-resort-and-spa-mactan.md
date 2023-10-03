@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "Your Dream Staycation at Palm Beach Resort & Spa, Mactan: Paradise Within Reach"
 description: "Craving a weekend escape to paradise without the hassle of traveling far? Look no further than Palm Beach Resort & Spa in Lapu-Lapu, just a stone's throw away from Cebu City."

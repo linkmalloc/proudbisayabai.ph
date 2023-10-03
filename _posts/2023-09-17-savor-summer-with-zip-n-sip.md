@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "Savor Summer with Zip 'N Sip: Refreshing Delicacies to Beat the Heat  "
 description: "As the scorching sun ushers in the summer season, there's no better way to beat the heat than with Zip 'N Sip's mouthwatering smoothies."

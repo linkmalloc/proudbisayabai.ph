@@ -1,5 +1,6 @@
 ---
-author: "Andre Salazar "
+author: "Ariel Alegado - PBB Founder"
+author2: "Andre Salazar "
 layout: post
 title: "Majestic Water Curtain of Bislig, Tinuy-an Falls!"
 description: "The wildest waterfall in the Philippines hails in Surigao Del Sur Borboanan, Bislig City."

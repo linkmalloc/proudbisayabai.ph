@@ -1,5 +1,6 @@
 ---
-author: "Andre Salazar"
+author: "Ariel Alegado - PBB Founder"
+author2: "Andre Salazar"
 layout: post
 title: "Bakoo Caribbean RestoBar: A Taste of the Caribbean in Cebu"
 description: "Bakoo Caribbean RestoBar offers Cebu a taste of the Caribbean. Located in the heart of the city, Bakoo is the perfect place to escape the hustle and bustle of everyday life."

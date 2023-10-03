@@ -1,5 +1,6 @@
 ---
-author: "Andre Salazar"
+author: "Ariel Alegado - PBB Founder"
+author2: "Andre Salazar"
 layout: post
 title: "Escape to Paradise: Experience Mabini Sky View Resort in Cebu City"
 description: "Mabini Sky View is a resort located on the mountainside of Barangay Mabini, Cebu City. It offers stunning views of the city skyline, as well as the neighboring cities of Mandaue and Lapu-Lapu. The resort has a variety of amenities, including an infinity pool, a jacuzzi, a restaurant, and a bar. There are also several cottages and villas available for guests to stay in."
