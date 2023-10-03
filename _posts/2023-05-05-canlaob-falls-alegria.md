@@ -1,5 +1,5 @@
 ---
-author: "PBB Admin"
+author: "Ariel Alegado - PBB Founder"
 layout: post
 title: "Discover the Breathtaking Canlaob Falls in Alegria, Cebu"
 description: "Nestled in the picturesque town of Alegria in Cebu, Philippines, lies a hidden treasure waiting to be explored – Canlaob Falls. This natural wonder is a sight to behold, boasting stunning beauty and a serene atmosphere. As you venture through the scenic landscapes, the melodious sound of cascading water will lead you to an unforgettable experience."

@@ -1,5 +1,6 @@
 ---
-author: "Andre Salazar"
+author: "Ariel Alegado - PBB Founder"
+author2: "Andre Salazar"
 author_img: ""
 layout: post
 title: "La Vie In The Sky, where views are best up there!"

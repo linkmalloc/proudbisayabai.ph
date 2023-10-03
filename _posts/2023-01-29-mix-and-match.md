@@ -1,5 +1,6 @@
 ---
-author: "Andre Salazar"
+author: "Ariel Alegado - PBB Founder"
+author2: "Andre Salazar"
 layout: post
 title: "MIX AND MATCH, All in one place!"
 description: "Super amazed with the first JFC Multi-Brand Concept Store in Cebu (3rd in the Country) at the CityMall N.Bacalso. This store allows you to mix and match all your JFC Favorites in one meal."

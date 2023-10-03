@@ -1,5 +1,6 @@
 ---
-author: "Andre Salazar"
+author: "Ariel Alegado - PBB Founder"
+author2: "Andre Salazar"
 layout: post
 title: "CARELESS TAKES OVER CEBU: Wavy Baby Music Festival"
 description: "Less than 10 days left before the biggest and much-awaited concert this Sinulog commences! Don’t miss out Wavy Baby Music Festival happening this January 13-14 in the North Reclamation Area of Mandaue City. The Waviest performers on the local and international scene will bring out the mix of art and music for this year’s comeback of Sinulog 2023."

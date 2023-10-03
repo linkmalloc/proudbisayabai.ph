@@ -1,5 +1,6 @@
 ---
-author: "Christian Lucky Bunao Saligumba"
+author: "Ariel Alegado - PBB Founder"
+author2: "Christian Lucky Bunao Saligumba"
 layout: post
 title: "Archdiocese of Cebu: Fashion Show for a Good Cause at the Waterfront Hotel and Casino"
 description: "The Archdiocese of Cebu is set to showcase a fashion event that combines modern fashion with traditional Sunday's best, and it's all for a good cause, in the name of \"Le Voile\". "

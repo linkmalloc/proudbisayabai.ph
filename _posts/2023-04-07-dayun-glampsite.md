@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "Unwind and Blend in with Nature at Dayun Glampsite "
 description: "Experience pleasurable activities to partake in during your break. Feel a cozy vibe while enjoying delicious foods at Dayún Glampsite! It is ideal for romantic getaways and is family-friendly."

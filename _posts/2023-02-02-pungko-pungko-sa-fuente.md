@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "Experience the Authentic Roadside Diner with Pungko-Pungko sa Fuente"
 description: "Craving for a Cebuano delicacy? Treat your family and friends to some authentic Cebuano Street foods! "

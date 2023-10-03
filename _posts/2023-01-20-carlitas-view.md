@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "A Peek of Wonder: The Beauty of Carlitas View Beach Resort"
 description: "Be stashed away in a highland forest with a view of the sea portraying the ideal excursion for leisure and recharge. Witness the tremendous palm trees, coastlines, depictions of fish and wildlife, and the ocean breeze that await as you take beautiful walks at&nbsp;Carlitas View Beach Resort.  "

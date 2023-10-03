@@ -1,5 +1,5 @@
 ---
-author: "PBB Admin"
+author: "Ariel Alegado - PBB Founder"
 layout: post
 title: "Mark a new age of excellence with the All-new GAC GS8"
 description: "GAC GS8 Technology is one of the finest in the market and they are so happy to first introduce it with you. "

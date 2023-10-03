@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "Feel at Ease as You Take a Break at Lake Bensis"
 description: "Enjoy the water adventure and experience the panoramic view of Lake Bensis in Toledo City, Cebu!"

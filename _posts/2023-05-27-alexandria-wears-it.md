@@ -1,5 +1,5 @@
 ---
-author: "PBB Admin"
+author: "Ariel Alegado - PBB Founder"
 layout: post
 title: "Your journey to twinning with your little one starts here!"
 description: "Happy babies are the prettiest."

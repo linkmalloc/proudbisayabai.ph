@@ -1,5 +1,6 @@
 ---
-author: "Andre Salazar"
+author: "Ariel Alegado - PBB Founder"
+author2: "Andre Salazar"
 layout: post
 title: "KAHOY CAFÉ, BAGO SA SUGBO!"
 description: "Kahoy Café is a newly opened café in Consolacion, Cebu that offers a warm and welcoming atmosphere for coffee lovers and foodies alike. This quaint and cozy café boasts a menu full of delicious and innovative dishes, as well as a wide selection of specialty coffees and teas. "

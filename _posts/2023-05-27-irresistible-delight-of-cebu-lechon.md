@@ -1,5 +1,6 @@
 ---
-author: "Christian Lucky Saligumba"
+author: "Ariel Alegado - PBB Founder"
+author2: "Christian Lucky Saligumba"
 layout: post
 title: "The Irresistible Delight of Cebu's Lechon: Why It Reigns Supreme in the Philippines"
 description: "Lechon, the succulent roasted pig, is a cherished culinary gem in the Philippines. It has become an integral part of Filipino celebrations, symbolizing festivity, abundance, and culinary artistry."

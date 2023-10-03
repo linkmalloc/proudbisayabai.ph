@@ -1,5 +1,6 @@
 ---
-author: "Daniela Tinamisan Calvez - Social Media Manager"
+author: "Ariel Alegado - PBB Founder"
+author2: "Daniela Tinamisan Calvez - Social Media Manager"
 layout: post
 title: "A taste of little Batanes of Cebu"
 description: "Experience adventure and trek with friends at Mt. Tagaytay Toldeo Cebu! Take a deep breath and soak in the breathtaking beauty of these towering mountains!"

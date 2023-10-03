@@ -1,5 +1,5 @@
 ---
-author: "PBB Admin"
+author: "Ariel Alegado - PBB Founder"
 layout: post
 title: "Best places to raise a family in Cebu"
 description: "Cebu is undoubtedly a fantastic place to live in: it is vibrant, dynamic, and full of exciting activities and destinations. It is no surprise that many are looking for the perfect home in Cebu, especially one that best fits their family. One of the crucial considerations for homebuyers is the neighborhood’s suitability for raising and nurturing a household. Fortunately, there are many choices for families to thrive and grow, including Camella communities in Cebu. "

@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "BECOMING ICE: The 35th Anniversary Concert Sets to Launch this February 2023 in Cebu!"
 description: "\"Becoming Ice: The 35th Anniversary Concert\" will perform again, this time for music lovers in the south, after a successful performance in The Theatre at Solaire Resort in October to a sold-out crowd. On February 18, the concert is scheduled to take place at the Pacific Grand Ballroom of the Waterfront Cebu Hotel and Casino in Cebu City."

@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "Savor the Modern Japanese Food While Soaking Up the Horizon at Liel's Kitchen in Cebu"
 description: "In the Serenity Farm and Resort complex, just approximately 30 minutes from the city, lies Liel's Kitchen, a restaurant serving contemporary Japanese food. They offer you the most in-depth exploration of Japanese culture and daring food trips with a panoramic view of mountain ranges as one of the things to overcome the emotional-mental condition of melancholy, feeling smothered, and living in a bizarre sanctuary."

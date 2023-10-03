@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "Have a Cozy Experience at Mimoy's Grill Cebu!"
 description: "Indulge in their amazing dishes as you wander in the breathtaking scenery. It’s going to be a different experience with a bonfire night as you talk about life, which is perfect for a cozy evening.  "

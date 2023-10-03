@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "Take in the Heavenly View at Kang-Irag Peak as you Reconnect with Nature"
 description: "Disconnect to reconnect with nature as you leave the hustle and bustle behind. Embrace the serenity of the great outdoors with camping and experience the wonderful mountain view of Kang-irag Peak in Barangay Sirao, Cebu City!  "

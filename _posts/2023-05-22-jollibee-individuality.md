@@ -1,5 +1,6 @@
 ---
-author: "Andre Salazar"
+author: "Ariel Alegado - PBB Founder"
+author2: "Andre Salazar"
 author_img: ""
 layout: post
 title: "JOLLIBEE EMBRACES INCLUSIVITY"

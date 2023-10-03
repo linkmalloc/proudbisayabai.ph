@@ -1,5 +1,6 @@
 ---
-author: "Andre Salazar, PBB Content Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Andre Salazar, PBB Content Writer"
 layout: post
 title: "Dahilayan Forest Park Resort: A Nature Lover's Paradise in Bukidnon"
 description: "The Philippines is well-known for its stunning landscapes and gorgeous beaches, but it also offers unique experiences that go beyond the typical destinations for tourists. The Dahilayan Forest Park Resort, a paradise for nature lovers in Manolo Fortich, Bukidnon, is one of these undiscovered treasures."

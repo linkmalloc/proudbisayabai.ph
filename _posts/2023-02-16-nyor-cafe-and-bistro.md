@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "A Good Cup of Joe: The NEWLY OPENED Cafe + Bistro in Cebu City! "
 description: "Are you looking for a cozy conversation over a cuppa and perhaps some cuisine to accompany it? The Nyor Cafe + Bistro is officially open for business!   "

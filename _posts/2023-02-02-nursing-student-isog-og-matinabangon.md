@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: CCPO honored Angyl Fayth Ababat, a UC Nursing student who saved a 'slashed' mango seller
 description:  Angyl Fayth Ababat, a second-year nursing student at the University of Cebu-Banilad, honored by the Cebu City Police Office (CCPO)

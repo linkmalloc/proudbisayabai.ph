@@ -1,5 +1,5 @@
 ---
-author: "PBB Admin"
+author: "Ariel Alegado - PBB Founder"
 layout: post
 title: "How Lalamove Empowers Businesses Owners like Kim Chiu Through Affordelivery "
 description: "Cebuana actress Kim Chiu recently fulfilled her dream of owning a business when she launched House of Little Bunny, an online shop that sells fashionable and dainty tote bags and crossbody bags to complete one’s wardrobe, accommodating local consumers and even those abroad. "

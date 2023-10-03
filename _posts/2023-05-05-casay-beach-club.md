@@ -1,5 +1,5 @@
 ---
-author: "PBB Admin"
+author: "Ariel Alegado - PBB Founder"
 layout: post
 title: "₱50 Summer Getaway: Embrace the Sun at Casay Beach Club!"
 description: "Summer is still just within reach, and it's time to seize the opportunity! Don't let it slip away, my friend! Make your way to Casay Beach Club, where for just ₱50 pesos, you can embark on an incredible summer getaway. Pack your bags, bring your most stylish summer outfits, and get ready to bask in the warmth of the sun at this idyllic beach haven.  "

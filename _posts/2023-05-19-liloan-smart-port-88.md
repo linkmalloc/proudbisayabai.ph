@@ -1,5 +1,6 @@
 ---
-author: "Christian Lucky Bunao Saligumba"
+author: "Ariel Alegado - PBB Founder"
+author2: "Christian Lucky Bunao Saligumba"
 layout: post
 title: "Liloan to Open Cebu's First Smart Port, Easing Traffic Congestion and Boosting Connectivity"
 description: "Liloan, is gearing up to launch the region's first smart port later this month. The opening of Pier 88 Port, scheduled for May 27, 2023, promises improved transportation options for commuters in Cebu and other Visayan provinces. Located in Barangay Poblacion, Pier 88 Port will cater to travelers heading to and from various destinations, including Metro Cebu, the Camotes group of islands, and Bohol and Leyte provinces."

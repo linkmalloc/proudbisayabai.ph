@@ -1,5 +1,6 @@
 ---
-author: "Christian Lucky Saligumba"
+author: "Ariel Alegado - PBB Founder"
+author2: "Christian Lucky Saligumba"
 layout: post
 title: "Redmi Note 12 Series: The Perfect Phone for Every Juan"
 description: "Xiaomi recently unveiled its latest budget smartphone lineup, the Redmi Note 12 Series, at the Rocks Grill and Tavern.  "

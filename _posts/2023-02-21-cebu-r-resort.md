@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "#VisitCebuPH: Be Refreshed and Walk on CEBU R Resort's Taintless Beach"
 description: "Trying to achieve that sleek minimalistic vibe on your Instagram feed? Cebu R Resort’s vibes and ambience got you!"

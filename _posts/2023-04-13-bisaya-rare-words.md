@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "Rare Bisaya Words You Should Know"
 description: "One of the eight main languages in the Philippines, Bisaya is widely used throughout the Visayan islands and in some areas of Mindanao."

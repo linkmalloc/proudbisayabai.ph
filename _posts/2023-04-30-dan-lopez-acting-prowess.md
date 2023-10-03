@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "Proud Bisaya: Dan Lopez's Acting Prowess have brought Cebuano Pride to Hollywood"
 description: "Movie stars have existed since the advent of motion pictures. The key need for becoming regarded as one of the greatest actors in history is the capacity to embody multiple identities simultaneously. In order for the words on the page to come across as lived and felt, you must be able to act—to truly convey a character's deepest feelings and embrace the fabric of their being."

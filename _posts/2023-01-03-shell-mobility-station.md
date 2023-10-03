@@ -1,5 +1,6 @@
 ---
-author: "Lovers Lane Quiamco, Head Writer"
+author: "Ariel Alegado - PBB Founder"
+author2: "Lovers Lane Quiamco, Head Writer"
 layout: post
 title: "Shell Robinsons Mobility Station: The First Ever Gallery-Themed Gas Station in Cebu"
 description: "Try some fresh Mon Dough pastries and sip a coffee while unwinding and chatting with friends as you fall in love with the beautiful piece of art experience! Shell Robinsons Mobility Station is the first gallery-themed Shell Mobility Destination in the world."
