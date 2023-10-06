@@ -3,7 +3,7 @@ author: "Ariel Alegado - PBB Founder"
 author2: "Andre Salazar"
 layout: post
 title: "Boss Bebeh Bistro Cafe: Your One-Stop Shop for Delicious Food and Fun in Cebu"
-description: "Boss Bebeh Bistro Cafe is a newly opened restaurant and cafe in Cebu City that offers a wide variety of delicious food and drinks, as well as a relaxed and inviting atmosphere. It is the perfect place to go for a casual meal with friends or family, or to enjoy a cup of coffee and a pastry while working on your laptop."
+description: "Boss Bebeh Bistro Cafe is a newly opened restaurant and cafe in Talisay City Cebu that offers a wide variety of delicious food and drinks, as well as a relaxed and inviting atmosphere. It is the perfect place to go for a casual meal with friends or family, or to enjoy a cup of coffee and a pastry while working on your laptop."
 categories: 
   - food
 tags:
@@ -26,7 +26,7 @@ editor: "JM Derecho"
 read_time: "3 minutes"
 ---
 ****
-Boss Bebeh Bistro Cafe is a newly opened restaurant and cafe in Cebu City that offers a wide variety of delicious food and drinks, as well as a relaxed and inviting atmosphere. It is the perfect place to go for a casual meal with friends or family, or to enjoy a cup of coffee and a pastry while working on your laptop.
+Boss Bebeh Bistro Cafe is a newly opened restaurant and cafe in Talisay City Cebu that offers a wide variety of delicious food and drinks, as well as a relaxed and inviting atmosphere. It is the perfect place to go for a casual meal with friends or family, or to enjoy a cup of coffee and a pastry while working on your laptop.
 
 It is a budget-friendly restaurant that offers delicious food with a classy presentation. The menu at Boss Bebeh Bistro Cafe features something for everyone, from Filipino classics like adobo and sinigang to international favorites like pizza and burgers. 
 
@@ -49,10 +49,14 @@ See packages below. Minimum of 40 pax.
 - Beautiful ambiance
 - Accommodating staff
 - Convenient parking
-
+- KTV / Karaoke
+- Acoustic band every Friday and Saturday night
 ****
 Facebook Page:  
 [https://www.facebook.com/bossbebehcafetalisay?mibextid=LQQJ4d](https://www.facebook.com/bossbebehcafetalisay?mibextid=LQQJ4d)
+
+****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/boss_bebeh/15.jpg)
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/boss_bebeh/1.jpg)
