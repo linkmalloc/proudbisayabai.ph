@@ -5,7 +5,7 @@
               {% include carousel.html posts=site.data.defaults.posts %}
 
               {% include ads.article.html ad=site.data.ads.article %}
-              {% for post in site.posts limit: 3 %}
+              {% for post in site.posts limit: 2 %}
 
               {% assign image_big = post.img_big_3000x1144 %}
               {% unless image_big %}
@@ -52,6 +52,32 @@
               </article>
 
               {% endfor %}
+
+              <article class="col-lg-4 col-md-6 mb-30 wow fadeInUp animated" data-wow-delay="0.2s">
+                <div class="post-card-1 border-radius-10 hover-up">
+                    <div class="post-thumb thumb-overlay img-hover-slide position-relative"
+                        style="background-image: url(https://d3hukd8e3cn3kb.cloudfront.net/images/posts/best_cebu_blog_awards_2023/1.jpg)">
+                        <a class="img-link" href="https://docs.google.com/forms/d/e/1FAIpQLSf2_KkaPUT9D8NBz5rLLObYHPiEpv7N2EXFE-rG9ou7sfmBxw/viewform"></a>
+                    </div>
+                    <div class="post-content p-30">
+                        <div class="entry-meta meta-0 font-small mb-10">
+                            
+                        </div>
+                        <div class="d-flex post-card-content">
+                            <h5 class="post-title mb-20 font-weight-900">
+                                <a href="https://docs.google.com/forms/d/e/1FAIpQLSf2_KkaPUT9D8NBz5rLLObYHPiEpv7N2EXFE-rG9ou7sfmBxw/viewform">FINALIST Best Cebu Travel Blog 2023</a>
+                            </h5>
+                            <p>We're one of the three finalist under the travel blog category for this year's Best Cebu Blogs Awards.</p>
+                            <strong>Vote for proudbisayabai.ph</strong>
+                            <div class="mt-4">
+                                <a class="btn btn-primary btn-sm" href="https://docs.google.com/forms/d/e/1FAIpQLSf2_KkaPUT9D8NBz5rLLObYHPiEpv7N2EXFE-rG9ou7sfmBxw/viewform">
+                                    Vote here
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </article>
           </div>
       </div>
   </div>
