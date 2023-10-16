@@ -7,10 +7,9 @@ description: "Proven, colloquially christened from its roots in Cebu, is a celeb
 categories: 
   - destination
 tags:
-  - wedding
-  - river
+  - proven
+  - food
   - cebu
-  - aloguinsan
 views: "10"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/proven_ni_zen/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/proven_ni_zen/cover.jpg

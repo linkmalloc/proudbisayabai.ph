@@ -3,14 +3,13 @@ author: "Ariel Alegado - PBB Founder"
 author2: ""
 layout: post
 title: "South Palms Resort Panglao: Your Bohol Beach Getaway"
-description: "Proven, colloquially christened from its roots in Cebu, is a celebrated street food that tantalizes the taste buds and piques the curiosity of all who encounter it."
+description: "Looking for a dream beach holiday this weekend? South Palms Resort Panglao is the perfect place to escape to.  "
 categories: 
   - destination
 tags:
-  - wedding
-  - river
+  - resort
   - cebu
-  - aloguinsan
+  - beach
 views: "10"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/south_palm/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/south_palm/cover.jpg
