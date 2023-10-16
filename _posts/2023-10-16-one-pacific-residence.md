@@ -36,8 +36,8 @@ No matter which project you choose, you're sure to enjoy a luxurious and conveni
 
 For more details, informations and inquiries please follow their official accounts:  
 
-Facebook: [https://www.facebook.com/OfficialMegaworldRegionalRFO?mibextid=LQQJ4d](https://www.facebook.com/OfficialMegaworldRegionalRFO?mibextid=LQQJ4d)  
-Instagram: [https://instagram.com/megaworldregional_rfo?igshid=MzRlODBiNWFlZA==](https://instagram.com/megaworldregional_rfo?igshid=MzRlODBiNWFlZA==)  
+[Facebook:](https://www.facebook.com/OfficialMegaworldRegionalRFO?mibextid=LQQJ4d)  
+[Instagram:](https://instagram.com/megaworldregional_rfo?igshid=MzRlODBiNWFlZA==)  
 Tiktok: megaworldregional_rfo  
 
 ****
