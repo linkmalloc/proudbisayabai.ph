@@ -24,6 +24,8 @@ editor: "JM Derecho"
 read_time: "3 minutes"
 ---
 ****
+You Are Not Alone!
+
 This has been my motto in life, and it is what reminded me to push myself to become where I am today. I have been blogging for a long time, but during the pandemic, I became more immersed in impacting people's lives through my writing. I specifically focused on letting Cebuanos know about newly opened places in the city and must-awaited events, giving them the quality time they need with their loved ones.  
 
 My friend and I were so into cafe hopping, and when we started sharing our experiences, people wanted to know more. As we made more and more posts, more and more opportunities came in. Most importantly, in essence, there is always a plan being made with people whenever we post, seeing a lot of comments from their friends and family. This is when I knew that in every post we make, we let everyone know that they are not alone.  
