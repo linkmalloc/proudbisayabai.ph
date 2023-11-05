@@ -40,8 +40,8 @@ Anit's Beach Resort is a newly-opened private beach house located in the North o
 🗺 Via Waze / Google Map: The place can be navigated on Waze. Whether you are riding a motorbike or your own vehicle, it’s best to navigate via Waze / Google Map: M2F9+3WW Anit's Beach Resort, Bachao, Catmon, Cebu  
 
 🎉 Rates:
-- P8,500 - Daily Rate (Whole Resort Exclusive for up to 30 pax)
-- P2,500 - Daily Rate (Rooms only)  
+• P8,500 - Daily Rate (Whole Resort Exclusive for up to 30 pax)  
+• P2,500 - Daily Rate (Rooms only)   
 ****
 📌 Amenities: 
 - Billiard
