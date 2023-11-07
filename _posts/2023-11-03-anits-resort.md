@@ -51,16 +51,16 @@ Via Waze / Google Map: The place can be navigated on Waze. Whether you are ridin
 • P10,500 - 12,500 - Daily Rate (Fridays - Sundays)  
 
 ###### Amenities:   
-‌- Billiard
-‌- Kubo
-‌- Kayak
-‌- Campfire
-‌- Videoke
-‌- Air-conditioned Rooms
-‌- Hammocks
-‌- Use of Full Kitchen Essentials
-‌- No corkage fee
-‌- Spacious Parking
+- Billiard
+- Kubo
+- Kayak
+- Campfire
+- Videoke
+- Air-conditioned Rooms
+- Hammocks
+- Use of Full Kitchen Essentials
+- No corkage fee
+- Spacious Parking
 - ‌Panoramic View of North-Eastern Cebu waters
 
 ****
