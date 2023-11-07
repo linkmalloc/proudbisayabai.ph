@@ -2,7 +2,7 @@
 author: "Andre Salazar"
 author2: ""
 layout: post
-title: "Anit's Beach Resort: A Newly-Opened Exclusive Beach House in North Cebu  "
+title: "Escape to Tranquility at Anit's Beach Resort"
 description: "With breathtaking views of the ocean and a wide range of amenities, this exclusive beach house is the perfect place to unwind and relax."
 categories: 
   - story
@@ -23,41 +23,45 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/anits/11.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/anits/10.jpg
 photo_credit: Adrian Parami
 photo_credit_link:
-editor: "Ariel Alegado - PBB Founder"
+editor: "Evner Negro"
 read_time: "3 minutes"
 ---
 ****
-Escape to the tranquility of Anit's Beach Resort, a newly-opened private beach house located in the idyllic town of Catmon in North Cebu. With breathtaking views of the ocean and a wide range of amenities, this exclusive beach house is the perfect place to unwind and relax.  
+Are you in search of the perfect getaway to unwind and relax? Look no further! Anit's Beach Resort in Catmon, in North Cebu, is your ultimate destination for serenity and comfort.  
 
-Anit's Beach Resort boasts spacious and comfortable rooms that can accommodate up to 30 guests, making it an ideal venue for family gatherings, team buildings, retreats, and reunions. From the balcony or the swimming pool, you can enjoy a panoramic view of the North-Eastern Cebu waters that will leave you breathless.  
+Imagine waking up to the soothing sound of waves and a panoramic view of the ocean. Anit's Beach Resort offers you exactly that - a picturesque escape from the hustle and bustle of daily life.  
 
-Aside from the resort's fantastic amenities, Anit's Beach Resort is located near several other tourist attractions, including the famous Malapascua Island, known for its white sand beaches and crystal-clear waters. Kawasan Falls, a cascading waterfall with turquoise pools that are perfect for swimming, and Osmeña Peak, the highest point in Cebu, are also nearby, providing plenty of opportunities for adventure and exploration.  
+Anit's Beach Resort boasts spacious and comfortable rooms that can accommodate up to 50 guests. It's an ideal venue for family gatherings, tteam-buildingevents, retreats, and reunions. You and your loved ones will find the perfect space to create lasting memories.  
 
-If you are looking for a relaxing and affordable place to vacation in Cebu, Anit's Beach Resort is the perfect choice for you. With its stunning views, spacious rooms, and wide range of amenities, Anit's Beach Resort has something to offer everyone.  
+Whether you're looking to relax by the beach, take a dip in the sea, or simply enjoy the tranquil ambiance, Anit's Beach Resort has you covered. From ltrolls along the shore to exhilarating kayak activities, your stay promises a world of relaxation.  
 
-Exact location: Sitio Bachao, Catmondaan, Catmon, Cebu   
+Anit's Beach Resort is not only a place of serenity but also affordability. They understand the importance of a relaxing vacation without breaking the bank. You'll be pleasantly surprised by their rates and the value they provide.   
 
-###### How to get there?  
+Don't miss out on the opportunity to experience the beauty of Anit's Beach Resort in Catmon, in North Cebu. Book your escape today and treat yourself to a serene, unforgettable getaway.  
 
+Exact location: Sitio Bachao, Catmondaan, Catmon, Cebu  
+
+How to get there?   
 Via Commute: From Cebu Northbus Terminal ride a bus going to Catmon. Then tell the driver or conductor to drop you off at Anit's Beach Resort near La Casa de Playa at Barangay Catmondaan.  
 
-Via Waze / Google Map: The place can be navigated on Waze. Whether you are riding a motorbike or your own vehicle, it’s best to navigate via Waze / Google Map: M2F9+3WW Anit's Beach Resort, Bachao, Catmon, Cebu  
+Via Waze / Google Map: The place can be navigated on Waze. Whether you are riding a motorbike or your oehicle, it’s best to navigate via Waze / Google Map: M2F9+3WW Anit's Beach Resort, Bachao, Catmon, Cebu  
 
-###### Rates:
-• P8,500 - Daily Rate (Whole Resort Exclusive for up to 30 pax)  
-• P2,500 - Daily Rate (Rooms only)   
+###### Rates:  
+• P8,500 - 10,500 - Daily Rate (Mondays - Thursdays)  
+• P10,500 - 12,500 - Daily Rate (Fridays - Sundays)  
 
-###### Amenities: 
-• Billiard  
-• Kayak  
-• Campfire  
-• Videoke  
-• Air-conditioned Rooms   
-• Hammocks  
-• Use of Full Kitchen Essentials  
-• No corkage fee  
-• Spacious Parking  
-• Panoramic View of North-Eastern Cebu waters  
+###### Amenities:   
+‌- Billiard
+‌- Kubo
+‌- Kayak
+‌- Campfire
+‌- Videoke
+‌- Air-conditioned Rooms
+‌- Hammocks
+‌- Use of Full Kitchen Essentials
+‌- No corkage fee
+‌- Spacious Parking
+- ‌Panoramic View of North-Eastern Cebu waters
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/anits/21.jpg)
