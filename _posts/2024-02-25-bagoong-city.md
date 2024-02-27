@@ -12,9 +12,9 @@ tags:
   - salted chili bagoong
   - best bagoong
 views: "10"
-img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bagoong_city/cover.jpg
-img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bagoong_city/cover.jpg
-img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bagoong_city/cover.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bagoong_city/cover1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bagoong_city/cover1.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bagoong_city/cover1.jpg
 img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bagoong_city/6.jpg
 img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bagoong_city/10.jpg
 img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bagoong_city/11.jpg
@@ -58,19 +58,6 @@ Bagoong City is also open for franchising!
 
 Join the Bagoong City family and be a part of a successful journey towards dealing with everyone’s craving.   
 
-
-
-****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bagoong_city/3.jpg)
-
-****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bagoong_city/4.jpg)
-
-****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bagoong_city/5.jpg)
-
-****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bagoong_city/6.jpg)
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bagoong_city/7.jpg)
