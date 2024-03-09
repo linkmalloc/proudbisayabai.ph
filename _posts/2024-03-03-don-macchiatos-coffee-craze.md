@@ -1,5 +1,5 @@
 ---
-author: "Ariel Alegado - PBB Founder"
+author: "Andre Salazar"
 author2: ""
 layout: post
 title: "Indulge Without Breaking the Bank: Don Macchiatos' 39-Peso Coffee Craze"
