@@ -2,7 +2,7 @@
 author: "Andre Salazar, Content creator"
 author2: ""
 layout: post
-title: "CEBU’S MOST AFFORDABLE LEMONADE, ANOTHER ONE FROM DON MACCHIATOS BUSINESS VENTURE"
+title: "CEBU’S MOST AFFORDABLE LEMONADE, Another One From DON MACCHIATOS Business Venture"
 description: "Cebu's beverage scene just got a zestier twist with the grand opening of Don Lemon Philippines in Tisa."
 categories: 
   - food
