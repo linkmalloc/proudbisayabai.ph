@@ -38,7 +38,7 @@ This year's pageant, held at the grand Manila Convention Center, saw a dazzling 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hiyas_ng_pilipinas/p8.jpg)
 
-The crown of Hiyas nang Pilipinas carries with it a responsibility beyond the glamour. The titleholder is expected to engage in various social and cultural initiatives throughout her reign. This includes promoting local tourism, participating in charity events, and working with government and non-governmental organizations to advocate for causes such as education, health, and environmental conservation. This year's winner, Maria Isabella Santos from Cebu, exemplified these qualities with her eloquent advocacy for sustainable tourism, highlighting the need to balance economic growth with environmental preservation. Her poise, intelligence, and commitment to her advocacy earned her the title and the admiration of many.  
+The crown of Hiyas nang Pilipinas carries with it a responsibility beyond the glamour. The titleholder is expected to engage in various social and cultural initiatives throughout her reign. This includes promoting local tourism, participating in charity events, and working with government and non-governmental organizations to advocate for causes such as education, health, and environmental conservation.
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hiyas_ng_pilipinas/p9.jpg)
