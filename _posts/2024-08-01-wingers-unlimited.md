@@ -1,5 +1,5 @@
 ---
-author: "Ariel Alegado - PBB Founder"
+author: "Andre Salazar"
 author2: ""
 layout: post
 title: "Celebrate Your Birth Month with Wingers Unlimited: The Ultimate Birthday Blowout!"
