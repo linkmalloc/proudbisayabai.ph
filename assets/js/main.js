@@ -498,13 +498,25 @@ jQuery.fn.isMobile = () => {
             views = formatNumber(arbitraryViews(1000, 200000));
         }
 
-        var nextArticleText = [
-            `Katoltol ka asa ni? 👀`,
-            `Nindot kaayu diri. 👍`,
-            `Laag ta diri mga bisaya. Arats na! ❤️ ❤️`,
-            `📍 Suroy nya ta diri ninyo. Nindot kaayu.👍`,
-            `Arats na ta diri guys! 📷❤️👍`
-        ]
+        var nextArticleTexts = {
+            "destination": [
+                'Laag ta diri mga bisaya. Arats na!',
+                'Nindot kaayu diri. 👍',
+                'Katoltol ka asa ni? 👀',
+                '📍 Suroy nya ta diri ninyo. Nindot kaayu.👍',
+            ],
+            "food": [
+                'Lami kaayo ni. Arats na!',
+                'Lami kaayo ni bai. 👍',
+            ],
+            "product": [
+                'Nindot ni bai!'
+            ],
+            "event": [
+                'Nindot ni bai!',
+                'Arats na!'
+            ]
+        }
 
         function generateNextArticles(){
             var nextArticles = [];
@@ -521,9 +533,22 @@ jQuery.fn.isMobile = () => {
         var nextArticles = generateNextArticles();
         return {
             getNextArticle : function (){
+                var nextArticle = nextArticles[Math.floor((Math.random() * nextArticles.length - 1) + 1)];
+
+                var text = 'Basaha ni bai! ❤️';
+                var url = nextArticle.url;
+
+                if (url.includes('destination')) {
+                    var array = nextArticleTexts['destination'];
+                    text = array[Math.floor((Math.random() * array.length - 1) + 1)];
+                } else if (url.includes('food')) {
+                    var array = nextArticleTexts['food'];
+                    text = array[Math.floor((Math.random() * array.length - 1) + 1)];
+                }
+
                 return {
-                    text: nextArticleText[Math.floor((Math.random() * nextArticleText.length - 1) + 1)],
-                    nextArticle: nextArticles[Math.floor((Math.random() * nextArticles.length - 1) + 1)]
+                    text: text,
+                    nextArticle: nextArticle
                 }
             }
         };

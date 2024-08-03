@@ -1,16 +1,9 @@
 {% assign current_date = site.time | date: "%Y-%m-%d" %}
-{% assign filtered_posts = site.posts | where: 'categories', 'event' | "post.event_date >= current_date" %}
+{% assign filtered_posts = site.posts | where: 'categories', 'upcoming_event' | "post.event_date >= current_date" %}
 
-{% if filtered_posts %}
+{% if filtered_posts && filtered_posts.length %}
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 col-md-12">
-                <div class="mt-30 mb-30 wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                    <div class="widget-header-2 position-relative mb-30">
-                        <h5 class="mt-5 mb-30">Upcoming Events</h5>
-                    </div>
-                </div>
-            </div>
             {% for post in filtered_posts %}
 
                 {% assign image_big = post.img_big_3000x1144 %}
