@@ -1,5 +1,5 @@
 ---
-author: "PBB Admin"
+author: "Ariel Alegado"
 author2: ""
 layout: post
 title: "Michael Sagonoy's Inspiring Cancer Journey: A Story of Strength, Determination, and Hope"

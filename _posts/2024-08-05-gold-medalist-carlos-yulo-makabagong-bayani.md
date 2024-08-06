@@ -1,5 +1,5 @@
 ---
-author: "PBB Admin"
+author: "Ariel Alegado"
 author2: ""
 layout: post
 title: "MAKABAGONG BAYANI KA, CALOY: Carlos Yulo’s Historic Back-to-Back Golds in Paris 2024"
