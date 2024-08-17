@@ -31,7 +31,7 @@ Cebu, Philippines – August 14, 2024: Don Macchiatos, the beloved coffee shop k
 ###### A New Twist on Coffee Classics   
 Don Macchiatos is renowned for its unique take on traditional coffee, and these latest creations are no exception. The *Oreo Coffee* combines the beloved taste of everyone's favorite cookie with rich, smooth coffee, creating a blend that is both comforting and indulgent. It's the perfect choice for those who enjoy a sweet treat with their caffeine fix.
 
-Meanwhile, the *Brown Spanish Latté* offers a more sophisticated flavor profile. This drink brings together the richness of dark brown sugar and the smoothness of espresso, topped off with steamed milk to create a luxurious, velvety texture. The result is a balanced and bold beverage that will satisfy even the most discerning coffee lovers.
+Meanwhile, the Brown Spanish Latté offers a more sophisticated flavor profile. This drink brings together the richness of dark brown sugar and the smoothness of espresso, topped off with steamed milk to create a luxurious, velvety texture. The result is a balanced and bold beverage that will satisfy even the most discerning coffee lovers.
 
 ###### A Limited-Time Experience. 
 Available in selected Cebu stores, these flavors are expected to create quite a buzz among local coffee aficionados. With the launch set for * August 15, 2024, at 11:00 AM*, Don Macchiatos invites everyone to be among the first to experience these exciting new drinks. Whether you're a long-time fan of the brand or someone looking for the next great coffee experience, the Oreo Coffee and Brown Spanish Latté are must-tries.
@@ -41,7 +41,7 @@ Don Macchiatos continues to innovate and elevate the coffee experience in the Ph
 
 Don't miss out on this sweet surprise! Make sure to drop by your nearest participating Don Macchiatos store and discover your next favorite drink. These new flavors are expected to become instant favorites, so grab yours while they’re hot!  
 
-**#DonMacchiatosPhilippines #NewProduct #OreoCoffee #BrownSpanishLatté. 
+#DonMacchiatosPhilippines #NewProduct #OreoCoffee #BrownSpanishLatté. 
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/don-macchiatos-spanish-latte-oreo-coffee/p1.jpg)
