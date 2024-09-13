@@ -2,7 +2,7 @@
 author: "Ariel Alegado"
 author2: ""
 layout: post
-title: "ASA MAG LAAG SA SUGBO? Exploring the Rich History, Culture, and Heritage of Cebu!"
+title: "Asa Mag Laag Sa Sugbo? Exploring the Rich History, Culture, and Heritage of Cebu!"
 description: "If you want to know Cebu’s rich history here are the famous historical landmarks you should explore"
 categories: 
   - destination
@@ -12,9 +12,9 @@ tags:
   - culture
   - heritage
 views: "10"
-img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/asa-maglaag-sa-cebu1/cover.jpg
-img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/asa-maglaag-sa-cebu1/cover.jpg
-img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/asa-maglaag-sa-cebu1/cover.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/asa-maglaag-sa-cebu1/cover1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/asa-maglaag-sa-cebu1/cover1.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/asa-maglaag-sa-cebu1/cover1.jpg
 img_500_1: 
 img_500_2: 
 img_500_3:

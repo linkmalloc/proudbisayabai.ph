@@ -2,7 +2,7 @@
 author: "Ariel Alegado"
 author2: ""
 layout: post
-title: "ASA MAG LAAG SA SUGBO: Cebu’s Most Breathtaking Scenery"
+title: "Asa Mag Laag Sa Sugbo: Cebu’s Most Breathtaking Scenery"
 description: "If you want to feel and see the best view of the city don’t miss to visit these instagrammable places"
 categories: 
   - destination
@@ -10,9 +10,9 @@ tags:
   - scenery
   -  cebu
 views: "10"
-img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/asa-maglaag-sa-sugbo-2/cover.jpg
-img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/asa-maglaag-sa-sugbo-2/cover.jpg
-img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/asa-maglaag-sa-sugbo-2/cover.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/asa-maglaag-sa-sugbo-2/cover1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/asa-maglaag-sa-sugbo-2/cover1.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/asa-maglaag-sa-sugbo-2/cover1.jpg
 img_500_1: 
 img_500_2: 
 img_500_3: 
