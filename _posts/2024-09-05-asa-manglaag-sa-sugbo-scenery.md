@@ -22,6 +22,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "JM Derecho"
 read_time: "3 minutes"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 ---
 ****
 
