@@ -12,9 +12,9 @@ tags:
   - jollibee
   - mango
 views: "10"
-img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/first-jollibee-in-cebu/cover.jpg
-img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/first-jollibee-in-cebu/cover.jpg
-img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/first-jollibee-in-cebu/cover.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/first-jollibee-in-cebu/cover1.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/first-jollibee-in-cebu/cover1.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/first-jollibee-in-cebu/cover1.jpg
 img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/first-jollibee-in-cebu/p1.jpg
 img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/first-jollibee-in-cebu/p2.jpg
 img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/first-jollibee-in-cebu/p3.jpg
