@@ -5,7 +5,7 @@ layout: post
 title: "Basilica Minore del Santo Niño de Cebu Implements Dress Code Policy Starting October 1, 2024"
 description: "In a move to reinforce the sanctity and reverence of the Basilica Minore del Santo Niño de Cebu, the Augustinian Fathers of the Basilica have announced the implementation of a strict Dress Code Policy beginning October 1, 2024. "
 categories: 
-  
+  - story
 tags:
   - cebu
   - Santo Niño
