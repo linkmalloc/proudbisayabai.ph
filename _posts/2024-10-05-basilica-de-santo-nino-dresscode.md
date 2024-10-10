@@ -59,4 +59,4 @@ Source: The Augustinian Fathers of the Basilica Minore del Santo Niño de Cebu
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/santonino-attire/p1.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/santonino-attire/p2.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/santonino-attire/p3.jpg)
