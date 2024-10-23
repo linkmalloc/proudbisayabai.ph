@@ -59,13 +59,13 @@ Google Maps: [https://maps.app.goo.gl/9FhcCdv9tcGxNU7i9](https://maps.app.goo.gl
 Book now on their facebook page: [https://www.facebook.com/katawa.officialpage](https://www.facebook.com/katawa.officialpage)  
 
 ****
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/katawa/p3.jpg)
+
+****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/katawa/p1.jpg)
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/katawa/p2.jpg)
-
-****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/katawa/p3.jpg)
 
 ****
 ![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/katawa/p4.jpg)
