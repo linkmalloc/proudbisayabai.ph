@@ -13,7 +13,7 @@ tags:
   - music festival
 views: "10"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bigwin29/cover.jpg
-img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bigwin29/cover2.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bigwin29/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bigwin29/cover.jpg
 img_500_1:
 img_500_2:
