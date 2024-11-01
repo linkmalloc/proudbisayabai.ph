@@ -3,12 +3,12 @@ author: "Ariel Alegado"
 author2: ""
 layout: post
 title: "Unisol: Disrupting the Uniform Industry with Innovation and Purpose"
-description: "Deep within the waters off Camiguin Island lies an unforgettable sight—an entire cemetery swallowed by the sea, marked only by a giant, solitary cross rising from the waves."
+description: "Unisol started as a vision to empower experienced sewers in our community while addressing the demand for high-quality uniforms"
 categories: 
   - story
 tags:
-  - camiguin
-  - cemetery
+  - business
+  - uniforms
 views: "10"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/unisol/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/unisol/cover.jpg
