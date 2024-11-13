@@ -5,7 +5,7 @@ layout: post
 title: "Finding Confidence in Recognition – My Journey as a Travel Blogger Through the Best Cebu Blogs Award"
 description: "It’s more than just a title; it’s a recognition of my passion, hard work, and the unwavering support of the people around me."
 categories: 
-  - destination
+  - story
 tags:
   - blogger
   - best blogger

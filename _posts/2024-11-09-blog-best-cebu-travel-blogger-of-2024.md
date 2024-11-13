@@ -5,7 +5,7 @@ layout: post
 title: "Join the Journey: Vote for Ariel A Alegado as the Best Cebu Travel Blogger of 2024"
 description: "If you’re searching for the perfect beachside spot to unwind, enjoy great food, and soak up the sea breeze, look no further than BrevStar Tambayan sa Baybay in Catmon!"
 categories: 
-  - destination
+  - story
 tags:
   - blogger
   - best blogger

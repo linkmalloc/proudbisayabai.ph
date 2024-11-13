@@ -5,7 +5,7 @@ layout: post
 title: "Chicky’Oink Has Landed in Pit-os, Talamban!"
 description: "Attention, Cebu foodies! If you’re a fan of delicious, crispy Lechon Manok and melt-in-your-mouth Liempo, there’s a new spot in town you won’t want to miss"
 categories: 
-  - destination
+  - food
 tags:
   - chicken
   - cebu
@@ -15,11 +15,11 @@ views: "10"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/cover.jpg
-img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/13.jpg
-img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/12.jpg
-img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/11.jpg
-img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/10.jpg
-img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/9.jpg
+img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/p13.jpg
+img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/p12.jpg
+img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/p11.jpg
+img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/p10.jpg
+img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/p9.jpg
 photo_credit: ""
 photo_credit_link: ""
 editor: "JM Derecho"
@@ -63,25 +63,25 @@ If you’re eager to try Chicky’Oink’s delicious offerings, placing an order
 Whether you’re planning a family feast, a celebration, or simply a craving-filled lunch, Chicky’Oink promises to deliver with unforgettable flavors. Swing by their new Pit-os branch, and let your taste buds experience the finest Lechon Manok and Liempo Cebu has to offer!  
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/1.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/p1.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/2.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/p2.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/3.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/p3.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/4.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/p4.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/5.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/p5.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/6.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/p6.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/7.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/p7.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/8.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/p8.jpg)
