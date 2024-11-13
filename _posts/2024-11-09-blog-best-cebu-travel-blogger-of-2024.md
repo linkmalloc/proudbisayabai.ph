@@ -24,7 +24,6 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "JM Derecho"
 read_time: "4 minutes"
-published: false
 ---
 *****    
 Vote for Ariel A Alegado in the Travel category: [https://www.bestcebublogsawards.com/2024/10/blog-best-cebu-travel-blogger-of-2024.html](https://www.bestcebublogsawards.com/2024/10/blog-best-cebu-travel-blogger-of-2024.html)
