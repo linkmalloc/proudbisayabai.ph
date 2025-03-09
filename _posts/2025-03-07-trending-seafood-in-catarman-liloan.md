@@ -11,14 +11,14 @@ tags:
   - liloan
   - cebu
 views: "10"
-img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/cover.jpg
-img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/cover.jpg
-img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/cover.jpg
-img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/p1.jpg
-img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/p2.jpg
-img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/p3.jpg
-img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/p4.jpg
-img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/p5.jpg
+img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/cover.jpg
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/cover.jpg
+img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/cover.jpg
+img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/p1.jpg
+img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/p2.jpg
+img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/p3.jpg
+img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/p4.jpg
+img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/p5.jpg
 photo_credit: ""
 photo_credit_link: ""
 editor: "JM Derecho"
@@ -64,37 +64,37 @@ So, next time you’re in Cebu, make sure to visit this coastal market for a tas
 Location: Sitio Bonbon, Barangay Catarman, Liloan, Cebu  
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/p6.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/p6.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/p7.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/p7.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/p8.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/p8.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/p9.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/p9.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/p10.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/p10.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/p11.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/p11.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/p12.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/p12.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/p13.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/p13.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/p14.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/p14.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/p15.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/p15.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/p16.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/p16.jpg)
 
 ****
-![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafood/p17.jpg)
+![](https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/p17.jpg)
