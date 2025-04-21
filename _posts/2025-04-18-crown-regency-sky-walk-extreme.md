@@ -2,14 +2,16 @@
 author: "Andre Salazar"
 author2: ""
 layout: post
-title: "Experience Premium Grooming at Uncle Ben Barber Shop’s First Branch in Cebu"
-description: "Nothing beats a good haircut—it’s more than just a trim; it’s a confidence boost. A great haircut not only enhances our appearance but also makes us feel our best."
+title: "Sky Walk Extreme Reopens: Experience Cebu from New Heights"
+description: "Cebu’s skyline just got more exciting as Sky Experience Adventure’s Sky Walk Extreme, the country’s first and only sky walk experience, officially reopens to the public."
 categories: 
-  - brand
+  - destination
 tags:
   - cebu
-  - barbershop
-  - premium grooming
+  - crown regency
+  - sky walk extreme
+  - heights
+  - sky walk
 views: "10"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/crown-regency/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/crown-regency/cover.jpg
