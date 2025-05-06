@@ -18,11 +18,11 @@ views: '10'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/508/2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/508/2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/508/2.jpg
-img_500_1: ''
-img_500_2: ''
-img_500_3: ''
-img_500_4: ''
-img_500_5: ''
+img_500_1:
+img_500_2:
+img_500_3:
+img_500_4:
+img_500_5:
 photo_credit: Daniela Calvez
 photo_credit_link: ''
 editor: JM Derecho
@@ -52,19 +52,22 @@ Presyo? Swak sa Bulsa! &#x20;
 Sa presyo nga tag-P10–P50 kada item, mapabusog na ka. Budget-friendly para sa estudyante, backpacker, o bisag local nga gusto lang magpahuway ug mokaon og lami. &#x20;
 
 **Ngano Kinahanglan Nimo Suwayan?**
-- Authentic lokal experience
-- Budget-friendly
-- Tinuod nga lami
-- Makapabati og nostalgic comfort
+
+* Authentic lokal experience
+* Budget-friendly
+* Tinuod nga lami
+* Makapabati og nostalgic comfort
 
 <br />
 
 **Tips sa Pagsuroy:**
-- Muadto sayo sa buntag (6AM–8AM) kay dali mahurot ang pagkaon.
-- Dal-a imong reusable mug kung gusto mag take-out.
-- Pahimulos sa local conversation — daghan kag makat-unan!
+
+* Muadto sayo sa buntag (6AM–8AM) kay dali mahurot ang pagkaon.
+* Dal-a imong reusable mug kung gusto mag take-out.
+* Pahimulos sa local conversation — daghan kag makat-unan!
 
 <br />
+
 Lamian nga Painitan sa Dumaguete dili lang lugar nga kaonan — usa kini ka cultural hug. Kung naa ka sa siyudad, ayaw gyud kalimti bisitahon. Sa usa ka tasa sa tsokolate ug usa ka piraso sa puto, imong madiskobre ang kalami nga sagol sa pagkaon ug kultura sa Sugboanon. &#x20;
 
 <br />
