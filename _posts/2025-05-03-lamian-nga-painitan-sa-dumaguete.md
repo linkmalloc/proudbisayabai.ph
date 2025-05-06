@@ -29,11 +29,7 @@ editor: JM Derecho
 read_time: 4 minutes
 ---
 
-
-
-
-
-
+<br />
 
 Kung aduna kay plano maglaag sa Dumaguete, dili gyud nimo palampason ang usa sa mga pinaka-iconic nga pamahaw spots sa siyudad — ang Lamian nga Painitan. Usa kini sa mga lugar nga puno sa nostalgia, lami, ug lokal nga kultura. &#x20;
 
@@ -56,16 +52,19 @@ Presyo? Swak sa Bulsa! &#x20;
 Sa presyo nga tag-P10–P50 kada item, mapabusog na ka. Budget-friendly para sa estudyante, backpacker, o bisag local nga gusto lang magpahuway ug mokaon og lami. &#x20;
 
 **Ngano Kinahanglan Nimo Suwayan?**
-&#x9;•	Authentic lokal experience
-&#x9;•	Budget-friendly
-&#x9;•	Tinuod nga lami
-&#x9;•	Makapabati og nostalgic comfort
+- Authentic lokal experience
+- Budget-friendly
+- Tinuod nga lami
+- Makapabati og nostalgic comfort
+
+<br />
 
 **Tips sa Pagsuroy:**
-&#x9;•	Muadto sayo sa buntag (6AM–8AM) kay dali mahurot ang pagkaon.
-&#x9;•	Dal-a imong reusable mug kung gusto mag take-out.
-&#x9;•	Pahimulos sa local conversation — daghan kag makat-unan!
+- Muadto sayo sa buntag (6AM–8AM) kay dali mahurot ang pagkaon.
+- Dal-a imong reusable mug kung gusto mag take-out.
+- Pahimulos sa local conversation — daghan kag makat-unan!
 
+<br />
 Lamian nga Painitan sa Dumaguete dili lang lugar nga kaonan — usa kini ka cultural hug. Kung naa ka sa siyudad, ayaw gyud kalimti bisitahon. Sa usa ka tasa sa tsokolate ug usa ka piraso sa puto, imong madiskobre ang kalami nga sagol sa pagkaon ug kultura sa Sugboanon. &#x20;
 
 <br />
