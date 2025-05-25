@@ -387,7 +387,7 @@ h1.page-404{font-size:5.2rem;}
 .entry-header .entry-title{font-size:2.5em;}
 .entry-wraper .excerpt p,
 .single-excerpt p{font-size:1.5em;}
-.dropcap p:first-child::first-letter{font-size:4em;float:left;margin-top:.15em;margin-right:0.15em;line-height:1;}
+/* .dropcap p:first-child::first-letter{font-size:4em;float:left;margin-top:.15em;margin-right:0.15em;line-height:1;} */
 .dropcap blockquote p:first-child::first-letter{font-size:inherit;margin:0;line-height:inherit;float:none;}
 .entry-main-content h1,
 .entry-main-content h2,
