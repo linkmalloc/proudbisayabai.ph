@@ -39,6 +39,13 @@ read_time: 4 minutes
 
 
 
+
+
+
+
+
+
+
 Nibalik na ang vlogger nga si Bite King, inila sa iyang homecooking vlogs. Sa iyang pinakabag-ong vlog diin nagluto siya og monggos, iyang gisaysay nganong nihunong siya sa pagpost og video sukad Enero ning tuiga. &#x20;
 
 
