@@ -43,8 +43,6 @@ Of course, PBB has always been a numbers game — from weekly nominations to fan
 
 With three weeks left before the Big Night, Shuvee is steadily proving that she’s more than just a quiet contender. She’s a woman with a story, a heart for her family, and a voice of reason for her housemates. Bit by bit, she’s earning her place — and it wouldn’t be a surprise if, when the final votes are cast, the Island Ate of Cebu emerges as the next big winner of PBB Collab.
 
-
-
 <br />
 
 <img width="800" src="https://d1rl40o93nnuyl.cloudfront.net/posts/564/57fe551749161286-7.jpg" />
