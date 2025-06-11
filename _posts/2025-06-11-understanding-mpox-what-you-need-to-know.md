@@ -24,10 +24,6 @@ editor: JM Derecho
 read_time: 4 minutes
 ---
 
-
-
-
-
 **Mpox**, formerly known as monkeypox, is a disease caused by the *monkeypox virus*, a double-stranded DNA virus from the *Orthopoxvirus* genus of the *Poxviridae* family. While previously considered a rare zoonotic infection, Mpox made international headlines after a global outbreak in 2022 that saw thousands of cases worldwide.
 
 ### **What Causes Mpox?**
@@ -76,9 +72,9 @@ While Mpox is a manageable illness, **awareness, preventive action, and early de
 
 For more detailed clinical guidance and updates, visit:
 
-* [WHO Mpox Fact Sheet](https://www.who.int/news-room/fact-sheets/detail/monkeypox)
-* [CDC Mpox Clinical Guide](https://www.cdc.gov/poxvirus/mpox/clinicians/clinical-guidance-quick-reference.html)
-* [University of Washington IDEA Program](https://www.std.uw.edu/page/clinical-guides/guides#mpox)
+* WHO Mpox Fact Sheet
+* CDC Mpox Clinical Guide
+* University of Washington IDEA Program
 
 See Infographics by PSMID for reference.
 
