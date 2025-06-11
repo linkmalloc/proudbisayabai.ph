@@ -10,9 +10,9 @@ tags:
   - Health
   - Mpox
 views: '10'
-img_big_1000x600: ''
-img_big_3000x1144: ''
-img_500x500: ''
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/518/3dbb921749643196-2.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/518/3dbb921749643196-2.jpg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/518/3dbb921749643196-2.jpg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -23,6 +23,19 @@ photo_credit_link: ''
 editor: JM Derecho
 read_time: 4 minutes
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 **Mpox**, formerly known as monkeypox, is a disease caused by the *monkeypox virus*, a double-stranded DNA virus from the *Orthopoxvirus* genus of the *Poxviridae* family. While previously considered a rare zoonotic infection, Mpox made international headlines after a global outbreak in 2022 that saw thousands of cases worldwide.
 
