@@ -1,11 +1,14 @@
 ---
-author: ''
+author: Ariel Alegado
 author2: ''
 layout: post
 title: Must-Visit Cafes And Coffee Shops
 description: ''
-categories: []
-tags: []
+categories:
+  - food
+tags:
+  - Cafe
+  - Cebu
 views: '10'
 img_big_1000x600: ''
 img_big_3000x1144: ''
@@ -21,7 +24,28 @@ editor: JM Derecho
 read_time: 4 minutes
 ---
 
-Looking for the perfect spot to unwind, catch up with friends, or simply enjoy a good cup of coffee? ☕✨&#x20;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Looking for the perfect spot to unwind, catch up with friends, or simply enjoy a good cup of coffee? &#x20;
 
 Cebu is home to a thriving café culture, offering everything from cozy hideaways to Instagram-worthy spots and specialty coffee havens.&#x20;
 
