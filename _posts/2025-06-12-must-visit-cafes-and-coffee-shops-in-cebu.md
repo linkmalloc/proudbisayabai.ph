@@ -55,7 +55,7 @@ Whether you’re a local or a tourist, these must-visit cafés and coffee shops 
 
 *Disclaimer: Information are based on the latest available details from each establishment and are subject to change without prior notice.*
 
-1. **Merci Dessert Cafe**
+**Merci Dessert Cafe**
 
 A dessert haven specializing in French pastries, cakes, and sweet treats perfect for any craving.
 
@@ -67,7 +67,7 @@ Operating hours: 8am-9pm
 
 
 
-1. **GoodHabits Coffee**
+**GoodHabits Coffee**
 
 Location: Paseo Arcenas, Banawa, Cebu (across Anytime Fitness)
 
@@ -79,7 +79,7 @@ Opens at 10am-9pm
 
 
 
-1. **The Neighborhood Cafe**
+**The Neighborhood Cafe**
 
 Location: Fortich St., Banawa (near Alliance of Two Hearts Church)
 
@@ -95,7 +95,7 @@ Opens at
 
 
 
-1. **Anthony’s Cafe**
+**Anthony’s Cafe**
 
 Location: Andres Abellana St., Cebu City (near AA BBQ Guadalupe)
 
@@ -107,7 +107,7 @@ Opens at Daily, 7:00 AM – 9:00 PM
 
 
 
-1. **Don Macchiatos USC**
+**Don Macchiatos USC**
 
 Location: P. del Rosario St. (beside Sto. Rosario Parish)
 
@@ -119,7 +119,7 @@ Opens at 8am-9pm
 
 
 
-1. **Kermits Cebu Cafe**
+**Kermits Cebu Cafe**
 
 Location: Excelsior Building, Banawa, Cebu City
 
@@ -131,7 +131,7 @@ Opens at 10am-10pm
 
 
 
-1. **Kahoy Cafe**
+**Kahoy Cafe**
 
 Location: Diversion Road, Tilhaong, Consolacion, Cebu
 
@@ -143,7 +143,7 @@ Opens at 11am-9pm
 
 
 
-1. **HueMann Coffee**
+**HueMann Coffee**
 
 Location: Queensland Manor, Rahmann St., Cebu City
 
