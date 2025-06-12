@@ -6,7 +6,8 @@ title: >-
   Discover Atua Midtown: Cebu’S Newest Artistic Haven Where Culture Meets
   Aesthetic!
 description: ''
-categories: []
+categories:
+  - food
 tags:
   - Atua
   - Cafe
@@ -24,6 +25,9 @@ photo_credit_link: ''
 editor: JM Derecho
 read_time: 4 minutes
 ---
+
+
+
 
 
 
