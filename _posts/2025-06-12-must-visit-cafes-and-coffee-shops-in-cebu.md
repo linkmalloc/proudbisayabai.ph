@@ -2,7 +2,7 @@
 author: Ariel Alegado
 author2: ''
 layout: post
-title: Must-Visit Cafes And Coffee Shops
+title: Must-Visit Cafes And Coffee Shops In Cebu
 description: ''
 categories:
   - food
@@ -23,6 +23,22 @@ photo_credit_link: ''
 editor: JM Derecho
 read_time: 4 minutes
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
