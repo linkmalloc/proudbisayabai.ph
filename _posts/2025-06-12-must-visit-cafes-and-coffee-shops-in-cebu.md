@@ -24,45 +24,6 @@ editor: JM Derecho
 read_time: 4 minutes
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Looking for the perfect spot to unwind, catch up with friends, or simply enjoy a good cup of coffee? &#x20;
 
 Cebu is home to a thriving café culture, offering everything from cozy hideaways to Instagram-worthy spots and specialty coffee havens.&#x20;
@@ -81,8 +42,6 @@ Operating hours: 8am-9pm
 
 <img height="464" width="371" src="https://d1rl40o93nnuyl.cloudfront.net/posts/524/d68bb01749740925-4.jpg" />
 
-
-
 **GoodHabits Coffee**
 
 Location: Paseo Arcenas, Banawa, Cebu (across Anytime Fitness)
@@ -92,8 +51,6 @@ A cozy café offering great food and a relaxing ambiance, perfect for coffee lov
 Opens at 10am-9pm
 
 <img height="485" width="387" src="https://d1rl40o93nnuyl.cloudfront.net/posts/524/a18eea1749742157-17.jpg" />
-
-
 
 **The Neighborhood Cafe**
 
@@ -109,8 +66,6 @@ Opens at
 
 <img height="482" width="385" src="https://d1rl40o93nnuyl.cloudfront.net/posts/524/d7a54c1749742106-16.jpg" />
 
-
-
 **Anthony’s Cafe**
 
 Location: Andres Abellana St., Cebu City (near AA BBQ Guadalupe)
@@ -120,8 +75,6 @@ A hidden gem in the city with a cozy atmosphere and scenic views, making it perf
 Opens at Daily, 7:00 AM – 9:00 PM
 
 <img height="476" width="380" src="https://d1rl40o93nnuyl.cloudfront.net/posts/524/5ff1841749743740-29.jpg" />
-
-
 
 **Don Macchiatos USC**
 
@@ -133,8 +86,6 @@ Opens at 8am-9pm
 
 <img height="511" width="408" src="https://d1rl40o93nnuyl.cloudfront.net/posts/524/c9009f1749742424-21.jpg" />
 
-
-
 **Kermits Cebu Cafe**
 
 Location: Excelsior Building, Banawa, Cebu City
@@ -145,8 +96,6 @@ Opens at 10am-10pm
 
 <img height="509" width="407" src="https://d1rl40o93nnuyl.cloudfront.net/posts/524/b8978a1749741115-6.jpg" />
 
-
-
 **Kahoy Cafe**
 
 Location: Diversion Road, Tilhaong, Consolacion, Cebu
@@ -156,8 +105,6 @@ With its rustic wood interiors and homey ambiance, this café is a great place t
 Opens at 11am-9pm
 
 <img height="473" width="379" src="https://d1rl40o93nnuyl.cloudfront.net/posts/524/126bf31749743486-27.jpg" />
-
-
 
 **HueMann Coffee**
 
@@ -313,9 +260,7 @@ Opens at
 
 <img height="484" width="387" src="https://d1rl40o93nnuyl.cloudfront.net/posts/524/443e821749741070-5.jpg" />
 
-**Zero X Cafe**
-
-Location: 757 V. Rama Ave., Guadalupe, Cebu City (across Hypermart)
+\*\*Zero X CLocation: 757 V. Rama Ave., Guadalupe, Cebu City (across Hypermart)
 
 A Japandi-themed café with a unique crypto-inspired interior, perfect for work or study.
 
@@ -369,9 +314,9 @@ Opens at 9am-2am
 
 Location: Ground Floor, Skyrise 3B Building, Cebu IT Park
 
-Sparrow Café Culture  blends its minimalist, community-centered coffeehouse vibe with a gourmet menu—from smoked salmon & spinach sandwiches and beef pares to innovative dishes like Sukiyaki Bowls, Gruyère Baked Chicken, and Pork Kawali Stew—all featuring fresh, real ingredients free from MSG[](https://www.sunstar.com.ph/cebu/sparrow-cafe-culture-introduces-a-culinary-journey-for-every-palate?utm_source=chatgpt.com)
+Sparrow Café Culture offers a cozy, minimalist coffeehouse vibe with a community feel. Their menu features fresh, MSG-free dishes like smoked salmon and spinach sandwiches, beef pares, Sukiyaki Bowls, Gruyère Baked Chicken, and Pork Kawali Stew
 
-Opens at 7:30am - 11:00pm | Sunday-Thursday & 7:30am - 12:00mn | Friday-Saturdays
+Opens at 7:30am - 11\:pm on Sunday-Thursdays & 7:30 - 12:00mn on Friday-Saturdays
 
 <img height="482" width="385" src="https://d1rl40o93nnuyl.cloudfront.net/posts/524/10473c1749741398-11.jpg" />
 
@@ -384,57 +329,3 @@ A coffee shop from Qatar, recently opened its first Philippine branch at IL Cors
 Mondays to Fridays from 8 and Saturdays to Sundays from 7:00am - 11:00pm
 
 <img height="536" width="428" src="https://d1rl40o93nnuyl.cloudfront.net/posts/524/f335e31749742817-22.jpg" />
-
-<br />
-  ![]()
-</br>
-
-
-
-<br />
-
-
-
-<br />
-
-
-
-<br />
-
-
-
-<br />
-
-
-
-<br />
-
-
-
-<br />
-
-<br />
-
-
-
-<br />
-
-
-
-<br />
-
-
-
-<br />
-
-
-
-<br />
-
-
-
-<br />
-
-
-
-<br />
