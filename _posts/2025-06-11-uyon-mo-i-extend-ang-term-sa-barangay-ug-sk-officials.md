@@ -28,37 +28,30 @@ editor: JM Derecho
 read_time: 4 minutes
 ---
 
+The move to extend the term of office for barangay and Sangguniang Kabataan (SK) officials is now one step closer to becoming law, as both chambers of Congress have ratified the bicameral conference committee report reconciling their respective versions of the proposed measure. With the differences between the House and Senate versions now settled, the bill is set to be transmitted to Malacañang for the President’s approval.
 
+### **From Conflicting Proposals to a Unified Measure**
 
+The House of Representatives and the Senate earlier passed separate versions of the proposed law.
 
+**House Version:**
+Approved on third and final reading on **June 9, 2025**, the House bill sought to extend the term of barangay and SK officials from **three (3) years to six (6) years**, with officials allowed to serve a maximum of two (2) consecutive terms or twelve (12) years in total. It also proposed to reset the next barangay and SK elections to **December 2029**.
 
+**Senate Version:**
+The Senate, for its part, passed its version on **January 14, 2025**, setting the term to **four (4) years**, with a maximum of three (3) consecutive terms — still totaling twelve (12) years. The Senate proposal scheduled the next elections for **May 2027**.
 
+### **Final Agreement: November 2026 Elections, 4-Year Term**
 
+After deliberations, the bicameral conference committee reconciled the conflicting provisions and agreed to **postpone the 2025 Barangay and SK elections to the first Monday of November 2026**, and hold subsequent elections **every four (4) years thereafter**.
 
+The Senate ratified this bicameral conference committee report on **June 11, 2025**. The House of Representatives is expected to follow suit within the week, after which the enrolled bill will be transmitted to Malacañang for the President’s signature.
 
+### **Implications for Local Governance**
 
-The move to extend the term of office for barangay and Sangguniang Kabataan (SK) officials is now one step closer to becoming law, as both chambers of Congress have passed their respective versions of the proposed measure. However, key differences between the House and Senate versions remain, which will soon be addressed in a bicameral conference committee.
+Once signed into law, this measure will amend the current provisions of the Local Government Code and existing election laws, affecting the leadership and governance of over **42,000 barangays and thousands of youth leaders nationwide**.
 
-### **House Version: 6-Year Term, Elections in 2029**
+Proponents of the law argue that synchronizing barangay and SK elections every four years provides enough time for local officials to implement sustained programs and policies, while maintaining periodic accountability. However, critics remain cautious, warning of potential risks of prolonged political entrenchment and reduced public participation in grassroots governance.
 
-On June 9, 2025, the House of Representatives recently approved on third and final reading a bill that seeks to extend the term of barangay and SK officials from the current three (3) years to six (6) years. Under this proposal, officials may serve a maximum of two (2) consecutive terms, or a total of twelve (12) years in office. Additionally, the House measure resets the next barangay and SK elections to December 2029.
+### **What’s Next?**
 
-Proponents in the house argue that a longer term would allow barangay and SK leaders more time to implement long-term programs and reduce the frequent disruptions caused by periodic elections.
-
-### **Senate Version: 4-Year Term, Elections in 2027**
-
-Meanwhile, the Senate passed its own version of the bill last January 14, 2025, setting the term of barangay and SK officials to four (4) years, with a maximum of three (3) consecutive terms — still amounting to a total of twelve (12) years in office. The Senate measure schedules the next elections for May 2027.
-
-Senators backing the bill emphasized the need for a balanced term length that ensures continuity of leadership without compromising regular accountability through elections.
-
-**UNSAY SUNOD?**
-
-With both versions of the bill passed, a bicameral conference committee composed of representatives from the House of Representatives and the Senate will soon convene to reconcile the conflicting provisions, particularly on the length of the term and the date of the next elections. Once an agreement is reached, the final consolidated version will be submitted to both chambers for ratification.&#x20;
-
-After ratification by Congress, the enrolled bill will be transmitted to Malacañang for the President’s approval, and once signed into law, it will amend the existing provisions governing the term of office and election schedule of barangay and SK officials nationwide.
-
-**IMPLIKASYON**
-
-If passed, this would mark a significant shift in local governance dynamics, affecting over 42,000 barangays and thousands of youth leaders across the country. Supporters see it as a means to enhance barangay stability and leadership continuity, while critics caution against the risks of prolonged political entrenchment at the grassroots level.
-
-As the bicameral committee deliberations approach, the final outcome of this proposal remains highly anticipated by local officials and citizens alike.
+With Congress’s ratification completed, the enrolled bill is set to be transmitted to **Malacañang for the President’s approval**. If signed, the law will officially reset the barangay and SK polls to **November 2026**, establishing a new four-year election cycle thereafter.
