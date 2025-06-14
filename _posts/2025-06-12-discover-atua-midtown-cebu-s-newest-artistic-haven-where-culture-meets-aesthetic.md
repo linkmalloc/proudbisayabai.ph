@@ -3,7 +3,7 @@ author: Ariel Alegado
 author2: ''
 layout: post
 title: >-
-  Discover Atua Midtown: Cebu’S Newest Artistic Haven Where Culture Meets
+  Discover Atua Midtown: Cebu’s Newest Artistic Haven Where Culture Meets
   Aesthetic!
 description: ''
 categories:
