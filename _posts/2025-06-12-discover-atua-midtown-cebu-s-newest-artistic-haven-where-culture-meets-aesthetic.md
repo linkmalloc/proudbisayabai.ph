@@ -23,15 +23,8 @@ img_500_5: null
 photo_credit: ''
 photo_credit_link: ''
 editor: JM Derecho
-read_time: 4 minutes
+read_time: 2 minutes
 ---
-
-
-
-
-
-
-
 
 If you’re in Cebu and craving a fresh cultural experience, look no further than Atua Midtown. Located on F. Manalo St. in Cebu City, this vibrant spot is quickly becoming a must-visit destination for art lovers, culture enthusiasts, and anyone with an eye for aesthetics.
 
@@ -55,8 +48,12 @@ Whether you’re looking to shop for unique fashion, enjoy coffee in a modern ca
 
 <br />
 
-<img height="335" width="251" src="https://d1rl40o93nnuyl.cloudfront.net/posts/522/b751061749738702-3.jpg" /><img height="338" width="303" src="https://d1rl40o93nnuyl.cloudfront.net/posts/522/570e381749738739-4.jpg" />
+<img height="335" width="251" src="https://d1rl40o93nnuyl.cloudfront.net/posts/522/b751061749738702-3.jpg" />
 
-<img height="337" width="189" src="https://d1rl40o93nnuyl.cloudfront.net/posts/522/a501c21749738798-5.jpg" /><img height="337" width="269" src="https://d1rl40o93nnuyl.cloudfront.net/posts/522/20afab1749738810-6.jpg" />
+<img height="338" width="303" src="https://d1rl40o93nnuyl.cloudfront.net/posts/522/570e381749738739-4.jpg" />
+
+<img height="337" width="189" src="https://d1rl40o93nnuyl.cloudfront.net/posts/522/a501c21749738798-5.jpg" />
+
+<img height="337" width="269" src="https://d1rl40o93nnuyl.cloudfront.net/posts/522/20afab1749738810-6.jpg" />
 
 <br />
