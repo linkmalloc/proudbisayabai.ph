@@ -3,7 +3,12 @@ author: Andre Gerard Salazar
 author2: ''
 layout: post
 title: 'Understanding Mpox: What You Need To Know'
-description: ''
+description: >-
+  Mpox, formerly known as monkeypox, is a disease caused by the monkeypox virus,
+  a double-stranded DNA virus from the Orthopoxvirus genus of the Poxviridae
+  family. While previously considered a rare zoonotic infection, Mpox made
+  international headlines after a global outbreak in 2022 that saw thousands of
+  cases worldwide.
 categories:
   - story
 tags:
@@ -23,6 +28,7 @@ photo_credit_link: ''
 editor: JM Derecho
 read_time: 4 minutes
 ---
+
 
 
 
