@@ -5,16 +5,20 @@ layout: post
 title: >-
   Discover Atua Midtown: Cebu’s Newest Artistic Haven Where Culture Meets
   Aesthetic!
-description: ''
+description: >-
+  If you’re in Cebu and craving a fresh cultural experience, look no further
+  than Atua Midtown. Located on F. Manalo St. in Cebu City, this vibrant spot is
+  quickly becoming a must-visit destination for art lovers, culture enthusiasts,
+  and anyone with an eye for aesthetics.
 categories:
   - food
 tags:
   - Atua
   - Cafe
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/522/5ecae41749738688-2.jpg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/522/5ecae41749738688-2.jpg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/522/5ecae41749738688-2.jpg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/522/39a73c1750776320-8.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/522/39a73c1750776320-8.jpg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/522/39a73c1750776320-8.jpg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -25,6 +29,13 @@ photo_credit_link: ''
 editor: JM Derecho
 read_time: 2 minutes
 ---
+
+
+
+
+
+
+
 
 If you’re in Cebu and craving a fresh cultural experience, look no further than Atua Midtown. Located on F. Manalo St. in Cebu City, this vibrant spot is quickly becoming a must-visit destination for art lovers, culture enthusiasts, and anyone with an eye for aesthetics.
 
