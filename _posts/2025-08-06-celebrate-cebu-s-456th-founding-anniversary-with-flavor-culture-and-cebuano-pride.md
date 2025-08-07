@@ -2,9 +2,7 @@
 author: Ariel Alegado
 author2: ''
 layout: post
-title: >-
-  Celebrate Cebu’S 456th Founding Anniversary With Flavor, Culture, And Cebuano
-  Pride
+title: Tara Na! Tabo Sa Kapitolyo 2025 Is Here!
 description: >-
   Celebrate Cebu’s 456th Founding Anniversary with Flavor, Culture, and Cebuano
   Pride
@@ -26,6 +24,8 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 ---
+
+
 
 
 Mark your calendars and ready your eco-bags — the much-awaited Tabo sa Kapitolyo 2025 is back, bigger and brighter than ever! From August 4 to 8, 2025, the Cebu Provincial Capitol Grounds will transform into a bustling hub of culture, cuisine, and creativity, proudly featuring the best of Cebu’s local products and traditions.
