@@ -1,30 +1,38 @@
 ---
-author: "Ariel Alegado - PBB Founder"
-author2: ""
+author: Ariel Alegado - PBB Founder
+author2: ''
 layout: post
-title: "Don Macchiatos Takes a Frosty Turn with Kuku, Their New Frozen Matcha Yogurt Venture!"
-description: "Calling all frozen yogurt and matcha lovers! Don Macchiatos, your go-to spot for coffee fixes, is branching out and venturing into the world of icy treats with Kuku, their brand new frozen matcha yogurt concept."
-categories: 
+title: >-
+  Don Macchiatos Takes a Frosty Turn with Kuku, Their New Frozen Matcha Yogurt
+  Venture!
+description: >-
+  Calling all frozen yogurt and matcha lovers! Don Macchiatos, your go-to spot
+  for coffee fixes, is branching out and venturing into the world of icy treats
+  with Kuku, their brand new frozen matcha yogurt concept.
+categories:
   - food
 tags:
   - cebu
   - yogurt
   - don machiattos
   - macha
-views: "10"
-img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kuku/cover.jpg
-img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kuku/cover.jpg
-img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kuku/cover.jpg
+views: '10'
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/437/194dab1754579700-3.png
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/437/194dab1754579700-3.png
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/437/194dab1754579700-3.png
 img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kuku/12.jpg
 img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kuku/13.jpg
 img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kuku/14.jpg
 img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kuku/15.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kuku/16.jpg
-photo_credit: "PBB, Sunstar News"
-photo_credit_link: ""
-editor: "JM Derecho"
-read_time: "3 minutes"
+photo_credit: PBB, Sunstar News
+photo_credit_link: ''
+editor: JM Derecho
+read_time: 3 minutes
 ---
+
+
+
 ****  
 Calling all frozen yogurt and matcha lovers! Don Macchiatos, your go-to spot for coffee fixes, is branching out and venturing into the world of icy treats with Kuku, their brand new frozen matcha yogurt concept.   
 
