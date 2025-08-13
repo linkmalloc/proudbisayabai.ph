@@ -29,7 +29,7 @@ editor: PBB Admin
 read_time: 4 minutes
 ---
 
-For over a decade, Reglin Blooming Fields Flower Shop has quietly bloomed into a beloved fixture in the heart of Cebu, offering exquisite floral arrangements for every occasion. Located along P. Laez Street, just across the University of San Carlos Main Campus and near Jollibee, the shop has become a trusted source of fresh, beautifully arranged blooms for students, professionals, and residents alike.
+For over a decade, Reglin Blooming Fields Flower Shop has quietly bloomed into a beloved fixture in the heart of Cebu, offering exquisite floral arrangements for every occasion. Located along P. Laez Street, just across the University of San Carlos Main Campus and near the old Jollibee, the shop has become a trusted source of fresh, beautifully arranged blooms for students, professionals, and residents alike.
 
 Owned and personally managed by Reglin Fuentes, the flower shop first opened its doors 15 years ago with a simple vision: to bring joy through flowers. Since then, it has grown its reputation for quality, creativity, and heartfelt service. From grand celebrations like weddings and birthdays to quiet expressions of sympathy and affection, Reglin Blooming Fields ensures that each bouquet carries a personal touch.
 
@@ -43,6 +43,8 @@ Location: Aross USC Main, P. Laez St., Cebu City
 
 <br />
 
-<img height="389" width="292" src="https://d1rl40o93nnuyl.cloudfront.net/posts/544/a51a521755098783-7.jpg" /> <img height="394" width="296" src="https://d1rl40o93nnuyl.cloudfront.net/posts/544/d1d3951755098889-8.jpg" />
+<img height="389" width="292" src="https://d1rl40o93nnuyl.cloudfront.net/posts/544/a51a521755098783-7.jpg" />
+
+<img height="394" width="296" src="https://d1rl40o93nnuyl.cloudfront.net/posts/544/d1d3951755098889-8.jpg" />
 
 <img height="449" width="337" src="https://d1rl40o93nnuyl.cloudfront.net/posts/544/beec651755098893-9.jpg" />
