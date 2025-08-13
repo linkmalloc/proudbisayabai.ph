@@ -24,57 +24,6 @@ editor: PBB Admin
 read_time: 4 minutes
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Cebu is set to showcase its growing stature in the international sports scene as it hosts the Philippines' first International Tennis Federation (ITF) Masters Tour, the MT200 Asmara Cup. 
 
 Scheduled from August 26 to September 6, 2025, this landmark event will be held at the Asmara Urban Resort & Lifestyle Village in Banilad, Cebu City, marking a historic milestone for Philippine tennis.
@@ -101,7 +50,7 @@ His remarks highlight the strategic role the Asmara Cup plays in positioning Ceb
 
 Tournament Director Ilyn Hupano echoed the enthusiasm, emphasizing the broader significance of the event. 
 
-“We’re expecting a vibrant mix of local and international players who embody the true spirit of competitive camaraderie. Beyond the games, the Asmara Cup is an opportunity for cultural exchange, tourism promotion, and age-inclusive community celebration. We invite everyone to be part of this historic milestone," she added.
+*“We’re expecting a vibrant mix of local and international players who embody the true spirit of competitive camaraderie. Beyond the games, the Asmara Cup is an opportunity for cultural exchange, tourism promotion, and age-inclusive community celebration. We invite everyone to be part of this historic milestone," she added.*
 
 The Asmara Cup is also anticipated to boost Cebu’s local economy, particularly benefiting the hospitality sector. Hotel bookings, dining establishments, and cultural attractions are expected to see increased activity as players, officials, and visitors take time to explore the city’s vibrant offerings. 
 
@@ -117,7 +66,7 @@ Following the MT200 Asmara Cup, the Asmara Urban Resort & Lifestyle Village will
 
 This continuation reflects Asmara’s commitment to nurturing tennis in the region and maintaining Cebu’s presence on the international tennis calendar.
 
-Players interested in participating in the ITF Masters Tour MT200 Asmara Cup can register through the official ITF tournament page at ⁦https://www.itftennis.com/en/tournament/mt200-cebu-city/phi/2025/s-mt200-phi-2025-001/⁩. 
+Players interested in participating in the ITF Masters Tour MT200 Asmara Cup can register through the official ITF tournament page at ⁦https://www.itftennis.com/en/tournament/mt200-cebu-city/phi/2025/s-mt200-phi-2025-001/⁩
 
 Entry fees include a $10 USD ITF/IPIN service charge, $75 USD for singles plus doubles entry (with free doubles entry if also playing singles), and $40 USD for doubles only.
 
@@ -125,6 +74,6 @@ For partnership, sponsorship, or media inquiries, interested parties can contact
 
 As Cebu hosts this historic event, the city not only asserts itself on the global tennis map but also celebrates the enduring spirit of sport, community, and cultural exchange. 
 
-The ITF Masters Tour MT200 Asmara Cup promises to leave a lasting legacy for tennis in the Philippines and inspire generations to come.
+**The ITF Masters Tour MT200 Asmara Cup promises to leave a lasting legacy for tennis in the Philippines and inspire generations to come.**
 
 <img height="453" width="605" src="https://d1rl40o93nnuyl.cloudfront.net/posts/543/89efc41755078840-5.jpg" />
