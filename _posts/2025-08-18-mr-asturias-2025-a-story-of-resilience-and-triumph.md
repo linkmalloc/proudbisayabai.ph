@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 4 minutes
 ---
 
+
 From heartbreak to triumph, he didn’t just return he reigned.
 
 After a soul-crushing loss in last year’s December pageant, he stepped back on stage this 2025 with grace, grit, and greatness. The result? A crown earned, a story told, and a town uplifted.
