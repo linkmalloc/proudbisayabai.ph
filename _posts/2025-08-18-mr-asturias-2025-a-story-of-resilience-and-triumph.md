@@ -12,9 +12,9 @@ categories:
 tags:
   - MrAsturias
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/545/b4ad3c1755627414-4.jpg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/545/b4ad3c1755627414-4.jpg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/545/b4ad3c1755627414-4.jpg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/545/196d551755630750-9.png
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/545/196d551755630750-9.png
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/545/196d551755630750-9.png
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 ---
+
 
 
 From heartbreak to triumph, he didn’t just return he reigned.
