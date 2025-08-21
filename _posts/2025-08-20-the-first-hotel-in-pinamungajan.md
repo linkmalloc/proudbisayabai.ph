@@ -13,9 +13,9 @@ categories:
 tags:
   - PERCHotel
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/547/71be0e1755775279-15.jpg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/547/71be0e1755775279-15.jpg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/547/71be0e1755775279-15.jpg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/547/4561951755776577-17.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/547/4561951755776577-17.jpg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/547/4561951755776577-17.jpg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 ---
+
 
 Experience a new level of comfort and elegance at PERC Hotel, the first-ever hotel in Pinamungajan, setting the standard for luxury and convenience in the heart of the town. Whether you’re here for business, leisure, or a quick escape, PERC Hotel offers the perfect stay for every kind of traveler.
 
