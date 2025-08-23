@@ -20,7 +20,7 @@ isTop: true
             <div class="row">
 
                 {% for post in site.posts %}
-                {% if post.categories contains "product" %}
+                {% if post.categories contains "product" or post.categories contains "brand" %}
                 {% assign image_big = post.img_big_3000x1144 %}
                 {% unless image_big %}
                     {% assign image_big = "https://via.placeholder.com/3000x1144" %}
