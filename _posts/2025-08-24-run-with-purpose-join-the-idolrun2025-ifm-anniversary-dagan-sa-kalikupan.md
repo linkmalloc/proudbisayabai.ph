@@ -34,7 +34,7 @@ read_time: 4 minutes
 
 Cebu is gearing up for another exciting and meaningful celebration as **iFM Cebu marks its 47th Anniversary** with the **#IDOLRun2025 – Dagan sa Kalikupan**, happening on **September 14, 2025 (Sunday)** at **Cebu I.T. Park (near Ayala Central Bloc)**.
 
-This isn’t just any fun run—it’s a run for fitness, fun, and a cause. Proceeds will go to **tree planting in Cebu City** and **gift-giving for schoolchildren in Bohol**, making every step count.
+This isn’t just any fun run—it’s a run for fitness, fun, and a cause. Proceeds will go to **tree planting in Cebu City** and **gift-giving for students in Bohol**, making every step count.
 
 ### **Event Details:**
 
@@ -75,6 +75,8 @@ This isn’t just any fun run—it’s a run for fitness, fun, and a cause. Proc
 
 🌱 **Anniversary Tree Planting – Year 2**
 (3 Nangka trees per registrant in Sapangdaku, Cebu City)
+
+
 🎁 **Oplan Tabang – Year 1**
 (Gift-giving to 111 students at Camlambong Elementary School, Dimiao, Bohol)
 
