@@ -56,16 +56,14 @@ This isn’t just any fun run—it’s a run for fitness, fun, and a cause. Proc
 
 <img height="452" width="367" src="https://d1rl40o93nnuyl.cloudfront.net/posts/549/8833ba1756100626-3.jpg" />
 
-✅ Event T-Shirt
-✅ Race Bib
-✅ Finisher’s Medal
-✅ Post-run Meal & Snacks
-✅ Gift Packs (Grocery + Hygiene Kits)
-✅ Raffle Ticket (Win 1 of 3 Citi Avenue Bikes + more prizes!)
-🎽 Singlet sizes: XS to 3XL
-
-### **Where to Register:**
-
+* Event T-Shirt
+* Race Bib
+* Finisher’s Medal
+* Post-run Meal & Snacks
+* Gift Packs (Grocery + Hygiene Kits)
+* Raffle Ticket (Win 1 of 3 Citi Avenue Bikes + more prizes!)
+  *Note: Singlet sizes: XS to 3XL*
+* **Where to Register:**
 * **Onsite Booths:**
   * DYHP – iFM Booth (Now Open)
   * R.O.X. Philippines – Ayala Branches (Soon)
@@ -84,6 +82,8 @@ More than just a run, the **#IDOLRun2025** is a celebration of iFM’s enduring 
 
 **Register now and run with purpose!**
 
-<img height="399" width="323" src="https://d1rl40o93nnuyl.cloudfront.net/posts/549/51406f1756100629-4.jpg" />  <img height="402" width="325" src="https://d1rl40o93nnuyl.cloudfront.net/posts/549/ccecc91756100632-5.jpg" />
+<img height="399" width="323" src="https://d1rl40o93nnuyl.cloudfront.net/posts/549/51406f1756100629-4.jpg" />
+
+<img height="402" width="325" src="https://d1rl40o93nnuyl.cloudfront.net/posts/549/ccecc91756100632-5.jpg" />
 
 <br />
