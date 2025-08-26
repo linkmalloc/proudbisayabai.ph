@@ -2,9 +2,9 @@
 author: Ariel Alegado
 author2: ''
 layout: post
-title: 'From Bisaya Pride To 3.5m Fans: Maddi Telma’S Journey'
+title: 'From Bisaya Pride To 3.5m Fans: Madi Telma’S Journey'
 description: >-
-  To the Bisaya community, Jaime Onod — or more famously known as Maddi Telma —
+  To the Bisaya community, Jaime Onod — or more famously known as Madi Telma —
   is more than just a content creator. At 28 years old, she has become our
   certified happy pill every time we scroll through TikTok or any social media
   feed. With her witty, hilarious, and oh-so-relatable content, Telma has carved
@@ -28,9 +28,10 @@ editor: PBB Admin
 read_time: 4 minutes
 ---
 
-To the Bisaya community, Jaime Onod — or more famously known as Maddi Telma — is more than just a content creator. At 28 years old, she has become our certified happy pill every time we scroll through TikTok or any social media feed. With her witty, hilarious, and oh-so-relatable content, Telma has carved out a special place in every Bisaya heart — one laugh at a time.
 
-**“Maddi!”** — A word now forever tied to her brand of humor and charm, echoing not only in Mindanao but across the country and beyond.
+To the Bisaya community, Jaime Onod — or more famously known as Madi Telma — is more than just a content creator. At 28 years old, she has become our certified happy pill every time we scroll through TikTok or any social media feed. With her witty, hilarious, and oh-so-relatable content, Telma has carved out a special place in every Bisaya heart — one laugh at a time.
+
+**“Madi!”** — A word now forever tied to her brand of humor and charm, echoing not only in Mindanao but across the country and beyond.
 
 Hometown: Bislig City, Surigao del Sur
 
@@ -66,7 +67,7 @@ Every character in her skits has real-life inspiration:
 
 * Telma – the name of a noisy neighbor from her childhood
 * Jesselyn – her high school classmate and valedictorian
-* Charie Sir – named after her favorite manicurista
+* Charie  – named after her favorite manicurista
 
 This is what makes her content so genuine — it’s drawn from real Bisaya life, full of heart, humor, and history.
 
