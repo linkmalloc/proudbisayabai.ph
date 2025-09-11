@@ -2,7 +2,7 @@
 author: Ariel Alegado
 author2: ''
 layout: post
-title: '45 Minutes Nalang Mu Adto Sa Ban Tayan: Cebu To Bantayan Flights Now Available'
+title: '45 Minutes Nalang Mu Adto Sa Bantayan: Cebu To Bantayan Flights Now Availabl'
 description: >-
   King Aces Travel and Tours is thrilled to announce the official relaunch of
   direct flights from Cebu City to Bantayan Island bringing paradise closer than
@@ -26,6 +26,11 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 ---
+
+
+
+
+
 
 King Aces Travel and Tours is thrilled to announce the official relaunch of direct flights from Cebu City to Bantayan Island bringing paradise closer than ever.
 
