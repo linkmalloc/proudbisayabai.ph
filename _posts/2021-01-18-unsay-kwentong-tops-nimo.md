@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Unsay Kwentong TOPS nimo?
-description: "Cebu City's popular spot, 'Tops Lookout', better known simply as ‘Tops’ is located on Mt Busay." 
+description: Cebu City's popular spot, 'Tops Lookout', better known simply as ‘Tops’
+  is located on Mt Busay.
 categories:
-  - destination
+- destination
 tags:
-  - news
-  - featured
+- news
+- featured
 author: PBB Admin
-read_time: 10 mins
+read_time: 5 minutes
 views: 10k
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tops/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tops/cover.jpg
@@ -17,12 +18,13 @@ img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tops/2.jpg
 img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tops/3.jpg
 img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tops/4.jpg
 img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tops/5.jpg
-published: true
-photo_credit: "Proud Bisaya Bai, Photo Bloggers"
-photo_credit_link: ""
-author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo.jpg"
-read_time: "5 minutes"
+published: false
+photo_credit: Proud Bisaya Bai, Photo Bloggers
+photo_credit_link: ''
+author_img: https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo.jpg
 ---
+
+
 ****
 Tops Cebu is undoubtedly Cebu City's most well-known viewpoint, offering panoramic views of the vast metropolitan all the way out to Lapu Lapu and its neighboring islands. It's a popular site for both residents and visitors to watch the sunset, go on dates, and have an inexpensive meal beneath the stars. The best aspect is that it is only a short distance from the city center. 
 
