@@ -26,6 +26,8 @@ author_img: https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo.jpg
 
 
 
+
+
 ****
 Tops Cebu is undoubtedly Cebu City's most well-known viewpoint, offering panoramic views of the vast metropolitan all the way out to Lapu Lapu and its neighboring islands. It's a popular site for both residents and visitors to watch the sunset, go on dates, and have an inexpensive meal beneath the stars. The best aspect is that it is only a short distance from the city center. 
 
