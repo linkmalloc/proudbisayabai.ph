@@ -27,7 +27,6 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
-published: false
 ---
 
 A Cebu-based hackathon proves that the next generation of innovators is ready to take the digital stage.
@@ -48,7 +47,11 @@ And when the final scores were tallied, it was Cebu Institute of Technology - Un
 * 2nd Place: XYANA
 * 3rd Place: Cursor Windsurf
 
-<img height="295" width="295" src="https://d1rl40o93nnuyl.cloudfront.net/posts/565/edbfc61758726204-6.jpg" />  <img height="294" width="294" src="https://d1rl40o93nnuyl.cloudfront.net/posts/565/fabd171758726394-8.jpg" />  <img height="292" width="292" src="https://d1rl40o93nnuyl.cloudfront.net/posts/565/6775171758726204-6.jpg" />
+<img height="295" width="295" src="https://d1rl40o93nnuyl.cloudfront.net/posts/565/edbfc61758726204-6.jpg" />
+
+<img height="294" width="294" src="https://d1rl40o93nnuyl.cloudfront.net/posts/565/fabd171758726394-8.jpg" />
+
+<img height="292" width="292" src="https://d1rl40o93nnuyl.cloudfront.net/posts/565/6775171758726204-6.jpg" />
 
 Snapshots of the top three teams in action, showcasing their creativity and skill throughout the challenge.
 
@@ -62,7 +65,11 @@ The winners’ circle was not defined only by team names but by the determined i
 
 These students didn’t just walk away with prizes. They also gained a unique industry connection when they visited Proweaver's AI Engineering Hub to personally meet Founder and CEO Atty. Joseph Ladion. Their visit was marked with photos, handshakes, and conversations that symbolized the bridge between Cebu’s aspiring tech creators and one of the city’s most enduring digital firms.
 
-<img height="311" width="311" src="https://d1rl40o93nnuyl.cloudfront.net/posts/565/7b492f1758726491-10.jpg" />  <img height="311" width="311" src="https://d1rl40o93nnuyl.cloudfront.net/posts/565/89f8ca1758726276-7.jpg" />  <img height="309" width="309" src="https://d1rl40o93nnuyl.cloudfront.net/posts/565/27ee091758726465-9.jpg" />
+<img height="311" width="311" src="https://d1rl40o93nnuyl.cloudfront.net/posts/565/7b492f1758726491-10.jpg" />
+
+<img height="311" width="311" src="https://d1rl40o93nnuyl.cloudfront.net/posts/565/89f8ca1758726276-7.jpg" />
+
+<img height="309" width="309" src="https://d1rl40o93nnuyl.cloudfront.net/posts/565/27ee091758726465-9.jpg" />
 
 **Proweaver’s Bigger Vision**
 
