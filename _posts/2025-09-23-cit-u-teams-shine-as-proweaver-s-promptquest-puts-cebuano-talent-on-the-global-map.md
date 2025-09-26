@@ -3,7 +3,7 @@ author: PBB ADMIN
 author2: ''
 layout: post
 title: >-
-  Cit-U Teams Shine As Proweaver’S Promptquest Puts Cebuano Talent On The Global
+  CIT-U Teams Shine As Proweaver’S PromptQuest Puts Cebuano Talent On The Global
   Map
 description: >-
   A Cebu-based hackathon proves that the next generation of innovators is ready
@@ -27,6 +27,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
+published: false
 ---
 
 A Cebu-based hackathon proves that the next generation of innovators is ready to take the digital stage.
