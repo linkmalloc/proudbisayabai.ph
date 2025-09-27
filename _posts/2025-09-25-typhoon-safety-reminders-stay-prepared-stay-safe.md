@@ -28,7 +28,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
-published: false
+published: true
 ---
 
 As the Philippines faces another typhoon season, safety and preparedness remain our strongest defenses. Typhoons can strike with devastating force, and being ready can save lives, protect homes, and keep communities resilient. Proud Bisaya Bai compiled essential **Before, During, and After Typhoon Reminders**—along with updated **Emergency Hotlines**—to guide every household through these trying times.

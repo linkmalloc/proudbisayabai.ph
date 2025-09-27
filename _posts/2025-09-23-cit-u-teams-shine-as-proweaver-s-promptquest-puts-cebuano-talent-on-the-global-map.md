@@ -27,7 +27,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
-published: false
+published: true
 ---
 
 A Cebu-based hackathon proves that the next generation of innovators is ready to take the digital stage.
