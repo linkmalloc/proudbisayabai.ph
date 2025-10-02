@@ -31,12 +31,11 @@ read_time: 4 minutes
 published: true
 ---
 
-
 ## ***“It came in the night, and took everything”***
 
 ### **The Fateful Night**
 
-On **September 30, 2025, at 9:59 p.m. local time**, a powerful earthquake of magnitude **6.9** jolted the central Philippines, with its epicenter located just off the coast of northern Cebu, about 17 km northeast of **Bogo City**. Itss shallow depth—estimated around 5 km—amplified the violent shaking felt across the Visayas region. Moments later, aftershocks followed, some of them registering above magnitude 5, keeping both residents and rescue teams on edge.
+On **September 30, 2025, at 9:59 p.m. local time**, a powerful earthquake of magnitude **6.9** jolted the central Philippines, with its epicenter located just off the coast of northern Cebu, about 17 km northeast of **Bogo City**. Its shallow depth—estimated around 5 km—amplified the violent shaking felt across the Visayas region. Moments later, aftershocks followed, some of them registering above magnitude 5, keeping both residents and rescue teams on edge.
 
 Because the quake struck late in the evening, many victims were caught unprepared, asleep in their homes. Windows shattered, walls cracked, and buildings pancaked—scenes of devastation unfolded under the cover of darkness. 
 
@@ -74,6 +73,8 @@ As of this posting, relief and assistance efforts are ongoing. Fellow Cebuanos t
 
 If you are interested to donate, Proud Bisaya Bai has initiated its own donation drive. See information below.
 
-<img height="417" width="417" src="https://d1rl40o93nnuyl.cloudfront.net/posts/570/222d311759403400-4.jpg" />   <img height="414" width="414" src="https://d1rl40o93nnuyl.cloudfront.net/posts/570/fcff531759403400-4.jpg" />
+<img height="417" width="417" src="https://d1rl40o93nnuyl.cloudfront.net/posts/570/222d311759403400-4.jpg" />
+
+<img height="414" width="414" src="https://d1rl40o93nnuyl.cloudfront.net/posts/570/fcff531759403400-4.jpg" />
 
 <br />
