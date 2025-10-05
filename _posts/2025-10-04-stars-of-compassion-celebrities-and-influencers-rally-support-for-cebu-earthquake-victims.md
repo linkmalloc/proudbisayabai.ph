@@ -56,7 +56,11 @@ Cebuana actress **Vina Morales**, who was born in Bogo, offered both prayers and
 
 From the new generation of artists, **Aiah Arceta** of P-pop girl group BINI launched a donation drive under her initiative *Aiahdvocacy*. Through this campaign, she urged fans and the public to contribute resources for direct assistance to the earthquake victims. “Together, let us extend help and compassion in these trying times,” she wrote.
 
-<img height="351" width="217" src="https://d1rl40o93nnuyl.cloudfront.net/posts/577/f9b8a11759652465-7.jpg" />  <img height="352" width="209" src="https://d1rl40o93nnuyl.cloudfront.net/posts/577/dbdc6a1759652465-7.jpg" />  <img height="350" width="196" src="https://d1rl40o93nnuyl.cloudfront.net/posts/577/3e68171759652531-8.jpg" />
+<img height="351" width="217" src="https://d1rl40o93nnuyl.cloudfront.net/posts/577/f9b8a11759652465-7.jpg" />
+
+<img height="352" width="209" src="https://d1rl40o93nnuyl.cloudfront.net/posts/577/dbdc6a1759652465-7.jpg" />
+
+<img height="350" width="196" src="https://d1rl40o93nnuyl.cloudfront.net/posts/577/3e68171759652531-8.jpg" />
 
 Young Kapuso star **Barbie Forteza**, a Sparkle GMA actress and Save the Children Philippines ambassador, donated **₱100,000** to support relief operations focused on children. Her donation will go toward urgent needs such as shelter and education. “Children in Cebu are still reeling from the earthquake and aftershocks, with some forced to sleep outside in the rain,” Save the Children said in acknowledging Barbie’s contribution.
 
@@ -68,36 +72,10 @@ Comedienne and TV host **Melai Cantiveros-Francisco** also quietly extended fina
 
 Famous influencer **Joseph Sabello**, known for his entertaining personas and Sunday inspirational content, turned his creativity into compassion through a unique “Live for a Cause.” In the livestream, netizens could “buy space” to write anything on different parts of his body for a price. Joined by fellow content creators **Shael** and **Benjamin**, Sabello’s initiative raised **₱615,927.90 in just seven hours**. Beyond the stream, additional contributions from his own pocket, his company UA, and friends boosted the total to an impressive **₱905,927.90**, all directed toward earthquake relief efforts.
 
-<img height="336" width="268" src="https://d1rl40o93nnuyl.cloudfront.net/posts/577/11b6e11759652664-11.jpg" />  <img height="332" width="498" src="https://d1rl40o93nnuyl.cloudfront.net/posts/577/58bd181759652712-12.jpg" />
+<img height="336" width="268" src="https://d1rl40o93nnuyl.cloudfront.net/posts/577/11b6e11759652664-11.jpg" />
+
+<img height="332" width="498" src="https://d1rl40o93nnuyl.cloudfront.net/posts/577/58bd181759652712-12.jpg" />
 
 These acts of kindness from celebrities and influencers, ranging from large donations to grassroots-driven initiatives, demonstrate the power of using fame and social media reach for the greater good. More than star power, it is the sincerity of their efforts that brings comfort to survivors who continue to grapple with loss and uncertainty.
 
 As Cebu faces the long road to recovery, these familiar faces remind us that leadership is not only found in politics or institutions. It can also come from artists, entertainers, and influencers who choose to use their influence for compassion and service. In the aftermath of the quake, they have become not just stars on stage or screen but stars of hope in the lives of many.
-
-<br />
-
-
-
-
-
-
-
-<br />
-
-
-
-<br />
-
-
-
-<br />
-
-
-
-<br />
-
-
-
-
-
-<br />
