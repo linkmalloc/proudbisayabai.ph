@@ -45,6 +45,7 @@ published: true
 
 
 
+
 BOGO CITY — For families who survived Super Typhoon Yolanda over a decade ago, life in relocation villages was meant to be a fresh start. 
 
 Now, those hopes have been shattered by the magnitude 6.9 earthquake that struck northern Cebu on September 30.
