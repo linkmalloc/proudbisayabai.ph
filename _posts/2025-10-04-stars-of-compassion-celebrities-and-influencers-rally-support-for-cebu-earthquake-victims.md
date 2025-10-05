@@ -24,9 +24,9 @@ tags:
   - MelaCantiverosFrancisco
   - JosephSabello
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/577/74f2fb1759652768-13.jpg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/577/74f2fb1759652768-13.jpg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/577/74f2fb1759652768-13.jpg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/577/cfeb2b1759689411-14.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/577/cfeb2b1759689411-14.jpg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/577/cfeb2b1759689411-14.jpg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -38,7 +38,6 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
-
 
 When disaster strikes, Filipinos have always turned to the spirit of *bayanihan* for strength. This was once again evident after the magnitude 6.9 earthquake that rocked Cebu Province on September 30, leaving widespread damage and thousands of families in need. Among those who quickly extended help were celebrities and influencers who used their influence, resources, and platforms to bring aid and hope to the quake-stricken communities.
 
@@ -70,6 +69,10 @@ Comedienne and TV host **Melai Cantiveros-Francisco** also quietly extended fina
 
 <img height="386" width="513" src="https://d1rl40o93nnuyl.cloudfront.net/posts/577/5507411759652392-2.jpg" />
 
+Beauty queen **Steffi Aberasturi**, Miss Universe Philippines 2021 2nd runner-up, also joined the call to help. She raised a total of **₱234,931**, which she donated to several northern Cebu towns in batches. The first wave of donations went to **Tabogon, Tabuelan, San Remigio, and Medellin**, while the second batch was sent to **Tabogon and San Remigio**. A third batch of donations is currently ongoing, reflecting her sustained commitment to supporting recovery efforts.
+
+<img height="526" width="551" src="https://d1rl40o93nnuyl.cloudfront.net/posts/577/0af33b1759689506-15.jpg" />
+
 Famous influencer **Joseph Sabello**, known for his entertaining personas and Sunday inspirational content, turned his creativity into compassion through a unique “Live for a Cause.” In the livestream, netizens could “buy space” to write anything on different parts of his body for a price. Joined by fellow content creators **Shael** and **Benjamin**, Sabello’s initiative raised **₱615,927.90 in just seven hours**. Beyond the stream, additional contributions from his own pocket, his company UA, and friends boosted the total to an impressive **₱905,927.90**, all directed toward earthquake relief efforts.
 
 <img height="336" width="268" src="https://d1rl40o93nnuyl.cloudfront.net/posts/577/11b6e11759652664-11.jpg" />
@@ -79,3 +82,5 @@ Famous influencer **Joseph Sabello**, known for his entertaining personas and Su
 These acts of kindness from celebrities and influencers, ranging from large donations to grassroots-driven initiatives, demonstrate the power of using fame and social media reach for the greater good. More than star power, it is the sincerity of their efforts that brings comfort to survivors who continue to grapple with loss and uncertainty.
 
 As Cebu faces the long road to recovery, these familiar faces remind us that leadership is not only found in politics or institutions. It can also come from artists, entertainers, and influencers who choose to use their influence for compassion and service. In the aftermath of the quake, they have become not just stars on stage or screen but stars of hope in the lives of many.
+
+<br />
