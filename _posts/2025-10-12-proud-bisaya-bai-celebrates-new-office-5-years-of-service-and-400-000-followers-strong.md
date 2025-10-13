@@ -30,8 +30,6 @@ read_time: 4 minutes
 published: true
 ---
 
-###
-
 Proud Bisaya Bai (PBB) marks an exciting new chapter as it officially opens its new, spacious, and modern office, a symbol of growth, collaboration, and the vibrant spirit that continues to drive the team forward.
 
 <img height="321" width="482" src="https://d1rl40o93nnuyl.cloudfront.net/posts/584/6861da1760331128-4.jpg" />
