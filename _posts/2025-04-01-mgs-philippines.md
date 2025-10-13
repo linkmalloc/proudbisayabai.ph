@@ -3,17 +3,16 @@ author: Ariel Alegado
 author2: ''
 layout: post
 title: 'Mgs Philippines: Redefining Smart Security And Modern Living'
-description: >-
-  MGS Philippines has officially launched in Cebu! Offering 20-in-1
-  comprehensive features, their top-of-the-line product, the MGS Elite Pro Smart
-  Lock, redefines security and convenience.  
+description: 'MGS Philippines has officially launched in Cebu! Offering 20-in-1 comprehensive
+  features, their top-of-the-line product, the MGS Elite Pro Smart Lock, redefines
+  security and convenience.  '
 categories:
-  - brand
+- brand
 tags:
-  - cebu
-  - mgs
-  - security product
-  - smart locks
+- cebu
+- mgs
+- security product
+- smart locks
 views: '10'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/505/33fdba1760333451-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/505/33fdba1760333451-2.jpg
@@ -26,8 +25,9 @@ photo_credit: ''
 photo_credit_link: ''
 editor: JM Derecho
 read_time: 4 minutes
-published: true
+published: false
 ---
+
 
 MGS Philippines continues to make waves in the field of smart home innovation with its flagship product, the **MGS Elite Pro Smart Lock**—a 20-in-1 security solution that seamlessly combines advanced technology, style, and convenience. Designed for modern Filipino homes, this premium smart lock redefines what it means to feel safe and connected.
 
