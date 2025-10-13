@@ -30,26 +30,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-##
-
 Earthquakes are one of nature's most dramatic and destructive phenomena. To effectively study, monitor, and mitigate the risks associated with these tremors, seismologists employ two primary, yet distinct, measures of an earthquake's strength: **Magnitude** and **Intensity**. While both relate to the size of an earthquake, they describe different aspects of the event—one focuses on the source, the other on the effect.
 
 ### **Magnitude: The Fixed Measure of Energy**
