@@ -15,9 +15,9 @@ tags:
   - security product
   - smart locks
 views: '10'
-img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mgs/cover.jpg
-img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mgs/cover.jpg
-img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mgs/cover.jpg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/505/33fdba1760333451-2.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/505/33fdba1760333451-2.jpg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/505/33fdba1760333451-2.jpg
 img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mgs/p1.jpg
 img_500_2: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mgs/p2.jpg
 img_500_3: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mgs/p3.jpg
@@ -29,6 +29,7 @@ editor: JM Derecho
 read_time: 4 minutes
 published: true
 ---
+
 
 MGS Philippines continues to make waves in the field of smart home innovation with its flagship product, the **MGS Elite Pro Smart Lock**—a 20-in-1 security solution that seamlessly combines advanced technology, style, and convenience. Designed for modern Filipino homes, this premium smart lock redefines what it means to feel safe and connected.
 
