@@ -24,28 +24,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ALMOST two weeks after a 6.9-magnitude earthquake struck northern Cebu, thousands of residents remain in evacuation centers, grappling with a combination of physical illness and psychological distress. 
 
 Families continue to live in temporary shelters, many with limited access to clean water, adequate sanitation, and sufficient medical care, as recovery efforts slowly continue.
@@ -99,3 +77,7 @@ More than 411,000 residents continue to struggle with both visible and unseen wo
 While government and private aid are ongoing, the scale of the devastation means that full recovery will take months, if not years. 
 
 Health officials continue to stress the importance of protecting evacuees from illness, supporting their mental health, and ensuring that relief efforts reach even the most remote affected communities.
+
+
+
+&#x20;*Photo by: Jacq Hernandez, PBB Photojournalist*
