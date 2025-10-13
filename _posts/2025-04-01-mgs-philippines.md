@@ -30,7 +30,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
 MGS Philippines continues to make waves in the field of smart home innovation with its flagship product, the **MGS Elite Pro Smart Lock**—a 20-in-1 security solution that seamlessly combines advanced technology, style, and convenience. Designed for modern Filipino homes, this premium smart lock redefines what it means to feel safe and connected.
 
 As part of the **Don Macchiatos Group of Companies**, MGS Philippines upholds a reputation for excellence, offering top-quality products and exceptional customer service. With a growing presence in the country, the brand remains committed to empowering homeowners with cutting-edge smart solutions that enhance both security and lifestyle.
@@ -50,16 +49,7 @@ The MGS Elite Pro Smart Lock is designed to provide homeowners with unparalleled
 * Video Recording & Voice Intercom for enhanced surveillance
 * Built-in Doorbell for an all-in-one home security experience
 
-<br />
-
-###### Smart Investment in Security
-
-Originally priced at ₱60,000, the MGS Elite Pro Smart Lock is now available for only ₱29,999, with an installment option of ₱2,499 per month at 0% interest. Customers also benefit from a 2-year warranty, lifetime technical support, and a product trusted by celebrities and security experts alike.
-
-###### A Milestone for MGS Philippines Cebu
-
-The grand opening of MGS Philippines Cebu was attended by company executives, members of the media, and special guests, marking a significant step in making state-of-the-art security technology more accessible to Filipino households.
-For those looking to experience this innovation firsthand, MGS Philippines Cebu’s kiosk is now open at SM City Cebu, 1st Floor (in front of BDO).
+###### &#xA;For those looking to experience this innovation firsthand, MGS Philippines Cebu’s kiosk is now open at SM City Cebu, 1st Floor (in front of BDO).
 
 ***
 
