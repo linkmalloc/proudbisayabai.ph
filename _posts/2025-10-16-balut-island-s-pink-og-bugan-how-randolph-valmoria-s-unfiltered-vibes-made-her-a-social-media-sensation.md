@@ -3,8 +3,8 @@ author: Lane Quiamco
 author2: ''
 layout: post
 title: >-
-  Balut Island'S 'Pink Og Bugan': How Randolph Valmoria'S Unfiltered Vibes Made
-  Her A Social Media Sensation
+  Randolph Valmoria Proves One Thing: Your Most Unfiltered Self Is Your Greatest
+  Asset
 description: >-
   In the ever-expanding universe of social media, where compelling content
   reigns supreme, a refreshing new presence has emerged from the serene shores
@@ -29,6 +29,9 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
+
 
 
 In the ever-expanding universe of social media, where compelling content reigns supreme, a refreshing new presence has emerged from the serene shores of Balut Island in Sarangani, Davao Occidental.
