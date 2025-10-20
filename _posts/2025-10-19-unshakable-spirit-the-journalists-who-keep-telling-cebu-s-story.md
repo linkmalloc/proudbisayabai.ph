@@ -30,7 +30,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
 When the ground trembles and chaos ensues, most run to safety. But there is one group that runs toward the danger, not for glory, but for service: the local journalists of Cebu. As the region grapples with the aftermath of recent events, the spotlight turns to the dedication of the men and women who continue to deliver news, updates, and people’s stories, even as their own lives are upended.
 
 The work of a local news correspondent is never easy, but in the face of disaster, it becomes an act of immense public service. This sentiment was recently captured in a powerful post by *Jacq Hernandez*, which resonated deeply within the community:
@@ -44,3 +43,13 @@ From the northern towns that bore the brunt of the quake to the bustling city ce
 Their commitment is a testament to the essential role of journalism in a crisis. They stand for truth and public service when it matters most, upholding the Bisaya values of grit, resilience, and *serbisyo*. This unwavering dedication merits a collective moment of gratitude.
 
 Salamat our Cebuano journalists!
+
+<br />
+
+<img height="330" width="495" src="https://d1rl40o93nnuyl.cloudfront.net/posts/600/d46ecf1760967522-3.jpg" />
+
+<img height="329" width="493" src="https://d1rl40o93nnuyl.cloudfront.net/posts/600/70e1251760967530-4.jpg" />
+
+<img height="327" width="490" src="https://d1rl40o93nnuyl.cloudfront.net/posts/600/31a9d71760967559-5.jpg" />
+
+<img height="330" width="495" src="https://d1rl40o93nnuyl.cloudfront.net/posts/600/73ed6f1760967578-6.jpg" />
