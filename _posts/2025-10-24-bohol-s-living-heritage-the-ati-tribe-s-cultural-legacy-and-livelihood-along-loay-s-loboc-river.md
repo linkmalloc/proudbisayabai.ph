@@ -31,7 +31,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
 **LOAY, BOHOL** – Along the serene banks of the Loboc River, the rhythmic beat of a drum signals a dance performance that is more than just a tourist attraction but a story of survival, resilience, and cultural preservation. Meet the **Ati** people, the Philippines' first inhabitants, who have carved out a new life in Bohol with tourism playing a central role in their livelihood.
 
 **The Original Settlers**
@@ -69,8 +68,6 @@ However, they faced challenges in their new home, including discrimination from 
 A significant turning point came with the operation of the Rio Verde Floating Restaurant. The management tapped the Ati tribe to offer entertainment to guests, providing a stable, though indirect, source of income.
 
 During the cruise, the restaurant makes a stop along the riverbank where guests can watch Ati tribesmen perform. Wearing their traditional *bahag* and headdresses—whose resemblance to African clothing is linked to their deep ancestral roots—two men perform with two other tribesmen to the beat of drums. This same traditional attire is famously worn during the Ati-Atihan Festival in Aklan.
-
-*Image source: Nomadic Experiences* 
 
 As Carlos Jr. explained, *“Amo-amo ra ni nga paniguro para naa mi panginabuhi. Kung naa’y turista, malipay intawn mi kay wala man gud mi amoa anang sa Rio Verde. Kani tanan, tugot sa gobyerno, amoang gihimo para mabuhi mi.”*
 
