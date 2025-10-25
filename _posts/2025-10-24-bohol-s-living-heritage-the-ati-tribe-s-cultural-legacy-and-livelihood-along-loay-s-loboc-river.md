@@ -16,9 +16,9 @@ categories:
 tags:
   - LobocRiver
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/604/0228d41761396472-2.jpg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/604/0228d41761396472-2.jpg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/604/0228d41761396472-2.jpg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/604/7f32911761398138-3.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/604/7f32911761398138-3.jpg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/604/7f32911761398138-3.jpg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -30,6 +30,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
 
 **LOAY, BOHOL** – Along the serene banks of the Loboc River, the rhythmic beat of a drum signals a dance performance that is more than just a tourist attraction but a story of survival, resilience, and cultural preservation. Meet the **Ati** people, the Philippines' first inhabitants, who have carved out a new life in Bohol with tourism playing a central role in their livelihood.
 
