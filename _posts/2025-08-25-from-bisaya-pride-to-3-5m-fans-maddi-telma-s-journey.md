@@ -2,7 +2,7 @@
 author: Ariel Alegado
 author2: ''
 layout: post
-title: 'From Bisaya Pride To 3.5m Fans: Madi Telma’S Journey'
+title: Kinsa Si Madi Telma?
 description: >-
   To the Bisaya community, Jaime Onod — or more famously known as Madi Telma —
   is more than just a content creator. At 28 years old, she has become our
@@ -26,7 +26,30 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
+published: true
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 To the Bisaya community, Jaime Onod — or more famously known as Madi Telma — is more than just a content creator. At 28 years old, she has become our certified happy pill every time we scroll through TikTok or any social media feed. With her witty, hilarious, and oh-so-relatable content, Telma has carved out a special place in every Bisaya heart — one laugh at a time.
