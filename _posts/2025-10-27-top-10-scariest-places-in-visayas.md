@@ -2,7 +2,7 @@
 author: Lane Quiamco
 author2: ''
 layout: post
-title: 'Top 10 Scariest Places In Visayas! '
+title: Top 10 Scariest Places In Visayas
 description: >-
   PBB STORY | From cursed bridges to mansions echoing with wartime screams, the
   Visayas aren’t just sun and sea, it's a hotbed of haunted history.
@@ -25,6 +25,8 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
 
 
 PBB STORY | From cursed bridges to mansions echoing with wartime screams, the Visayas aren’t just sun and sea, it's a hotbed of haunted history. Here are the Top 10 scariest places in Visayas:
