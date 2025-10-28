@@ -26,7 +26,7 @@ read_time: 4 minutes
 published: true
 ---
 
-PBB STORY | From cursed bridges to mansions echoing with wartime screams, the Visayas aren’t just sun and sea, it's a hotbed of haunted history. Here are the Top 10 scariest places in Visayas:
+The Visayas may be known for its beaches and beauty, but beneath the surface lies a chilling past — from cursed bridges to wartime mansions that still echo with screams. Discover the **Top 10 scariest places in the Visayas.**
 
 Note: This feature does not intend to discredit any location or establishment mentioned. It aims to retell enduring ghost stories and urban legends from the places featured on this blog, preserving their cultural and historical value. (Proceed with caution.)
 
