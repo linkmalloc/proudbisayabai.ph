@@ -42,13 +42,13 @@ Constructed in 1973 under Ferdinand Marcos, this 2.16-km "Bridge of Love" hides 
 
 Built in the 1920s by a wealthy sugar baron, this opulent mansion was seized by Japanese forces during WWII and used as a torture chamber. Countless prisoners met gruesome ends in its basement, their blood said to permanently stain the tiles. Today, visitors report phantom screams, the ghost of a woman in a bloodied kimono drifting through halls, and an antique piano playing dissonant chords at midnight — even with its strings cut.
 
-1. **Fort San Pedro (Cebu)**
+**3. Fort San Pedro (Cebu)**
 
 <img height="541" width="541" src="https://d1rl40o93nnuyl.cloudfront.net/posts/612/65f9491761660681-4.jpg" />
 
 Built in 1565, this triangular Spanish fort witnessed centuries of violence—from repelling Moro pirates to Japanese occupation trenches in WWII. Soldiers report ghostly whispers in its corridors, and the dry well in the courtyard allegedly traps souls of executed prisoners. Shadow figures dart near the bastions, especially in the museum displaying torture artifacts.
 
-1. **Pook ng MV Eva Jocelyn Shrine (Leyte)**
+**4. Pook ng MV Eva Jocelyn Shrine (Leyte)**
 
 <img height="514" width="514" src="https://d1rl40o93nnuyl.cloudfront.net/posts/612/df0a5a1761660787-5.jpg" />
 
