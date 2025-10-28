@@ -26,10 +26,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
 PBB STORY | From cursed bridges to mansions echoing with wartime screams, the Visayas aren’t just sun and sea, it's a hotbed of haunted history. Here are the Top 10 scariest places in Visayas:
 
 Note: This feature does not intend to discredit any location or establishment mentioned. It aims to retell enduring ghost stories and urban legends from the places featured on this blog, preserving their cultural and historical value. (Proceed with caution.)
@@ -58,13 +54,11 @@ Built in 1565, this triangular Spanish fort witnessed centuries of violence—fr
 
 This ship was hurled ashore by Typhoon Yolanda (2013), crushing homes and killing hundreds in Barangay Anibong. Locals hear sobbing from the rusted hull at night, and ghostly figures of victims materialize in the surrounding "no-build zone." The metallic groans of the wreck are said to echo during storms.
 
-
 **5. Casa Gorordo (Cebu**)
 
 <img height="504" width="504" src="https://d1rl40o93nnuyl.cloudfront.net/posts/612/5517ef1761660886-6.jpg" />
 
 This 1850s balay nga tisa (tiled house) in historic Parian district hosted generations of the Gorordo family, including Cebu’s first bishop. Footsteps echo in empty rooms, and the scent of friar’s pipe tobacco lingers near the chapel. Staff report antique dolls turning their heads and a lady in a terno dress vanishing through walls.
-
 
 **6. Hinagdanan Cave (Bohol)**
 
@@ -72,13 +66,11 @@ This 1850s balay nga tisa (tiled house) in historic Parian district hosted gener
 
 This limestone cave’s hidden pool was discovered when a farmer dropped stones through a hole ("hinagdanan"). Japanese soldiers drowned prisoners here in WWII, and their trapped spirits surface as shadowy ripples. Visitors report sudden cold spots and hands dragging them underwater.
 
-
 **7. Colon Street (Cebu)**
 
 <img height="485" width="485" src="https://d1rl40o93nnuyl.cloudfront.net/posts/612/041b471761660978-8.jpg" />
 
 Asia’s oldest street (1565) thrived as a colonial hub but became a den of crime and poverty. After dark, engkanto (spirits) lure the unwary into alleys, and spectral aswang (shape-shifters) blend with crowds. Shopkeepers report items rearranged by invisible hands, and the ghost of a Spanish-era merchant haunts the decrepit Cine Oriente theater.
-
 
 **8. Guimbal National Highway (Iloilo)**
 
@@ -86,13 +78,11 @@ Asia’s oldest street (1565) thrived as a colonial hub but became a den of crim
 
 Named for the guimba drum used to warn of Moro raids, this coastal road sees phantom warriors dragging chains during full moons. Drivers swerve to avoid ghostly children chasing tabi-tabi (ritualistic) balls, and a "white lady" causes fatal crashes near the old watchtower ruins.
 
-
 **9. Museo Parian (1730 Jesuit House, Cebu)**
 
 <img height="477" width="477" src="https://d1rl40o93nnuyl.cloudfront.net/posts/612/6281ae1761661081-10.jpg" />
 
 Jesuits used this 1730 house as a base before their 1768 expulsion. During restoration, workers found human bones beneath rotten posts—victims of colonial-era punishments. Visitors feel icy touches in the kitchen, and the ghost of Padre Repetti (linked to its rediscovery) appears in the archives
-
 
 **10. Carcar City (Cebu)**
 
