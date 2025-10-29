@@ -4,7 +4,7 @@ author2: ''
 layout: post
 title: >-
   Nganong Gitawag Man Og Halloween? Ang Tinuod Nga Sinugdanan Sa Pista Sa
-  Kalag-Kalag!
+  Kalag-Kalag
 description: >-
   Sa matag tuig, atong gipaabot ang Oktubre 31 para sa mga costume, tam-is
   (treats), ug kalisang (spooks). Apan bisan sa kalingaw ug modernong mga
@@ -32,6 +32,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
 
 Sa matag tuig, atong gipaabot ang Oktubre 31 para sa mga costume, tam-is (treats), ug kalisang (spooks). Apan bisan sa kalingaw ug modernong mga tradisyon, pila ra gyud ang nakahibalo kung diin gikan ang mismong pulong nga **"Halloween"**? Dili kini gikan sa Hollywood, bai! Ang ngalan adunay lawom nga gamot sa kasaysayan ug relihiyon, nga nag-ugmad gikan sa daan na nga mga selebrasyon.
 
