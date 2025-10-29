@@ -2,7 +2,7 @@
 author: Andre Salazar
 author2: ''
 layout: post
-title: ' "Adlaw Sa Mga Kalag" 2025: A Bisaya Guide To A Sacred Remembrance'
+title: ' Adlaw Sa Mga Kalag 2025: A Bisaya Guide To A Sacred Remembrance'
 description: >-
   November 1st and 2nd are fast approaching, the two days enshrined in the
   hearts of Filipinos as Undas. This is more than just a public holiday; it is a
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
 
 November 1st and 2nd are fast approaching, the two days enshrined in the hearts of Filipinos as **Undas**. This is more than just a public holiday; it is a profound tradition of love, respect, and deep remembrance for our dearly departed loved ones.
 
