@@ -26,20 +26,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Ania ang inyong cosmic breakdown karong Nobyembre. Basaha kini sa imong saktong kalingaw, ug ayaw kaayo seryosoha!
 
 ## **♈ Aries**
@@ -134,7 +120,7 @@ Ania ang inyong cosmic breakdown karong Nobyembre. Basaha kini sa imong saktong 
 * Imbes i-critique ang iyang sayop, **i-hug na lang**. Dili na siya mu-change, accept na.
 * Hunonga na ang pagpangita og sayop. Mas nindot ang peace!
 
-**Career (Pangita)**
+**Career**&#x20;
 
 * **Relax!** Okay na ang imong trabaho. Ayaw na i-check for the **ika-napulo** ka higayon.
 * Pirmahi na! I-submit na! Walay perfect nga output.
@@ -185,7 +171,7 @@ Ania ang inyong cosmic breakdown karong Nobyembre. Basaha kini sa imong saktong 
 * Imbes mag-away sa partner, planoha na lang ang sunod nga adventure (pero **duol lang**).
 * Ayaw i-over-promise ang travel. I-plano og tarong ang inyong date.
 
-**Career (Pangita)**
+**Career**&#x20;
 
 * Kung naay plano sa negosyo, i-review og tarong. Ang **delayed flights** is a sign sa pag-amping.
 * Pangita og opportunity nga makat-on og bag-ong skill nga dili ka mag-gasto og dako.
