@@ -52,6 +52,30 @@ published: true
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 To the Bisaya community, Jaime Onod — or more famously known as Madi Telma — is more than just a content creator. At 28 years old, she has become our certified happy pill every time we scroll through TikTok or any social media feed. With her witty, hilarious, and oh-so-relatable content, Telma has carved out a special place in every Bisaya heart — one laugh at a time.
 
 **“Madi!”** — A word now forever tied to her brand of humor and charm, echoing not only in Mindanao but across the country and beyond.
