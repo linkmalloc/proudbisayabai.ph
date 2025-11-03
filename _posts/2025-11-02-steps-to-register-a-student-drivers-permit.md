@@ -2,7 +2,7 @@
 author: PBB ADMIN
 author2: ''
 layout: post
-title: Steps To Register A Student Drivers Permit
+title: Steps To Register A Student Drivers Permit Online
 description: >-
   Getting your Student Driver's Permit is now faster and simpler! The Land
   Transportation Office (LTO) has fully shifted most of the application process
@@ -27,6 +27,13 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
+
+
+
+
+
 
 
 
