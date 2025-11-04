@@ -2,7 +2,7 @@
 author: Lane Quiamco
 author2: ''
 layout: post
-title: 'Heartbreaking: Animal Rescue Shelter Badly Damaged By Typhoon #Tinoph'
+title: 'Heartbreaking: Animal Rescue Shelter Badly Damaged By Typhoon Tino'
 description: >-
   IN PHOTOS: Pawssion Project Animal Shelter, a sanctuary for rescued animals,
   has sustained significant damage from Typhoon Tino with fallen trees
@@ -27,6 +27,9 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
+
 
 IN PHOTOS: Pawssion Project Animal Shelter, a sanctuary for rescued animals, has sustained significant damage from Typhoon Tino with fallen trees destroying huts, damaging senior animal spacesand knocking down recently constructed fences.
 
