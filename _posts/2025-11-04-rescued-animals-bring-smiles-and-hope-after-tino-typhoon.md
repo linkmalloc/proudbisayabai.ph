@@ -27,62 +27,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 While conducting clearing operations at their storm-ravaged shelter, volunteers from Pawssion Project found a moment of joy and relief as rescued animals greeted them with smiles.
 
 The animal welfare organization shared that despite exhaustion, humidity, and ongoing challenges like power and water outages, the sight of the animals safe and content brought them comfort and renewed strength.
@@ -90,3 +34,7 @@ The animal welfare organization shared that despite exhaustion, humidity, and on
 In the wake of Typhoon TinoPH, Pawssion Project continues to accept donations through multiple channels to support the affected shelter.
 
 The organization also plans to personally deliver supplies to other affected shelters this week. For those who wish to help, donation details are available on their official page.
+
+<img height="483" width="363" src="https://d1rl40o93nnuyl.cloudfront.net/posts/641/a3dce11762360033-4.jpg" />
+
+<img height="491" width="368" src="https://d1rl40o93nnuyl.cloudfront.net/posts/641/72f3831762360044-5.jpg" />
