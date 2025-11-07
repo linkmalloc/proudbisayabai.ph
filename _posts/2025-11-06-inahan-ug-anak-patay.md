@@ -2,12 +2,14 @@
 author: Ariel Alegado
 author2: ''
 layout: post
-title: Inahan Ug Anak Patay
+title: >-
+  Mother And Child Swept Away In Liloan, Bodies Recovered In Sogod During
+  Typhoon Tino
 description: >-
-  A mother and her child were swept away in Liloan amid heavy rains and flooding
-  caused by Typhoon Tino. Their bodies were recovered on November 4. The child’s
-  body was found some time after, highlighting the tragic delay, truly
-  heartbreaking. Their wake is being held in Sogod.
+  SOGOD, Cebu — A tragic incident occurred amid the heavy rains and flooding
+  caused by Typhoon Tino as a mother and her young child were swept away in
+  Liloan. Their bodies were recovered on November 4, with the child’s body found
+  some time after, highlighting the heartbreaking delay.
 categories:
   - story
 tags:
@@ -29,34 +31,16 @@ published: true
 ---
 
 
+SOGOD, Cebu — A tragic incident occurred amid the heavy rains and flooding caused by Typhoon Tino as a mother and her young child were swept away in Liloan. Their bodies were recovered on November 4, with the child’s body found some time after, highlighting the heartbreaking delay.
 
 
 
+The victims have been identified as Vivian Rose Lamarca, 30, originally from La Union, and her 3-year-old daughter Avianna Keith Lamarca Arnado. The family had recently bought a house in Liloan and transferred there earlier this year. Their wake is currently being held in Sogod. Her husband, a Cebuano, is currently in Dubai and is expected to return to the Philippines tonight to be with his family.
 
 
 
+Local authorities have reminded residents to stay safe, avoid dangerous areas, and remain vigilant during the typhoon.
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-A mother and her child were swept away in Liloan amid heavy rains and flooding caused by Typhoon Tino. Their bodies were recovered on November 4. The child’s body was found some time after, highlighting the tragic delay, truly heartbreaking. Their wake is being held in Sogod.
-
-The victims were identified as Vivian Rose Lamarca, 30, and her 3-year-old daughter Avianna Keith Lamarca Arnado.
-
-Local authorities reminded the public to stay safe, avoid dangerous areas, and remain vigilant during the typhoon.
+This tragic incident serves as a sobering reminder of the dangers posed by extreme weather events, and the importance of preparedness during storms
