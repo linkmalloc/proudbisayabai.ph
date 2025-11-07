@@ -2,7 +2,7 @@
 author: PBB ADMIN
 author2: ''
 layout: post
-title: Pilipinas, When Kaya? World’S Top Flood Control Project
+title: Pilipinas, When Kaya? Top Flood Control Projects In The World
 description: >-
   Major cities around the world are secured by astonishing engineering projects
   designed to outmatch the most severe flood threats. These are not simple
@@ -27,6 +27,78 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Major cities around the world are secured by astonishing engineering projects designed to outmatch the most severe flood threats. These are not simple walls, but complex, meticulously designed systems with specific technical specifications.
 
@@ -61,7 +133,7 @@ The **Delta Works** is a comprehensive system of 13 major dams, sluices, and sto
 
 The **Hurricane & Storm Damage Risk Reduction System (HSDRRS)** is the modernized flood defense for Greater New Orleans, built after Hurricane Katrina.
 
-* **Scale of Defense:** The overall system, costing up to **P1.05 Trillion**, consists of **350 miles of levees and floodwalls**and includes **73 non-Federal pumping stations**, **3 canal closure structures**, and **4 gated outlets**.
+* **Scale of Defense:** The overall system, costing up to **P1.05 Trillion**, consists of **350 miles of levees and floodwalls** and includes **73 non-Federal pumping stations**, **3 canal closure structures**, and **4 gated outlets**.
 * **Key Barrier:** The system includes the **Inner Harbor Navigation Canal (IHNC) Lake Borgne Surge Barrier**—a **1.8-mile concrete wall** with a **150-foot sector gate** and barge gate.
 * **Design Level:** The system is engineered for a **100-year level of risk reduction**, meaning it is built to handle a storm surge event that has a **1% chance** of occurring or being exceeded in any given year. This design explicitly accounted for factors like **sea level rise and soil subsidence** over its 50-year design life.
 * **Result:** Its completion in 2018 secured a **High** level of protection, successfully withstanding subsequent major storms.
