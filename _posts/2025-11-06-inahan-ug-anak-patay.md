@@ -2,9 +2,7 @@
 author: Ariel Alegado
 author2: ''
 layout: post
-title: >-
-  Mother And Child Swept Away In Liloan, Bodies Recovered In Sogod During
-  Typhoon Tino
+title: Inahan Ug Anak Patay Sa Bagyong Tino
 description: >-
   SOGOD, Cebu — A tragic incident occurred amid the heavy rains and flooding
   caused by Typhoon Tino as a mother and her young child were swept away in
@@ -29,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
 
 
 SOGOD, Cebu — A tragic incident occurred amid the heavy rains and flooding caused by Typhoon Tino as a mother and her young child were swept away in Liloan. Their bodies were recovered on November 4, with the child’s body found some time after, highlighting the heartbreaking delay.
