@@ -28,8 +28,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
 PRESYO SA MGA UTANON UG PRUTAS SA CARBON!
 
 Bisan pa sa padayon nga pag-ulan tungod sa bagyong nag-agi, nagpadayon gihapon ang mga vendors sa Carbon Bagsakan Market sa pagbaligya sa ilang mga utanon. Sa karong adlawa, Nobyembre 9, 2025, ani ang presyo sa pipila ka utanon ug prutas:
@@ -41,11 +39,8 @@ Bisan pa sa padayon nga pag-ulan tungod sa bagyong nag-agi, nagpadayon gihapon a
 * Kalabasa (Squash): ₱30 per kilo
 * Seedless Grapes: ₱100 per kilo
 * Saging Lakatan (Lakatan Banana): ₱50 per kilo
-* U.S. Lemon: ₱20 each
+* Lemon: ₱10-20 each
 * Murkot (Mandarin): ₱10 each
-* Local Lemon/Lime: ₱10 each
 * Sibuyas Dahon (Spring Onions): ₱20 per bundle
-
-
 
 Note: Prices may vary depending on the supplier and quality.
