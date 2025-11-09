@@ -2,7 +2,7 @@
 author: PBB ADMIN
 author2: ''
 layout: post
-title: Loilo City’S Natural Protection
+title: Iloilo City’S Natural Protection
 description: >-
   Former Mayor Jerry Treñas shared an aerial shot of the expansive mangrove area
   in Iloilo City, emphasizing the importance of protecting this natural resource
@@ -29,19 +29,6 @@ published: true
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 Former Mayor Jerry Treñas shared an aerial shot of the expansive mangrove area in Iloilo City, emphasizing the importance of protecting this natural resource as a response to the worsening effects of climate change.
 
 “We must protect this natural asset as we confront the growing challenges of climate change,” he said.
@@ -51,3 +38,5 @@ Treñas highlighted that mangroves have long served as nature’s fortress for c
 He added that these areas also provide critical habitats for wildlife and contribute to climate mitigation.
 
 Photo by Jerry Treñas/Facebook,
+
+Iloilo City’S Natural Protection
