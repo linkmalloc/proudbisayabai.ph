@@ -12,9 +12,9 @@ categories:
 tags:
   - MichaelRama
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/670/cced511762938276-5.jpg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/670/cced511762938276-5.jpg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/670/cced511762938276-5.jpg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/670/6b93e01762946947-6.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/670/6b93e01762946947-6.jpg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/670/6b93e01762946947-6.jpg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
 
 
 Former Cebu City mayor Michael Rama can no longer run in elections after the Commission on Elections (Comelec) First Division granted a petition disqualifying him from the 2025 polls.
