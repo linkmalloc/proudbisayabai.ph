@@ -27,6 +27,7 @@ read_time: 4 minutes
 published: true
 ---
 
+
 Authorities are still unable to locate dozens of residents reported missing after Typhoon Tino, with the official count remaining at 44 as of Tuesday, November 18.
 
 The Provincial Disaster Risk Reduction and Management Office (PDRRMO) said the number has not changed because search teams continue to encounter obstacles in heavily affected areas.

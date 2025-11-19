@@ -27,27 +27,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Cebu Province is facing a new health challenge in the wake of Typhoon Tino as leptospirosis cases rise in flood-affected communities.
 
 

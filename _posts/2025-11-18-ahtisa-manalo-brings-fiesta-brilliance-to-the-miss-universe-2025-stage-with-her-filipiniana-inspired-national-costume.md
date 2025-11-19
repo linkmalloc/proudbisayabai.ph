@@ -33,6 +33,7 @@ read_time: 4 minutes
 published: true
 ---
 
+
 Miss Universe Philippines 2025 Ahtisa Manalo lit up the international stage with a national costume that paid majestic tribute to the country’s heritage, artistry, and enduring spirit of celebration. Titled **“Cherished Tradition: The Festival Queen,”** the ensemble captures the Filipina as a living symbol of beauty, grace, and cultural pride — a woman who dazzles not only with elegance but with the soul of every Filipino fiesta.
 
 Anchored in history, the costume begins with the classic silhouette of the **traje de mestiza** — the bell-sleeved *camisa*, the sweeping *saya*, and the modest *pañuelo* draped gently over the shoulders. These timeless elements honor **María Clara**, the beloved heroine of Dr. José Rizal’s *Noli Me Tangere*, whose virtue, modesty, and dignity became the blueprint of the ideal Filipina. Through this homage, the ensemble bridges past and present, reminding the world of the origins of the modern **terno**, the Philippines’ national dress.
