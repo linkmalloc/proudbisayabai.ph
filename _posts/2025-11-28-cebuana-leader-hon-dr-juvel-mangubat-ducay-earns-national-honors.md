@@ -47,6 +47,7 @@ published: true
 
 
 
+
 Bantayan Island’s very own Hon. Dr. Juvel Mangubat Ducay continues to make waves in public service as she earns Outstanding Councilor of the Year and Outstanding Humanitarian and Community Service at the 2025 Philippines Choice Award.
 
 
