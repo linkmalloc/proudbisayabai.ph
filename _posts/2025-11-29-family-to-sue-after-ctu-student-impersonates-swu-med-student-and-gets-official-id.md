@@ -3,30 +3,30 @@ author: Lane Quiamco
 author2: ''
 layout: post
 title: Family To Sue After Student Impersonates Med Student And Gets Official Id
-description: >-
-  A family is taking legal action after a student from Cebu Technological
-  University (CTU) Moalboal allegedly impersonated their son, a genuine
-  first-year medical student at Southwestern University (SWU) and successfully
-  obtained an official university ID in the victim's name.
+description: A family is taking legal action after a student from Cebu Technological
+  University (CTU) Moalboal allegedly impersonated their son, a genuine first-year
+  medical student at Southwestern University (SWU) and successfully obtained an official
+  university ID in the victim's name.
 categories:
-  - story
+- story
 tags:
-  - SWU
+- SWU
 views: '10'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/714/ed31401764500866-3.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/714/ed31401764500866-3.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/714/ed31401764500866-3.jpeg
-img_500_1: null
-img_500_2: null
-img_500_3: null
-img_500_4: null
-img_500_5: null
+img_500_1:
+img_500_2:
+img_500_3:
+img_500_4:
+img_500_5:
 photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
-published: true
+published: false
 ---
+
 
 
 
