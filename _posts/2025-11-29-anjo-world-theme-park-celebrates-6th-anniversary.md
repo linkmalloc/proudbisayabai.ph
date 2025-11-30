@@ -15,9 +15,9 @@ tags:
   - AnjoWorldThemePark
   - StoryOfAnjo
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/719/c052d71764505886-2.jpg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/719/c052d71764505886-2.jpg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/719/c052d71764505886-2.jpg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/719/9e8ebf1764507956-6.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/719/9e8ebf1764507956-6.jpg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/719/9e8ebf1764507956-6.jpg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -29,6 +29,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
 
 
 
