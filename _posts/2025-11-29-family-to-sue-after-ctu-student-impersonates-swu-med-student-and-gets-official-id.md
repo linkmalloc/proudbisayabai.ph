@@ -40,4 +40,6 @@ What makes the case more alarming is that the ID was issued six months ago durin
 
 The alleged impersonator initially apologized to the family and claimed the ID was merely a fake edit. However, an official verification at the SWU IT department confirmed the school had mistakenly issued the physical ID. Staff members recalled the incident, admitting they found it suspicious because the person claiming to be Joseph Villamor looked nothing like him, yet the ID was still released.
 
-The Villamor family is now pursuing charges for identity theft, misrepresentation, and fraudulent use of personal information, warning the public to remain vigilant with their personal data. | 📸 Christian Jay Villamor
+The Villamor family is now pursuing charges for identity theft, misrepresentation, and the fraudulent use of personal information. They are also urging the public to remain vigilant in protecting their personal data.
+
+📸 Christian Jay Villamor
