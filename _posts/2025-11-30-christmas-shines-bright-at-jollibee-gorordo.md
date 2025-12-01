@@ -37,7 +37,7 @@ The branch joins over 300 Jollibee stores nationwide in celebrating the season w
 
 
 
-At Gorordo, families, friends, and passersby gathered to witness the tree lighting, enjoy the holiday setup, and feel the excitement of the season.
+At Gorordo, families, friends, and passersby gathered to witness the lighting ceremony, enjoy the holiday setup, and feel the excitement of the season.
 
 
 
