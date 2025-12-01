@@ -29,18 +29,7 @@ published: true
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-The holiday spirit is officially alive in Cebu as the Jollibee Gorordo branch lit up its festive Christmas tree and transformed its store into a Joyful Christmas destination today, December 1, 2025.
+The holiday spirit is officially alive in Cebu as the Jollibee Gorordo branch lit up its festive Christmas lights and transformed its store into a Joyful Christmas destination today, December 1, 2025.
 
 
 
@@ -52,7 +41,7 @@ At Gorordo, families, friends, and passersby gathered to witness the tree lighti
 
 
 
-As the store lights and Christmas tree glowed, the Gorordo branch brought the season’s spirit to life with togetherness, joy, and shared moments. Indeed, buo ang saya ng Pasko.
+As the store lights and Christmas lights glowed, the Gorordo branch brought the season’s spirit to life with togetherness, joy, and shared moments. Indeed, buo ang saya ng Pasko.
 
 
 
@@ -80,4 +69,4 @@ More details here: jollibee.com.ph/promos/family-super-meals-promo
 
 
 
-With its glowing tree, festive decorations, and joyful community moments, the Jollibee Gorordo tree lighting marks a warm and bright start to the season. Christmas is here, and it shines even brighter at Jollibee.
+With its glowing lights, festive decorations, and joyful community moments, the Jollibee Gorordo lighting marks a warm and bright start to the season. Christmas is here, and it shines even brighter at Jollibee.
