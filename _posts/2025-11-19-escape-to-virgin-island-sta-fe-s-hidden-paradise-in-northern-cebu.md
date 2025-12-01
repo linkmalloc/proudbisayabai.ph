@@ -14,9 +14,9 @@ categories:
 tags:
   - BantayanVirginIsland
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/688/78b7cd1763649237-2.jpg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/688/78b7cd1763649237-2.jpg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/688/78b7cd1763649237-2.jpg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/688/6977211764563602-7.jpeg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/688/6977211764563602-7.jpeg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/688/6977211764563602-7.jpeg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -66,13 +66,11 @@ Virgin Island remains one of Bantayan’s top attractions because it blends conv
 
 🕘 Day Use: 9:00 AM – 5:00 PM
 
-Photos by Sailor Vibes
+Photos by Sailor Vibes & VettyMata
 
 <br />
 
 <img width="800" src="https://d1rl40o93nnuyl.cloudfront.net/posts/688/edfa271763649244-3.jpg" />
-
-
 
 <br />
 
