@@ -28,28 +28,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Situated at the southern tip of Cebu, Samboan is a tranquil coastal destination where adventure, history, and pure island serenity meet. This charming town offers an authentic escape for travelers seeking nature’s beauty, cultural depth, and a slower pace of life.
 
 **A Destination Where Nature Thrives**
@@ -60,11 +38,7 @@ From cascading waterfalls to pristine shorelines, Samboan boasts some of Cebu’
 
 A multi-tiered waterfall unlike any other, Aguinid invites visitors to climb through its limestone layers, swim in turquoise pools, and explore lush rainforest paths. It’s an adventure that balances excitement and relaxation.
 
-*Tingko Beach*
-
-With its powdery white sand and clear blue waters, Tingko Beach is an idyllic spot for swimming, sunbathing, or simply enjoying the peaceful southern breeze. It’s a postcard-perfect destination that captures the beauty of Samboan’s coastline.
-
-*Historic St. Thomas de Villanueva Church*
+*Saint Michael the Archangel Church*
 
 Built in the 18th century, this centuries-old church stands proudly as a testament to Samboan’s rich cultural heritage. The stone structure, surrounded by scenic landscapes, offers a glimpse into the region’s deep-rooted history.
 
