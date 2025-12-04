@@ -3,32 +3,32 @@ author: PBB ADMIN
 author2: ''
 layout: post
 title: Mandaue Police Wins Regional Empo 2025 Challenge
-description: >-
-  The Mandaue City Police Office (MCPO) emerged as the overall champion in the
-  Enhanced Management of Police Operations (EMPO) 2025 Challenge in Central
-  Visayas after earning an outstanding 98.53 percent rating in a simulated
-  robbery-holdup scenario.
+description: The Mandaue City Police Office (MCPO) emerged as the overall champion
+  in the Enhanced Management of Police Operations (EMPO) 2025 Challenge in Central
+  Visayas after earning an outstanding 98.53 percent rating in a simulated robbery-holdup
+  scenario.
 categories:
-  - story
+- story
 tags:
-  - MCPO
-  - MandaueCityPoliceOffice
-  - EMPO2025
+- MCPO
+- MandaueCityPoliceOffice
+- EMPO2025
 views: '10'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/750/b7936a1764845195-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/750/b7936a1764845195-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/750/b7936a1764845195-2.jpg
-img_500_1: null
-img_500_2: null
-img_500_3: null
-img_500_4: null
-img_500_5: null
+img_500_1:
+img_500_2:
+img_500_3:
+img_500_4:
+img_500_5:
 photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
-published: true
+published: false
 ---
+
 
 
 
