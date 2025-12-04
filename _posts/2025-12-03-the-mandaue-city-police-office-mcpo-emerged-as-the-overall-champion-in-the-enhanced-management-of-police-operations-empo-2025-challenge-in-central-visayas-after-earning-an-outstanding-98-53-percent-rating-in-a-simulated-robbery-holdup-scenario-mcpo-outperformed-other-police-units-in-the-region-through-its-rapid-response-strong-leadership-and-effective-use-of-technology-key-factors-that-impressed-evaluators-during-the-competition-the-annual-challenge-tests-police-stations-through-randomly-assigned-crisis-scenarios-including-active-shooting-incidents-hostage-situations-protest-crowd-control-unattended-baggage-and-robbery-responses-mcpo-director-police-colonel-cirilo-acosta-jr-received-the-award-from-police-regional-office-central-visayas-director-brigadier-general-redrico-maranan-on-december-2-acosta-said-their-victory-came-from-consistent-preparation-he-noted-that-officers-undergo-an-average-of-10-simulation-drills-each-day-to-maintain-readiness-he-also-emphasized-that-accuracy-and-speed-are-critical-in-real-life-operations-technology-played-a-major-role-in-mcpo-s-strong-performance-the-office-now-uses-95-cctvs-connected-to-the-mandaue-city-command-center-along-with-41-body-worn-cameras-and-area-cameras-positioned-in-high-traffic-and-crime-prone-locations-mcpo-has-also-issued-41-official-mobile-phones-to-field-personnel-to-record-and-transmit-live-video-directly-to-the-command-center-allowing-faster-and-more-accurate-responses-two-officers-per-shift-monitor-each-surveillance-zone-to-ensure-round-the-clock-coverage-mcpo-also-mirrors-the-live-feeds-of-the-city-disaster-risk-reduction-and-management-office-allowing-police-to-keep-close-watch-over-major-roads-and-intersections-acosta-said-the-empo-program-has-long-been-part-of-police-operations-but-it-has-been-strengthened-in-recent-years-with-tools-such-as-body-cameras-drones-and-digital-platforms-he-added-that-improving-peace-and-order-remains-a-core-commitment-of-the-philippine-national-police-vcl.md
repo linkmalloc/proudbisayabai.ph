@@ -2,34 +2,7 @@
 author: PBB ADMIN
 author2: ''
 layout: post
-title: >-
-  The Mandaue City Police Office (Mcpo) Emerged As The Overall Champion In The
-  Enhanced Management Of Police Operations (Empo) 2025 Challenge In Central
-  Visayas After Earning An Outstanding 98.53 Percent Rating In A Simulated
-  Robbery-Holdup Scenario.  Mcpo Outperformed Other Police Units In The Region
-  Through Its Rapid Response, Strong Leadership, And Effective Use Of
-  Technology—Key Factors That Impressed Evaluators During The Competition.  The
-  Annual Challenge Tests Police Stations Through Randomly Assigned Crisis
-  Scenarios, Including Active Shooting Incidents, Hostage Situations, Protest
-  Crowd Control, Unattended Baggage, And Robbery Responses.  Mcpo Director
-  Police Colonel Cirilo Acosta Jr. Received The Award From Police Regional
-  Office Central Visayas Director Brigadier General Redrico Maranan On December
-  2.  Acosta Said Their Victory Came From Consistent Preparation.   He Noted
-  That Officers Undergo An Average Of 10 Simulation Drills Each Day To Maintain
-  Readiness.   He Also Emphasized That Accuracy And Speed Are Critical In
-  Real-Life Operations.  Technology Played A Major Role In Mcpo’S Strong
-  Performance.   The Office Now Uses 95 Cctvs Connected To The Mandaue City
-  Command Center, Along With 41 Body-Worn Cameras And Area Cameras Positioned In
-  High-Traffic And Crime-Prone Locations.  Mcpo Has Also Issued 41 Official
-  Mobile Phones To Field Personnel To Record And Transmit Live Video Directly To
-  The Command Center, Allowing Faster And More Accurate Responses.  Two Officers
-  Per Shift Monitor Each Surveillance Zone To Ensure Round-The-Clock Coverage.  
-  Mcpo Also Mirrors The Live Feeds Of The City Disaster Risk Reduction And
-  Management Office, Allowing Police To Keep Close Watch Over Major Roads And
-  Intersections.  Acosta Said The Empo Program Has Long Been Part Of Police
-  Operations, But It Has Been Strengthened In Recent Years With Tools Such As
-  Body Cameras, Drones, And Digital Platforms.   He Added That Improving Peace
-  And Order Remains A Core Commitment Of The Philippine National Police. (Vcl)
+title: Mandaue Police Wins Regional Empo 2025 Challenge
 description: >-
   The Mandaue City Police Office (MCPO) emerged as the overall champion in the
   Enhanced Management of Police Operations (EMPO) 2025 Challenge in Central
@@ -56,6 +29,8 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
 
 
 
