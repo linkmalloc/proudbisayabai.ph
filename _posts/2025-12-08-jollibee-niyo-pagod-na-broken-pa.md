@@ -27,22 +27,10 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 A simple wait for food at a fast-food chain turned into a creative moment. Artist Daniel Blancaflor shared a sketch he made on Jollibee tissues while waiting for his order.
 
 The detailed illustration, created in 2019, tells a visual "love story" featuring the iconic Jollibee mascot and has recently gained fresh attention online. Netizens have praised the artist's talent in turning an everyday object into a piece of sentimental art.&#x20;
 
-From “Bida ang Saya” to “Sa Kabilang Buhay na siya Masaya” 😔 | 📸 Daniel Blancaflor, via LLQ
+From “Bida ang Saya” to “Sa Kabilang Buhay na Siya Masaya.”&#x20;
+
+📸 Daniel Blancaflor, via LLQ
