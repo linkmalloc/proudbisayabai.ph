@@ -27,29 +27,8 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Nine fishermen are safe and in stable condition after a successful rescue operation by the Philippine Coast Guard (PCG). Their motor banca sank approximately 19 nautical miles southwest of Nogas Island in Antique.
 
+The PCG swiftly responded to the distress call, locating and retrieving all nine crew members from the water. After the rescue, the fishermen received prompt medical assistance and were reported to be in stable condition.
 
-
-The PCG swiftly responded to the distress call, locating and retrieving all nine crew members from the water. Following the rescue, the fishermen received prompt medical assistance and were reported to be in stable condition. | 📸 Philippine Coast Guard, via LLQ
+📸 Philippine Coast Guard, via LLQ
