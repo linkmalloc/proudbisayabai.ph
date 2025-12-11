@@ -14,9 +14,9 @@ categories:
 tags:
   - BantayanVirginIsland
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/688/6977211764563602-7.jpeg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/688/6977211764563602-7.jpeg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/688/6977211764563602-7.jpeg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/688/8c378a1765444683-8.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/688/8c378a1765444683-8.jpg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/688/8c378a1765444683-8.jpg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -28,6 +28,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
 
 If you’re searching for a tropical escape with pure white sands, clear turquoise waters, and a peaceful atmosphere, Virgin Island in Sta. Fe, Bantayan Island, Cebu is the perfect pick. Known for its untouched beauty, this small private island has become a favorite destination for couples, barkadas, and families looking for a serene getaway.
 
