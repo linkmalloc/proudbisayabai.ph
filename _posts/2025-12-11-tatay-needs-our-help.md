@@ -27,76 +27,14 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Pedrito Davin, 69, lives alone in a tiny 8 by 10 feet shelter in Purok Kolo, Brgy Estaca, Compostela, Cebu. His home is made of patched-together sheets of metal and scraps, with a dirt floor that turns muddy and wet during the rain.
-
-
 
 Four years ago, Pedrito fell while helping a neighbor and broke his back. He said the doctor told him that surgery would cost around 90,000 pesos, but he simply could not afford it, so he never received treatment. Today, his legs and feet are swollen, and he suffers extreme pain that makes it very difficult for him to stand.
 
-
-
 With no family to care for him, a kind neighbor, Eliza Larosa, helps when she can by cleaning his home and sharing food. Tatay still needs medical care, food, basic necessities, clothing, solar lights, and a safe cemented floor to make his home livable.
-
-
 
 The area is a bit hard to reach, so anyone who wants to help may need some guidance. You can coordinate with the Estaca Barangay Hall in Compostela and look for Brgy. staff Wency Dimoral Cinco. ( 09276253919 )
 
-
-
 Every bit of help can give him a chance to live with dignity again.
 
-
-
-\| 📷 Jacq Hernandez, PBB Photojournalist
-
-
-
-Latest Cebu and more updates at proudbisayabai.ph
+Photo by Jacq Hernandez, PBB Photojournalist
