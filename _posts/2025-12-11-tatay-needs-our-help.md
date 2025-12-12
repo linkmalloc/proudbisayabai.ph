@@ -1,5 +1,5 @@
 ---
-author: Jacq Fernandez
+author: Jacq Hernandez
 author2: ''
 layout: post
 title: Tatay Needs Our Help
@@ -26,6 +26,15 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
+
+
+
+
+
+
+
 
 Pedrito Davin, 69, lives alone in a tiny 8 by 10 feet shelter in Purok Kolo, Brgy Estaca, Compostela, Cebu. His home is made of patched-together sheets of metal and scraps, with a dirt floor that turns muddy and wet during the rain.
 
