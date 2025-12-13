@@ -15,9 +15,9 @@ categories:
 tags:
   - Sinulog2026
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/794/0577501765548520-2.jpg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/794/0577501765548520-2.jpg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/794/0577501765548520-2.jpg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/794/9333ad1765629449-3.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/794/9333ad1765629449-3.jpg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/794/9333ad1765629449-3.jpg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -29,9 +29,6 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
-
-
-
 
 
 Cebu’s grandest celebration is just around the corner, and this upcoming Sinulog Festival promises to be one of the most vibrant and most diverse yet. After months of preparation, prayer, and anticipation, organizers have officially released both the Sinulog 2026 schedule of religious and cultural activities and the final list of competing contingents for next year’s festivities.
@@ -181,3 +178,5 @@ With an expanded list of contingents and a packed schedule blending solemn devot
 From the sacred Walk with Jesus to the electrifying Grand Parade, Cebu is once again ready to welcome devotees, dancers, and visitors in a celebration that unites every Cebuano under one cry:
 
 Pit Señor! Viva Señor Santo Niño!
+
+Thumbnail Photo: Reymund Requina
