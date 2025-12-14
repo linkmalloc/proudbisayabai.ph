@@ -30,32 +30,6 @@ published: true
 ---
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The Mandaue City Police Office (MCPO) emerged as the overall champion in the Enhanced Management of Police Operations (EMPO) 2025 Challenge in Central Visayas after earning an outstanding 98.53 percent rating in a simulated robbery-holdup scenario.
 
 
