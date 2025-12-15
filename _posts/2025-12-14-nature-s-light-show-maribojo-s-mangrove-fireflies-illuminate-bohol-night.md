@@ -28,22 +28,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Bohol offers a different kind of nightlife, one that glows in the dark. Away from the city lights, the Maribojoc Mangrove Firefly Watching experience is enchanting visitors with a spectacular natural view along the serene Abatan River.
 
 As dusk settles, guided boat or kayak tours navigate the quiet mangrove channels. There, thousands of fireflies—primarily the species Pteroptyx macdermotti—gather in the trees, creating a synchronized, twinkling spectacle often likened to natural Christmas lights or a living starry sky.
@@ -53,3 +37,5 @@ More than just a visual wonder, the tour emphasizes eco-tourism and conservation
 Tours typically last 2–3 hours with options for a relaxed sampan boat cruise or an adventurous kayak paddle. Visitors are advised to wear dark clothing and refrain from using flash photography to protect the sensitive environment.
 
 For a serene, romantic or family-friendly evening adventure that highlights Bohol's natural beauty, the Maribojoc fireflies offer an unforgettable encounter!
+
+📸 Incredible Bohol Tours
