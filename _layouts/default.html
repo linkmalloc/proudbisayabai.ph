@@ -17,7 +17,10 @@ layout: none
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://res.cloudinary.com/proudbisayabai/image/upload/w_1000,c_fill,ar_1:1,g_auto,r_max,bo_5px_solid_red,b_rgb:262c35/v1610956956/logo/transparentbackgroundpbb_unybsh.png">
     {% include seo.html %}
-    {% include ads.html %}
+    {% comment %}
+        <!-- remove Google AdSense to declutter site  -->
+       {% include ads.html %}
+    {% endcomment %}
     <!-- NewsBoard CSS  -->
 
     <link rel="stylesheet" href="/assets/css/vendor/toastr.min.css">
