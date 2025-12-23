@@ -57,5 +57,3 @@ Photos: Jacq Hernandez, PBB Photojournalist
 <img width="800" src="https://d1rl40o93nnuyl.cloudfront.net/posts/846/5ea6d41766467466-9.jpeg" />
 
 <img width="800" src="https://d1rl40o93nnuyl.cloudfront.net/posts/846/5fc5a41766467454-8.jpeg" />
-
-<img width="800" src="https://d1rl40o93nnuyl.cloudfront.net/posts/846/5ea6d41766467466-9.jpeg" />
