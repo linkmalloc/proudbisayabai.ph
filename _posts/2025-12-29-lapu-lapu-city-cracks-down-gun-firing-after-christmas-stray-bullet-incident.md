@@ -27,24 +27,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The Lapu-Lapu City government has ordered stricter enforcement against indiscriminate firing of firearms during New Year celebrations after a reported stray bullet incident last Christmas.
 
 Mayor Cindi King-Chan warned that individuals caught firing guns will face severe penalties, stressing that the city will not tolerate reckless actions that endanger lives.
@@ -68,3 +50,5 @@ She said the city’s decision reflects its commitment to public safety, especia
 “Dili ta mosugot nga aduna intawoy kinabuhi nga mabutang sa alanganin tungod lang sa pag-gara-gara ug ginadiling paggamit og armas,” King-Chan said, urging residents to celebrate responsibly.
 
 The mayor reiterated her appeal to the public to welcome the New Year without resorting to illegal firearms, noting safer ways to celebrate that do not put innocent lives at risk. (VCL)
+
+Photo from King-Chan’s Facebook
