@@ -28,25 +28,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The Baricuatro administration is strengthening Cebu’s healthcare system as it heads into 2026, building on reforms implemented in 2025 and lessons learned from twin disasters that tested the province’s response capacity.
 
 Shortly after taking office, Governor Pamela Baricuatro moved to stabilize hospital operations and address long-standing gaps in manpower, equipment, and emergency preparedness.
@@ -68,3 +49,5 @@ The province’s health systems faced further tests during a powerful earthquake
 Preventive measures followed, including large-scale distribution of leptospirosis prophylaxis to at-risk populations.
 
 All 10 provincial hospitals now operate 24-hour laboratory services, addressing previous gaps in access to diagnostic testing during emergencies and off-hours. (SBA)
+
+Photo by Cebu Province / Facebook page
