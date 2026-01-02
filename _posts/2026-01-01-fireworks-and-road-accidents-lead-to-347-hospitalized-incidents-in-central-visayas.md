@@ -30,39 +30,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Hospitals across Central Visayas welcomed 347 holiday-related injury cases as families lit fireworks and filled the streets to celebrate the New Year.&#x20;
 
 Health workers remained on high alert throughout the Yuletide period to manage the surge in patients.
@@ -86,3 +53,5 @@ The agency also reiterated guidance on the safe use of fireworks, urging residen
 For emergencies, the public can contact the National Emergency Hotline 911 or the DOH 7 Regional Patient Navigation and Referral Unit at #0711.&#x20;
 
 DOH 7 noted that reported figures may still change as data reconciliation and validation continue.
+
+Photo from CCDRRMO Facebook
