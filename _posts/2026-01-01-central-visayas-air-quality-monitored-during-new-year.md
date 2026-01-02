@@ -1,5 +1,5 @@
 ---
-author: PBB ADMIN
+author: Kaiser Fuentes
 author2: ''
 layout: post
 title: 'Central Visayas Air Quality Monitored During New Year '
@@ -28,6 +28,26 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 Air quality in Central Visayas remained mostly safe during New Year celebrations, but experts warned sensitive individuals to take precautions in some areas.
