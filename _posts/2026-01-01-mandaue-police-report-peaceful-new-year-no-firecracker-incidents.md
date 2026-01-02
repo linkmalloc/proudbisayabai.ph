@@ -24,20 +24,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 &#x20;The Mandaue City Police Office (MCPO) reported a peaceful holiday season and New Year celebration, with no incidents involving firecrackers or fireworks.
 
 Police Lieutenant Colonel Mercy Villaro, MCPO spokesperson, credited the orderly situation to heightened police visibility, continuous implementation of Oplan Bandilyo, and sustained information campaigns conducted across all city police stations.
@@ -57,3 +43,5 @@ While acknowledging that fireworks are traditionally used to welcome the New Yea
 In preparation for the 2026 New Year, the MCPO deployed at least 300 personnel across high-traffic areas, including churches, shopping centers, public markets, plazas, restaurants, and transport terminals, ensuring strict compliance with the ordinance banning illegal firecrackers.
 
 Police officers remained on standby throughout the city to respond promptly to any emergencies, ensuring a safe and orderly celebration as Mandaue welcomed the new year. (VCL)
+
+Photo by Jacq Hernandez
