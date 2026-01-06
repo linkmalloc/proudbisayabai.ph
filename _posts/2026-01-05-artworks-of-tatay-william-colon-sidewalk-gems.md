@@ -27,69 +27,16 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 A local artist from Jones Avenue has set up a makeshift sidewalk gallery near Colon Street, offering his paintings to passersby for as low as P150.
-
-
 
 Tatay William Avila said he opened his temporary display on Sunday, January 4, 2025, hoping to attract customers.
 
-
-
 He shared that a basic painting priced at P150 usually takes him about 20 minutes to finish.
-
-
 
 Other artworks, including pieces painted on bilao used as canvas, are sold for P250.&#x20;
 
-
-
 Larger and more detailed works are priced higher depending on the design, with one of his eight-horse artworks priced at P2,000.
-
-
 
 With the Sinulog Festival approaching, Avila hopes the increase in foot traffic near Colon Street will help him sell more of his works and sustain his livelihood through art.
 
-
-
 His mini gallery is currently located near McDonald's Colon, fronting Novo.
-
-
-
-\| via Kaiser Jan Fuentes&#x20;
-
-
-
-Get featured by messaging us at m.me/proudbisayabai
