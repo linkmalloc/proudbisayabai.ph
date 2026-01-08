@@ -100,7 +100,7 @@
             el.classList.add('mobile-sticky-footer');
             document.body.appendChild(el);
             document.body.classList.add('ad-active');
-        } else if (id === 'desktop_top' ) {
+        } else if (id === 'desktop_top' && !isMobile) {
             el.style.width = '728px'; el.style.height = '90px'; 
             const header = document.querySelector('header') || document.body;
             header.append(el);
