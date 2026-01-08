@@ -53,7 +53,7 @@
             container.style.width = '728px';
             container.style.height = '90px';
             container.innerHTML = adMarkup;
-            document.body.prepend(container);
+            document.body.append(container);
         }
         else if (id === 'mid_article') {
             const article = document.querySelector('.entry-content') || document.querySelector('article');
