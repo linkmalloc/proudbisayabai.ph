@@ -623,7 +623,7 @@ jQuery.fn.isMobile = () => {
 
         newsletter();
         try{
-            live();
+            //live();
         }catch(e){
             console.log(e);
         }
