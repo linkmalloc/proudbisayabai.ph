@@ -21,7 +21,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tops/5.jpg
 published: true
 photo_credit: Proud Bisaya Bai, Photo Bloggers
 photo_credit_link: ''
-author_img: https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo.jpg
+author_img: https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo-202601.jpg
 ---
 
 

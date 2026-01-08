@@ -21,7 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618151407
 photo_credit: "Fretxzie Ann Martinez | Ariel Alegado | Team Leader"
 photo_credit_link: ""
 published: false
-author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo-202601.jpg"
 read_time: "4 minutes"
 
 social_reach: "29,829"

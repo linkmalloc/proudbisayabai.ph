@@ -15,7 +15,7 @@ img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ritz_beach
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ritz_beach_resort2/1.jpg
 photo_credit: "Proud Bisaya Bai, Photo Bloggers"
 photo_credit_link: ""
-author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo-202601.jpg"
 read_time: "5 minutes"
 ---
 ##### Ritz Beach Resort  

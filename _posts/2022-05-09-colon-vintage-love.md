@@ -1,6 +1,6 @@
 ---
 author: "Lovers Lane Quiamco | Head Writer"
-author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo-202601.jpg"
 layout: post
 title: "Colon Vintage Love"
 description: "Nothing beats Ciel and Ryan's third-anniversary photoshoot, which has a Parisian vibe!"

@@ -1,6 +1,6 @@
 ---
 author: "Lovers Lane Quiamco, Head Writer"
-author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo-202601.jpg"
 layout: post
 title: "A Switzerland of Wonder: The Hidden Gem of Alamada Cotobato"
 description: "Make your “Switzerland” dream come true at Coco's Funville & Nature Park!"

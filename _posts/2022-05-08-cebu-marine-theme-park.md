@@ -1,6 +1,6 @@
 ---
 author: "Lovers Lane Quiamco"
-author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo-202601.jpg"
 layout: post
 title: "Ten Amazing Things to Do When You're in Cebu’s World-Class Marine-Themed Park"
 description: "Visit the LARGEST Oceanarium in the Philippines, which is 7-meter deep with a 360-degree viewing tunnel that houses thousands of the world’s most incredible marine species. Cebu Ocean Park is the city's first and only marine-themed park, with a diverse collection of sea creatures!"

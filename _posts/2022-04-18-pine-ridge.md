@@ -1,6 +1,6 @@
 ---
 author: "Lovers Lane Quiamco"
-author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo.jpg"
+author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo-202601.jpg"
 layout: post
 title: "Pine Ridge Bukidnon: A Heaven’s Realm"
 description: "Strap on your sneakers, lace up your hiking boots, grab some sunscreen and get ready for a trip to Pine Ridge Bukidnon."
