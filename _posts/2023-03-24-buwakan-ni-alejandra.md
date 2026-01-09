@@ -20,7 +20,7 @@ img_500_4:
 img_500_5: 
 photo_credit: "Clynt Vincent Gentapa"
 photo_credit_link: ""
-editor: "John Manuel Derecho"
+editor: "JM Derecho"
 read_time: "5 minutes"
 ---
 ****

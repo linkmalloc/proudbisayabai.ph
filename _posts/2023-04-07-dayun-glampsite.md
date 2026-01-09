@@ -21,7 +21,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dayunglampsite/7.j
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dayunglampsite/10.jpg
 photo_credit: ""
 photo_credit_link: ""
-editor: "John Manuel Derecho"
+editor: "JM Derecho"
 read_time: "5 minutes"
 ---
 ****
