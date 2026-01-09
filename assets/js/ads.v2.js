@@ -2,7 +2,7 @@
     const csvUrl = "https://docs.google.com/spreadsheets/d/e/2PACX-1vTUqNk05hNr07J0Ik4otWAwD6VwM_Ahg_zYRnC9Ip4WIvfivmrbVhQlf-kGxxOf3XpUMtn7zvvBF7XA/pub?output=csv";
     const isMobile = window.innerWidth < 768;
     const cacheBuster = new Date().getTime();
-    const adQueues = { desktop_top: [], mobile_sticky: [], mid_article: []. mid_article_native: [], mid_article_square: []  };
+    const adQueues = { desktop_top: [], mobile_sticky: [], mid_article: [], mid_article_native: [], mid_article_square: []  };
 
     // 1. GA4 TRACKING HELPER (Fixed for Realtime)
     function logGA4(action, ad) {
