@@ -1,0 +1,38 @@
+name: Batch Publish to Prod
+on:
+  schedule:
+    - cron: '*/15 * * * *' # Runs every 15 minutes
+  workflow_dispatch:      # Manual trigger
+
+jobs:
+  merge-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          ref: prod       # Start on the deployment branch
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Git Identity
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+
+      - name: Sync Master to Prod
+        run: |
+          # Fetch the latest from master
+          git fetch origin master
+          
+          # Check how many commits master is ahead of prod
+          DIFF_COUNT=$(git rev-list --count HEAD..origin/master)
+          
+          if [ $DIFF_COUNT -gt 0 ]; then
+            echo "Found $DIFF_COUNT new commits on master. Syncing to prod..."
+            # Merge master into prod
+            git merge origin/master --no-ff -m "Batch publish: $DIFF_COUNT updates from master"
+            git push origin prod
+          else
+            echo "No new changes on master. Skipping build."
+          fi
