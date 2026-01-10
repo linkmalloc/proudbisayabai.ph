@@ -25,7 +25,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kalanggaman_island
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kalanggaman_island/6.jpg
 photo_credit: "Criz Angelo via IG: criznose, Michael Sagonoy | Pobreng Laagan - Drone Pilot"
 photo_credit_link: " www.instagram.com/michaelsagoo"
-editor: "JM Derecho"
+editor: "PBB Admin"
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/michael.jpg"
 read_time: "4 minutes"
 ---

@@ -24,7 +24,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/el_mar_resort/11.j
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/el_mar_resort/12.jpg
 photo_credit: "Yoko Sato Li  (No copyright infringement intended) "
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 ---
 ****  
 ##### El Mar Resort  

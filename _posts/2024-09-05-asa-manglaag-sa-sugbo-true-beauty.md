@@ -19,7 +19,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/asa-maglaag-sa-sug
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/asa-maglaag-sa-sugbo-3/p5.jpg
 photo_credit: ""
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "5 minutes"
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 ---

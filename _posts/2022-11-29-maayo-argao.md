@@ -20,7 +20,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/maayo_argao/6.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/maayo_argao/5.jpg
 photo_credit: " Yoko Sato Li | yoko_travelbook"
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "5 minutes"
 ---
 ****

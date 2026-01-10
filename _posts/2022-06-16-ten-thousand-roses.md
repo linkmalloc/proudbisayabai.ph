@@ -20,7 +20,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ten_thousand_roses
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ten_thousand_roses/6.jpg
 photo_credit: "Jewirlson Currylson"
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "4 minutes"
 ---
 ***

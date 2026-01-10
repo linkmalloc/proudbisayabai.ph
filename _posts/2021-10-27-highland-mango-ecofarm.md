@@ -23,7 +23,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/highland_mango_eco
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/highland_mango_ecofarm/6.jpg
 photo_credit: "Albert Chan Paran IFFM NYC Best Actor  Best Actor "
 photo_credit_link: " https://www.facebook.com/albert.paran"
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "4 minutes"
 ---
 ###### Highland Mango Ecofarm

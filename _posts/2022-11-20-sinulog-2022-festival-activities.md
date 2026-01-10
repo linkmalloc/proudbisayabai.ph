@@ -23,7 +23,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinulog_2022/9.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinulog_2022/10.jpg
 photo_credit: "official page of Basilica Minore del Sto Nino"
 photo_credit_link: "https://santoninodecebubasilica.org/events/fiesta-senor-2023"
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "5 minutes"
 ---
 ****

@@ -22,7 +22,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mt_tagaytay/9.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mt_tagaytay/5.jpg
 photo_credit: "𝕎𝕒𝕟𝕕𝕖𝕣𝕃𝕦𝕤𝕥 PH via Sel Larios"
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "4 minutes"
 ---
 ****

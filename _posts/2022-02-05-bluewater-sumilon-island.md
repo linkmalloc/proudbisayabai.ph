@@ -23,7 +23,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bluewater_sumilon_
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bluewater_sumilon_island_resort/13.jpg
 photo_credit: "Rinan Calunia "
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "3 minutes"
 ---
 ****

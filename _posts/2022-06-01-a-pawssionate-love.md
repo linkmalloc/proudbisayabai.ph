@@ -14,7 +14,7 @@ img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pawssionat
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pawssionate_love/cover.jpg
 photo_credit: "Razel Alcano"
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "4 minutes"
 ---
 ****

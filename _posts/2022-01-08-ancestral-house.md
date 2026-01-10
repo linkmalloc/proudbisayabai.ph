@@ -23,7 +23,7 @@ img_500_5:
 photo_credit: "Fr. Chris Amores Tooppee Amorites via Ben Cabrido Jr. "
 photo_credit_link: ""
 read_time: "2 minutes"
-editor: "JM Derecho"
+editor: "PBB Admin"
 ---
 ****
 LOOK: Naa juy something aning balaya dah, Wala rajud naunsa sa mga ni agi nga bagyo! 

@@ -22,7 +22,7 @@ img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/strawberry_guyaban
 photo_credit: "Strawberry Guyabano Farm"
 photo_credit_link: "https://www.facebook.com/SGFarmPh/"
 read_time: "4 minutes"
-editor: "JM Derecho"
+editor: "PBB Admin"
 ---
 ****
 ###### STRAWBERRY GUYABANO FARM

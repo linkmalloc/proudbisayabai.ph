@@ -24,7 +24,7 @@ img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sa_dagat_beach_cam
 photo_credit: "H Adventures, Fred Rhett Babatid (No copyright infringement intended)"
 photo_credit_link: ""
 read_time: "3 minutes"
-editor: "JM Derecho"
+editor: "PBB Admin"
 ---
 ****
 ###### Sadagat Beach Camp 

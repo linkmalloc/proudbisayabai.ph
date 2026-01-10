@@ -22,7 +22,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/enchanted_mountain
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/enchanted_mountain_resort/6.jpg
 photo_credit: "Twin De Los Reyes, PBB Drone Pilot"
 read_time: "3 minutes"
-editor: "JM Derecho"
+editor: "PBB Admin"
 ---
 ###### Enchanted Mountain Cebu  
 

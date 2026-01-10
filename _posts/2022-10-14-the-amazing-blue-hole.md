@@ -18,7 +18,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/blue_hole1/4.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/blue_hole1/5.jpg
 photo_credit: "Motourista"
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: ""
 ---
 ****
