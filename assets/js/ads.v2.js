@@ -6,11 +6,11 @@
 
     // 1. GA4 TRACKING HELPER (Fixed for Realtime)
     function logGA4(action, ad) {
-        const eventName = 'ad_' + action;
+        const eventName = 'pbb_' + action;
         const params = {
-            'ad_id': ad.id,
-            'ad_tier': ad.tier,
-            'ad_link': ad.link,
+            'pbb_id': pbb.id,
+            'pbb_tier': pbb.tier,
+            'pbb_link': pbb.link,
             'non_interaction': action === 'impression' ? true : false // Tells GA4 impressions are passive
         };
 
@@ -32,7 +32,7 @@
     // 2. STYLES
     const style = document.createElement('style');
     style.innerHTML = `
-        .site-ad { overflow: hidden; background: #f4f4f4; text-align: center; margin: 20px auto; display: flex; align-items: center; justify-content: center; font-family: sans-serif; position: relative; border-radius: 4px; box-sizing: border-box; }
+        .site-pbb { overflow: hidden; background: #f4f4f4; text-align: center; margin: 20px auto; display: flex; align-items: center; justify-content: center; font-family: sans-serif; position: relative; border-radius: 4px; box-sizing: border-box; }
         body.ad-active { padding-bottom: 75px !important; }
         .mobile-sticky-footer { position: fixed; bottom: 0; left: 0; width: 100%; height: 55px; z-index: 9999; background: #fff; box-shadow: 0 -2px 15px rgba(0,0,0,0.15); margin: 0 !important; border-radius: 0; }
         .desktop-top-unit { width: 95%; max-width: 728px; min-height: 90px; height: auto; aspect-ratio: 728 / 90; margin: 15px auto !important; display: flex !important; }
