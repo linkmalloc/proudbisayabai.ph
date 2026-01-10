@@ -23,7 +23,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/rotypeaks/12.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/rotypeaks/15.jpg
 photo_credit: "PBB"
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "3 minutes"
 ---
 ****

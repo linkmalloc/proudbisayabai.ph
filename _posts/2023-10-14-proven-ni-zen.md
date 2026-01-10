@@ -21,7 +21,7 @@ img_500_4:
 img_500_5:
 photo_credit: "Zheny Airen Dela Cerna"
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "3 minutes"
 ---
 ****

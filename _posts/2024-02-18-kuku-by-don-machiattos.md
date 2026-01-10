@@ -27,7 +27,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kuku/15.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kuku/16.jpg
 photo_credit: PBB, Sunstar News
 photo_credit_link: ''
-editor: JM Derecho
+editor: PBB Admin
 read_time: 3 minutes
 ---
 

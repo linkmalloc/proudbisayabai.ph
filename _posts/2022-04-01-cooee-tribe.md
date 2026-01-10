@@ -23,7 +23,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cooe_tribe/5.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cooe_tribe/6.jpg
 photo_credit: "cooeetribe"
 photo_credit_link: "https://instagram.com/cooeetribe?utm_medium=copy_link"
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "4 minutes"
 ---
 ****

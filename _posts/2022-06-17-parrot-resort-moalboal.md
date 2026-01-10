@@ -19,7 +19,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/parrot_resort/6.jp
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/parrot_resort/7.jpg
 photo_credit: "Proud Bisaya Bai"
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "4 minutes"
 ---
 ****

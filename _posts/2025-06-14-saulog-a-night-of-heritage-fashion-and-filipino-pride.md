@@ -24,7 +24,7 @@ img_500_4: null
 img_500_5: null
 photo_credit: ''
 photo_credit_link: ''
-editor: JM Derecho
+editor: PBB Admin
 read_time: 1 minute
 ---
 

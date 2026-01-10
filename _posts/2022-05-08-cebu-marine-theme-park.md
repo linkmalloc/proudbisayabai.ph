@@ -22,7 +22,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cebu_ocean_park/5.
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cebu_ocean_park/6.jpg
 photo_credit: "Juan Virtudazo, PBB Mindanao  "
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "5 minutes"
 ---
 ****

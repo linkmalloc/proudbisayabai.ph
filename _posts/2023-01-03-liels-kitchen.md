@@ -20,7 +20,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liels_kitchen/11.j
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liels_kitchen/15.jpg
 photo_credit: "Photos from Proud Bisaya Bai Files  "
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "5 minutes"
 ---
 ****

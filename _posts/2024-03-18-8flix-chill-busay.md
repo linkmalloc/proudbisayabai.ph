@@ -23,7 +23,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/8flix_chill_busay/
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/8flix_chill_busay/12.jpg
 photo_credit: "Andre Salazar, Content Blogger "
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "3 minutes"
 ---
 ****

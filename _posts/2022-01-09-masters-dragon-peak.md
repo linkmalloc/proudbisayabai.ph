@@ -23,7 +23,7 @@ img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/master_dragons_pea
 photo_credit: "Tactile Travel (No copyright infringement intended)"
 photo_credit_link: ""
 read_time: "3 minutes"
-editor: "JM Derecho"
+editor: "PBB Admin"
 ---
 ****
 ###### Master’s Dragon Peak

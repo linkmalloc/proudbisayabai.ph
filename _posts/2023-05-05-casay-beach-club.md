@@ -20,7 +20,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/casay_beach_club/4
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/casay_beach_club/5.jpg
 photo_credit: "TRIP NI JODAN"
 photo_credit_link: "https://www.facebook.com/profile.php?id=100085694911928"
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "3 minutes"
 ---
 ****

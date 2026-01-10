@@ -20,7 +20,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/inambakan_falls/4.
 img_500_5: 
 photo_credit: "Yans Baroy"
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: ""
 ---
 ****

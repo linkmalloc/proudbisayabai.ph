@@ -14,7 +14,7 @@ img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/5_underrat
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/5_underrated_spots_in_cebu/cover.jpg
 photo_credit: "Proud Bisaya Bai Team"
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "5 minutes"
 ---
 ****
