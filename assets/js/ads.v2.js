@@ -5,7 +5,7 @@
     const adQueues = { desktop_top: [], mobile_sticky: [], mid_article: [], mid_article_native: [], mid_article_square: []  };
 
     // 1. GA4 TRACKING HELPER (Fixed for Realtime)
-    function logGA4(action, ad) {
+    function logGA4(action, pbb) {
         const eventName = 'pbb_' + action;
         const params = {
             'pbb_id': pbb.id,
