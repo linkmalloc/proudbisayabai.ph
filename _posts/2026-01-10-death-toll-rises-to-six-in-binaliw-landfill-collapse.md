@@ -44,3 +44,5 @@ Provincial and city authorities have mobilized 56 personnel to the site, includi
 Meanwhile, Mandaue City Mayor Thadeo Jovito “Jonkie” Ouano emphasized the city’s temporary measures to maintain waste collection amid the landfill disruption, including a temporary transfer station in Barangay Umapad, which operates under a scheduled system to manage incoming garbage from city barangays.
 
 Biodegradable waste is sent to the Mandaue Green Learning Park for composting, while recyclables are delivered to the Guun facility in Consolacion.
+
+Photo by Jacq Hernandez

@@ -57,3 +57,5 @@ Ouano urged residents to strictly follow proper garbage disposal practices as th
 Biodegradable or perishable waste will be composted at the Mandaue Green Learning Park (MGLP), while recyclables will be sent to the Guun facility in Consolacion.
 
 “This is our temporary emergency response while we continue to look for the best long-term solution,” Ouano said, calling on Mandauehanons to cooperate as the city addresses the impact of the landfill incident. (VCL)
+
+Photo from Mayor Thadeo Jovito “Jonkie” Ouano Facebook Page
