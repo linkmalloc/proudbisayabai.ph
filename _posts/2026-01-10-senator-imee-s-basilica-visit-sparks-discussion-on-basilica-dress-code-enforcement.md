@@ -67,3 +67,5 @@ Almerez added that the Basilica welcomes everyone, regardless of status or posit
 He also reminded devotees that humility and discipline are at the heart of worship.
 
 “The Basilica is a house of prayer for everyone. We hope that all who enter do so with respect, reflecting devotion and care for the sacredness of this place,” Almerez said.
+
+Photo from Imee Marcos Facebook
