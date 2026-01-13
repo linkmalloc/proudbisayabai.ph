@@ -18,7 +18,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mic_check/5.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mic_check/6.jpg
 photo_credit: ""
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: ""
 ---
 ****

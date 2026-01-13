@@ -23,7 +23,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jesus_fuentes/4.jp
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jesus_fuentes/5.jpg
 photo_credit: "CDN Digital | Jesus Fuentes Facebook Account"
 photo_credit_link: "https://www.facebook.com/profile.php?id=100055350211473"
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "4 minutes"
 ---
 ****

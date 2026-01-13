@@ -22,7 +22,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/colon_vintage_love
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/colon_vintage_love/15.jpg
 photo_credit: "Idolwanderer Photography"
 photo_credit_link: "https://www.instagram.com/idolwandererphotography/"
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "5 minutes"
 ---
 ****

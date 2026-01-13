@@ -23,7 +23,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chai_beach_resort/
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chai_beach_resort/19.jpg
 photo_credit: "PBB admin"
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "4 minutes"
 ---
 ****

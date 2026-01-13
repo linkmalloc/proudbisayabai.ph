@@ -20,7 +20,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paseo_de_porferio/
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paseo_de_porferio/5.jpg
 photo_credit: "Gan Robert Tiu"
 photo_credit_link: "https://www.facebook.com/ganrobert.tiu"
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "3 minutes"
 ---
 ###### PASEO de Porferio  

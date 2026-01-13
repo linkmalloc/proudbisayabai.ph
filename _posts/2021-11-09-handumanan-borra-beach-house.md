@@ -23,7 +23,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/handumanan/5.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/handumanan/6.jpg
 photo_credit: "HANDUMANAN-borra beach house | (No copyright infringement intended) "
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "5 minutes"
 ---
 ###### HANDUMANAN-borra beach house  

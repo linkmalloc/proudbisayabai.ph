@@ -22,7 +22,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/fresh_lettuce_in_a
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/fresh_lettuce_in_a_cup/6.jpg
 photo_credit: "Municipality of Medellin Cebu, Paulavin B Tam Louielenz Mallura"
 read_time: "3 minutes"
-editor: "JM Derecho"
+editor: "PBB Admin"
 ---
 ###### FRESH LETTUCE IN A CUP for only 25 PESOS! 
 

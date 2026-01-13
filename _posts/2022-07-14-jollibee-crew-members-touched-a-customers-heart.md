@@ -20,7 +20,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee-ates-birt
 img_500_5: 
 photo_credit: " Cristine Sumayang Bustillo"
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "5 minutes"
 hide_header_image: true
 ---

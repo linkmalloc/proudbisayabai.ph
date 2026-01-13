@@ -24,7 +24,7 @@ img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hermits_cove/5.jpg
 photo_credit: "Michael Sagonoy, Vivi Moore, via IG criznose  (No copyright infringement intended) "
 photo_credit_link: "https://instagram.com/criznose"
 read_time: "4 minutes"
-editor: "JM Derecho"
+editor: "PBB Admin"
 ---
 ****
 ###### Hermit’s Cove, Aloguisan  

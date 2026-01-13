@@ -25,7 +25,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lava_mountain_rive
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lava_mountain_river_farm/6.jpg
 photo_credit: "Ernest John Sariego"
 photo_credit_link: "https://instagram.com/ernestsariego/"
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "5 minutes"
 ---
 ##### Lava Mountain River Farm  

@@ -24,7 +24,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lake_bensis3/9.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lake_bensis3/10.jpg
 photo_credit: "Chinito Rider"
 photo_credit_link: "https://www.facebook.com/ChinitoRider"
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "5 minutes"
 ---
 ****

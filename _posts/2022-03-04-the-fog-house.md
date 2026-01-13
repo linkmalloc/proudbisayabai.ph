@@ -21,7 +21,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_fog_house/10.j
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_fog_house/11.jpg
 photo_credit: "Pete Abellana, Official Photographer"
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "4 minutes"
 ---
 ****

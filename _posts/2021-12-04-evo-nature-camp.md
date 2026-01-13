@@ -24,7 +24,7 @@ img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/evo_nature_camp/6.
 photo_credit: "Sailor Vibes"
 photo_credit_link: ""
 read_time: "4 minutes"
-editor: "JM Derecho"
+editor: "PBB Admin"
 ---
 ****
 ###### EVO Nature Camp  

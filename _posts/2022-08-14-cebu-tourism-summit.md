@@ -20,7 +20,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tourism_summit/3.j
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tourism_summit/4.jpg
 photo_credit: "Christian Lucky Bunao Saligumba"
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "5 minutes"
 ---
 ****

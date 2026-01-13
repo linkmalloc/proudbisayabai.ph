@@ -24,7 +24,7 @@ img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kawasan_falls/12.j
 photo_credit: "Charnelle02 via IG charnelle002 (No copyright infringement intended)"
 photo_credit_link: ""
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
-editor: "JM Derecho, Editor"
+editor: "PBB Admin"
 read_time: "4 minutes"
 ---
 ****

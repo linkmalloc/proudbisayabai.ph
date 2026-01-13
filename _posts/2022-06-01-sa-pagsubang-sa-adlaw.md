@@ -20,7 +20,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sa_pagsubang_sa_ad
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sa_pagsubang_sa_adlaw/5.jpg
 photo_credit: "Kevin David"
 photo_credit_link: "https://www.facebook.com/kevindavid.ph"
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "4 minutes"
 ---
 ****

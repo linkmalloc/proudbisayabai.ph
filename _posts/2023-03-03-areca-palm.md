@@ -20,7 +20,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/areca_palm/4.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/areca_palm/5.jpg
 photo_credit: "Janus Vince Bas | Daryl David Thompson"
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "4 minutes"
 ---
 ****

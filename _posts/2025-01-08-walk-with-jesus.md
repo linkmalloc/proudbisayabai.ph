@@ -22,7 +22,7 @@ img_500_4:
 img_500_5:
 photo_credit: "Lance Lesmes Kurt"
 photo_credit_link: ""
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "4 minutes"
 ---
 <br>  

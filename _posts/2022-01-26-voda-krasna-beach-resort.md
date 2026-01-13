@@ -23,7 +23,7 @@ img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/voda_krasna_beach_
 photo_credit: "Yoko Sato Li |  yoko_travelbook (No copyright infringement intended)"
 photo_credit_link: "https://www.instagram.com/yoko_travelbook/?hl=en"
 read_time: "3 minutes"
-editor: "JM Derecho"
+editor: "PBB Admin"
 ---
 ****
 ###### A Seaside of Valor and Beauty: Voda Krasna Beach Resort

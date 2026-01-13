@@ -20,7 +20,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pasigarbo-sa-sugbo
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pasigarbo-sa-sugbo/p5.jpg
 photo_credit: "エン バルドマン"
 photo_credit_link: "https://www.flickr.com/photos/enggul/"
-editor: "JM Derecho"
+editor: "PBB Admin"
 read_time: "5 minutes"
 ---
 ****
