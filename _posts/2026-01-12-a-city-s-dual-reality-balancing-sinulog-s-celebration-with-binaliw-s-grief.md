@@ -13,9 +13,9 @@ categories:
 tags:
   - BarangayBinaliw
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/935/a8fb8e1768277912-2.jpeg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/935/a8fb8e1768277912-2.jpeg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/935/a8fb8e1768277912-2.jpeg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/935/e38bdf1768280274-3.jpeg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/935/e38bdf1768280274-3.jpeg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/935/e38bdf1768280274-3.jpeg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
 
 As the rhythmic drumbeats of the Sinulog Festival fill the streets of Cebu City this weekend, a somber silence hangs over Barangay Binaliw. This contrast presents a difficult moment for the community, raising questions about how a city honors both its cherished traditions and its collective grief.
 
