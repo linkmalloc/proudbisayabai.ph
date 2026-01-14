@@ -27,25 +27,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The death toll from the Binaliw sanitary landfill landslide rose to 20 on Wednesday after authorities recovered another body, as search and rescue teams pressed on despite worsening ground conditions.
 
 Included in the recent fatality, identified as Body No. 018, was retrieved around 11:40 a.m. from Sector B, the back portion of the landfill. Officials believe the victim is male, pending formal identification.
@@ -75,3 +56,5 @@ DENR Secretary Raphael Lotilla instructed the Environmental Management Bureau in
 He ordered DENR Region 7 to conduct immediate assessment and containment of the landfill while ensuring continuity in waste collection. Lotilla also directed the Mines and Geosciences Bureau Region 7, the landfill operator, and waste management experts to coordinate engineering measures based on the site’s Environmental Management Plan.
 
 The DENR said it would work with local government units, the Department of the Interior and Local Government, and other agencies to identify alternative disposal sites to maintain uninterrupted waste collection, protect public health, and review national policies on landfill design and safety to prevent similar incidents. (LLP)
+
+Photo by Jacq Hernandez
