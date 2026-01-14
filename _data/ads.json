@@ -14,6 +14,75 @@
     },
     "partners_sponsors": [
         {
+            "url": "https://order.jollibee.com/en/ph?ref=proudbisayabai.ph",
+            "img": "/images/ads/logo/jollibee.webp",
+            "title": "Jollibee",
+            "alt": "Jollibee",
+            "desc": "Sa Jollibee, bida ang saya"
+        },
+        {
+            "url": "https://www.facebook.com/donmacchiatosphilippines/",
+            "img": "/images/ads/donmac/logo.jpg",
+            "title": "Don Macchiatos Philippines",
+            "alt": "Don Macchiatos Philippines",
+            "desc": "Enjoy high-quality coffee for just 39 pesos!"
+        },
+        {
+            "url": "https://pldthome.com/smarthome/?ref=proudbisayabai.ph",
+            "img": "/images/ads/logo/pldt.webp",
+            "title": "PLDT Home",
+            "alt": "PLDT Home",
+            "desc": "From work and school to streaming and gaming, keep the whole family connected "
+        },
+        {
+            "url": "https://zionphilippines.com/?ref=proudbisayabai.ph",
+            "img": "/images/ads/logo/zion.webp",
+            "title": "Zion Philippines",
+            "alt": "Zion Philippines",
+            "desc": "Experience ZION today. Visit our showrooms nationwide."
+        },
+        {
+            "url": "https://mgsph.com/?ref=proudbisayabai.ph",
+            "img": "/images/ads/logo/mgs.webp",
+            "title": "MGS",
+            "alt": "MGS",
+            "desc": "The Philippines most advance smart locks and security"
+        },
+        {
+            "url": "https://merchant.kpc-express.com/?ref=proudbisayabai.ph",
+            "img": "/images/ads/logo/kpc.webp",
+            "title": "KPC Express",
+            "alt": "KPC Express",
+            "desc": "Philippines Top & Leading Forwarder for Entrepreneurs"
+        },
+        {
+            "url": "https://www.facebook.com/CebuBelmontInc/?ref=proudbisayabai.ph",
+            "img": "/images/ads/logo/belmont.webp",
+            "title": "Belmont",
+            "alt": "Belmont",
+            "desc": "Building Better Things Together"
+        },
+        {
+            "url": "https://bingoplus.com/?ref=proudbisayabai.ph",
+            "img": "/images/ads/logo/bingo.webp",
+            "title": "Bingo Plus",
+            "alt": "Bingo Plus",
+            "desc": "Dive into the world of fun with BingoPlus"
+        },
+        {
+            "url": "https://www.anjoworld.com/?ref=proudbisayabai.ph",
+            "img": "/images/ads/logo/anjo.webp",
+            "title": "Anjo World Theme Park",
+            "alt": "Anjo World Theme Park",
+            "desc": "Anjo World is Cebu's FIRST world-class theme park."
+        },
+        {
+            "url": "https://www.convergeict.com/?ref=proudbisayabai.ph",
+            "img": "/images/ads/logo/anjo.webp",
+            "title": "Converge FiberX",
+            "alt": "Converge FiberX",
+            "desc": "Pure end-to-end fiber internet technology."
+        },        {
             "url": "https://linkmalloc.com/",
             "img": "/images/ads/linkmalloc.gif",
             "title": "Link Malloc",
@@ -26,13 +95,7 @@
             "title": "Cebu Home Pages",
             "alt": "Cebu Home Pages",
             "desc": "Helping Home Buyers and Investors Since 2011"
-        },
-        {
-            "url": "https://www.facebook.com/donmacchiatosphilippines/",
-            "img": "/images/ads/donmac/logo.jpg",
-            "title": "Don Macchiatos Philippines",
-            "alt": "Don Macchiatos Philippines",
-            "desc": "Enjoy high-quality coffee for just 39 pesos!"
         }
+
     ]
 }
