@@ -52,3 +52,7 @@ Photo from Sebastian Estrera/Sinulog Foundation Inc.&#x20;
 </br>
 
 <img width="800" src="https://d1rl40o93nnuyl.cloudfront.net/posts/953/e74b2b1768492401-2.jpeg" />
+
+<br />
+
+<img width="800" src="https://d1rl40o93nnuyl.cloudfront.net/posts/953/72c8451768492423-3.jpeg" />
