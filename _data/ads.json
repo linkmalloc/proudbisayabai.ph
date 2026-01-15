@@ -14,18 +14,18 @@
     },
     "partners_sponsors": [
         {
-            "url": "https://order.jollibee.com/en/ph?ref=proudbisayabai.ph",
-            "img": "/images/ads/logo/jollibee.webp",
-            "title": "Jollibee",
-            "alt": "Jollibee",
-            "desc": "Sa Jollibee, bida ang saya"
-        },
-        {
             "url": "https://www.facebook.com/donmacchiatosphilippines/",
             "img": "/images/ads/donmac/logo.jpg",
             "title": "Don Macchiatos Philippines",
             "alt": "Don Macchiatos Philippines",
             "desc": "Enjoy high-quality coffee for just 39 pesos!"
+        },
+        {
+            "url": "https://order.jollibee.com/en/ph?ref=proudbisayabai.ph",
+            "img": "/images/ads/logo/jfc.webp",
+            "title": "Jollibee",
+            "alt": "Jollibee",
+            "desc": "Sa Jollibee, bida ang saya"
         },
         {
             "url": "https://pldthome.com/smarthome/?ref=proudbisayabai.ph",
@@ -78,7 +78,7 @@
         },
         {
             "url": "https://www.convergeict.com/?ref=proudbisayabai.ph",
-            "img": "/images/ads/logo/anjo.webp",
+            "img": "/images/ads/logo/converge.webp",
             "title": "Converge FiberX",
             "alt": "Converge FiberX",
             "desc": "Pure end-to-end fiber internet technology."
