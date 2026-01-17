@@ -34,6 +34,7 @@ published: true
 
 
 
+
 Mayor Nestor Archival explained why Cebu City will push through with the Sinulog Festival this weekend, even as search and rescue operations continue at the collapsed Binaliw landfill.
 
 In an interview, Archival said the city is trying to balance grief over the disaster with the faith and unity that Sinulog represents.
