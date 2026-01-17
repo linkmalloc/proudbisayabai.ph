@@ -3,7 +3,7 @@ author: Kaiser Fuentes
 author2: ''
 layout: post
 title: >-
-  irAsia Channels P15 Million to Support Cebu Communities Hit by Quakes,
+  AirAsia Channels P15 Million to Support Cebu Communities Hit by Quakes,
   Typhoons 
 description: >-
   Music, lights, and a crowd of more than 40,000 filled SM Seaside Grounds on
@@ -31,27 +31,6 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
