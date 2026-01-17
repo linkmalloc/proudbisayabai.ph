@@ -2,7 +2,7 @@
 author: Lane Quiamco
 author2: ''
 layout: post
-title: 'Jollibee''s Chickenjoy Meal Now Starts at ₱99 with New ''Sarap Savers'' Deal! '
+title: Jollibee's Chickenjoy Meal Now Starts at ₱99 with New 'Sarap Savers' Deal
 description: >-
   Jollibee is giving budget-conscious customers a reason to smile with its new
   #ChickenjoySarapSavers line-up, offering meals starting at just ₱99 pesos.
@@ -27,6 +27,8 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
 
 
 
