@@ -29,19 +29,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 The beat of drums and the rhythm of prayers filled the Cebu City Sports Center on Sunday as Governor Pamela Baricuatro joined Danao City’s Karansa Festival dancers in a halad (offering) dance, asking for protection from earthquakes and typhoons this year.
 
 “I prayed to the Sto. Niño, hoping that no earthquakes or typhoons will hit us this year,” Baricuatro said backstage before performing.
@@ -75,3 +62,5 @@ Tribu Masadyaon’s Free Interpretation routine, reflecting the country’s poli
 Tagbilaran City led the Sinulog-Based category, featuring the Bolibongkingking ritual from Loboc, Bohol, and also won Best in Musicality.
 
 A total of 37 contingents from across the Philippines, including Albay, Las Piñas, Muntinlupa, Antipolo, Cotabato, Davao Occidental, and Zamboanga, participated in the festival, highlighting the nationwide appeal of Sinulog.
+
+Photo by Edward Charles Tinga/PBB Photographer
