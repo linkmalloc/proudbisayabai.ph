@@ -27,20 +27,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 A volunteer responder who took part in search-and-rescue operations following the deadly Binaliw landfill collapse in Cebu City has died of sepsis.
 
 Cebu City Councilor Dave Tumulak, chair of the Cebu City Disaster Risk Reduction and Management Council (CCDRRMC), confirmed that the 50-year-old volunteer from Toledo City passed away on Sunday, January 18, due to complications from an infected foot wound.
@@ -66,3 +52,5 @@ The family confirmed that the volunteer had long been diabetic, which likely agg
 While the injury may not have been directly caused by the landfill collapse, Tumulak noted that the volunteer’s deployment at the Binaliw site likely contributed to the wound due to prolonged exposure to harsh working conditions and extended use of protective footwear.
 
 As of January 19, the volunteer’s remains were with his family in Toledo City, where they are holding his wake. (LLP)
+
+Photo by Jacq Hernandez
