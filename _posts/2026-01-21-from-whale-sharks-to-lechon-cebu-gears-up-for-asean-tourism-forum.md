@@ -29,6 +29,7 @@ published: true
 
 
 
+
 If a visitor’s first impression of Cebu were a story, every detail, from clean public toilets to whale sharks, would be part of the plot.
 
 The province is meticulously preparing to welcome Southeast Asia’s top tourism decision-makers for the ASEAN Tourism Forum (ATF) 2026.
