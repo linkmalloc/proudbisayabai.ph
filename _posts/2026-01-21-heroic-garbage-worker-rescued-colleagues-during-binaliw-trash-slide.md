@@ -27,20 +27,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 In the aftermath of the deadly Binaliw landfill collapse, the Cebu City Council recognized a worker whose quick actions helped save lives.
 
 During its regular session on January 20, the Sangguniang Panlungsod approved a resolution commending John Lloyd Ople, a garbage truck spot checker at Prime Integrated Waste Solutions Inc. (PIWS) in Barangay Binaliw, for rescuing fellow workers moments after the January 8 trash slide.
@@ -60,3 +46,5 @@ It formally asked PIWS to immediately provide financial, medical, and humanitari
 Ople’s story became public after he shared his experience with the media, recounting the frantic moments following the landslide and the difficult choices made in the face of danger.
 
 The January 8 Binaliw landfill collapse remains under investigation and has led to the indefinite closure of the facility, intensifying scrutiny over landfill operations and safety standards in Cebu City. (LLP)
+
+Photo from Jacq Hernandez, Screenshot of Kons Winston Pepito Facebook Post
