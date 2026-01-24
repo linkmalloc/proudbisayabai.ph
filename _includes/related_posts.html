@@ -69,7 +69,7 @@
                             </h5>
                             <p>{{ post.description | truncatewords: 20 }}</p>
                             <div class="entry-meta meta-1 float-left font-x-small">
-                                <span class="post-on text-uppercase">{{ post.date | date_to_string }}</span>
+                                <span class="post-on text-uppercase">{{ post.published_date | default: post.date | date_to_string }}</span>
                                 <span class="time-reading has-dot text-uppercase">{{ post.read_time }} read</span>
                                 <!-- <span class="post-by has-dot">{{ post.views }} views</span> -->
                             </div>
