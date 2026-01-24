@@ -24,6 +24,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
+published_date: 2025-09-15T00:00:00
 ---
 
 Operational from 1911, this line was the island's economic lifeline for over three decades, primarily hauling sugar, coal, and agricultural goods from the fields straight to the port for export. It featured at least 14 stations: Danao City, Maslog, Mandaue, Mabolo, Cebu City, San Isidro, Mohon, Calajo-an, Naga City, Sab-Ang, Sibonga Elementary, Valladolid, Carcar City, and Argao Fire Station. This historic line connected numerous small towns across Cebu, though today, only scattered remnants of its existence remain. It was a testament to a golden age of Cebuano innovation and a bold vision for a connected province. The forgotten chapter of our history that feels both incredibly distant and strangely magical. Its era ended after World War II, when the heavily damaged line was never rebuilt. 

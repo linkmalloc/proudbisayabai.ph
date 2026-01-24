@@ -27,6 +27,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
+published_date: 2025-09-19T00:00:00
 ---
 
 Apple just unveiled its newest toys last September 9, 2025 — the **iPhone 17 lineup**, plus fresh Apple Watches, new AirPods Pro, and the release date for iOS 26. As always, the big question is: what’s new and is it worth your cash?

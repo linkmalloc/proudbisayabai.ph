@@ -22,6 +22,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
+published_date: 2025-06-13T00:00:00
 ---
 
 Gipaambit ni Jessa Gatdula ang iyang tinuod ug makapadasig nga istorya — usa ka damgo nga hapit nawagtang, pero napadayon pinaagi sa pagtuo ug paningkamot.

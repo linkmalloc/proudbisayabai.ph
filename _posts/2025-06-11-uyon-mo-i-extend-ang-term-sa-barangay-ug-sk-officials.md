@@ -26,6 +26,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
+published_date: 2025-06-12T00:00:00
 ---
 
 The move to extend the term of office for barangay and Sangguniang Kabataan (SK) officials is now one step closer to becoming law, as both chambers of Congress have ratified the bicameral conference committee report reconciling their respective versions of the proposed measure. With the differences between the House and Senate versions now settled, the bill is set to be transmitted to Malacañang for the President’s approval.
