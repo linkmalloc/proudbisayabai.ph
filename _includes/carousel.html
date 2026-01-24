@@ -17,7 +17,7 @@
                         <a class="text-white" href="{{ post.url }}">{{ post.title }}</a>
                     </h3>
                     <div class="entry-meta meta-1 font-small text-white mt-10 pr-5 pl-5">
-                        <span class="post-on">{{ post.date | date_to_string }}</span>
+                        <span class="post-on">{{ post.published_date | default: post.date | date_to_string }}</span>
                         <span class="hit-count has-dot">{{ post.views }} views</span>
                     </div>
                 </div>
