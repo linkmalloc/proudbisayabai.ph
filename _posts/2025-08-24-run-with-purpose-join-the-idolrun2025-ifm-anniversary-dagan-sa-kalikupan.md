@@ -30,6 +30,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
+published_date: 2025-08-25T00:00:00
 ---
 
 Cebu is gearing up for another exciting and meaningful celebration as **iFM Cebu marks its 47th Anniversary** with the **#IDOLRun2025 – Dagan sa Kalikupan**, happening on **September 14, 2025 (Sunday)** at **Cebu I.T. Park (near Ayala Central Bloc)**.

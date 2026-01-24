@@ -22,6 +22,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
+published_date: 2025-08-13T00:00:00
 ---
 
 Cebu is set to showcase its growing stature in the international sports scene as it hosts the Philippines' first International Tennis Federation (ITF) Masters Tour, the MT200 Asmara Cup. 

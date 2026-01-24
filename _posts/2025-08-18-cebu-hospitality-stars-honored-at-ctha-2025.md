@@ -28,6 +28,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
+published_date: 2025-08-19T00:00:00
 ---
 
 NUSTAR Resort & Casino Cebu dominated the 2025 Cebu Tourism and Hospitality Awards (CTHA) on August 13 at Ayala Center Cebu’s Activity Center, winning Hotel and Resort Manager of the Year and Best Marketing Campaign of the Year.

@@ -25,6 +25,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
+published_date: 2025-09-01T00:00:00
 ---
 
 It’s that time of the year again—tingbunga na sa tambis! The branches are heavy with fruit, and the air smells faintly of crisp, watery sweetness. But what exactly is this fruit we’ve all grown up with in the Visayas and parts of Mindanao?

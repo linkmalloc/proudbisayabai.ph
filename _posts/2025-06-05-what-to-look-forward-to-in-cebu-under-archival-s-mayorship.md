@@ -29,6 +29,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
+published_date: 2025-06-06T00:00:00
 ---
 
 In a historic turn of events during the recently concluded midterm elections, former city councilor and environmental advocate Nestor Archival Sr. clinched a resounding victory as the new mayor of Cebu City, besting both suspended Mayor Michael Rama and incumbent Mayor Raymond Garcia. The proclamation marks a significant political shift for the Queen City of the South, setting the stage for a leadership that promises a “Sustainable Cebu City”.

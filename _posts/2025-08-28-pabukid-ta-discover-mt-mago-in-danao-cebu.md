@@ -22,6 +22,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
+published_date: 2025-08-29T00:00:00
 ---
 
 Need a break from the city hustle? Escape to the highlands and enjoy the fresh breeze, peaceful trails, and scenic mountain views of Mt. Mago, located in Barangay Santican, Danao City. Whether you’re a seasoned hiker or a first-timer just wanting to breathe fresh air, Mt. Mago offers the perfect quick getaway to reconnect with nature. 
