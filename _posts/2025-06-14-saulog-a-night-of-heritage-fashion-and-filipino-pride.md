@@ -26,6 +26,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 1 minute
+published_date: 2025-06-15T00:00:00
 ---
 
 The Holiday Inn Cebu City celebrated its 3rd anniversary with a night of Filipino creativity and cultural pride in **"SAULOG: An Anniversary Fashion Show”** which took place last June 11, 2025. The fashion show attracted a crowd of fashionistas, artists, and VIP guests for a night to remember.

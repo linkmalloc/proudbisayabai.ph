@@ -28,6 +28,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
+published_date: 2025-07-28T00:00:00
 ---
 
 Proud Bisaya Bai (PBB) was founded in 2020 by Ariel Alegado with the vision of celebrating Bisaya culture, humor, and identity. What started as an online platform for relatable, witty content in the Bisaya language quickly blossomed into a dynamic and tight-knit community — one that proudly uplifts regional pride and fosters connection among Bisaya youth.

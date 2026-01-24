@@ -29,6 +29,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
+published_date: 2025-08-01T00:00:00
 ---
 
 Hai Shin Lou Cebu, located at Marco Polo Plaza Cebu, recently launched an 11-course tasting experience that brought the elegance and traditions of Huai Yang cuisine to local diners. Titled *“Huai Yang: A Tasting Journey Through Jiangnan,”* the evening unfolded like a story, with each course being a chapter that pays homage to the refined flavors of China’s Jiangnan region.

@@ -26,6 +26,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
+published_date: 2025-08-01T00:00:00
 ---
 
 Tucked deep within the lush landscapes of Tuburan, Cebu, Marmol Cliff is a serene escape carved naturally by time and water. This hidden gem offers the perfect retreat for those seeking to unwind, recharge, and reconnect with nature.

@@ -22,6 +22,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
+published_date: 2025-06-13T00:00:00
 ---
 
 Looking for the perfect spot to unwind, catch up with friends, or simply enjoy a good cup of coffee? &#x20;

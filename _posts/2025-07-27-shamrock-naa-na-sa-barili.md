@@ -24,6 +24,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
+published_date: 2025-07-28T00:00:00
 ---
 
 From a humble bakeshop in Cebu City in the 1960s, **Shamrock** has become a household name known for its signature Otap, broas, and proudly local delicacies. Decades later, it continues to bring the comforting flavors of Cebu to more communities — and now in Barili!

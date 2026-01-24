@@ -26,6 +26,7 @@ photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
+published_date: 2025-07-28T00:00:00
 ---
 
 Cebu Eats: Craving something sweet? Indulge in exquisite French pastries at Café Mercí in Banilad! Each bite is a heavenly blend of rich, creamy layers and delicate flavors—perfect for satisfying your dessert cravings.
