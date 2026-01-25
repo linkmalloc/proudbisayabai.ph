@@ -2,7 +2,7 @@
 author: PBB ADMIN
 author2: ''
 layout: post
-title: MC donates 17 generator sets to Mandaue City after Typhoon Tino
+title: IMC donates 17 generator sets to Mandaue City after Typhoon Tino
 description: >-
   As Mandaue City continues recovery efforts following Typhoon Tino, the
   International Medical Corps (IMC) has donated 17 generator sets to help
@@ -28,6 +28,9 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
+
 
 
 
