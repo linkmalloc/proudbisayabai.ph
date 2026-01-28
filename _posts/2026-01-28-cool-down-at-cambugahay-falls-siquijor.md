@@ -29,11 +29,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
 Located in the town of Lazi, Cambugahay Falls is one of Siquijor’s most enchanting natural attractions. This stunning three-tiered waterfall is known for its crystal-clear turquoise waters flowing into cool, inviting pools, surrounded by lush tropical greenery.
 
 A relaxing walk down 135 steps leads to this refreshing escape, perfect for swimming, unwinding, or enjoying a fun ride on a balsa raft. Ideal for nature lovers and adventure seekers, Cambugahay Falls offers a peaceful break from the rush of everyday life.
@@ -54,4 +49,8 @@ Rented scooter: \~₱500–₱700 per day
 
 Signage along the route guides visitors, and the drive is scenic, passing through coconut groves and small villages.
 
-Simple, serene, and refreshing, Cambugahay Falls is a must-visit destination in Siquijor. Laag na!&#x20;
+Simple, serene, and refreshing, Cambugahay Falls is a must-visit destination in Siquijor.&#x20;
+
+<br />
+
+<img width="800" src="https://d1rl40o93nnuyl.cloudfront.net/posts/1035/5830191769600291-3.jpeg" />
