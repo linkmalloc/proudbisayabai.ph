@@ -33,7 +33,7 @@ Located in the town of Lazi, Cambugahay Falls is one of Siquijor’s most enchan
 
 A relaxing walk down 135 steps leads to this refreshing escape, perfect for swimming, unwinding, or enjoying a fun ride on a balsa raft. Ideal for nature lovers and adventure seekers, Cambugahay Falls offers a peaceful break from the rush of everyday life.
 
-📌 Entrance fee: ₱50
+Entrance fee: ₱50
 
 • Balsa raft: ₱100 per group
 
