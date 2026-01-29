@@ -2,7 +2,7 @@
 author: Kaiser Fuentes
 author2: ''
 layout: post
-title: Artist Ana Preciosa Bacalso Leads Push for Cebuano Music with ‘Basin Pa Lang’
+title: Artist Preciosa Bacalso Leads Push for Cebuano Music with ‘Basin Pa Lang’
 description: >-
   A young Cebuana singer and journalist is taking center stage in a
   research-backed push to bring Cebuano music closer to today’s youth.
@@ -27,30 +27,9 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 A young Cebuana singer and journalist is taking center stage in a research-backed push to bring Cebuano music closer to today’s youth.
 
-This as Ana Preciosa Bacalso fronts the launch of “Basin Pa Lang,” a new cultural initiative by BaiReels aimed at reviving local music patronage.
+This as Preciosa Bacalso fronts the launch of “Basin Pa Lang,” a new cultural initiative by BaiReels aimed at reviving local music patronage.
 
 Bacalso, a Cebu-based vocalist with a background in musical theater and journalism, lends her voice to “Basin Pa Lang,” an original Cebuano song designed to resonate with students and young listeners navigating themes of hope, uncertainty, love, and self-discovery.&#x20;
 
