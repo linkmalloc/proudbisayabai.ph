@@ -28,28 +28,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 A bill seeking to remove travel taxes imposed on Filipinos departing the country has been filed in the House of Representatives, a move its author says could ease costs for travelers and support freer mobility.
 
 House Deputy Majority Leader and Cebu City South District Representative Eduardo “Edu” Rama Jr. filed House Bill No. 7367 on Tuesday, January 27, 2026, proposing the abolition of the travel tax for Filipino nationals.
@@ -60,9 +38,7 @@ In the bill’s explanatory note, Rama said the measure is intended to lift what
 
 Under existing regulations, departing passengers are required to pay travel taxes ranging from P300 to P2,700, depending on flight class and eligibility for reduced rates. 
 
-First-class travelers are charged P2,700, while 
-
-economy passengers pay P1,620. Reduced rates are set at P1,350 for first class and P810 for economy, while OFWs pay P400 for first class and P300 for economy.
+First-class travelers are charged P2,700, while  economy passengers pay P1,620. Reduced rates are set at P1,350 for first class and P810 for economy, while OFWs pay P400 for first class and P300 for economy.
 
 Rama said these charges can become a significant expense, particularly for families or groups traveling for employment, education, or personal reasons.
 
