@@ -28,35 +28,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Two Cebuanas will be formally unveiled as Cebu’s representatives to the Miss Universe Philippines 2026 pageant during a sashing and media presentation on February 1, organizers confirmed.
 
 Earlier, the Miss Universe Philippines Cebu organization announced the upcoming presentation, highlighting the province’s continued presence on the national stage.
@@ -74,3 +45,5 @@ She succeeded Kris Tiffany Janson, also of Cebu City North, who held the title i
 Organizers said more details on the official announcement, including the handover of responsibilities and the Cebu representatives’ preparation for the national competition, will be released in the coming days.
 
 Cebu remains one of the country’s most closely watched provinces in the Miss Universe Philippines competition, having produced national standouts and international contenders in recent years. (LLP)
+
+Images/MUPh-Cebu
