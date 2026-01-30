@@ -28,21 +28,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Cebu City Mayor Nestor Archival has pushed back against claims that City Hall ordered tarpaulins and board-ups along the South Road Properties (SRP).
 
 Archival said his only instruction was to clean the area, and that the decision to cover it was made by the Department of Public Works and Highways (DPWH).
@@ -72,3 +57,5 @@ Environmental advocates have called the installation a cosmetic fix that masks d
 They say covering polluted areas does not address systemic problems such as poor waste management, informal settlements along waterways, and weak enforcement of environmental laws.
 
 Groups continue to push for long-term, coordinated action involving national agencies, local governments, and affected communities, including improved waste infrastructure, regular river cleanups, and relocation and support programs for residents living along riverbanks. (LLP)
+
+Photo by Jacq Hernandez
