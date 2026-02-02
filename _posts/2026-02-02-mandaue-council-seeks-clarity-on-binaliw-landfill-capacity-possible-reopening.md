@@ -29,11 +29,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
 The Mandaue City Council is set to meet with Prime Integrated Waste Solutions Inc., operator of the Barangay Binaliw landfill, to clarify the facility’s current condition and its capacity to handle waste amid ongoing disposal challenges.
 
 Councilor Carlo Fortuna said Prime Waste was invited to the council’s regular session on January 26 but was unable to send a representative. 
@@ -73,3 +68,5 @@ Fortuna emphasized that Mandaue City—and Metro Cebu as a whole—continues to 
 He added that landfill sites have finite capacity and will eventually reach their limits, underscoring the need to seriously consider alternatives such as waste-to-energy technologies.
 
 For now, Fortuna said the council’s priority is determining when the Binaliw landfill can resume operations and how long it can continue to serve as a disposal site amid the region’s growing waste volume. (VCL)
+
+Photo. Atty. Joel Seno/ Facebook
