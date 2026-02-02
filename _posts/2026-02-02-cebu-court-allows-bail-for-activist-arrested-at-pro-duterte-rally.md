@@ -28,21 +28,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 A Cebu City court has allowed an activist arrested during a pro-Duterte protest held amid the ASEAN Summit to post bail.
 
 The Municipal Trial Court in Cities (MTCC) Branch 01 approved the urgent motion to post bail filed by Ernesto Sereno Abines Jr., also known as Jun Abines, who was arrested for alleged violation of Batas Pambansa Blg. 880, or the Public Assembly Act of 1985.
@@ -72,3 +57,5 @@ Tensions escalated when traffic enforcers began issuing citations and impounding
 Cebu City Police Director Col. George Ylanan has yet to issue an official statement on the arrest and the court’s order allowing bail.
 
 Under BP 880, public assemblies are recognized as a constitutional right but are subject to regulation, including permit requirements, to ensure public order and safety. (LLP)
+
+Jun Abines/ Facebook
