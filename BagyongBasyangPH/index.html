@@ -2,7 +2,7 @@
 layout: default
 title: Bagyong Basyang Updates
 isTop: true
-img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinulog-2026/cover.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1073/5e11f51770196318-2.jpg
 ---
 <main>
     <!--archive header-->
@@ -22,7 +22,7 @@ img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinulog-20
             <div class="row">
                 
                 {% for post in site.posts %}
-                {% if post.tags contains "BagyongBasyangPH" or post.tags contains "BagyongBasyang" %}
+                {% if post.tags contains "BagyongBasyangPH" or post.tags contains "BagyongBasyang" or post.tags contains "BasyangPH" %}
                 {% assign image_big = post.img_big_3000x1144 %}
                 {% unless image_big %}
                     {% assign image_big = "https://via.placeholder.com/3000x1144" %}
