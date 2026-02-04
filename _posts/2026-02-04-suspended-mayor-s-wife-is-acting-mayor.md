@@ -30,21 +30,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The Department of the Interior and Local Government (DILG) has activated transition measures in Minglanilla, Cebu, following the preventive suspension of several of the town’s top officials, including Mayor Rajiv Enad and Vice Mayor Lani Peña.
 
 During the one-year suspension period, Enad’s wife and First Councilor, Lheslen Enad, will serve as acting mayor to ensure continuity of governance and public services.&#x20;
@@ -74,3 +59,5 @@ The Ombudsman’s order covers Enad, Peña, and councilors Jay-R Dela Calzada, J
 The complaint was filed by private firms linked to the Jomara Group of Companies, who accused local officials of delaying or denying business-related permits.&#x20;
 
 Enad previously defended the decisions, citing safety assessments and regulatory compliance as the basis for his actions. (SBA)
+
+Lheslen Enad/ Facebook
