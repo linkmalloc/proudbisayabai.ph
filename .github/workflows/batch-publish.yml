@@ -26,7 +26,7 @@ jobs:
       - name: Deploy to Netlify
         uses: netlify/actions/cli@master
         with:
-          args: deploy --dir=_site --prod --manual --message "Direct upload from GH Actions"
+          args: deploy --dir=_site --prod --no-build --message "Direct upload from GH Actions"
         env:
           NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
           NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
