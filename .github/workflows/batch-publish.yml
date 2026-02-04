@@ -3,6 +3,9 @@ on:
   push:
     branches:
       - master  # Adjust this if your primary branch is named "master"
+      
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -15,7 +18,20 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.1' # Matches your local environment
-          bundler-cache: true # Speeds up builds by caching gems
+          bundler-cache: false # Speeds up builds by caching gems
+
+      - name: Install Dependencies
+        run: |
+          # Force bundler to update and solve for Jekyll 4
+          bundle update jekyll
+          bundle install
+
+      - name: Commit Gemfile.lock back to Repo
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add Gemfile.lock
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: force-sync Gemfile.lock" && git push)
 
       - name: Build Jekyll Site
         run: |
