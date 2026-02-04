@@ -1,0 +1,75 @@
+---
+layout: default
+title: Bagyong Basyang Updates
+isTop: true
+img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinulog-2026/cover.jpg
+---
+<main>
+    <!--archive header-->
+    <div class="archive-header pt-50 text-center">
+        <div class="container">
+            <h2 class="font-weight-900">Bagyong Basyang Updates</h2>
+            <div class="breadcrumb">
+                <a href="index.html" rel="nofollow">Home</a>
+                <span></span> Bagyong Basyang Updates
+            </div>
+            <div class="bt-1 border-color-1 mt-30 mb-50"></div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="loop-list loop-list-style-1">
+            <div class="row">
+                
+                {% for post in site.posts %}
+                {% if post.tags contains "BagyongBasyangPH" or post.tags contains "BagyongBasyang" %}
+                {% assign image_big = post.img_big_3000x1144 %}
+                {% unless image_big %}
+                    {% assign image_big = "https://via.placeholder.com/3000x1144" %}
+                {% endunless %}
+
+                <article class="col-md-6 mb-40 wow fadeInUp  animated">
+                    <div class="post-card-1 border-radius-10 hover-up">
+                        <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url({{ image_big }})">
+                            <a class="img-link" href="{{ post.url }}"></a>
+                            <ul class="social-share">
+                                <li><a href="#"><i class="elegant-icon social_share"></i></a></li>
+                                <li><a class="fb" href="#" title="Share on Facebook" target="_blank"><i class="elegant-icon social_facebook"></i></a></li>
+                                <li><a class="tw" href="#" target="_blank" title="Tweet now"><i class="elegant-icon social_twitter"></i></a></li>
+                                <li><a class="pt" href="#" target="_blank" title="Pin it"><i class="elegant-icon social_pinterest"></i></a></li>
+                            </ul>
+                        </div>
+
+                        <div class="post-content p-30">
+                            <!-- <div class="entry-meta meta-0 font-small mb-10">
+                                <a href="category.html"><span class="post-cat text-info">Artists</span></a>
+                                <a href="category.html"><span class="post-cat text-success">Film</span></a>
+                            </div> -->
+                            <div class="d-flex post-card-content">
+                                <h5 class="post-title mb-20 font-weight-900">
+                                    <a href="{{ post.url }}">{{ post.title }}</a>
+                                </h5>
+                                <div class="post-excerpt mb-25 font-small text-muted">
+                                    <p>{{ post.content | truncatewords : 80}}</p>
+                                </div>
+
+                                <div class="mt-10">
+                                    <a href="{{ post.url }}" class="text-info" style="font-size: 1rem;">
+                                      Discover the full story - Read More
+                                    </a>
+                                </div>
+                                <div class="entry-meta meta-1 float-left font-x-small text-uppercase">
+                                    <!-- <span class="post-on">{{ post.date | date_to_string }}</span> -->
+                                    <!-- <span class="time-reading has-dot">{{ post.read_time }} read</span> -->
+                                    <!-- <span class="post-by has-dot">{{ post.views }} views</span> -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </article>
+                {% endif %}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</main>
