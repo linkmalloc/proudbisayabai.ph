@@ -29,11 +29,11 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
 Several local government units have announced the suspension of face-to-face classes as heavy rainfall continues to affect parts of the Visayas due to Bagyong Basyang. The precautionary measure aims to ensure the safety of students, teachers, and school personnel.
 
 The following cities and municipalities have announced the suspension of face-to-face classes as a precautionary measure due to heavy rainfall and the effects of Bagyong Basyang:
+
+
 
 • Mandaue City – February 5, 2026
 
@@ -62,6 +62,8 @@ The following cities and municipalities have announced the suspension of face-to
 • Samboan – February 5–6, 2026
 
 • Daanbantayan – February 5–6, 2026
+
+• Asturias - Feb 5-6, 2026
 
 In most areas, public schools are automatically covered by the suspension, while private schools may exercise discretion based on their respective school administrations and prevailing conditions.
 
