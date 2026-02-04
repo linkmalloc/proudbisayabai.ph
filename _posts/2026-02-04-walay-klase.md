@@ -69,6 +69,8 @@ The following cities and municipalities have announced the suspension of face-to
 
 • Minglanilla - Feb 5, 2025
 
+• Cebu City - Feb 5, 2025
+
 In most areas, public schools are automatically covered by the suspension, while private schools may exercise discretion based on their respective school administrations and prevailing conditions.
 
 Authorities continue to urge the public to remain vigilant, prepare for possible flooding and landslides, and follow official advisories from local governments and DOST-PAGASA.
