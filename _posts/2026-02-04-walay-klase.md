@@ -12,6 +12,7 @@ categories:
   - story
 tags:
   - WayKlase
+  - BagyongBasyang
 views: '10'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1075/a17c971770212022-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1075/a17c971770212022-2.jpeg
@@ -30,60 +31,42 @@ published: true
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 Several local government units have announced the suspension of face-to-face classes as heavy rainfall continues to affect parts of the Visayas due to Bagyong Basyang. The precautionary measure aims to ensure the safety of students, teachers, and school personnel.
 
+The following cities and municipalities have announced the suspension of face-to-face classes as a precautionary measure due to heavy rainfall and the effects of Bagyong Basyang:
 
+• Mandaue City – February 5, 2026
 
-The following cities and municipalities have declared class suspensions:
+• Lapu-Lapu City – February 5, 2026
 
+• Medellin – February 5, 2026
 
+• Talisay City – February 5–6, 2026
 
-• Mandaue City – All levels, February 5, 2026
+• Danao City – February 5, 2026
 
-• Lapu-Lapu City – All levels, February 5, 2026
+• Consolacion – February 5, 2026
 
-• Medellin – All levels, February 5, 2026
+• Barili – February 5–6, 2026
 
-• Talisay City – All levels, February 5, 2026
+• Cordova – February 5–6, 2026
 
-• Danao City – All levels, February 5, 2026
+• Carmen – February 5–6, 2026
 
-• Consolacion – All levels, February 5, 2026
+• Dalaguete – February 5–6, 2026
 
-• Barili – All levels, February 5–6, 2026
+• Siquijor – February 5, 2026
 
-• Cordova – All levels, February 5–6, 2026
+• Balamban – February 5, 2026
 
-• Carmen – All levels, February 5–6, 2026
+• Samboan – February 5–6, 2026
 
-• Dalaguete – All levels, February 5–6, 2026
-
-• Siquijor – All levels, February 5, 2026
-
-
+• Daanbantayan – February 5–6, 2026
 
 In most areas, public schools are automatically covered by the suspension, while private schools may exercise discretion based on their respective school administrations and prevailing conditions.
 
-
-
 Authorities continue to urge the public to remain vigilant, prepare for possible flooding and landslides, and follow official advisories from local governments and DOST-PAGASA.
 
-
-
 This list will be updated as more announcements are released.
-
-
 
 Mag-andam ta, mag-ampo, ug amping kanunay.
