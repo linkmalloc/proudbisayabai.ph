@@ -1,38 +1,32 @@
-name: Batch Publish to Prod branch
+name: Build and Deploy to Netlify
 on:
-  schedule:
-    - cron: '*/15 * * * *' # Runs every 15 minutes
-  workflow_dispatch:      # Manual trigger
+  push:
+    branches:
+      - master  # Adjust this if your primary branch is named "master"
 
 jobs:
-  merge-and-publish:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Code
+      - name: Checkout code
         uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
         with:
-          ref: prod       # Start on the deployment branch
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
+          ruby-version: '3.1' # Matches your local environment
+          bundler-cache: true # Speeds up builds by caching gems
 
-      - name: Setup Git Identity
+      - name: Build Jekyll Site
         run: |
-          git config --global user.name "GitHub Action"
-          git config --global user.email "action@github.com"
+          bundle exec jekyll build --incremental
+        env:
+          JEKYLL_ENV: production
 
-      - name: Sync Master to Prod
-        run: |
-          # Fetch the latest from master
-          git fetch origin master
-          
-          # Check how many commits master is ahead of prod
-          DIFF_COUNT=$(git rev-list --count HEAD..origin/master)
-          
-          if [ $DIFF_COUNT -gt 0 ]; then
-            echo "Found $DIFF_COUNT new commits on master. Syncing to prod..."
-            # Merge master into prod
-            git merge origin/master --no-ff -m "Batch publish: $DIFF_COUNT updates from master"
-            git push origin prod
-          else
-            echo "No new changes on master. Skipping build."
-          fi
+      - name: Deploy to Netlify
+        uses: netlify/actions/cli@master
+        with:
+          args: deploy --dir=_site --prod
+        env:
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
