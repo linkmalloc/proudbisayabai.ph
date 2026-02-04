@@ -42,6 +42,7 @@ published: true
 
 
 
+
 Cebu Governor Pamela Baricuatro has embarked on an official visit to Fujian Province in China, a trip that carries environmental and development goals alongside its health-focused agenda.
 
 While the three-day mission was first positioned as a learning exchange on healthcare practices, the governor confirmed that Cebu’s growing solid waste concerns have pushed Waste-to-Energy (WTE) technology to also be prioritized during the visit.

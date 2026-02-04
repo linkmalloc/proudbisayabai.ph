@@ -2,7 +2,7 @@
 author: Kaiser Fuentes
 author2: ''
 layout: post
-title: 'How Cebu Prepares for ''Basyang'' '
+title: How Cebu Prepares for 'Basyang'
 description: >-
   Rain clouds are gathering over Cebu as Tropical Depression Basyang approaches
   the Visayas, prompting a familiar change in daily life.
@@ -25,6 +25,8 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
 
 Rain clouds are gathering over Cebu as Tropical Depression Basyang approaches the Visayas, prompting a familiar change in daily life.
 
