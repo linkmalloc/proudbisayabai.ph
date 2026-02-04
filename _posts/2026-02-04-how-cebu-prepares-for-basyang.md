@@ -26,15 +26,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
 Rain clouds are gathering over Cebu as Tropical Depression Basyang approaches the Visayas, prompting a familiar change in daily life.
 
 Across the province, local governments have started taking precautions by adjusting schedules, activating response teams, and urging residents to stay alert.&#x20;
@@ -64,3 +55,5 @@ Community celebrations have also adjusted. In Consolacion, the local government 
 The annual event honors the town’s farming roots and is named after the traditional sarok hat once worn by farmers working under the sun.
 
 For now, Cebu waits, watching the skies, checking advisories, and making small but important preparations.
+
+Photo from DOST-Pagasa
