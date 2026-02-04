@@ -33,8 +33,6 @@ Several local government units have announced the suspension of face-to-face cla
 
 The following cities and municipalities have announced the suspension of face-to-face classes as a precautionary measure due to heavy rainfall and the effects of Bagyong Basyang:
 
-
-
 • Mandaue City – February 5, 2026
 
 • Lapu-Lapu City – February 5, 2026
@@ -64,6 +62,12 @@ The following cities and municipalities have announced the suspension of face-to
 • Daanbantayan – February 5–6, 2026
 
 • Asturias - Feb 5-6, 2026
+
+• Liloan - Feb 5-6, 2026
+
+• Argao - Feb 5-6, 2026
+
+• Minglanilla - Feb 5, 2025
 
 In most areas, public schools are automatically covered by the suspension, while private schools may exercise discretion based on their respective school administrations and prevailing conditions.
 
