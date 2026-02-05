@@ -28,35 +28,10 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The Local Government Unit of Daanbantayan, led by Mayor Gilbert Arrabis Jr. and MDRRMO Head Obet Tancawan, convened a Pre-Disaster Risk Assessment meeting on Thursday, February 5, 2026, to finalize preparations for Tropical Storm Basyang, now inside the Philippine Area of Responsibility.
-
-
 
 According to MDRRMO, Basyang is expected to affect the municipality from Thursday afternoon until Friday, February 6. Daanbantayan is currently under Tropical Cyclone Wind Signal No. 1, with strong winds and possible heavy rains based on the latest PAGASA bulletin.
 
+Barangays have been directed to prepare schools as evacuation centers, while food packs, non-food items, and medicines have been pre-positioned, especially for coastal and island communities. Response units remain on heightened alert as residents are urged to stay vigilant, avoid unnecessary sea travel, and follow official advisories.
 
-
-Barangays have been directed to prepare schools as evacuation centers, while food packs, non-food items, and medicines have been prepositioned, especially for coastal and island communities. Response units remain on heightened alert as residents are urged to stay vigilant, avoid unnecessary sea travel, and follow official advisories. | Municipality of Daanbantayan&#x20;
-
-
-
-For the latest updates on Typhoon Basyang, visit: [https://proudbisayabai.ph/bagyongbasyangph/](https://proudbisayabai.ph/bagyongbasyangph/)
-
-
-
-\#BagyongBasyangPH
+Source: Municipality of Daanbantayan
