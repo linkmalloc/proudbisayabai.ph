@@ -9,7 +9,7 @@ description: >-
   on Thursday, February 5, 2026, to finalize preparations for Tropical Storm
   Basyang, now inside the Philippine Area of Responsibility.
 categories:
-  - brand
+  - story
 tags:
   - BagyongBasyangPH
 views: '10'
@@ -27,6 +27,8 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
 
 
 
