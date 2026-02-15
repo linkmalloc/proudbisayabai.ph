@@ -2,7 +2,7 @@
 author: Jacqueline Hernandez
 author2: ''
 layout: post
-title: Cebu Runners Call for Justice for Kingston
+title: Cebu Runners Seek Justice for Kingston
 description: ' CEBU CITY — Members of Cebu’s running community gathered early Sunday morning, Feb. 15, for a 24-kilometer run calling for justice for 23-year-old Cebuano businessman Kingston Ralph Cheng, who was fatally struck along Paseo Saturnino Road in Barangay Banilad, Cebu City.'
 categories:
   - story
@@ -24,6 +24,16 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
+
+
+
+
+
+
+
+
 
 Members of Cebu’s running community gathered early Sunday morning, Feb. 15, for a 24-kilometer run calling for justice for 23-year-old Cebuano businessman Kingston Ralph Cheng, who was fatally struck along Paseo Saturnino Road in Barangay Banilad, Cebu City.
 
