@@ -25,8 +25,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
 Members of Cebu’s running community gathered early Sunday morning, Feb. 15, for a 24-kilometer run calling for justice for 23-year-old Cebuano businessman Kingston Ralph Cheng, who was fatally struck along Paseo Saturnino Road in Barangay Banilad, Cebu City.
 
 The incident happened in the early hours of Feb. 8, when an intoxicated Sean Andrew Pajarillo, 21, driving a Toyota Innova, first hit a parked vehicle before fleeing. Moments later, he struck Kingston, who was walking near a restobar in the area.
@@ -79,36 +77,62 @@ Cebu is known for its active running community, and organizers hope the 24-kilom
 
 As runners left their printed bibs near the site where Kingston was struck, they said they will continue to speak up for justice, for accountability, and for safer streets.
 
-\--
-
-![pastedGraphic.png](blob\:https://metamix.app/e26d3d83-cbf6-4cc6-a66e-469a5db5db73)
+<img height="295" width="562" src="https://d1rl40o93nnuyl.cloudfront.net/posts/1148/fbd4bb1771156048-2.jpg" />
 
 A photo of Kingston was displayed at the makeshift roadside memorial where he was struck in Banilad, Cebu City, after the run for justice on Sunday morning, Feb. 15. Photo by Jacqueline Hernandez
 
-![pastedGraphic\_1.png](blob\:https://metamix.app/d0c7fb1b-1bf9-4ac2-bac2-8ccf04195262)
+<img height="294" width="560" src="https://d1rl40o93nnuyl.cloudfront.net/posts/1148/4820971771156980-5.jpg" />
 
 Runners offer prayers in front of the makeshift roadside memorial where Kingston was struck in Banilad, Cebu City, after completing the run for justice on Sunday morning, Feb. 15. Photo by Jacqueline Hernandez
 
-![pastedGraphic\_2.png](blob\:https://metamix.app/ac8845a7-4295-42e4-9743-302cbcfdea7b)
+<img height="369" width="555" src="https://d1rl40o93nnuyl.cloudfront.net/posts/1148/337f961771156599-3.jpg" />
 
 A runner raises a bib after completing the 24 kilometer run for justice for Kingston Cheng near the makeshift roadside memorial where he was struck in Banilad, Cebu City, on Sunday morning, Feb. 15. Photo by Jacqueline Hernandez/Rappler
 
-![pastedGraphic\_3.png](blob\:https://metamix.app/660723ea-15b3-42b3-a47b-13db41e46500)
+<img height="288" width="549" src="https://d1rl40o93nnuyl.cloudfront.net/posts/1148/21d0711771157036-6.jpg" />
 
 Runners left their bibs at the makeshift roadside memorial where Kingston was struck in Banilad, Cebu City, after completing the run for justice on Sunday morning, Feb. 15. Photo by Jacqueline Hernandez
 
-![pastedGraphic\_4.png](blob\:https://metamix.app/f7c9f8d3-f063-46bb-9a34-a0faef8bf4fa)
+<img height="361" width="542" src="https://d1rl40o93nnuyl.cloudfront.net/posts/1148/c67b2b1771156607-4.jpg" />
 
 Runners remove their bibs after completing the 24 kilometer justice run for Kingston Cheng in Banilad, Cebu City. Photo by Jacqueline Hernandez
 
-![pastedGraphic\_5.png](blob\:https://metamix.app/78c57aec-6403-49b8-8d46-2f66dc2e2522)
+<img height="286" width="545" src="https://d1rl40o93nnuyl.cloudfront.net/posts/1148/f346f61771157137-7.jpg" />
 
 Runners left their bibs at the makeshift roadside memorial where Kingston was struck in Banilad, Cebu City, after completing the run for justice on Sunday morning, Feb. 15. Photo by Jacqueline Hernandez
 
-![pastedGraphic\_6.png](blob\:https://metamix.app/bc406c57-4c01-4b53-a702-7843bf368074)
+<img height="285" width="543" src="https://d1rl40o93nnuyl.cloudfront.net/posts/1148/c22c911771157219-9.jpg" />
 
 Bernard Sia, organizer of the run, completes the 24 kilometer justice run for Kingston Cheng, saying the goal is to keep people talking about the case. Photo by Jacqueline Hernandez
 
-![pastedGraphic\_7.png](blob\:https://metamix.app/fa1dc965-4fc2-43c5-8b5e-37b889b274c0)
+<img height="282" width="539" src="https://d1rl40o93nnuyl.cloudfront.net/posts/1148/c2c0ca1771157238-10.jpg" />
 
 Runners raise their fists in a call for justice for Kingston Cheng in Banilad, Cebu City. Photo by Jacqueline Hernandez
+
+<br />
+
+<br />
+
+
+
+<br />
+
+
+
+<br />
+
+
+
+<br />
+
+
+
+<br />
+
+
+
+<br />
+
+
+
+<br />
