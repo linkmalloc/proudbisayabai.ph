@@ -29,21 +29,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Cebu is moving early to secure national funding for 2027, as the Provincial Development Council (PDC) formally endorsed P107 billion worth of priority programs and projects for submission to the regional level.
 
 The endorsement signals the provincial government’s push to align Cebu’s priorities with national government agencies (NGAs), government-owned and controlled corporations (GOCCs), and state universities and colleges (SUCs) operating across the province.
@@ -87,3 +72,5 @@ The council also adopted its 2025–2028 Manual of Operations and created a tech
 Vice Governor Glenn Anthony O. Soco, provincial board members, local chief executives, and partner civil society organizations attended the quarterly meeting, signaling broad support for the funding slate.
 
 For urgent DPWH and DENR projects, the PDC Executive Committee will convene separately to fast-track endorsements prior to submission to national agencies. (SBA)
+
+Photo from Cebu Province
