@@ -31,28 +31,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 A deadly Valentine’s Day accident at the South Road Properties (SRP) has prompted Cebu City Mayor Nestor Archival to call on developer Filinvest to immediately open unfinished pedestrian footbridges and walkways in the area, stressing that safer crossings could prevent similar tragedies.
 
 In a press briefing on Monday, February 16, Archival said at least one overpass is already in place but remains closed to the public.
@@ -84,3 +62,5 @@ The latest incident has renewed public calls for better safety measures, includi
 Archival urged residents to use overpasses once they are accessible and avoid crossing at street level.
 
 “Akong hangyo is not only in SRP, please if naay overpass didto lang mo agi, dili adto sa ubos kay prone kaayo sa disgrasya,” he said. (LLP)
+
+Photo by Truly Cebu
