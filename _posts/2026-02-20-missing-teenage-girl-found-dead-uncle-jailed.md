@@ -14,9 +14,9 @@ tags:
   - ToledoCity
   - Murder
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1169/2ebd2b1771574930-2.jpg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1169/2ebd2b1771574930-2.jpg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1169/2ebd2b1771574930-2.jpg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1169/62487d1771575057-3.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1169/62487d1771575057-3.jpg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1169/62487d1771575057-3.jpg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -28,6 +28,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
 
 
 
