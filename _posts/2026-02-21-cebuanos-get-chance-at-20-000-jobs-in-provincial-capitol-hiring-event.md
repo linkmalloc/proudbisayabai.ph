@@ -29,22 +29,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Cebuanos looking for work have a fresh opportunity as the Cebu Provincial Government launches a two-day job fair at the Cebu&#x20;
 
 Provincial Capitol starting February 21, offering a one-stop hub where applicants can move from application to employment.
@@ -83,3 +67,5 @@ human impact of employment.
 In a separate message encouraging participation, she added, “Daghang company, daghang hiring. Daghan og chance para maka trabaho mo dayon.”
 
 Provincial data showed that a similar job fair in October 2025 resulted in about 600 local hires and 200 overseas deployments, outcomes the Capitol hopes to surpass in this year’s series. (SBA)
+
+Photo by Cebu Province
