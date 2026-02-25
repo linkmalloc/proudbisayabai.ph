@@ -31,12 +31,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-NAKATILAW NA KA UG CHUPA-CHUPA?
-
 The chupa-chupa fruit, also known locally as “suck-suck,” is gaining attention online for its unique way of consumption. Its name comes from the method of eating: the juicy pulp must be slowly and patiently drawn from its large seed, rather than bitten or devoured. This slow, attentive approach serves as a reminder that some of life’s sweetest rewards require patience and mindfulness.
 
 Beyond its intriguing eating experience, the chupa-chupa fruit is prized for its delicate sweetness and nutritional benefits. It is among the many fruits and food products originating from Mindanao that showcase the richness of the region’s agricultural offerings.
