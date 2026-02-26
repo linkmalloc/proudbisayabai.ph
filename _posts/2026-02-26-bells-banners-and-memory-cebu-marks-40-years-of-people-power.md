@@ -33,11 +33,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
 Forty years after millions of Filipinos gathered along Epifanio de los Santos Avenue in a peaceful uprising that toppled a dictatorship, downtown Cebu on Wednesday, February 25, echoed with the same language of faith, memory, and moral resolve.
 
 From Freedom Park to Metro Colon in the morning, and from the Basilica Minore del Sto. Niño de Cebu to Plaza Independencia in the afternoon, Cebuanos commemorated the 40th anniversary of the 1986 EDSA People Power Revolution — not as distant history, but as a continuing call to remember the past, confront the present, and safeguard the future.
@@ -99,3 +94,5 @@ The 1986 revolution was marked by prayerful resistance, civilian courage, and th
 Forty years later, Cebuanos once again filled streets and church plazas to affirm that those principles endure.
 
 Speakers reminded participants that the struggle for freedom and accountability did not end in 1986 — it continues in institutions, in communities, and in the daily choices of leaders and citizens alike. (LLP)
+
+Photo from Roman Archdiocese of Cebu
