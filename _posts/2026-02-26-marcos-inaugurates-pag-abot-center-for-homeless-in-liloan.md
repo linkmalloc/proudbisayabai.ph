@@ -31,17 +31,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
 President Ferdinand R. Marcos Jr. on Thursday inaugurated the Pag-Abot Processing Center in Liloan, Cebu, a facility designed to assist people living on the streets through health services, temporary shelter, and social support programs.
 
 The center forms part of the Pag-Abot Program, launched in 2023 and institutionalized in 2024, which aims to help families and individuals in street situations transition toward stable and dignified lives.
@@ -60,4 +49,6 @@ DSWD Secretary Rex Gatchalian accompanied the President during the visit.&#x20;
 
 Tourism Secretary Christina Frasco, Rep. Vincent Franco Frasco of Cebu’s 5th District, Liloan Mayor Aljew Fernando Frasco and Liloan Vice Mayor Margarita Frasco were also present.
 
-Officials said the processing center aims to provide coordinated services for individuals and families living on the streets and to connect them with long-term government assistance programs
+Officials said the processing center aims to provide coordinated services for individuals and families living on the streets and to connect them with long-term government assistance programs.
+
+Photo from PCO
