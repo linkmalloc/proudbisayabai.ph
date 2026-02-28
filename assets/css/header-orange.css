@@ -1,0 +1,630 @@
+/* Orange Header Design CSS */
+
+/* Update CSS variables to use new orange */
+:root {
+    --orange-primary: #f95c00;
+    --orange-secondary: #ff7a1a;
+    --orange-light: #ff9947;
+    --orange-dark: #e04900;
+    --orange-gradient: linear-gradient(135deg, #f95c00, #ff7a1a);
+    --orange-footer-gradient: linear-gradient(to bottom, #d4621a, #c55b1a);
+}
+
+/* Header Top Bar */
+.header-top-orange {
+    background: var(--orange-gradient);
+    padding: 0;
+    font-size: 12px;
+}
+
+.header-top-info {
+    display: flex;
+    align-items: center;
+}
+
+.header-top-social a {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    text-align: center;
+    line-height: 24px;
+    border-radius: 50%;
+    transition: all 0.3s ease;
+    font-size: 11px;
+}
+
+.header-top-social a:hover {
+    background: rgba(255, 255, 255, 0.2);
+    text-decoration: none;
+    transform: translateY(-2px);
+}
+
+/* Main Header */
+.header-main {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.logo-orange {
+    max-height: 60px;
+    width: auto;
+    transition: transform 0.3s ease;
+}
+
+.logo-orange:hover {
+    transform: scale(1.05);
+}
+
+.header-tagline h6 {
+    color: var(--orange-primary);
+    font-size: 14px;
+    letter-spacing: 0.5px;
+}
+
+/* Header Actions */
+.header-actions {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.search-btn-orange {
+    background: none;
+    border: 2px solid var(--orange-primary);
+    color: var(--orange-primary);
+    padding: 8px 15px;
+    border-radius: 25px;
+    transition: all 0.3s ease;
+    font-size: 14px;
+}
+
+.search-btn-orange:hover {
+    background: var(--orange-primary);
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(249, 92, 0, 0.3);
+}
+
+.btn-orange {
+    background: var(--orange-gradient);
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 25px;
+    transition: all 0.3s ease;
+}
+
+.btn-orange:hover {
+    background: var(--orange-dark);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(249, 92, 0, 0.4);
+    color: white;
+}
+
+/* Navigation Bar - Inline Layout */
+.header-nav {
+    padding: 8px 0 4px 0;
+    box-shadow: none; /* Remove shadow to eliminate separation */
+    width: 100%;
+    background: var(--orange-gradient);
+    background-attachment: fixed;
+    border: none; /* Ensure no borders */
+}
+
+/* Sticky Header Container */
+.sticky-header-container {
+    position: fixed !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    z-index: 1030 !important;
+    transition: all 0.4s cubic-bezier(0.4, 0.0, 0.2, 1);
+    will-change: transform, height;
+    border: none; /* Remove any borders */
+    margin: 0; /* Remove any margins */
+    padding: 0; /* Remove container padding */
+    background: var(--orange-gradient);
+}
+
+/* Top bar that can be hidden */
+.sticky-top-bar {
+    transition: all 0.6s cubic-bezier(0.4, 0.0, 0.2, 1); /* Slower transition for top bar */
+    transform: translateY(0);
+    height: auto;
+    max-height: 200px; /* Set a reasonable max-height */
+    overflow: hidden;
+    opacity: 1;
+    visibility: visible;
+    border-bottom: none; /* Remove any bottom borders */
+    box-shadow: none; /* Remove any shadows */
+}
+
+.sticky-top-bar.hidden {
+    transform: translateY(-100%);
+    max-height: 0 !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.6s cubic-bezier(0.4, 0.0, 0.2, 1); /* Slower transition for top bar */
+}
+
+/* Smooth transition for inner content */
+.sticky-top-bar .container {
+    transition: all 0.4s cubic-bezier(0.4, 0.0, 0.2, 1);
+}
+
+.sticky-top-bar.hidden .container {
+    transform: translateY(-10px);
+    opacity: 0;
+}
+
+.sticky-top-bar .row {
+    transition: all 0.4s cubic-bezier(0.4, 0.0, 0.2, 1);
+}
+
+/* Navigation bar styling */
+.header-nav.sticky-nav {
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    right: auto !important;
+    z-index: auto !important;
+    transition: all 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94); /* Faster transition for nav */
+    margin: 0 !important; /* Remove any margins */
+    border: none !important; /* Remove any borders */
+}
+
+/* When scrolled, move navigation up and add shadow */
+.sticky-header-container.scrolled {
+    transform: translateY(0);
+}
+
+.sticky-header-container.scrolled .header-nav {
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2) !important; /* Subtle shadow only when scrolled */
+    backdrop-filter: blur(10px);
+    transition: box-shadow 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94), backdrop-filter 0.2s cubic-bezier(0.25, 0.46, 0.45, 0.94); /* Fast shadow transition */
+}
+
+/* Ensure smooth transition when top bar is hidden */
+.sticky-header-container.scrolled .sticky-top-bar.hidden {
+    margin-bottom: 0;
+}
+
+/* Ensure parent containers don't interfere with sticky */
+header.main-header {
+    position: relative;
+}
+
+.header-nav {
+    display: block;
+}
+
+/* Add body padding to prevent content hiding behind fixed header */
+body {
+    padding-top: 84px; /* Adjusted for reduced navigation height (90px - 6px) */
+}
+
+/* When header is present, ensure proper spacing */
+body.header-orange-active {
+    padding-top: 84px;
+}
+
+.main-navigation-inline {
+    display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+    width: 100%;
+    max-width: none;
+    min-height: 50px; /* Reduced to 50px */
+}
+
+/* Logo in Navigation */
+.nav-logo {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    min-height: 60px; /* Keep logo container at original height */
+}
+
+.logo-nav {
+    max-height: 45px;
+    width: auto;
+    transition: transform 0.3s ease;
+}
+
+.logo-nav:hover {
+    transform: scale(1.05);
+}
+
+/* Inline Menu */
+.main-menu-inline {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    height: 100%;
+}
+
+.main-menu-inline .nav-item {
+    margin: 0;
+    position: relative;
+    display: flex;
+    align-items: stretch;
+    height: 100%;
+}
+
+.main-menu-inline .nav-link {
+    display: flex;
+    align-items: center;
+    padding: 10.8px 18px; /* Reduced top/bottom by 40%, restored left/right */
+    color: white !important;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 13px; /* Reduced to 13px */
+    text-transform: uppercase;
+    letter-spacing: 0.5px; /* Back to original letter spacing */
+    transition: all 0.3s ease;
+    border-radius: 0;
+    height: 100%;
+    min-height: 50px; /* Reduced to 50px */
+}
+
+.main-menu-inline .nav-link:hover,
+.main-menu-inline .nav-item.active .nav-link {
+    background: rgba(255, 255, 255, 0.2);
+    color: white !important;
+    text-decoration: none;
+}
+
+.main-menu-inline .nav-link i {
+    font-size: 10.8px; /* Reduced from 12px by 10% */
+    margin-right: 7.2px; /* Reduced from 8px by 10% */
+}
+
+/* Navigation Actions */
+.nav-actions {
+    display: flex;
+    align-items: center;
+    flex-shrink: 0;
+    height: 100%;
+    min-height: 50px; /* Reduced to 50px */
+}
+
+.search-btn-nav {
+    background: none;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: white;
+    padding: 7.2px 10.8px; /* Reduced by 10% */
+    border-radius: 18px; /* Reduced from 20px by 10% */
+    transition: all 0.3s ease;
+    font-size: 11.34px; /* Reduced from 12.6px by another 10% */
+}
+
+.search-btn-nav:hover {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.5);
+    transform: translateY(-2px);
+}
+
+.btn-white-outline {
+    background: none;
+    border: 2px solid white;
+    color: white;
+    padding: 7.2px 14.4px; /* Reduced by 10% */
+    border-radius: 18px; /* Reduced from 20px by 10% */
+    transition: all 0.3s ease;
+    font-size: 11.7px; /* Reduced from 13px by 10% */
+}
+
+.btn-white-outline:hover {
+    background: white;
+    color: var(--orange-primary);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(255, 255, 255, 0.3);
+}
+
+/* Mobile Menu */
+.mobile-menu-toggle {
+    display: flex;
+    align-items: center;
+    padding: 0;
+}
+
+.mobile-toggle-btn {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    transition: background 0.3s ease;
+}
+
+.mobile-toggle-btn:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.mobile-menu {
+    display: none;
+    background: rgba(249, 92, 0, 0.95);
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+.mobile-menu.active {
+    display: block;
+}
+
+.mobile-menu-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.mobile-menu-list li {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.mobile-menu-list li:last-child {
+    border-bottom: none;
+}
+
+.mobile-nav-link {
+    display: block;
+    padding: 15px 20px;
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    transition: background 0.3s ease;
+}
+
+.mobile-nav-link:hover,
+.mobile-menu-list li.active .mobile-nav-link {
+    background: rgba(255, 255, 255, 0.1);
+    color: white;
+    text-decoration: none;
+}
+
+/* Search Overlay */
+.search-overlay-orange {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: var(--orange-gradient);
+    z-index: 9999;
+    display: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.search-overlay-orange.active {
+    display: flex;
+}
+
+.search-overlay-content {
+    width: 100%;
+    max-width: 800px;
+    padding: 50px 20px;
+}
+
+.search-close-btn {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background: none;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    z-index: 1001;
+    width: 48px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    padding: 12px;
+}
+
+.search-close-btn:hover {
+    transform: rotate(90deg);
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.search-form input {
+    width: 100%;
+    padding: 20px 25px;
+    border: none;
+    border-radius: 50px;
+    font-size: 18px;
+    background: rgba(255, 255, 255, 0.9);
+    color: var(--text-dark);
+    margin-bottom: 20px;
+}
+
+.search-form input:focus {
+    outline: none;
+    background: white;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.3);
+}
+
+.search-suggestions {
+    text-align: center;
+}
+
+.suggestion-tags {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+
+.suggestion-tag {
+    display: inline-block;
+    padding: 8px 16px;
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    font-size: 14px;
+    transition: all 0.3s ease;
+}
+
+.suggestion-tag:hover {
+    background: rgba(255, 255, 255, 0.3);
+    color: white;
+    text-decoration: none;
+    transform: translateY(-2px);
+}
+
+/* Footer styling with orange background */
+.bg-orange-gradient {
+    background: var(--orange-footer-gradient) !important;
+    color: white !important;
+}
+
+.bg-orange-gradient h5,
+.bg-orange-gradient p,
+.bg-orange-gradient a {
+    color: white !important;
+}
+
+.bg-orange-gradient .cat-item a:hover {
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.bg-orange-gradient .subscribe-btn {
+    background: white !important;
+    color: var(--orange-primary) !important;
+    border: none !important;
+}
+
+.bg-orange-gradient .subscribe-btn:hover {
+    background: rgba(255, 255, 255, 0.9) !important;
+}
+
+/* Responsive Design */
+@media (max-width: 991px) {
+    .header-tagline {
+        display: none !important;
+    }
+    
+    .header-actions {
+        justify-content: center;
+    }
+    
+    .main-menu-inline {
+        display: none !important;
+    }
+    
+    .nav-actions {
+        display: none !important;
+    }
+    
+    .mobile-menu-toggle {
+        display: flex !important;
+    }
+    
+    .main-navigation-inline {
+        justify-content: space-between;
+        min-height: 40px; /* Reduced from 50px by 20% */
+    }
+    
+    .header-nav {
+        padding: 6.4px 0 3.2px 0; /* Reduced from 8px 0 4px 0 by 20% */
+    }
+    
+    .nav-logo {
+        min-height: 40px; /* Reduced from 50px by 20% */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    
+    .header-top-orange .row {
+        text-align: center;
+    }
+    
+    .header-top-info {
+        justify-content: center;
+    }
+}
+
+@media (max-width: 767px) {
+    .header-main .row {
+        text-align: center;
+    }
+    
+    .header-main .col-md-4 {
+        margin-bottom: 15px;
+    }
+    
+    .header-actions {
+        flex-direction: column;
+        gap: 10px;
+    }
+    
+    .search-btn-orange {
+        margin-right: 0 !important;
+        margin-bottom: 10px;
+    }
+    
+    .header-top-orange .row {
+        text-align: center;
+    }
+    
+    .header-top-orange .col-md-6 {
+        margin-bottom: 5px;
+    }
+    
+    .header-top-orange .col-md-6:last-child {
+        text-align: center !important;
+        margin-bottom: 0;
+    }
+}
+
+@media (max-width: 575px) {
+    .logo-nav {
+        max-height: 40px;
+    }
+    
+    .main-menu-inline .nav-link {
+        padding: 15px 15px;
+        font-size: 13px;
+    }
+    
+    .search-overlay-content {
+        padding: 30px 15px;
+    }
+    
+    .search-close-btn {
+        top: 15px;
+        right: 15px;
+        width: 44px;
+        height: 44px;
+        font-size: 20px;
+        padding: 10px;
+    }
+    
+    .search-form input {
+        padding: 15px 20px;
+        font-size: 16px;
+    }
+    
+    .header-nav .container-fluid {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}

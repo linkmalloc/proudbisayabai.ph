@@ -1,0 +1,217 @@
+<!-- In-house Search Form -->
+<div class="search-form-container">
+    <div class="search-input-wrapper">
+        <input type="text" id="search-input" class="search-input" placeholder="Search articles by title, category, or tags...">
+        <button type="button" id="search-button" class="search-submit-btn">
+            <i class="fas fa-search"></i>
+        </button>
+    </div>
+    <div id="search-results" class="search-results"></div>
+    <div id="search-loading" class="search-loading" style="display: none;">
+        <i class="fas fa-spinner fa-spin"></i>
+        <span>Searching...</span>
+    </div>
+</div>
+
+<style>
+/* Search Form Styling */
+.search-form-container {
+    width: 100%;
+}
+
+.search-input-wrapper {
+    position: relative;
+    display: flex;
+    background: white;
+    border: 1px solid #dfe1e5;
+    border-radius: 24px;
+    overflow: hidden;
+    box-shadow: none;
+    transition: box-shadow 0.2s ease, border-color 0.2s ease;
+    max-width: 584px;
+    margin: 0 auto;
+}
+
+.search-input-wrapper:hover {
+    box-shadow: 0 2px 5px 1px rgba(64, 60, 67, 0.16);
+    border-color: rgba(223, 225, 229, 0);
+}
+
+.search-input-wrapper:focus-within {
+    box-shadow: 0 2px 8px 1px rgba(64, 60, 67, 0.24);
+    border-color: rgba(223, 225, 229, 0);
+    outline: none;
+}
+
+.search-input {
+    flex: 1;
+    padding: 12px 16px;
+    border: none;
+    outline: none;
+    font-size: 16px;
+    color: #202124;
+    background: transparent;
+    font-family: arial, sans-serif;
+    margin-bottom: 0px;
+}
+
+.search-input::placeholder {
+    color: #9aa0a6;
+}
+
+.search-submit-btn {
+    background: transparent;
+    border: none;
+    padding: 16px 20px;
+    color: #9aa0a6;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 48px;
+    min-height: 48px;
+}
+
+.search-submit-btn:hover {
+    color: #202124;
+    background: rgba(0, 0, 0, 0.03);
+}
+
+.search-results {
+    margin-top: 30px;
+    max-height: 400px;
+    overflow-y: auto;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 10px;
+    display: none;
+}
+
+.search-result-item {
+    display: flex;
+    padding: 15px;
+    border-bottom: 1px solid #eee;
+    transition: background 0.3s ease;
+}
+
+.search-result-item:hover {
+    background: #f8f9fa;
+}
+
+.search-result-item:last-child {
+    border-bottom: none;
+}
+
+.search-result-thumb {
+    flex-shrink: 0;
+    width: 80px;
+    height: 60px;
+    margin-right: 15px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+
+.search-result-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.search-result-content {
+    flex: 1;
+    min-width: 0;
+}
+
+.search-result-category {
+    display: inline-block;
+    background: var(--orange-primary);
+    color: white;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-size: 11px;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+
+.search-result-title {
+    margin: 5px 0;
+    font-size: 16px;
+    font-weight: 600;
+    text-align: left;
+}
+
+.search-result-title a {
+    color: #333;
+    text-decoration: none;
+}
+
+.search-result-title a:hover {
+    color: var(--orange-primary);
+}
+
+.search-result-excerpt {
+    color: #666;
+    font-size: 12px;
+    line-height: 1.4;
+    margin: 5px 0;
+    text-align: left;
+}
+
+.search-result-meta {
+    font-size: 12px;
+    color: #888;
+    text-align: left;
+}
+
+.search-result-meta span {
+    margin-right: 10px;
+}
+
+.search-result-tags {
+    margin: 8px 0;
+    font-size: 12px;
+    text-align: left;
+}
+
+.search-loading {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+
+.search-loading i {
+    margin-right: 5px;
+}
+
+.no-results {
+    text-align: center;
+    padding: 30px;
+    color: #666;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+/* Mobile Responsive */
+@media (max-width: 767px) {
+    .search-result-item {
+        flex-direction: column;
+    }
+    
+    .search-result-thumb {
+        width: 100%;
+        height: 120px;
+        margin-right: 0;
+        margin-bottom: 10px;
+    }
+    
+    .search-input {
+        padding: 12px 15px;
+        font-size: 14px;
+    }
+    
+    .search-submit-btn {
+        padding: 12px 15px;
+    }
+}
+</style>

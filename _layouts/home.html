@@ -1,0 +1,431 @@
+---
+layout: default
+---
+
+<main class="position-relative">
+    <!-- Full Width Ad Banner -->
+    <section class="ad-banner-section py-20">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12">
+                    <div class="ad-banner text-center">
+                        <div class="ad-placeholder bg-light border-radius-10 py-30">
+                            <p class="text-muted mb-0">Advertisement Banner - 1140x200</p>
+                            <!-- Replace with actual ad code -->
+                            {% include ads/home-banner.html %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Hero Section with Featured Story -->
+    <section class="hero-section bg-grey pt-50 pb-30">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8">
+                    {% assign featured_post = site.posts | first %}
+                    <div class="hero-post position-relative">
+                        <div class="post-thumb-wrapper">
+                            <a href="{{ featured_post.url }}">
+                                <img class="border-radius-15" src="{{ featured_post.img_big_1000x600 }}" alt="{{ featured_post.title }}">
+                            </a>
+                            <div class="hero-overlay"></div>
+                        </div>
+                        <div class="hero-content">
+                            <div class="post-category bg-orange text-white">
+                                {% if featured_post.category %}{{ featured_post.category }}{% else %}Featured{% endif %}
+                            </div>
+                            <h1 class="post-title text-white mb-20">
+                                <a href="{{ featured_post.url }}" class="text-white">{{ featured_post.title }}</a>
+                            </h1>
+                            <div class="post-meta text-white-50 mb-15">
+                                <span class="post-by">By {{ featured_post.author }}</span>
+                                <span class="post-on has-dot">{{ featured_post.date | date: '%B %d, %Y' }}</span>
+                            </div>
+                            <p class="post-excerpt text-white-75">{{ featured_post.excerpt | strip_html | truncatewords: 25 }}</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <!-- Trending Sidebar -->
+                <div class="col-lg-4">
+                    <div class="widget-header mb-30">
+                        <h5 class="widget-title">
+                            <span class="orange-bar"></span>
+                            Top Stories
+                        </h5>
+                    </div>
+                    <div class="trending-list">
+                        {% for post in site.posts offset: 1 limit: 3 %}
+                            <article class="trending-item d-flex mb-25 wow fadeInUp animated">
+                                <div class="trending-thumb mr-15">
+                                    <a href="{{ post.url }}">
+                                        <img src="{{ post.img_small_250x150 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-5">
+                                    </a>
+                                </div>
+                                <div class="trending-content">
+                                    <h6 class="post-title">
+                                        <a href="{{ post.url }}">{{ post.title | truncate: 60 }}</a>
+                                    </h6>
+                                    <div class="entry-meta meta-1 color-muted font-x-small">
+                                        <span class="post-on">{{ post.date | date: '%b %d' }}</span>
+                                    </div>
+                                </div>
+                            </article>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Content Section with Categories -->
+    <section class="main-content-section bg-white pt-30 pb-50">
+        <div class="container">
+            <div class="row">
+                <!-- Latest News Section -->
+                <div class="col-lg-8">
+                    <!-- Latest Articles -->
+                    <div class="section-widget mb-50">
+                        <div class="section-header mb-30">
+                            <h3 class="section-title">
+                                <span class="orange-bar"></span>
+                                Latest Stories
+                            </h3>
+                        </div>
+                        
+                        <div class="post-grid row">
+                            {% assign latest_stories = site.posts | where: "categories", "story" %}
+                            {% for post in latest_stories limit: 6 %}
+                            <div class="col-md-6 mb-30">
+                                <article class="post-card border-radius-10 wow fadeInUp animated">
+                                    <div class="post-thumb">
+                                        <a href="{{ post.url }}">
+                                            <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10">
+                                        </a>
+                                        <div class="post-category-badge bg-orange text-white">
+                                            {{ post.category | default: "News" }}
+                                        </div>
+                                    </div>
+                                    <div class="post-content pt-20">
+                                        <h4 class="post-title mb-15">
+                                            <a href="{{ post.url }}">{{ post.title }}</a>
+                                        </h4>
+                                        <div class="post-meta color-muted font-small mb-15">
+                                            <span class="post-by">{{ post.author }}</span>
+                                            <span class="post-on has-dot">{{ post.date | date: '%b %d, %Y' }}</span>
+                                        </div>
+                                        <p class="post-excerpt color-grey">{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+                                    </div>
+                                </article>
+                            </div>
+                            {% endfor %}
+                        </div>
+                        
+                        <div class="text-center mt-30">
+                            <a href="/stories" class="btn btn-outline-orange">View More Articles</a>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Sidebar -->
+                <div class="col-lg-4 primary-sidebar sticky-sidebar">
+                    <div>
+                        <!-- Social Media Widget -->
+                        <div class="mb-40">
+                            <div class="widget-header mb-30">
+                                <h5 class="widget-title">
+                                    <span class="orange-bar"></span>
+                                    Follow Us
+                                </h5>
+
+                            </div>
+                            <div class="social-widget">
+                                <div class="row">
+                                    <div class="col-6">
+                                        <a href="{{ site.facebook }}" target="_blank" class="social-button facebook mb-10">
+                                            <i class="fab fa-facebook-f"></i>
+                                            <div class="social-info">
+                                                <span class="social-count">{{ site.data.ads.followers.facebook }}</span>
+                                                <span class="social-label">Followers</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                    <div class="col-6">
+                                        <a href="{{ site.instagram }}" target="_blank" class="social-button instagram mb-10">
+                                            <i class="fab fa-instagram"></i>
+                                            <div class="social-info">
+                                                <span class="social-count">{{ site.data.ads.followers.instagram }}</span>
+                                                <span class="social-label">Followers</span>
+                                            </div>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Newsletter Widget -->
+                        <div class="mb-40">
+                            <div class="widget-header mb-20">
+                                <h5 class="widget-title">
+                                    <span class="orange-bar"></span>
+                                    Subscribe Newsletter
+                                </h5>
+                            </div>
+                            <div class="newsletter-widget orange-gradient border-radius-10 p-25 text-center newsletter">
+                                <h6 class="text-white mb-15">Stay Updated</h6>
+                                <p class="text-white-75 mb-20 font-small">Get the latest news delivered straight to your inbox</p>
+                                <form class="newsletter-form">
+                                    <div class="form-group mb-15">
+                                        <input type="email" class="form-control border-0 email" placeholder="Enter your email" required>
+                                    </div>
+                                    <button type="button" class="btn btn-white text-orange btn-block subscribe-btn">Subscribe Now</button>
+                                </form>
+                            </div>
+                        </div>
+
+
+                        <!-- Ad Widget -->
+                        <div class="">
+                            <div class="ad-widget">
+                                <div class="ad-placeholder bg-light border-radius-10 p-30 text-center">
+                                    <p class="text-muted mb-0">Advertisement - 300x250</p>
+                                    <!-- Replace with actual ad code -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Destinations Section - Full Width -->
+    <section class="destinations-section bg-light pt-50 pb-50">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-12">
+                    <div class="section-header mb-50">
+                        <h3 class="section-title">
+                            <span class="orange-bar"></span>
+                            Destinations
+                        </h3>
+                    </div>
+                    
+                    <div class="post-grid row">
+                        {% assign destination_posts = site.posts | where: "categories", "destination" %}
+                        {% for post in destination_posts limit: 6 %}
+                        <div class="col-md-6 col-lg-4 mb-30">
+                            <article class="post-card border-radius-10 wow fadeInUp animated">
+                                <div class="post-thumb">
+                                    <a href="{{ post.url }}">
+                                        <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10">
+                                    </a>
+                                    <div class="post-category-badge bg-orange text-white">
+                                        {{ post.category | default: "Destinations" }}
+                                    </div>
+                                </div>
+                                <div class="post-content pt-20">
+                                    <h4 class="post-title mb-15">
+                                        <a href="{{ post.url }}">{{ post.title }}</a>
+                                    </h4>
+                                    <div class="post-meta color-muted font-small mb-15">
+                                        <span class="post-by">{{ post.author }}</span>
+                                        <span class="post-on has-dot">{{ post.date | date: '%b %d, %Y' }}</span>
+                                    </div>
+                                    <p class="post-excerpt color-grey">{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
+                                </div>
+                            </article>
+                        </div>
+                        {% endfor %}
+                    </div>
+                    
+                    <div class="text-center mt-40">
+                        <a href="/destinations" class="btn btn-outline-orange">Explore All Destinations</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Advertisement Banner Section -->
+    <section class="ad-banner-section bg-grey-light py-20">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12">
+                    <div class="ad-banner text-center">
+                        <div class="ad-placeholder bg-light border-radius-10 py-30">
+                            <p class="text-muted mb-0">Advertisement Banner - 1140x200</p>
+                            <!-- Replace with actual ad code -->
+                            {% include ads/home-banner.html %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Foods Section with Sidebar -->
+    <section class="foods-content-section bg-grey-lighter pt-50 pb-50">
+        <div class="container">
+            <div class="row">
+                <!-- Foods Main Content -->
+                <div class="col-lg-8">
+                    <div class="section-widget mb-50">
+                        <div class="section-header mb-30">
+                            <h3 class="section-title">
+                                <span class="orange-bar"></span>
+                                Foods
+                            </h3>
+                        </div>
+                        
+                        <div class="post-grid row">
+                            {% assign food_posts = site.posts | where: "categories", "food" %}
+                            {% for post in food_posts limit: 6 %}
+                            <div class="col-md-6 mb-30">
+                                <article class="post-card border-radius-10 wow fadeInUp animated">
+                                    <div class="post-thumb">
+                                        <a href="{{ post.url }}">
+                                            <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10">
+                                        </a>
+                                        <div class="post-category-badge bg-orange text-white">
+                                            {{ post.category | default: "Foods" }}
+                                        </div>
+                                    </div>
+                                    <div class="post-content pt-20">
+                                        <h4 class="post-title mb-15">
+                                            <a href="{{ post.url }}">{{ post.title }}</a>
+                                        </h4>
+                                        <div class="post-meta color-muted font-small mb-15">
+                                            <span class="post-by">{{ post.author }}</span>
+                                            <span class="post-on has-dot">{{ post.date | date: '%b %d, %Y' }}</span>
+                                        </div>
+                                        <p class="post-excerpt color-grey">{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+                                    </div>
+                                </article>
+                            </div>
+                            {% endfor %}
+                        </div>
+                        
+                        <div class="text-center mt-30">
+                            <a href="/food" class="btn btn-outline-orange">View More Food Articles</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Foods Sidebar -->
+                <div class="col-lg-4 primary-sidebar sticky-sidebar">
+                    <div>
+                        <!-- Side Advertisement Widget -->
+                        <div class="mb-40">
+                            <div class="ad-widget">
+                                <div class="ad-placeholder bg-light border-radius-10 p-30 text-center">
+                                    <p class="text-muted mb-0">Advertisement - 300x250</p>
+                                    <!-- Replace with actual ad code -->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Brands Section - Full Width -->
+    <section class="brands-section bg-light pt-50 pb-50">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-12">
+                    <div class="section-header mb-50">
+                        <h3 class="section-title">
+                            <span class="orange-bar"></span>
+                            Brands & Products
+                        </h3>
+                    </div>
+                    
+                    <div class="post-grid row justify-content-center">
+                        {% assign brand_posts = site.posts | where: "categories", "product" %}
+                        {% for post in brand_posts limit: 3 %}
+                        <div class="col-md-6 col-lg-4 mb-30">
+                            <article class="post-card border-radius-10 wow fadeInUp animated">
+                                <div class="post-thumb">
+                                    <a href="{{ post.url }}">
+                                        <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10">
+                                    </a>
+                                    <div class="post-category-badge bg-orange text-white">
+                                        {{ post.category | default: "Brands" }}
+                                    </div>
+                                </div>
+                                <div class="post-content pt-20">
+                                    <h4 class="post-title mb-15">
+                                        <a href="{{ post.url }}">{{ post.title }}</a>
+                                    </h4>
+                                    <div class="post-meta color-muted font-small mb-15">
+                                        <span class="post-by">{{ post.author }}</span>
+                                        <span class="post-on has-dot">{{ post.date | date: '%b %d, %Y' }}</span>
+                                    </div>
+                                    <p class="post-excerpt color-grey">{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
+                                </div>
+                            </article>
+                        </div>
+                        {% endfor %}
+                    </div>
+                    
+                    <div class="text-center mt-40">
+                        <a href="/product" class="btn btn-outline-orange">View All Brands & Products</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Weather Updates Section - Full Width -->
+    <section class="weather-section bg-white pt-50 pb-50">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-12">
+                    <div class="section-header mb-50">
+                        <h3 class="section-title">
+                            <span class="orange-bar"></span>
+                            Weather Updates
+                        </h3>
+                    </div>
+                    
+                    <div class="post-grid row justify-content-center">
+                        {% assign weather_posts = site.posts | where: "tags", "BagyongBasyangPH" %}
+                        {% for post in weather_posts limit: 3 %}
+                        <div class="col-md-6 col-lg-4 mb-30">
+                            <article class="post-card border-radius-10 wow fadeInUp animated">
+                                <div class="post-thumb">
+                                    <a href="{{ post.url }}">
+                                        <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10">
+                                    </a>
+                                    <div class="post-category-badge bg-orange text-white">
+                                        {{ post.category | default: "Weather" }}
+                                    </div>
+                                </div>
+                                <div class="post-content pt-20">
+                                    <h4 class="post-title mb-15">
+                                        <a href="{{ post.url }}">{{ post.title }}</a>
+                                    </h4>
+                                    <div class="post-meta color-muted font-small mb-15">
+                                        <span class="post-by">{{ post.author }}</span>
+                                        <span class="post-on has-dot">{{ post.date | date: '%b %d, %Y' }}</span>
+                                    </div>
+                                    <p class="post-excerpt color-grey">{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
+                                </div>
+                            </article>
+                        </div>
+                        {% endfor %}
+                    </div>
+                    
+                    <div class="text-center mt-40">
+                        <a href="/weather" class="btn btn-outline-orange">View All Weather Updates</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</main>

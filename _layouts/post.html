@@ -69,6 +69,18 @@ layout: default
                                     <!--End Subcrible-->
                                     <!--<p></p>-->
                                 </div>
+                                
+                                <!-- Advertisement Banner at bottom of article -->
+                                <div class="article-bottom-ad mb-30">
+                                    <div class="ad-banner text-center">
+                                        <div class="ad-placeholder bg-light border-radius-10 py-30">
+                                            <p class="text-muted mb-0">Advertisement Banner - 1140x200</p>
+                                            <!-- Replace with actual ad code -->
+                                            {% include ads/home-banner.html %}
+                                        </div>
+                                    </div>
+                                </div>
+                                
                                 {% include page_tags.html %}
                                 <div class="single-social-share clearfix wow fadeIn animated">
                                     <ul class="header-social-network d-inline-block list-inline float-md-right mt-md-0 mt-4">
@@ -95,6 +107,26 @@ layout: default
                         <div class="widget-area">
 
                             {% include side-bar-social.html %}
+                            
+                            <!-- Google AdSense Sidebar Ad -->
+                            <div class="sidebar-widget mb-50 wow fadeInUp animated">
+                                <div class="ad-widget text-center">
+                                    <div class="ad-placeholder bg-light border-radius-10 p-30">
+                                        <p class="text-muted mb-15">Advertisement - 300x250</p>
+                                        <!-- Google AdSense Sidebar Ad -->
+                                        <ins class="adsbygoogle"
+                                             style="display:block"
+                                             data-ad-client="ca-pub-4700597328512944"
+                                             data-ad-slot="1234567890"
+                                             data-ad-format="rectangle"
+                                             data-full-width-responsive="true"></ins>
+                                        <script>
+                                             (adsbygoogle = window.adsbygoogle || []).push({});
+                                        </script>
+                                    </div>
+                                </div>
+                            </div>
+                            
                             {% include side_mostpopular.html %}
                             
                         </div>
