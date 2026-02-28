@@ -1,0 +1,212 @@
+---
+layout: default
+title: Tags - Explore Posts by Topics
+isTop: true
+---
+<main>
+    <!--archive header-->
+    <div class="archive-header pt-50 pb-30">
+        <div class="container">
+            <div class="section-header text-center">
+                <h2 class="section-title font-weight-900 mb-20" id="page-title">
+                    <span class="orange-bar"></span>
+                    <span id="tag-title">All Posts</span>
+                </h2>
+                <p class="section-description color-grey mb-10 text-left" id="tag-description">Explore posts by topic and discover what interests you most</p>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <!-- Loading indicator -->
+        <div id="loading-indicator" class="text-center py-50" style="display: none;">
+            <div class="spinner-border text-orange" role="status">
+                <span class="sr-only">Loading...</span>
+            </div>
+            <p class="mt-3 text-muted">Loading posts...</p>
+        </div>
+
+        <!-- No results message -->
+        <div id="no-results" class="text-center py-50" style="display: none;">
+            <i class="fas fa-search" style="font-size: 48px; color: #ccc;"></i>
+            <h4 class="mt-3 mb-2">No posts found</h4>
+            <p class="text-muted">No posts were found with the tag "<span id="no-results-tag"></span>"</p>
+        </div>
+
+        <div class="loop-grid mb-30">
+            <div class="row" id="posts-container">
+                <!-- Posts will be dynamically loaded here -->
+            </div>
+        </div>
+    </div>
+</main>
+
+<!-- Posts data for JavaScript -->
+<script id="posts-data" type="application/json">
+[
+  {% for post in site.posts %}
+    {
+      "title": {{ post.title | jsonify }},
+      "url": {{ post.url | jsonify }},
+      "date": {{ post.date | date: "%Y-%m-%d" | jsonify }},
+      "category": {{ post.category | default: "Article" | jsonify }},
+      "author": {{ post.author | default: "Admin" | jsonify }},
+      "excerpt": {{ post.excerpt | strip_html | strip_newlines | truncatewords: 20 | jsonify }},
+      "tags": {{ post.tags | jsonify }},
+      "image": {{ post.img_medium_400x300 | default: post.img_big_1000x600 | default: "" | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Get posts data
+    const postsData = JSON.parse(document.getElementById('posts-data').textContent);
+    const postsContainer = document.getElementById('posts-container');
+    const loadingIndicator = document.getElementById('loading-indicator');
+    const noResults = document.getElementById('no-results');
+    const tagTitle = document.getElementById('tag-title');
+    const tagDescription = document.getElementById('tag-description');
+    const noResultsTag = document.getElementById('no-results-tag');
+
+    // Function to get tag from URL hash
+    function getTagFromHash() {
+        const hash = window.location.hash;
+        return hash ? decodeURIComponent(hash.substring(1)) : '';
+    }
+
+    // Function to filter posts by tag
+    function filterPostsByTag(tag) {
+        if (!tag) {
+            return postsData;
+        }
+        
+        return postsData.filter(post => {
+            return post.tags && Array.isArray(post.tags) && post.tags.some(postTag => 
+                typeof postTag === 'string' && postTag.toLowerCase() === tag.toLowerCase()
+            );
+        });
+    }
+
+    // Function to render posts
+    function renderPosts(posts, tag) {
+        loadingIndicator.style.display = 'none';
+        
+        if (posts.length === 0) {
+            postsContainer.innerHTML = '';
+            noResults.style.display = 'block';
+            noResultsTag.textContent = tag;
+            return;
+        }
+
+        noResults.style.display = 'none';
+        
+        const postsHtml = posts.map(post => `
+            <div class="col-lg-4 col-md-6 mb-30">
+                <article class="post-card border-radius-10 wow fadeInUp animated">
+                    <div class="post-thumb">
+                        <a href="${post.url}">
+                            <img src="${post.image || 'https://via.placeholder.com/400x300'}" alt="${post.title}" class="border-radius-10">
+                        </a>
+                        <div class="post-category-badge bg-orange text-white">
+                            ${post.category}
+                        </div>
+                    </div>
+                    <div class="post-content pt-20">
+                        <h4 class="post-title mb-15">
+                            <a href="${post.url}">${post.title}</a>
+                        </h4>
+                        <div class="post-meta color-muted font-small mb-15">
+                            <span class="post-by">${post.author}</span>
+                            <span class="post-on has-dot">${formatDate(post.date)}</span>
+                        </div>
+                        <p class="post-excerpt color-grey">${post.excerpt || ''}</p>
+                    </div>
+                </article>
+            </div>
+        `).join('');
+
+        postsContainer.innerHTML = postsHtml;
+    }
+
+    // Function to format date
+    function formatDate(dateString) {
+        const date = new Date(dateString);
+        const options = { year: 'numeric', month: 'short', day: 'numeric' };
+        return date.toLocaleDateString('en-US', options);
+    }
+
+    // Function to update page title and description
+    function updatePageInfo(tag) {
+        if (tag) {
+            tagTitle.textContent = `Posts tagged "${tag}"`;
+            tagDescription.textContent = `All posts tagged with "${tag}" - discover related content and articles`;
+            document.title = `${tag} - Tags | Proud Bisaya Bai`;
+        } else {
+            tagTitle.textContent = 'All Posts';
+            tagDescription.textContent = 'Explore posts by topic and discover what interests you most';
+            document.title = 'Tags - Explore Posts by Topics | Proud Bisaya Bai';
+        }
+    }
+
+    // Function to load and display posts
+    function loadPosts() {
+        loadingIndicator.style.display = 'block';
+        postsContainer.innerHTML = '';
+        noResults.style.display = 'none';
+
+        const tag = getTagFromHash();
+        updatePageInfo(tag);
+
+        // Simulate loading delay for better UX
+        setTimeout(() => {
+            const filteredPosts = filterPostsByTag(tag);
+            renderPosts(filteredPosts, tag);
+        }, 300);
+    }
+
+    // Listen for hash changes
+    window.addEventListener('hashchange', loadPosts);
+
+    // Initial load
+    loadPosts();
+});
+</script>
+
+<style>
+.spinner-border {
+    width: 3rem;
+    height: 3rem;
+}
+
+.post-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.post-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+}
+
+#loading-indicator,
+#no-results {
+    min-height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.post-thumb {
+    position: relative;
+    overflow: hidden;
+}
+
+.post-thumb img {
+    transition: transform 0.3s ease;
+}
+
+.post-card:hover .post-thumb img {
+    transform: scale(1.05);
+}
+</style>

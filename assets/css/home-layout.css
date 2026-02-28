@@ -1,0 +1,507 @@
+/* Home Layout Styles with Orange Branding */
+
+:root {
+    --orange-primary: #f95c00;
+    --orange-secondary: #ff7a1a;
+    --orange-light: #ff9947;
+    --orange-dark: #e04900;
+    --orange-gradient: linear-gradient(135deg, #f95c00, #ff7a1a);
+    --text-dark: #2c3e50;
+    --text-grey: #7f8c8d;
+    --bg-light: #f8f9fa;
+    --bg-grey-light: #f4f5f6;
+    --bg-grey-lighter: #f1f2f3;
+    --border-light: #e9ecef;
+    --white: #ffffff;
+}
+
+/* Orange Theme Colors */
+.bg-orange { background-color: var(--orange-primary) !important; }
+.orange-bg { background-color: var(--orange-primary); }
+.orange-gradient { background: var(--orange-gradient); }
+.text-orange { color: var(--orange-primary) !important; }
+.border-orange { border-color: var(--orange-primary) !important; }
+
+/* Background Color Variations */
+.bg-white { background-color: var(--white) !important; }
+.bg-grey-light { background-color: var(--bg-grey-light) !important; }
+.bg-grey-lighter { background-color: var(--bg-grey-lighter) !important; }
+
+/* Trending Items Mobile Optimization */
+@media (max-width: 767px) {
+    .trending-thumb {
+        margin-right: 10px !important;
+        flex-shrink: 0;
+        width: 120px;
+        height: 90px;
+        overflow: hidden;
+        border-radius: 8px;
+    }
+    
+    .trending-thumb img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+    }
+    
+    .trending-item {
+        margin-bottom: 20px !important;
+    }
+    
+    .trending-content {
+        flex: 1;
+        min-width: 0;
+    }
+    
+    .trending-content .post-title {
+        font-size: 14px;
+        line-height: 1.3;
+        margin-bottom: 5px;
+    }
+}
+
+/* Orange Bars and Accents */
+.orange-bar {
+    display: inline-block;
+    width: 4px;
+    height: 20px;
+    background-color: var(--orange-primary);
+    margin-right: 10px;
+    vertical-align: middle;
+}
+
+/* Button Styles */
+.btn-outline-orange {
+    color: var(--orange-primary);
+    border-color: var(--orange-primary);
+    background-color: transparent;
+    border-radius: 18px;
+    transition: all 0.3s ease;
+}
+
+.btn-outline-orange:hover {
+    color: var(--white);
+    background-color: var(--orange-primary);
+    border-color: var(--orange-primary);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(249, 92, 0, 0.3);
+}
+
+.btn-white {
+    background-color: var(--white);
+    border-color: var(--white);
+    color: var(--text-dark);
+    border-radius: 18px;
+}
+
+.btn-white:hover {
+    background-color: #f8f9fa;
+    border-color: #f8f9fa;
+    color: var(--text-dark);
+}
+
+/* Hero Section */
+.hero-section {
+    background: linear-gradient(135deg, #f8f9fa 0%, #ffffff 100%);
+}
+
+.hero-post {
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.hero-post:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.15);
+}
+
+.post-thumb-wrapper {
+    position: relative;
+    height: 400px;
+    overflow: hidden;
+}
+
+.post-thumb-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.hero-post:hover .post-thumb-wrapper img {
+    transform: scale(1.05);
+}
+
+.hero-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.4) 50%, rgba(0, 0, 0, 0.1) 100%);
+}
+
+.hero-content {
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+    right: 30px;
+    z-index: 2;
+}
+
+.post-category {
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 18px;
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    margin-bottom: 15px;
+}
+
+/* Trending Section */
+.trending-item {
+    padding: 15px;
+    border-radius: 10px;
+    transition: all 0.3s ease;
+    border: 1px solid var(--border-light);
+}
+
+.trending-item:hover {
+    background-color: var(--bg-light);
+    transform: translateX(5px);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+}
+
+.trending-thumb img {
+    width: 100%; /* Fill the 50% container */
+    height: 68px; /* Maintain 16:9 aspect ratio height */
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.trending-content h6.post-title {
+    font-size: 12px; /* Reduced by 40% from default h6 size (~20px) */
+    line-height: 1.3;
+}
+
+.trending-content h6.post-title a {
+    font-size: inherit;
+}
+
+.trending-thumb {
+    flex: 0 0 40%; /* Take exactly 40% width */
+    max-width: 40%;
+}
+
+.trending-content {
+    flex: 0 0 60%; /* Take exactly 60% width */
+    max-width: 60%;
+    padding-left: 15px; /* Add some spacing between image and content */
+}
+
+/* Section Styling */
+.section-title {
+    font-size: 25.2px; /* Reduced from 28px by 10% */
+    font-weight: 700;
+    color: var(--text-dark);
+    margin-bottom: 0;
+    display: flex;
+    align-items: center;
+}
+
+.section-line {
+    height: 1px;
+    background-color: var(--border-light);
+    flex: 1;
+    margin-left: 20px;
+}
+
+.section-header {
+    border-bottom: 2px solid var(--orange-primary);
+    padding-bottom: 15px;
+}
+
+/* Post Cards */
+.post-card {
+    background: var(--white);
+    overflow: hidden;
+    transition: all 0.3s ease;
+    border: 1px solid var(--border-light);
+    height: 100%;
+}
+
+.post-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+}
+
+.post-card .post-thumb {
+    position: relative;
+    height: 200px;
+    overflow: hidden;
+}
+
+.post-card .post-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+}
+
+.post-card:hover .post-thumb img {
+    transform: scale(1.1);
+}
+
+.post-category-badge {
+    position: absolute;
+    top: 15px;
+    left: 15px;
+    padding: 4px 10px;
+    border-radius: 18px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.post-content {
+    padding: 20px;
+}
+
+.post-title {
+    font-size: 19.8px; /* Reduced from default 22px by 10% */
+}
+
+.post-title a {
+    color: var(--text-dark);
+    text-decoration: none;
+    font-weight: 600;
+    line-height: 1.4;
+    transition: color 0.3s ease;
+}
+
+.post-title a:hover {
+    color: var(--orange-primary);
+}
+
+/* Category Cards */
+.category-card {
+    border: 1px solid var(--border-light);
+    transition: all 0.3s ease;
+    height: 100%;
+}
+
+.category-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    border-color: var(--orange-primary);
+}
+
+.category-icon {
+    width: 60px;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    margin: 0 auto;
+}
+
+.category-title {
+    color: var(--text-dark);
+    font-weight: 600;
+}
+
+.category-description {
+    font-size: 14px;
+    line-height: 1.6;
+}
+
+/* Widget Styling */
+.widget-title {
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--text-dark);
+    display: flex;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.sidebar-widget {
+    background: transparent;
+    border-radius: 15px;
+    padding: 25px;
+    border: none;
+    transition: all 0.3s ease;
+}
+
+.sidebar-widget:hover {
+    background: var(--white);
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.08);
+}
+
+/* Footer sidebar widgets should not change background on hover */
+footer .sidebar-widget:hover {
+    background: transparent;
+    box-shadow: none;
+}
+
+/* Social Buttons */
+.social-button {
+    display: flex;
+    align-items: center;
+    padding: 15px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: var(--white);
+    transition: all 0.3s ease;
+    text-align: left;
+}
+
+.social-button.facebook {
+    background: linear-gradient(135deg, #4267B2, #365899);
+}
+
+.social-button.twitter {
+    background: linear-gradient(135deg, #1DA1F2, #0d8bd9);
+}
+
+.social-button.instagram {
+    background: linear-gradient(135deg, #E4405F, #C13584);
+}
+
+.social-button:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    color: var(--white);
+    text-decoration: none;
+}
+
+.social-button i {
+    font-size: 20px;
+    margin-right: 10px;
+    width: 30px;
+    text-align: center;
+}
+
+.social-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.social-count {
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.social-label {
+    font-size: 12px;
+    opacity: 0.8;
+}
+
+/* Newsletter Widget */
+.newsletter-widget {
+    border: none !important;
+}
+
+.newsletter-form input {
+    background: rgba(255, 255, 255, 0.9);
+    border: none;
+    padding: 12px 15px;
+    border-radius: 18px;
+    color: var(--text-dark);
+}
+
+.newsletter-form input::placeholder {
+    color: var(--text-grey);
+}
+
+.newsletter-form input:focus {
+    background: var(--white);
+    box-shadow: 0 0 0 3px rgba(249, 92, 0, 0.2);
+}
+
+/* Ad Placeholders */
+.ad-placeholder {
+    border: 2px dashed var(--border-light);
+    color: var(--text-grey);
+    min-height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ad-banner .ad-placeholder {
+    min-height: 120px;
+}
+
+/* Responsive Design */
+@media (max-width: 991px) {
+    .hero-content {
+        bottom: 20px;
+        left: 20px;
+        right: 20px;
+    }
+    
+    .post-thumb-wrapper {
+        height: 300px;
+    }
+    
+    .section-title {
+        font-size: 21.6px; /* Reduced from 24px by 10% */
+    }
+    
+    .trending-thumb img {
+        width: 120px;
+        height: 70px;
+    }
+}
+
+@media (max-width: 767px) {
+    .hero-content h1 {
+        font-size: 24px;
+    }
+    
+    .post-card .post-thumb {
+        height: 180px;
+    }
+    
+    .category-card {
+        margin-bottom: 20px;
+    }
+    
+    .social-button {
+        margin-bottom: 10px;
+    }
+}
+
+/* Utilities */
+.text-white-50 { color: rgba(255, 255, 255, 0.5) !important; }
+.text-white-75 { color: rgba(255, 255, 255, 0.75) !important; }
+.color-grey { color: var(--text-grey) !important; }
+.bg-grey { background-color: var(--bg-light) !important; }
+.border-radius-5 { border-radius: 5px !important; }
+.border-radius-10 { border-radius: 10px !important; }
+.border-radius-15 { border-radius: 15px !important; }
+.border-radius-50 { border-radius: 50% !important; }
+
+/* Animation improvements */
+.wow.fadeInUp {
+    animation-duration: 0.8s;
+    animation-fill-mode: both;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translate3d(0, 40px, 0);
+    }
+    to {
+        opacity: 1;
+        transform: translate3d(0, 0, 0);
+    }
+}

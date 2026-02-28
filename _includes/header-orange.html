@@ -1,0 +1,173 @@
+<!-- Start Header - New Orange Design -->
+<header class="main-header header-orange font-heading">
+    <!-- Sticky Header Container -->
+    <div class="sticky-header-container">
+        <!-- Top Bar with Orange Background -->
+        <div class="header-top-orange sticky-top-bar">
+            <div class="container">
+                <div class="row align-items-center py-2">
+                    <div class="col-md-6">
+                        <div class="header-top-info text-white">
+                            <span class="font-small">
+                                <i class="fas fa-clock mr-2"></i>
+                                <span id="current-datetime">
+                                    {{ "now" | date: "%A, %B %d, %Y" }} | {{ "now" | date: "%I:%M %p" }} PHT
+                                </span>
+                            </span>
+                        </div>
+                    </div>
+                    <div class="col-md-6 text-right">
+                        <div class="header-top-social text-white">
+                            <span class="font-small mr-3">Follow us:</span>
+                            <a href="{{ site.facebook }}" target="_blank" title="Facebook" class="text-white mr-2">
+                                <i class="fab fa-facebook-f"></i>
+                            </a>
+                            <a href="{{ site.twitter }}" target="_blank" title="Twitter" class="text-white mr-2">
+                                <i class="fab fa-twitter"></i>
+                            </a>
+                            <a href="{{ site.instagram }}" target="_blank" title="Instagram" class="text-white mr-2">
+                                <i class="fab fa-instagram"></i>
+                            </a>
+                            <a href="{{ site.youtube }}" target="_blank" title="YouTube" class="text-white">
+                                <i class="fab fa-youtube"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Navigation Bar with Logo and Buttons Inline -->
+        <div class="header-nav orange-gradient sticky-nav">
+        <div class="container-fluid px-4">
+            <div class="row align-items-center">
+                <div class="col-12">
+                    <nav class="main-navigation-inline">
+                        <!-- Logo on Left -->
+                        <div class="nav-logo">
+                            <a href="/">
+                                <img class="logo-nav" src="https://d1rl40o93nnuyl.cloudfront.net/posts/567/892e461772016837-17.png" alt="Proud Bisaya Bai">
+                            </a>
+                        </div>
+
+                        <!-- Desktop Navigation Center -->
+                        <ul class="main-menu-inline d-none d-lg-flex">
+                            <li class="nav-item {% if page.url == '/' %}active{% endif %}">
+                                <a href="/" class="nav-link text-white">
+                                    <i class="fas fa-home mr-2"></i>Home
+                                </a>
+                            </li>
+                            <li class="nav-item {% if page.url == '/about/' %}active{% endif %}">
+                                <a href="/about" class="nav-link text-white">About Us</a>
+                            </li>
+                            <li class="nav-item {% if page.url == '/destinations/' %}active{% endif %}">
+                                <a href="/destinations" class="nav-link text-white">Destinations</a>
+                            </li>
+                            <li class="nav-item {% if page.url == '/stories/' %}active{% endif %}">
+                                <a href="/stories" class="nav-link text-white">Stories</a>
+                            </li>
+                            <li class="nav-item {% if page.url == '/food/' %}active{% endif %}">
+                                <a href="/food" class="nav-link text-white">Foods</a>
+                            </li>
+                            <li class="nav-item {% if page.url == '/product/' %}active{% endif %}">
+                                <a href="/product" class="nav-link text-white">Brands & Products</a>
+                            </li>
+                            <li class="nav-item {% if page.url == '/contact/' %}active{% endif %}">
+                                <a href="/contact" class="nav-link text-white">Contact</a>
+                            </li>
+                            <li class="nav-item {% if page.url == '/BasyangPH/' %}active{% endif %}">
+                                <a href="/BasyangPH/" class="nav-link text-white">Basyang Updates</a>
+                            </li>
+                        </ul>
+
+                        <!-- Actions on Right -->
+                        <div class="nav-actions">
+                            <button class="search-btn-nav text-white mr-15">
+                                <i class="fas fa-search"></i>
+                                <span class="d-none d-xl-inline ml-2">Search</span>
+                            </button>
+                            <button class="btn btn-white-outline btn-sm font-weight-600" onclick="window.location.href='/services'">
+                                Be Featured
+                            </button>
+                        </div>
+
+                        <!-- Mobile menu toggle -->
+                        <div class="mobile-menu-toggle d-lg-none">
+                            <button class="mobile-toggle-btn text-white">
+                                <i class="fas fa-bars"></i>
+                            </button>
+                        </div>
+
+                        <!-- Mobile Navigation -->
+                        <div class="mobile-menu d-lg-none">
+                            <ul class="mobile-menu-list">
+                                <li class="{% if page.url == '/' %}active{% endif %}">
+                                    <a href="/" class="mobile-nav-link">
+                                        <i class="fas fa-home mr-2"></i>Home
+                                    </a>
+                                </li>
+                                <li class="{% if page.url == '/about/' %}active{% endif %}">
+                                    <a href="/about" class="mobile-nav-link">About Us</a>
+                                </li>
+                                <li class="{% if page.url == '/destinations/' %}active{% endif %}">
+                                    <a href="/destinations" class="mobile-nav-link">Destinations</a>
+                                </li>
+                                <li class="{% if page.url == '/stories/' %}active{% endif %}">
+                                    <a href="/stories" class="mobile-nav-link">Stories</a>
+                                </li>
+                                <li class="{% if page.url == '/food/' %}active{% endif %}">
+                                    <a href="/food" class="mobile-nav-link">Foods</a>
+                                </li>
+                                <li class="{% if page.url == '/product/' %}active{% endif %}">
+                                    <a href="/product" class="mobile-nav-link">Brands & Products</a>
+                                </li>
+                                <li class="{% if page.url == '/contact/' %}active{% endif %}">
+                                    <a href="/contact" class="mobile-nav-link">Contact</a>
+                                </li>
+                                <li class="{% if page.url == '/BasyangPH/' %}active{% endif %}">
+                                    <a href="/BasyangPH/" class="mobile-nav-link">Basyang Updates</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+</header>
+
+<!-- Search Overlay -->
+<div class="search-overlay-orange">
+    <div class="search-overlay-content">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="search-form-wrapper text-center">
+                        <button class="search-close-btn">
+                            <i class="fas fa-times"></i>
+                        </button>
+                        <h3 class="text-white mb-30">What are you looking for?</h3>
+                        <div class="search-form">
+                            {% include inhouse-search.html %}
+                        </div>
+                        <div class="search-suggestions mt-40">
+                            <h5 class="text-white mb-20">Popular Searches:</h5>
+                            <div class="suggestion-tags">
+                                <a href="#" class="suggestion-tag" data-search="Cebu">Cebu</a>
+                                <a href="#" class="suggestion-tag" data-search="Mandaue City">Mandaue City</a>
+                                <a href="#" class="suggestion-tag" data-search="Lapu Lapu City">Lapu Lapu City</a>
+                                <a href="#" class="suggestion-tag" data-search="Liloan">Liloan</a>
+                                <a href="#" class="suggestion-tag" data-search="Bantayan">Bantayan</a>
+                                <a href="#" class="suggestion-tag" data-search="Oslob">Oslob</a>
+                                <a href="#" class="suggestion-tag" data-search="Moalboal">Moalboal</a>
+                                <a href="#" class="suggestion-tag" data-search="Food">Food</a>
+                                <a href="#" class="suggestion-tag" data-search="Destinations">Destinations</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

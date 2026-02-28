@@ -1,25 +1,26 @@
 
-<div class="sidebar-widget widget-latest-posts mb-50 wow fadeInUp animated">
+<div class="widget-latest-posts mb-50 wow fadeInUp animated">
     <div class="widget-header-1 position-relative mb-30">
         <h5 class="mt-5 mb-30">Most popular</h5>
     </div>
     <div class="post-block-list post-module-1">
         <ul class="list-post">
-            {% for post in site.posts limit: 8%}
+            {% for post in site.posts limit: 4 %}
             {% if post.url != page.url %}
 
             <li class="mb-30 wow fadeInUp animated">
                 <div class="d-flex bg-white has-border p-25 hover-up transition-normal border-radius-5">
+                    <div class="d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">
+                        <a class="color-white" href="{{ post.url }}">
+                            <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" style="object-fit: cover; width: 120px;">
+                        </a>
+                    </div>
                     <div class="post-content media-body">
-                        <h6 class="post-title mb-15 text-limit-2-row font-medium"><a href="{{ post.url }}">{{ post.title }}</a></h6>
+                        <h6 class="mb-10 text-limit-2-row font-small"><a href="{{ post.url }}">{{ post.title }}</a></h6>
+                        <p class="post-excerpt mb-10 font-x-small text-muted text-limit-2-row">{{ post.description | default: post.excerpt | strip_html | truncatewords: 15 }}</p>
                         <div class="entry-meta meta-1 float-left font-x-small">
                             <span class="post-on text-uppercase">{{ post.published_date | default: post.date | date_to_string }}</span>
                         </div>
-                    </div>
-                    <div class="post-thumb post-thumb-80 d-flex ml-15 border-radius-5 img-hover-scale overflow-hidden">
-                        <a class="color-white" href="{{ post.url }}">
-                            <img src="{{ post.img_500x500 }}" alt="">
-                        </a>
                     </div>
                 </div>
             </li>

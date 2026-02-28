@@ -69,6 +69,18 @@ layout: default
                                     <!--End Subcrible-->
                                     <!--<p></p>-->
                                 </div>
+                                
+                                <!-- Advertisement Banner at bottom of article -->
+                                <div class="article-bottom-ad mb-30">
+                                    <div class="ad-banner text-center">
+                                        <div class="ad-placeholder bg-light border-radius-10 py-30">
+                                            <p class="text-muted mb-0">Advertisement Banner - 1140x200</p>
+                                            <!-- Replace with actual ad code -->
+                                            {% include ads/home-banner.html %}
+                                        </div>
+                                    </div>
+                                </div>
+                                
                                 {% include page_tags.html %}
                                 <div class="single-social-share clearfix wow fadeIn animated">
                                     <ul class="header-social-network d-inline-block list-inline float-md-right mt-md-0 mt-4">
@@ -83,6 +95,175 @@ layout: default
                                 <!--related posts-->
                                 
                                 {% include related_posts.html %}
+                                
+                                <!-- Continue Reading -->
+                                <div class="continue-reading-section mt-50 mb-30 bg-light-grey py-50 px-30 border-radius-15">
+                                    <div id="continue-reading-trigger" data-current-url="{{ page.url }}" data-categories="{{ page.categories | join: ',' }}"></div>
+                                    <div id="continue-reading-content"></div>
+                                </div>
+                                
+                                <!-- Continue Reading JavaScript -->
+                                <script>
+                                document.addEventListener('DOMContentLoaded', async function() {
+                                    let allPosts = [];
+                                    const trigger = document.getElementById('continue-reading-trigger');
+                                    const content = document.getElementById('continue-reading-content');
+                                    
+                                    // Get page data
+                                    const currentUrl = trigger.dataset.currentUrl;
+                                    const categories = trigger.dataset.categories.split(',').filter(cat => cat.trim());
+                                    
+                                    // Load posts data and render content immediately on page load
+                                    try {
+                                        allPosts = await loadPostsData();
+                                        const relatedPostUrls = getRelatedPostUrls();
+                                        const nextPosts = getNextPosts(relatedPostUrls);
+                                        renderPosts(nextPosts);
+                                    } catch (error) {
+                                        console.error('Error loading posts data on page load:', error);
+                                    }
+                                    
+                                    // Get URLs of posts shown in related posts section
+                                    function getRelatedPostUrls() {
+                                        const relatedUrls = [];
+                                        const relatedLinks = document.querySelectorAll('.related-posts a[href*="/"]');
+                                        relatedLinks.forEach(link => {
+                                            const href = link.getAttribute('href');
+                                            if (href && href.startsWith('/') && !href.startsWith('/tags/') && !relatedUrls.includes(href)) {
+                                                relatedUrls.push(href);
+                                            }
+                                        });
+                                        return relatedUrls;
+                                    }
+                                    
+                                    // Load posts data from search-data.json
+                                    async function loadPostsData() {
+                                        try {
+                                            const response = await fetch('/search-data.json');
+                                            const posts = await response.json();
+                                            return posts.map(post => ({
+                                                url: post.url,
+                                                title: post.title,
+                                                categories: post.categories || [],
+                                                tags: post.tags || [],
+                                                author: post.author,
+                                                date: new Date(post.date).toLocaleDateString('en-US', { 
+                                                    year: 'numeric', month: 'short', day: 'numeric' 
+                                                }),
+                                                readTime: "5 min read",
+                                                image: post.img_big_1000x600 || post.image,
+                                                excerpt: post.content || post.description
+                                            }));
+                                        } catch (error) {
+                                            console.error('Error loading posts data:', error);
+                                            return [];
+                                        }
+                                    }
+                                    
+                                    // Find next posts (excluding related posts)
+                                    function getNextPosts(excludeUrls = []) {
+                                        const currentIndex = allPosts.findIndex(post => post.url === currentUrl);
+                                        if (currentIndex === -1) return [];
+                                        
+                                        const nextPosts = [];
+                                        for (let i = currentIndex + 1; i < allPosts.length && nextPosts.length < 5; i++) {
+                                            const post = allPosts[i];
+                                            // Skip if post is already in related posts or is current post
+                                            if (excludeUrls.includes(post.url) || post.url === currentUrl) {
+                                                continue;
+                                            }
+                                            // Check if post shares any categories
+                                            if (post.categories && post.categories.some(cat => categories.includes(cat))) {
+                                                nextPosts.push(post);
+                                            }
+                                        }
+                                        
+                                        // If we don't have enough posts from same categories, get any recent posts
+                                        if (nextPosts.length < 2) {
+                                            for (let i = 0; i < allPosts.length && nextPosts.length < 2; i++) {
+                                                const post = allPosts[i];
+                                                if (!excludeUrls.includes(post.url) && post.url !== currentUrl && 
+                                                    !nextPosts.find(p => p.url === post.url)) {
+                                                    nextPosts.push(post);
+                                                }
+                                            }
+                                        }
+                                        
+                                        return nextPosts;
+                                    }
+                                    
+                                    // Render posts
+                                    function renderPosts(posts) {
+                                        if (posts.length === 0) return;
+                                        
+                                        let html = `
+                                            <div class="section-header text-center mb-40">
+                                                <h3 class="section-title font-weight-900 mb-20">
+                                                    <span class="orange-bar"></span>
+                                                    More Posts You May Like
+                                                </h3>
+                                            </div>
+                                        `;
+                                        
+                                        posts.forEach(post => {
+                                            const tags = post.tags ? post.tags.map(tag => 
+                                                `<a href="/tags/#${encodeURIComponent(tag)}" class="text-orange text-decoration-none mr-2">
+                                                    <span class="badge badge-light-orange">#${tag}</span>
+                                                </a>`
+                                            ).join('') : '';
+                                            
+                                            html += `
+                                                <div class="single-content2 mb-50 bg-white p-20 border-radius-15 shadow-sm">
+                                                    <div class="entry-header entry-header-style-1 mb-50">
+                                                        <h1 class="entry-title mb-30 font-weight-900">
+                                                            <a href="${post.url}" class="text-dark">${post.title}</a>
+                                                        </h1>
+                                                        <div class="row">
+                                                            <div class="col-md-8">
+                                                                <div class="entry-meta align-items-center meta-2 font-small color-muted">
+                                                                    <p class="mb-5">
+                                                                        <a class="author-avatar" href="#">
+                                                                            <img class="img-circle" src="{{ site.cloudfront }}/images/logo/pbb-logo-202601.jpg" alt="">
+                                                                        </a>
+                                                                        By <a href="author.html"><span class="author-name font-weight-bold">${post.author}</span></a>
+                                                                    </p>
+                                                                    <span class="mr-10">${post.date}</span>
+                                                                    <span class="has-dot">${post.readTime}</span>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-4 text-right d-none d-md-inline">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    
+                                                    ${post.image ? `
+                                                    <figure class="image mb-15 m-auto text-center border-radius-10">
+                                                        <img class="border-radius-10" src="${post.image}" alt="${post.title}" />
+                                                    </figure>
+                                                    ` : ''}
+                                                    
+                                                    <article class="entry-wraper mb-50">
+                                                        <div class="entry-main-content dropcap wow fadeIn animated">
+                                                            ${post.content || post.excerpt}
+                                                            
+                                                            ${tags ? `<div class="post-tags mt-30 mb-20">${tags}</div>` : ''}
+                                                            
+                                                            <div class="text-center mt-40 mb-30">
+                                                                <a href="${post.url}" class="btn btn-outline-orange px-3 py-2 font-weight-bold border-radius-10" style="transition: all 0.3s ease;" onmouseover="this.style.backgroundColor='#ff6600'; this.style.borderColor='#ff6600'; this.style.color='white';" onmouseout="this.style.backgroundColor='transparent'; this.style.borderColor='#ff6600'; this.style.color='#ff6600';">
+                                                                    <i class="fas fa-arrow-right mr-2"></i>Read Full Article
+                                                                </a>
+                                                            </div>
+                                                        </div>
+                                                    </article>
+                                                </div>
+                                            `;
+                                        });
+                                        
+                                        content.innerHTML = html;
+                                    }
+                                });
+                                </script>
+                                
                                 {% comment %}
                                 <!--More posts-->
                                 {% include ads/popup.html %}
@@ -95,6 +276,26 @@ layout: default
                         <div class="widget-area">
 
                             {% include side-bar-social.html %}
+                            
+                            <!-- Google AdSense Sidebar Ad -->
+                            <div class="sidebar-widget mb-50 wow fadeInUp animated">
+                                <div class="ad-widget text-center">
+                                    <div class="ad-placeholder bg-light border-radius-10 p-30">
+                                        <p class="text-muted mb-15">Advertisement - 300x250</p>
+                                        <!-- Google AdSense Sidebar Ad -->
+                                        <ins class="adsbygoogle"
+                                             style="display:block"
+                                             data-ad-client="ca-pub-4700597328512944"
+                                             data-ad-slot="1234567890"
+                                             data-ad-format="rectangle"
+                                             data-full-width-responsive="true"></ins>
+                                        <script>
+                                             (adsbygoogle = window.adsbygoogle || []).push({});
+                                        </script>
+                                    </div>
+                                </div>
+                            </div>
+                            
                             {% include side_mostpopular.html %}
                             
                         </div>

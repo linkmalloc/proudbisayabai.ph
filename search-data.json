@@ -1,0 +1,21 @@
+---
+layout: null
+---
+[
+  {% for post in site.posts %}
+    {
+      "title": {{ post.title | jsonify }},
+      "url": {{ post.url | jsonify }},
+      "date": {{ post.date | date: "%Y-%m-%d" | jsonify }},
+      "category": {{ post.category | default: "Article" | jsonify }},
+      "categories": {{ post.categories | jsonify }},
+      "content": {{ post.content | strip_html | strip_newlines | truncatewords: 50 | jsonify }},
+      "tags": {{ post.tags | jsonify }},
+      "author": {{ post.author | default: "Admin" | jsonify }},
+      "description": {{ post.description | strip_html | strip_newlines | truncatewords: 25 | jsonify }},
+      "image": {{ post.img_medium_400x300 | default: post.img_big_1000x600 | default: "" | jsonify }},
+      "img_medium_400x300": {{ post.img_medium_400x300 | default: "" | jsonify }},
+      "img_big_1000x600": {{ post.img_big_1000x600 | default: "" | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
