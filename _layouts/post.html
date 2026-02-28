@@ -74,8 +74,6 @@ layout: default
                                 <div class="article-bottom-ad mb-30">
                                     <div class="ad-banner text-center">
                                         <div class="ad-placeholder bg-light border-radius-10 py-30">
-                                            <p class="text-muted mb-0">Advertisement Banner - 1140x200</p>
-                                            <!-- Replace with actual ad code -->
                                             {% include ads/home-banner.html %}
                                         </div>
                                     </div>
@@ -93,8 +91,19 @@ layout: default
                                 </div>
                                 
                                 <!--related posts-->
-                                
-                                {% include related_posts.html %}
+                                <div class="related-posts">
+                                    <div class="post-module-3">
+                                        <div class="widget-header-1 position-relative mb-30 mt-30">
+                                            <h5 class="mt-5 mb-30">
+                                                <span class="orange-bar"></span>
+                                                Related posts2
+                                            </h5>
+                                        </div>
+                                        <div class="loop-list loop-list-style-1">
+                                            <!-- Related posts will be populated by JavaScript -->
+                                        </div>
+                                    </div>
+                                </div>
                                 
                                 <!-- Continue Reading -->
                                 <div class="continue-reading-section mt-50 mb-30 bg-light-grey py-50 px-30 border-radius-15">
@@ -116,24 +125,21 @@ layout: default
                                     // Load posts data and render content immediately on page load
                                     try {
                                         allPosts = await loadPostsData();
-                                        const relatedPostUrls = getRelatedPostUrls();
-                                        const nextPosts = getNextPosts(relatedPostUrls);
-                                        renderPosts(nextPosts);
+                                        const allNextPosts = getNext8Posts();
+                                        
+                                        // Replace related posts with first 3
+                                        const relatedSection = document.querySelector('.related-posts');
+                                        if (relatedSection && allNextPosts.length >= 3) {
+                                            replaceRelatedPosts(allNextPosts.slice(0, 3));
+                                        }
+                                        
+                                        // Show next 5 in More Posts section
+                                        const morePosts = allNextPosts.slice(3, 8);
+                                        if (morePosts.length > 0) {
+                                            renderPosts(morePosts);
+                                        }
                                     } catch (error) {
                                         console.error('Error loading posts data on page load:', error);
-                                    }
-                                    
-                                    // Get URLs of posts shown in related posts section
-                                    function getRelatedPostUrls() {
-                                        const relatedUrls = [];
-                                        const relatedLinks = document.querySelectorAll('.related-posts a[href*="/"]');
-                                        relatedLinks.forEach(link => {
-                                            const href = link.getAttribute('href');
-                                            if (href && href.startsWith('/') && !href.startsWith('/tags/') && !relatedUrls.includes(href)) {
-                                                relatedUrls.push(href);
-                                            }
-                                        });
-                                        return relatedUrls;
                                     }
                                     
                                     // Load posts data from search-data.json
@@ -160,36 +166,86 @@ layout: default
                                         }
                                     }
                                     
-                                    // Find next posts (excluding related posts)
-                                    function getNextPosts(excludeUrls = []) {
+                                    // Get next 8 posts for related posts replacement and more posts section
+                                    function getNext8Posts() {
                                         const currentIndex = allPosts.findIndex(post => post.url === currentUrl);
                                         if (currentIndex === -1) return [];
                                         
                                         const nextPosts = [];
-                                        for (let i = currentIndex + 1; i < allPosts.length && nextPosts.length < 5; i++) {
+                                        
+                                        // First pass: get posts from same categories
+                                        for (let i = currentIndex + 1; i < allPosts.length && nextPosts.length < 8; i++) {
                                             const post = allPosts[i];
-                                            // Skip if post is already in related posts or is current post
-                                            if (excludeUrls.includes(post.url) || post.url === currentUrl) {
-                                                continue;
-                                            }
+                                            if (post.url === currentUrl) continue;
+                                            
                                             // Check if post shares any categories
                                             if (post.categories && post.categories.some(cat => categories.includes(cat))) {
                                                 nextPosts.push(post);
                                             }
                                         }
                                         
-                                        // If we don't have enough posts from same categories, get any recent posts
-                                        if (nextPosts.length < 2) {
-                                            for (let i = 0; i < allPosts.length && nextPosts.length < 2; i++) {
+                                        // If we don't have 8 posts from same categories, get any recent posts
+                                        if (nextPosts.length < 8) {
+                                            for (let i = 0; i < allPosts.length && nextPosts.length < 8; i++) {
                                                 const post = allPosts[i];
-                                                if (!excludeUrls.includes(post.url) && post.url !== currentUrl && 
-                                                    !nextPosts.find(p => p.url === post.url)) {
+                                                if (post.url !== currentUrl && !nextPosts.find(p => p.url === post.url)) {
                                                     nextPosts.push(post);
                                                 }
                                             }
                                         }
                                         
                                         return nextPosts;
+                                    }
+                                    
+                                    // Replace related posts section with JavaScript-generated posts
+                                    function replaceRelatedPosts(posts) {
+                                        if (posts.length === 0) return;
+                                        
+                                        const relatedSection = document.querySelector('.related-posts .loop-list');
+                                        if (!relatedSection) return;
+                                        
+                                        let html = '';
+                                        posts.forEach(post => {
+                                            const tags = post.tags ? post.tags.map(tag => 
+                                                `<a href="/tags/#${encodeURIComponent(tag)}" class="text-orange text-decoration-none">
+                                                    <span class="badge badge-light-orange mr-2">#${tag}</span>
+                                                </a>`
+                                            ).join('') : '';
+                                            
+                                            html += `
+                                                <article class="post-card border-radius-10 hover-up transition-normal wow fadeInUp animated mb-5">
+                                                    <div class="row mb-30">
+                                                        <div class="col-md-4">
+                                                            <div class="post-thumb position-relative border-radius-10 overflow-hidden">
+                                                                <a href="${post.url}">
+                                                                    <img class="border-radius-10" src="${post.image}" alt="${post.title}" />
+                                                                </a>
+                                                                <div class="post-category-badge bg-orange text-white">
+                                                                    ${post.categories[0] || 'Article'}
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-8 align-self-center">
+                                                            <div class="post-content">
+                                                                <div class="entry-meta meta-0 font-small mb-10">
+                                                                    ${tags}
+                                                                </div>
+                                                                <h5 class="post-title font-weight-900 mb-10">
+                                                                    <a href="${post.url}" class="text-dark">${post.title}</a>
+                                                                </h5>
+                                                                <p class="post-excerpt color-grey mb-15">${post.excerpt.substring(0, 50)}${post.excerpt.length > 50 ? '...' : ''}</p>
+                                                                <div class="entry-meta meta-1 font-x-small color-muted">
+                                                                    <span class="post-by">${post.author}</span>
+                                                                    <span class="post-on has-dot">${post.date}</span>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </article>
+                                            `;
+                                        });
+                                        
+                                        relatedSection.innerHTML = html;
                                     }
                                     
                                     // Render posts
