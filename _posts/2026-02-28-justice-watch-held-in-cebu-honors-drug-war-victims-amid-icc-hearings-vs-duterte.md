@@ -33,25 +33,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Families of drug war victims, together with support groups and human rights advocates, gathered in Cebu City on Friday night, February 27, for a solemn justice watch event honoring those killed during the administration’s anti illegal drugs campaign under former president Rodrigo Duterte.
 
 Participants lit candles and offered flowers in remembrance of their loved ones, calling for accountability and justice. The ceremony served both as a memorial and a collective expression of solidarity among families who continue to seek redress for the deaths linked to the controversial drug war.
@@ -60,4 +41,4 @@ The gathering coincided with the final day of hearings at the International Crim
 
 Organizers emphasized that the event was peaceful and centered on remembrance, justice, and the protection of human rights. They reiterated their call for due process and accountability, underscoring the continuing impact of the drug war on affected families and communities.
 
-© Jacq Hernandez
+Photo from Jacq Hernandez
