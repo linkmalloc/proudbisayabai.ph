@@ -5,7 +5,7 @@ layout: default
 <main class="position-relative">
     <!-- Full Width Ad Banner -->
     <section class="ad-banner-section py-20">
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="ad-banner text-center">
@@ -55,7 +55,9 @@ layout: default
                         </h5>
                     </div>
                     <div class="trending-list">
-                        {% for post in site.posts offset: 1 limit: 3 %}
+                        {% assign story_count = 0 %}
+                        {% for post in site.posts offset: 1 limit: 2 %}
+                            {% assign story_count = story_count | plus: 1 %}
                             <article class="trending-item d-flex mb-25 wow fadeInUp animated">
                                 <div class="trending-thumb mr-15">
                                     <a href="{{ post.url }}">
@@ -71,6 +73,17 @@ layout: default
                                     </div>
                                 </div>
                             </article>
+                            
+                            {% if story_count == 1 %}
+                                <!-- In-Feed Ad between stories -->
+                                <div>
+                                    <div class="mr-15 d-flex align-items-center justify-content-center bg-light border-radius-5">
+                                        <div class="ad-widget text-center w-100">
+                                            {% include ads/in-feed.html %}
+                                        </div>
+                                    </div>
+                                </div>
+                            {% endif %}
                         {% endfor %}
                     </div>
                 </div>
@@ -188,8 +201,8 @@ layout: default
                         <!-- Ad Widget -->
                         <div class="">
                             <div class="ad-widget">
-                                <div class="ad-placeholder bg-light border-radius-10 p-30 text-center">
-                                    {% include ads/rectangle.html %}
+                                <div class="ad-placeholder-vertical bg-light border-radius-10 p-30 text-center">
+                                    {% include ads/vertical.html %}
                                 </div>
                             </div>
                         </div>
@@ -249,7 +262,7 @@ layout: default
 
     <!-- Advertisement Banner Section -->
     <section class="ad-banner-section bg-grey-light py-20">
-        <div class="container-fluid">
+        <div class="container">
             <div class="row">
                 <div class="col-12">
                     <div class="ad-banner text-center">
@@ -317,8 +330,8 @@ layout: default
                         <!-- Side Advertisement Widget -->
                         <div class="mb-40">
                             <div class="ad-widget">
-                                <div class="ad-placeholder bg-light border-radius-10 p-30 text-center">
-                                    {% include ads/rectangle.html %}
+                                <div class="ad-placeholder-vertical bg-light border-radius-10 p-30 text-center">
+                                    {% include ads/vertical.html %}
                                 </div>
                             </div>
                         </div>

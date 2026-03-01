@@ -505,3 +505,37 @@ footer .sidebar-widget:hover {
         transform: translate3d(0, 0, 0);
     }
 }
+
+/* Vertical Ad Placeholder Styles */
+.ad-placeholder-vertical {
+    min-height: 600px;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+/* Mobile responsive - square size */
+@media (max-width: 768px) {
+    .ad-placeholder-vertical {
+        min-height: 300px;
+        max-height: 300px;
+        width: 100%;
+        aspect-ratio: 1;
+    }
+}
+
+/* Ad Banner Section Height Limit */
+.ad-banner-section {
+    max-height: 200px;
+    overflow: hidden;
+}
+
+.ad-banner-section .ad-placeholder {
+    max-height: 200px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

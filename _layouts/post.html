@@ -105,10 +105,28 @@ layout: default
                                     </div>
                                 </div>
                                 
+                                <!-- Banner Ad After More Posts -->
+                                <div class="more-posts-ad mb-50">
+                                    <div class="ad-banner text-center">
+                                        <div class="ad-placeholder bg-light border-radius-10 py-30">
+                                            {% include ads/home-banner.html %}
+                                        </div>
+                                    </div>
+                                </div>
+                                
                                 <!-- Continue Reading -->
                                 <div class="continue-reading-section mt-50 mb-30 bg-light-grey py-50 px-30 border-radius-15">
                                     <div id="continue-reading-trigger" data-current-url="{{ page.url }}" data-categories="{{ page.categories | join: ',' }}"></div>
                                     <div id="continue-reading-content"></div>
+                                </div>
+                                
+                                <!-- Banner Ad After More Posts -->
+                                <div class="more-posts-ad mb-50">
+                                    <div class="ad-banner text-center">
+                                        <div class="ad-placeholder bg-light border-radius-10 py-30">
+                                            {% include ads/home-banner.html %}
+                                        </div>
+                                    </div>
                                 </div>
                                 
                                 <!-- Continue Reading JavaScript -->
@@ -337,7 +355,7 @@ layout: default
                             <div class="sidebar-widget mb-50 wow fadeInUp animated">
                                 <div class="ad-widget text-center">
                                     <div class="ad-placeholder bg-light border-radius-10 p-30">
-                                        {% include ads/rectangle.html %}
+                                        {% include ads/vertical.html %}
                                     </div>
                                 </div>
                             </div>
