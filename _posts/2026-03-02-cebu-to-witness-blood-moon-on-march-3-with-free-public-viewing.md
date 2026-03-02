@@ -29,21 +29,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) will hold a free public viewing of the March 3 total lunar eclipse at its Mactan station, weather permitting.
 
 Pagasa Visayas PRSD announced the skywatching activity in a March 2 advisory, inviting residents to observe the celestial event through telescopes that will be set up at the station.
@@ -67,3 +52,5 @@ The March 3 eclipse will be visible across parts of East Asia and Australia, wit
 Unlike solar eclipses, lunar eclipses are safe to observe with the naked eye. However, telescopes and binoculars can enhance the view, allowing observers to see surface details and the gradual movement of Earth’s shadow across the Moon.
 
 If skies remain clear, residents in Cebu can expect to witness one of the year’s most striking astronomical events — a fully eclipsed Moon glowing red above the evening horizon. (LLP)
+
+> Photo from Lunar eclipse/iStock
