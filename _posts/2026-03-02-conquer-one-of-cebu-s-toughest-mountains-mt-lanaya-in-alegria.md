@@ -3,31 +3,33 @@ author: PBB ADMIN
 author2: ''
 layout: post
 title: 'Conquer One of Cebu’s Toughest Mountains: Mt. Lanaya in Alegria'
-description: 'For adventure seekers and hiking enthusiasts, Mt. Lanaya in Brgy. Legaspi,
-  Alegria, Cebu offers one of the most challenging climbs in the province. Towering
-  at around 700 meters above sea level, this mountain is known for its steep slopes,
-  narrow ridges, and almost 90-degree ascents, making it a must-try for thrill-seekers
-  looking to level up their hiking experience. '
+description: >-
+  For adventure seekers and hiking enthusiasts, Mt. Lanaya in Brgy. Legaspi,
+  Alegria, Cebu offers one of the most challenging climbs in the province.
+  Towering at around 700 meters above sea level, this mountain is known for its
+  steep slopes, narrow ridges, and almost 90-degree ascents, making it a
+  must-try for thrill-seekers looking to level up their hiking experience. 
 categories:
-- destination
+  - destination
 tags:
-- Alegria
-- MtLanaya
+  - Alegria
+  - MtLanaya
 views: '10'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1237/d81f631772461265-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1237/d81f631772461265-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1237/d81f631772461265-2.jpg
-img_500_1:
-img_500_2:
-img_500_3:
-img_500_4:
-img_500_5:
+img_500_1: null
+img_500_2: null
+img_500_3: null
+img_500_4: null
+img_500_5: null
 photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
 
 
 
