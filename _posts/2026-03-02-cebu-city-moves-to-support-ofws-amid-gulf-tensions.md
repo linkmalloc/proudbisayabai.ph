@@ -32,24 +32,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Cebu City Mayor Nestor Archival on Monday assured families of local residents working in the Middle East that the city government is coordinating with national agencies to monitor their safety and prepare assistance in case the conflict escalates.
 
 The city has formally requested data and guidance from the Department of Foreign Affairs (DFA) and the Overseas Workers Welfare Administration (OWWA) to ensure that Cebuano overseas Filipino workers (OFWs) in affected Gulf states are accounted for and supported.
@@ -79,3 +61,5 @@ Archival said Cebu City is closely monitoring developments and awaiting official
 He emphasized that no Cebu City residents have been reported harmed as of Monday, but the city is prepared to provide support if repatriation or emergency assistance becomes necessary.
 
 “So, first of all, I would like to say that we have a lot of work to do to ensure the safety of OFW workers,” he said, reaffirming the city’s commitment to protecting its residents abroad. (LLP)
+
+Cebu City Hall/Wikipedia
