@@ -10,7 +10,7 @@ description: >-
   steep slopes, narrow ridges, and almost 90-degree ascents, making it a
   must-try for thrill-seekers looking to level up their hiking experience. 
 categories:
-  - story
+  - destination
 tags:
   - Alegria
   - MtLanaya
@@ -29,6 +29,8 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
 
 
 For adventure seekers and hiking enthusiasts, Mt. Lanaya in Brgy. Legaspi, Alegria, Cebu offers one of the most challenging climbs in the province. Towering at around 700 meters above sea level, this mountain is known for its steep slopes, narrow ridges, and almost 90-degree ascents, making it a must-try for thrill-seekers looking to level up their hiking experience.&#x20;
