@@ -74,7 +74,7 @@ layout: default
                                 </div>
                             </article>
                             
-                            {% if story_count == 1 %}
+                            {% if story_count == 2 %}
                                 <!-- In-Feed Ad between stories -->
                                 <div>
                                     <div class="mr-15 d-flex align-items-center justify-content-center bg-light border-radius-5">
@@ -437,6 +437,21 @@ layout: default
         </div>
     </section>
 
+    <!-- Full Width Ad Banner -->
+    <section class="ad-banner-section py-20">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="ad-banner text-center">
+                        <div class="ad-placeholder bg-light border-radius-10 py-30">
+                            {% include ads/home-banner.html %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    
     <!-- Partners Section - Full Width -->
     <section class="partners-section bg-grey pt-50 pb-50">
         <div class="container">
