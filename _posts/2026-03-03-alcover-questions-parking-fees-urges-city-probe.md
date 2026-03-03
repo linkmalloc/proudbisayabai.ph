@@ -29,21 +29,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Cebu City councilor Pastor Alcover Jr. has called for a review of parking fees in the city, citing complaints that some privately owned off-street parking facilities may be charging rates higher than allowed under city law.
 
 In a privilege speech on Tuesday, Alcover raised concerns over what he described as non-uniform and excessive fees, noting that the issue affects residents visiting malls, hospitals, churches, and business centers.
@@ -77,3 +62,5 @@ The City Council will determine the extent of possible non-compliance with Ordin
 Representatives of privately owned off-street parking operators will also be invited to clarify their rate structures. The council may consider legislative amendments or stronger enforcement provisions if necessary.
 
 “This representation does not seek to unduly burden legitimate businesses,” Alcover said. “Rather, we seek to ensure fairness, transparency, and uniform implementation of duly enacted city laws.” (LLP)
+
+Photo from Sangguniang Panglungsod Cebu City - Secretariat
