@@ -28,22 +28,6 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Performers from Lapu-Lapu City brought Filipino culture to the international stage after participating in the Chingay Parade 2026 in Singapore, one of Asia’s largest and most vibrant Chinese New Year celebrations.
 
 
