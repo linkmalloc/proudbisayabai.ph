@@ -4,6 +4,9 @@ title: Cebu Top Destinations
 isTop: true
 ---
 <main>
+    <div class="container">
+        {% include ads/home-banner.html %}
+    </div>
     <div class="archive-header pt-50 pb-30">
         <div class="container">
             <div class="section-header text-center">
@@ -92,6 +95,14 @@ isTop: true
                         </div>
                     </article>
                 </div>
+
+                {% assign post_index = forloop.index %}
+                {% assign ad_position = post_index | modulo: 21 %}
+                {% if ad_position == 0 %}
+                <div class="col-lg-12 mb-30">
+                    {% include ads/in-feed.html %}
+                </div>
+                {% endif %}
 
                 {% endfor %}
             </div>
