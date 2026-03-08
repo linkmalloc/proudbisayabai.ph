@@ -3,7 +3,20 @@ layout: default
 ---
     {% include post.data.html %}
     <!-- Start Main content -->
-    <main class="bg-grey pt-50 pb-50">
+    <main class="bg-grey pt-20 pb-20 mb-10">
+        <section class="ad-banner-section py-10">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="ad-banner text-center">
+                            <div class="ad-placeholder bg-light border-radius-10 py-30">
+                                {% include ads/home-banner.html %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
         <div class="pb-50">
             <div class="container">
                 <div class="row">
