@@ -1,5 +1,5 @@
 ---
-author: Jacq Hernandez PBB Photojournalist
+author: Jacq Hernandez
 author2: ''
 layout: post
 title: >-
@@ -28,6 +28,8 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
 
 
 
