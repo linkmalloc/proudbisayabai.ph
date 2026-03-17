@@ -28,26 +28,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Pedestrians now have a safer way to cross the busy South Road Properties (SRP) highway after the elevated footbridge connecting Il Corso partially opened to the public this week.
 
 The bridge, developed within the City di Mare (CDM) township, began limited operations as part of road safety initiatives in the fast-growing SRP district.&#x20;
@@ -78,3 +58,5 @@ Visitors can now move more conveniently between Il Corso and nearby developments
 The Il Corso footbridge is the latest pedestrian infrastructure in the SRP, and Sala said additional developments may follow as the City di Mare project continues to expand.&#x20;
 
 Once fully completed in April, the bridge will provide a permanent and safer crossing for pedestrians in one of Cebu City’s busiest coastal districts. (LLP)
+
+Photo by Cebu City News
