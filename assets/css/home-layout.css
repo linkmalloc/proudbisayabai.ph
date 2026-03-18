@@ -430,9 +430,7 @@ footer .sidebar-widget:hover {
     border: 2px dashed var(--border-light);
     color: var(--text-grey);
     min-height: 200px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: block;
 }
 
 .ad-banner .ad-placeholder {
@@ -526,16 +524,11 @@ footer .sidebar-widget:hover {
     }
 }
 
-/* Ad Banner Section Height Limit */
+/* Ad Banner Section */
 .ad-banner-section {
-    max-height: 200px;
-    overflow: hidden;
+    overflow: visible;
 }
 
 .ad-banner-section .ad-placeholder {
-    max-height: 200px;
-    overflow: hidden;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    display: block;
 }
