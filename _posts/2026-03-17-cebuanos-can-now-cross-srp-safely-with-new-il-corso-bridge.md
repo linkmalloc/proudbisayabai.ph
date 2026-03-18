@@ -2,7 +2,7 @@
 author: PBB ADMIN
 author2: ''
 layout: post
-title: Cebuanos Can Now Cross SRP Safely with New Il Corso Bridge
+title: Cebuanos Can Now Cross SRP Safely with New City di Mare Pedestrian Bridgeway
 description: >-
   Pedestrians now have a safer way to cross the busy South Road Properties (SRP)
   highway after the elevated footbridge connecting Il Corso partially opened to
@@ -55,7 +55,7 @@ Archival added that the elevated walkway will reduce accidents by providing a de
 
 Visitors can now move more conveniently between Il Corso and nearby developments without crossing the busy highway at street level.
 
-The Il Corso footbridge is the latest pedestrian infrastructure in the SRP, and Sala said additional developments may follow as the City di Mare project continues to expand.&#x20;
+The City di Mare Pedestrian Bridgeway is the latest pedestrian infrastructure in the SRP, and Sala said additional developments may follow as the City di Mare project continues to expand.&#x20;
 
 Once fully completed in April, the bridge will provide a permanent and safer crossing for pedestrians in one of Cebu City’s busiest coastal districts. (LLP)
 
