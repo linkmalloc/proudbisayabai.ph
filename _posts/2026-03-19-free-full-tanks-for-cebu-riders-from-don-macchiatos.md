@@ -48,7 +48,7 @@ Ariel Alegado, COO of Don Macchiatos Philippines, said that this program is to g
 
 He said that they did not expect anything in return but only help in these trying times.
 
-Alegado said that they might have a the same program in the soon while hoping that situation in Middle East will improve to ease down fuel prices.
+Alegado said that they might have a the same program soon while hoping that situation in Middle East will improve to ease down fuel prices.
 
 As the giveaway continued throughout the day, more riders arrived, highlighting the growing strain of fuel costs on everyday commuters.&#x20;
 
