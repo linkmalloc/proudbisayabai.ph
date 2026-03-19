@@ -27,22 +27,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 For many, bedtime is a rush to check social media notifications. But some Catholics have a quieter tradition: keeping a rosary under their pillow. It may seem small, but this simple practice carries meaning.
 
 A Gentle Way to End the Day
@@ -62,3 +46,5 @@ A Symbol of Protection and Trust
 Throughout history, the rosary has been seen as a spiritual shield; a way to resist temptation and darkness. Keeping it close while you sleep is a simple yet powerful sign: your life, your home, and your rest are entrusted to God’s care.
 
 Even though a rosary under the pillow won’t solve every problem, it can cultivate a gentle habit of faith. In the quiet of night, it’s a reminder that God is near, and sometimes, the smallest gestures leave the deepest impact.
+
+Photo from: The Happy Catholic Woman
