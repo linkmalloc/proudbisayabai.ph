@@ -28,15 +28,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
 As fuel prices continue to climb, hundreds of motorcycle riders found relief on Thursday, March 19, after Don Macchiatos Philippines provided free full-tank refills during a fuel giveaway at Shell South Road Properties.
 
 The activity, which started at 1 p.m. along the Cebu South Coastal Road in Poblacion, Talisay City, drew long lines of riders, including delivery workers and security personnel, all seeking to ease the impact of rising fuel costs.&#x20;
@@ -62,3 +53,5 @@ Alegado said that they might have a the same program in the soon while hoping th
 As the giveaway continued throughout the day, more riders arrived, highlighting the growing strain of fuel costs on everyday commuters.&#x20;
 
 For many, a single full tank already means several days of saved expenses—an immediate and practical form of relief amid rising prices.
+
+Photo from Jacq Hernandez
