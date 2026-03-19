@@ -38,7 +38,7 @@ Aside from the fuel assistance, participants also received free drinks from Don 
 
 For beneficiaries like Archie Padaya, a security guard, the support translated into immediate savings.&#x20;
 
-“Dako na kaayong tabanf ka namo,” he said, expressing gratitude for the free full-tank refill that would help reduce his daily expenses.
+“Dako na kaayong tabang ka namo,” he said, expressing gratitude for the free full-tank refill that would help reduce his daily expenses.
 
 Don Macchiatos Philippines said the initiative reflects its continued commitment to giving back to the community, particularly to those who rely on transportation for their livelihood.
 
