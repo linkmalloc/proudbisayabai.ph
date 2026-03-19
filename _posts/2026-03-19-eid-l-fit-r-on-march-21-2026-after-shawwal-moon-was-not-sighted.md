@@ -13,9 +13,9 @@ tags:
   - EidlFitr
   - Bangsamoro
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1338/6bd6c51773927749-2.jpg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1338/6bd6c51773927749-2.jpg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1338/6bd6c51773927749-2.jpg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1338/7f782c1773930442-3.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1338/7f782c1773930442-3.jpg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1338/7f782c1773930442-3.jpg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -37,5 +37,3 @@ With the announcement, Muslims across the country are expected to observe one mo
 The Bangsamoro Government extended advance greetings of Eid Mubarak to the Muslim Ummah, expressing hopes that the values nurtured during Ramadan—faith, gratitude, compassion, and generosity—will continue to guide believers beyond the holy month.
 
 Eid’l Fit’r is one of the most important celebrations in Islam, marked by communal prayers, family gatherings, charitable giving, and expressions of forgiveness and goodwill.&#x20;
-
-Photo from Bangsamoro Government
