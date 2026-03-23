@@ -13,9 +13,9 @@ tags:
   - PriceMonitoring
   - seafood
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1364/6a5a6c1774253013-2.jpg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1364/6a5a6c1774253013-2.jpg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1364/6a5a6c1774253013-2.jpg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1364/2c109d1774253231-3.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1364/2c109d1774253231-3.jpg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1364/2c109d1774253231-3.jpg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
 
 
 
