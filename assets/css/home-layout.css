@@ -221,7 +221,6 @@
 }
 
 .section-header {
-    border-bottom: 2px solid var(--orange-primary);
     padding-bottom: 15px;
 }
 
@@ -427,7 +426,6 @@ footer .sidebar-widget:hover {
 
 /* Ad Placeholders */
 .ad-placeholder {
-    border: 2px dashed var(--border-light);
     color: var(--text-grey);
     min-height: 200px;
     display: block;

@@ -5,6 +5,10 @@ description: "Explore the significance of Holy Week 2026 with the latest news, s
 isTop: true
 ---
 <main>
+    <!-- ads -->
+    <div class="container">
+        {% include ads/home-banner.html %}
+    </div>
     <!--archive header-->
     <div class="archive-header pt-50 pb-30" style="margin-bottom: 20px;">
         <div class="container">
@@ -20,7 +24,7 @@ isTop: true
     <div class="container">
         <div class="loop-grid mb-30">
             <div class="row">
-                {% assign holyweek_posts = site.posts | where_exp: "post", "post.tags contains 'HolyWeek2026'" %}
+                {% assign holyweek_posts = site.posts | where_exp: "post", "post.tags contains 'HolyWeek2026'"%}
                 {% if holyweek_posts.size == 0 %}
                 <div class="col-12 text-center py-50">
                     <i class="fas fa-cross" style="font-size: 48px; color: #9c27b0;"></i>
