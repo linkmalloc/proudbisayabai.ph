@@ -1,12 +1,154 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-  <meta charset="utf-8" />
+  <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Content Manager</title>
-  <script src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script>
+  <title>Admin Login — Proud Bisaya Bai</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    // Redirect to dashboard if token is still valid
+    (async () => {
+      const token = localStorage.getItem('admin_token');
+      if (!token) return;
+      try {
+        const res = await fetch('http://localhost:3000/api/v1/auth/validate', {
+          headers: { 'Authorization': `Bearer ${token}` },
+        });
+        if (res.ok) {
+          window.location.replace('/admin/dashboard.html');
+        } else {
+          localStorage.removeItem('admin_token');
+        }
+      } catch {
+        // server unreachable, stay on login
+      }
+    })();
+
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            orange: {
+              primary: '#f95c00',
+              secondary: '#ff7a1a',
+              light: '#ff9947',
+              dark: '#e04900',
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    .btn-orange {
+      background: linear-gradient(135deg, #f95c00, #ff7a1a);
+    }
+    .btn-orange:hover {
+      background: linear-gradient(135deg, #e04900, #f95c00);
+    }
+  </style>
 </head>
-<body>
-  <script src="https://unpkg.com/netlify-cms@^2.0/dist/cms.js"></script>
+<body class="min-h-screen flex items-center justify-center bg-gray-100">
+  <div class="w-full max-w-md">
+    <!-- Logo / Brand -->
+    <div class="text-center mb-8">
+      <img src="https://d1rl40o93nnuyl.cloudfront.net/posts/567/892e461772016837-17.png" alt="Proud Bisaya Bai" class="h-12 w-auto mx-auto mb-2" />
+      <p class="text-sm text-gray-500">Admin Panel</p>
+    </div>
+
+    <!-- Card -->
+    <div class="bg-white rounded-2xl shadow-xl p-8">
+      <!-- Orange accent bar -->
+      <!-- <div class="h-1 rounded-full mb-6" style="background: linear-gradient(135deg, #f95c00, #ff7a1a);"></div> -->
+      <h2 class="text-xl font-semibold text-gray-700 mb-6">Sign in to your account</h2>
+
+      <form id="loginForm" onsubmit="handleLogin(event)" novalidate>
+        <!-- Email -->
+        <div class="mb-5">
+          <label for="email" class="block text-sm font-medium text-gray-600 mb-1">Email</label>
+          <input
+            type="email"
+            id="email"
+            name="email"
+            value="jmanuel.derecho@gmail.com"
+            required
+            placeholder="Enter email"
+            class="w-full px-4 py-2.5 border border-gray-300 rounded-lg text-sm text-gray-800 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-orange-400 focus:border-transparent transition"
+          />
+        </div>
+
+        <!-- Password -->
+        <div class="mb-6">
+          <label for="password" class="block text-sm font-medium text-gray-600 mb-1">Password</label>
+          <input
+            type="password"
+            id="password"
+            name="password"
+            value="password"
+            required
+            placeholder="Enter password"
+            class="w-full px-4 py-2.5 border border-gray-300 rounded-lg text-sm text-gray-800 placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-orange-400 focus:border-transparent transition"
+          />
+        </div>
+
+        <!-- Error message -->
+        <p id="errorMsg" class="hidden text-sm text-red-500 mb-4 text-center"></p>
+
+        <!-- Submit -->
+        <button
+          type="submit"
+          class="btn-orange w-full text-white font-semibold py-2.5 rounded-lg text-sm transition shadow-md active:scale-95"
+        >
+          Sign In
+        </button>
+      </form>
+    </div>
+
+    <p class="text-center text-xs text-gray-400 mt-6">&copy; 2026 Proud Bisaya Bai. All rights reserved.</p>
+  </div>
+
+  <script>
+    async function handleLogin(e) {
+      e.preventDefault();
+      const email = document.getElementById('email').value.trim();
+      const password = document.getElementById('password').value;
+      const errorMsg = document.getElementById('errorMsg');
+      const btn = e.submitter;
+
+      if (!email || !password) {
+        errorMsg.textContent = 'Please fill in all fields.';
+        errorMsg.classList.remove('hidden');
+        return;
+      }
+
+      errorMsg.classList.add('hidden');
+      btn.disabled = true;
+      btn.textContent = 'Signing in…';
+
+      try {
+        const res = await fetch('http://localhost:3000/auth/login', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email, password }),
+        });
+        const data = await res.json().catch(() => ({}));
+        if (res.ok) {
+          // Store token if returned, then redirect
+          if (data.token) localStorage.setItem('admin_token', data.token);
+          window.location.href = data.redirect || '/admin/dashboard.html';
+        } else {
+          errorMsg.textContent = data.message || 'Invalid credentials. Please try again.';
+          errorMsg.classList.remove('hidden');
+        }
+      } catch (err) {
+        debugger
+        errorMsg.textContent = 'Unable to reach the server. Please try again.';
+        errorMsg.classList.remove('hidden');
+      } finally {
+        btn.disabled = false;
+        btn.textContent = 'Sign In';
+      }
+    }
+  </script>
 </body>
 </html>

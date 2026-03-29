@@ -1,275 +1,758 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Content Manager</title>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Dashboard — Proud Bisaya Bai</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vue@3/dist/vue.global.prod.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/js-yaml@4/dist/js-yaml.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/marked@12/marked.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.quilljs.com/1.3.7/quill.snow.css" />
+  <script src="https://cdn.quilljs.com/1.3.7/quill.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/quill-image-resize-module@3.0.0/image-resize.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/turndown/dist/turndown.js"></script>
+</head>
+<body class="min-h-screen bg-gray-100">
 
-    <link rel="stylesheet" href="/assets/css/vendor/toastr.min.css">
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <link rel="stylesheet" href="/assets/css/widgets.css">
-    <link rel="stylesheet" href="/assets/css/responsive.css">
-    <link rel="stylesheet" href="/assets/css/vendor/viewer.css">
-
-    <!-- <script src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script> -->
-    <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-app.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-firestore.js"></script>
-    <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-auth.js"></script>
-
-    <script src="/assets/js/vendor/jquery-1.12.4.min.js"></script>
-    <script src="/assets/js/vendor/bootstrap.min.js"></script>
-    <script src="/assets/js/vendor/jquery.scrollUp.min.js"></script>
-  </head>
-  <body>
-    <!-- <script src="https://unpkg.com/netlify-cms@^2.0/dist/cms.js"></script> -->
-    <div id="login" style="display: none;">
-      <form class="form-signin" id="form-signin">
-        <img class="mb-4" src="/assets/imgs/theme/logo.png" alt="">
-        <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
-        <label for="inputEmail" class="sr-only">Email address</label>
-        <input type="email" id="inputEmail" class="form-control mt-5" placeholder="Email address" required="" autofocus="">
-        <label for="inputPassword" class="sr-only">Password</label>
-        <input type="password" id="inputPassword" class="form-control mt-5" placeholder="Password" required="">
-        <!-- <div class="checkbox mb-3">
-          <label>
-            <input type="checkbox" value="remember-me"> Remember me
-          </label>
-        </div> -->
-        <div class="text-right mt-5">
-          <button class="btn btn-radius bg-primary text-white ml-15 font-small box-shadow right" type="submit">Sign in</button>
-          <!-- <p class="mt-5 mb-3 text-muted">© 2021</p> -->
-        </div>
-      </form>
+  <div id="app" class="min-h-screen flex flex-col bg-gray-100">
+    <!-- Validation overlay -->
+    <div v-if="validating" class="fixed inset-0 bg-gray-100 flex items-center justify-center z-50">
+      <p class="text-gray-400 text-sm">Verifying session…</p>
     </div>
 
-    <div id="blog-tool" style="display: none;">
-      <div class="header-top">
-        <div class="container">
-            <div class="row pt-20 pb-20">
-                <div class="col-md-3 col-xs-6">
-                    <a href="/admin/dashboard.html"><img class="logo" src="/assets/imgs/theme/logo.png" alt=""></a>
-                    BLOG TOOL
-                </div>
-                <div class="col-md-9 col-xs-6 text-right header-top-right ">
-                    <button class="btn btn-radius bg-danger text-white ml-15 font-small box-shadow be-featured-btn" id="logout">Logout</button>
-                </div>
+    <template v-else>
+      <!-- Header -->
+      <header class="bg-white shadow-sm px-4 py-4 flex items-center justify-between z-30 relative">
+        <div class="flex items-center gap-3">
+          <button @click="sidebarOpen = !sidebarOpen"
+            class="p-1.5 rounded-md text-gray-500 hover:bg-gray-100 transition"
+            :title="sidebarOpen ? 'Close sidebar' : 'Open sidebar'">
+            <svg v-if="!sidebarOpen" xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+            </svg>
+            <svg v-else xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+            </svg>
+          </button>
+          <img src="https://d1rl40o93nnuyl.cloudfront.net/posts/567/892e461772016837-17.png" alt="Proud Bisaya Bai" class="h-8 w-auto" />
+          <span class="text-sm text-gray-400 hidden sm:inline">Admin</span>
+        </div>
+        <button @click="logout" class="text-sm text-gray-500 hover:text-red-500 transition">Sign out</button>
+      </header>
+
+      <!-- Body -->
+      <div class="flex flex-1 overflow-hidden relative">
+
+        <!-- Mobile backdrop -->
+        <transition name="fade">
+          <div v-if="sidebarOpen && isMobile"
+            @click="sidebarOpen = false"
+            class="fixed inset-0 bg-black/40 z-20">
+          </div>
+        </transition>
+
+        <!-- Sidebar — overlay on mobile, inline on desktop -->
+        <aside :class="[
+            isMobile
+              ? ['fixed top-[57px] left-0 h-[calc(100vh-57px)] z-30 shadow-xl transition-transform duration-300 ease-in-out w-56',
+                 sidebarOpen ? 'translate-x-0' : '-translate-x-full']
+              : ['relative flex-shrink-0 overflow-y-auto transition-all duration-300 ease-in-out shadow-md',
+                 sidebarOpen ? 'w-56' : 'w-0 overflow-hidden']
+          ].flat()"
+          class="bg-white">
+          <nav class="py-4 w-56">
+
+            <!-- Posts group -->
+            <div>
+              <button @click="toggleGroup('posts')"
+                class="w-full flex items-center justify-between px-5 py-3 md:py-2 text-sm md:text-xs font-semibold uppercase tracking-wider text-gray-400 hover:text-gray-600 transition">
+                <span class="w-full text-center md:text-left">Posts</span>
+                <svg :class="openGroups.posts ? 'rotate-180' : ''"
+                  class="w-4 h-4 md:w-3.5 md:h-3.5 transition-transform duration-200"
+                  xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/>
+                </svg>
+              </button>
+              <div v-show="openGroups.posts">
+                <button @click="navigate('all-posts')"
+                  :class="currentPage === 'all-posts' ? 'bg-orange-50 text-orange-600 font-semibold' : 'text-gray-600 hover:bg-gray-50'"
+                  class="w-full text-center md:text-left md:px-8 py-3 md:py-2 text-base md:text-sm transition">
+                  All Posts
+                </button>
+                <button @click="navigate('archived-posts')"
+                  :class="currentPage === 'archived-posts' ? 'bg-orange-50 text-orange-600 font-semibold' : 'text-gray-600 hover:bg-gray-50'"
+                  class="w-full text-center md:text-left md:px-8 py-3 md:py-2 text-base md:text-sm transition">
+                  Archived Posts
+                </button>
+              </div>
             </div>
+
+            <!-- Divider -->
+            <div class="my-2 mx-5 border-t border-gray-100"></div>
+
+            <!-- Short URL -->
+            <div class="px-5 py-3 md:py-2 flex flex-col md:flex-row items-center md:justify-between gap-1 md:gap-0">
+              <span class="text-sm md:text-xs font-semibold uppercase tracking-wider text-gray-400">Short URL</span>
+              <span class="text-xs bg-gray-100 text-gray-400 px-1.5 py-0.5 rounded font-medium">Soon</span>
+            </div>
+
+          </nav>
+        </aside>
+
+        <!-- Main content -->
+        <main class="flex-1 overflow-y-auto p-4 md:p-8" v-show="!previewPost && !editingPost">
+
+          <!-- All Posts -->
+          <template v-if="currentPage === 'all-posts'">
+            <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-4">
+              <div class="flex items-center gap-3">
+                <h2 class="text-lg font-semibold text-gray-700">All Posts</h2>
+                <span v-if="pagination.total" class="text-xs text-gray-400">{{ pagination.total }} posts</span>
+              </div>
+              <div class="relative">
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z"/>
+                </svg>
+                <input
+                  v-model="search"
+                  @input="onSearch"
+                  type="text"
+                  placeholder="Search posts…"
+                  class="pl-9 pr-4 py-2 text-sm border border-gray-200 rounded-lg bg-white focus:outline-none focus:ring-2 focus:ring-orange-400 w-full sm:w-64"
+                />
+              </div>
+            </div>
+
+            <p v-if="loadingPosts" class="text-gray-400 text-sm">Loading posts…</p>
+            <p v-else-if="postsError" class="text-red-400 text-sm">{{ postsError }}</p>
+            <p v-else-if="!posts.length" class="text-gray-400 text-sm">No posts found.</p>
+
+            <template v-else>
+              <div class="bg-white rounded-xl shadow overflow-hidden">
+                <div class="overflow-x-auto">
+                  <table class="w-full text-sm min-w-[480px]">
+                    <thead class="bg-gray-50 text-gray-500 uppercase text-xs">
+                      <tr>
+                        <th class="px-5 py-3 text-left w-32 hidden md:table-cell"></th>
+                        <th class="px-5 py-3 text-left">Title</th>
+                        <th class="px-5 py-3 text-left whitespace-nowrap hidden md:table-cell">Author</th>
+                        <th class="px-5 py-3 text-left whitespace-nowrap hidden md:table-cell">Date</th>
+                        <th class="px-5 py-3 text-left hidden md:table-cell">Status</th>
+                        <th class="px-3 py-3 text-left whitespace-nowrap w-24 sticky right-0 bg-gray-50">Actions</th>
+                      </tr>
+                    </thead>
+                    <tbody class="divide-y divide-gray-100">
+                      <tr v-for="post in posts" :key="post.id" class="hover:bg-gray-50 transition" @click="isMobile && openActionSheet(post)">
+                        <td class="px-5 py-3 hidden md:table-cell">
+                          <div class="w-28 rounded-lg overflow-hidden bg-gray-100" style="aspect-ratio: 1200/630;">
+                            <img
+                              v-if="post.fm.img_big_1000x600"
+                              :src="post.fm.img_big_1000x600"
+                              class="w-full h-full object-cover"
+                              loading="lazy"
+                            />
+                          </div>
+                        </td>
+                        <td class="px-5 py-3 font-medium text-gray-800">
+                          <div v-if="post.fm.img_big_1000x600" class="mb-2 rounded-lg overflow-hidden bg-gray-100 md:hidden" style="aspect-ratio: 1200/630;">
+                            <img :src="post.fm.img_big_1000x600" class="w-full h-full object-cover" loading="lazy" />
+                          </div>
+                          {{ post.fm.title ?? '—' }}
+                        </td>
+                        <td class="px-5 py-3 text-gray-500 whitespace-nowrap hidden md:table-cell">{{ post.fm.author ?? '—' }}</td>
+                        <td class="px-5 py-3 text-gray-500 whitespace-nowrap hidden md:table-cell">
+                          {{ post.fm.published_at || post.fm.published_date || post.published_at ? new Date(post.fm.published_at || post.fm.published_date || post.published_at).toLocaleDateString() : '—' }}
+                        </td>
+                        <td class="px-5 py-3 hidden md:table-cell">
+                          <span :class="post.published ? 'bg-green-100 text-green-700' : 'bg-gray-100 text-gray-500'"
+                            class="px-2 py-0.5 rounded-full text-xs font-medium whitespace-nowrap">
+                            {{ post.published ? 'Published' : 'Draft' }}
+                          </span>
+                        </td>
+                        <td class="px-3 py-3 sticky right-0 bg-white hover:bg-gray-50 transition-colors">
+                          <!-- Mobile: ⋯ button -->
+                          <button @click.stop="openActionSheet(post)" class="md:hidden p-2 rounded-xl bg-gray-100 text-gray-700 hover:bg-gray-200 active:bg-gray-300 transition">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+                              <circle cx="5" cy="12" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="19" cy="12" r="2"/>
+                            </svg>
+                          </button>
+                          <!-- Desktop: icon buttons -->
+                          <div class="hidden md:flex items-center gap-1 flex-nowrap">
+                            <button @click="viewPost(post)" title="View"
+                              class="p-1.5 rounded-md text-blue-500 hover:text-blue-700 hover:bg-blue-50 transition">
+                              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/>
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.477 0 8.268 2.943 9.542 7-1.274 4.057-5.065 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"/>
+                              </svg>
+                            </button>
+                            <button @click="editPost(post)" title="Edit"
+                              class="p-1.5 rounded-md text-blue-500 hover:text-blue-700 hover:bg-blue-50 transition">
+                              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/>
+                              </svg>
+                            </button>
+                            <button @click="deletePost(post)" title="Delete"
+                              class="p-1.5 rounded-md text-red-500 hover:text-red-700 hover:bg-red-50 transition">
+                              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/>
+                              </svg>
+                            </button>
+                          </div>
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+
+              <!-- Pagination -->
+              <div class="mt-4 flex items-center justify-between gap-2 flex-wrap">
+                <p class="text-xs text-gray-400">
+                  Page {{ pagination.page }} of {{ pagination.total_pages }}
+                </p>
+                <div class="flex items-center gap-1">
+                  <!-- Prev -->
+                  <button @click="goToPage(pagination.page - 1)" :disabled="pagination.page === 1"
+                    class="px-3 py-1.5 text-xs rounded-md border border-gray-200 text-gray-500 hover:bg-gray-50 disabled:opacity-40 disabled:cursor-not-allowed transition">
+                    &larr;
+                  </button>
+
+                  <!-- First page + ellipsis -->
+                  <template v-if="pageNumbers()[0] > 1">
+                    <button @click="goToPage(1)" class="px-3 py-1.5 text-xs rounded-md border border-gray-200 text-gray-500 hover:bg-gray-50 transition">1</button>
+                    <span v-if="pageNumbers()[0] > 2" class="px-1 text-gray-400 text-xs">…</span>
+                  </template>
+
+                  <!-- Page window -->
+                  <button v-for="p in pageNumbers()" :key="p" @click="goToPage(p)"
+                    :class="p === pagination.page ? 'bg-orange-500 text-white border-orange-500' : 'text-gray-500 border-gray-200 hover:bg-gray-50'"
+                    class="px-3 py-1.5 text-xs rounded-md border transition">
+                    {{ p }}
+                  </button>
+
+                  <!-- Last page + ellipsis -->
+                  <template v-if="pageNumbers()[pageNumbers().length - 1] < pagination.total_pages">
+                    <span v-if="pageNumbers()[pageNumbers().length - 1] < pagination.total_pages - 1" class="px-1 text-gray-400 text-xs">…</span>
+                    <button @click="goToPage(pagination.total_pages)" class="px-3 py-1.5 text-xs rounded-md border border-gray-200 text-gray-500 hover:bg-gray-50 transition">{{ pagination.total_pages }}</button>
+                  </template>
+
+                  <!-- Next -->
+                  <button @click="goToPage(pagination.page + 1)" :disabled="pagination.page === pagination.total_pages"
+                    class="px-3 py-1.5 text-xs rounded-md border border-gray-200 text-gray-500 hover:bg-gray-50 disabled:opacity-40 disabled:cursor-not-allowed transition">
+                    &rarr;
+                  </button>
+                </div>
+              </div>
+            </template>
+          </template>
+
+          <!-- Archived Posts -->
+          <template v-else-if="currentPage === 'archived-posts'">
+            <h2 class="text-lg font-semibold text-gray-700 mb-4">Archived Posts</h2>
+            <p class="text-gray-400 text-sm">No archived posts yet.</p>
+          </template>
+
+          <!-- Short URL (Coming Soon) -->
+          <template v-else-if="currentPage === 'short-url'">
+            <h2 class="text-lg font-semibold text-gray-700 mb-4">Short URL</h2>
+            <p class="text-gray-400 text-sm">Coming soon.</p>
+          </template>
+
+        </main>
+      </div>
+      <!-- Edit Drawer -->
+      <transition name="edit-drawer">
+        <div v-if="editingPost" class="fixed inset-0 z-50 flex justify-end">
+          <div class="absolute inset-0 bg-black/50" @click="closeEditor"></div>
+          <div class="relative w-full bg-white shadow-2xl flex flex-col h-full overflow-hidden">
+
+            <!-- Edit drawer header -->
+            <div class="flex items-center justify-between px-6 py-4 border-b border-gray-100 flex-shrink-0">
+              <div class="flex items-center gap-3">
+                <button @click="closeEditor()" class="p-1.5 rounded-md text-gray-400 hover:bg-gray-100 transition" title="Back">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/>
+                  </svg>
+                </button>
+                <span class="text-sm font-semibold text-gray-700">Edit Post</span>
+                <span class="text-xs text-gray-400 hidden sm:inline">{{ editTitle }}</span>
+              </div>
+              <div class="flex items-center gap-2">
+                <span v-if="saveSuccess" class="text-xs text-green-600">Saved!</span>
+                <!-- Mobile step nav -->
+                <template v-if="isMobile">
+                  <button v-if="editStep === 1" @click="editStep = 2"
+                    class="px-4 py-1.5 text-sm bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition font-medium">
+                    Next &rarr;
+                  </button>
+                  <template v-else>
+                    <button @click="editStep = 1"
+                      class="px-4 py-1.5 text-sm bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition font-medium">
+                      &larr; Back
+                    </button>
+                    <button @click="viewPost(editingPost)"
+                      class="px-4 py-1.5 text-sm bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition font-medium">
+                      Preview
+                    </button>
+                    <button @click="savePost" :disabled="saving"
+                      class="px-4 py-1.5 text-sm bg-orange-500 text-white rounded-lg hover:bg-orange-600 disabled:opacity-50 transition font-medium">
+                      {{ saving ? 'Saving…' : 'Save' }}
+                    </button>
+                  </template>
+                </template>
+                <!-- Desktop preview + save -->
+                <template v-if="!isMobile">
+                  <button @click="viewPost(editingPost)"
+                    class="px-4 py-1.5 text-sm bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition font-medium">
+                    Preview
+                  </button>
+                  <button @click="savePost" :disabled="saving"
+                    class="px-4 py-1.5 text-sm bg-orange-500 text-white rounded-lg hover:bg-orange-600 disabled:opacity-50 transition font-medium">
+                    {{ saving ? 'Saving…' : 'Save' }}
+                  </button>
+                </template>
+                <button @click="closeEditor" class="p-1.5 rounded-md text-gray-400 hover:bg-gray-100 transition">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+                  </svg>
+                </button>
+              </div>
+            </div>
+
+            <!-- Mobile step indicator -->
+            <div v-if="isMobile" class="flex border-b border-gray-100 flex-shrink-0">
+              <button @click="editStep = 1"
+                :class="editStep === 1 ? 'border-b-2 border-orange-500 text-orange-600 font-semibold' : 'text-gray-400'"
+                class="flex-1 py-2.5 text-xs text-center transition">
+                1. Metadata
+              </button>
+              <button @click="editStep = 2"
+                :class="editStep === 2 ? 'border-b-2 border-orange-500 text-orange-600 font-semibold' : 'text-gray-400'"
+                class="flex-1 py-2.5 text-xs text-center transition">
+                2. Content
+              </button>
+            </div>
+
+            <!-- Edit drawer body -->
+            <div class="flex-1 overflow-hidden flex">
+
+              <!-- Left panel: meta fields -->
+              <div v-show="!isMobile || editStep === 1"
+                class="flex-shrink-0 border-r border-gray-200 flex flex-col"
+                :class="isMobile ? 'w-full' : 'w-1/3 bg-gray-50'">
+
+                <!-- Desktop tabs -->
+                <div v-if="!isMobile" class="flex border-b border-gray-200 flex-shrink-0">
+                  <button v-for="tab in [{key:'metadata',label:'Metadata'},{key:'seo',label:'SEO'},{key:'images',label:'Images'}]"
+                    :key="tab.key" @click="editMetaTab = tab.key"
+                    :class="editMetaTab === tab.key ? 'border-b-2 border-orange-500 text-orange-600 font-semibold' : 'text-gray-400 hover:text-gray-600'"
+                    class="flex-1 py-2.5 text-xs text-center transition">
+                    {{ tab.label }}
+                  </button>
+                </div>
+
+                <!-- Tab / mobile content -->
+                <div class="flex-1 overflow-y-auto p-5 flex flex-col gap-4">
+
+                  <!-- METADATA tab -->
+                  <template v-if="isMobile || editMetaTab === 'metadata'">
+                    <div>
+                      <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">Title</label>
+                      <textarea v-model="editTitle" rows="3"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-lg text-sm text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition resize-none"></textarea>
+                    </div>
+                    <div>
+                      <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">Description</label>
+                      <textarea v-model="editDescription" rows="4"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-lg text-sm text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition resize-none"></textarea>
+                    </div>
+                    <div>
+                      <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">Author</label>
+                      <input v-model="editAuthor" type="text"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-lg text-sm text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition" />
+                    </div>
+                  </template>
+
+                  <!-- SEO tab -->
+                  <template v-if="isMobile || editMetaTab === 'seo'">
+                    <div v-if="isMobile" class="border-t border-gray-100 pt-4">
+                      <p class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-3">SEO</p>
+                    </div>
+                    <div>
+                      <div class="flex items-center justify-between mb-1">
+                        <label class="text-xs font-semibold text-gray-500 uppercase tracking-wider">Slug Title</label>
+                        <span :class="editSlugTitle.length >= 50 ? 'text-red-400' : 'text-gray-300'" class="text-xs">{{ editSlugTitle.length }}/50</span>
+                      </div>
+                      <input v-model="editSlugTitle" type="text" placeholder="custom-url-slug" maxlength="50"
+                        @blur="editSlugTitle = slugify(editSlugTitle)"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-lg text-xs text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition font-mono" />
+                    </div>
+                    <div>
+                      <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">Category</label>
+                      <select v-model="editCategory"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-lg text-xs text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition bg-white">
+                        <option value="">— Select —</option>
+                        <option v-for="cat in postCategories" :key="cat" :value="cat">{{ cat }}</option>
+                      </select>
+                    </div>
+                    <div>
+                      <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">Tags <span class="text-gray-300 font-normal normal-case tracking-normal">(comma or Enter)</span></label>
+                      <input v-model="editTagsRaw" type="text" placeholder="Add a tag…"
+                        @input="addTag" @keydown.enter.prevent="addTagOnEnter"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-lg text-xs text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition" />
+                      <div v-if="editTags.length" class="flex flex-wrap gap-1 mt-2">
+                        <span v-for="tag in editTags" :key="tag"
+                          class="flex items-center gap-1 px-2 py-0.5 bg-orange-50 text-orange-600 text-xs rounded-full">
+                          {{ tag }}
+                          <button @click="removeTag(tag)" class="text-orange-400 hover:text-orange-700 leading-none">&times;</button>
+                        </span>
+                      </div>
+                    </div>
+                  </template>
+
+                  <!-- IMAGES tab -->
+                  <template v-if="isMobile || editMetaTab === 'images'">
+                    <div v-if="isMobile" class="border-t border-gray-100 pt-4">
+                      <p class="text-xs font-semibold text-gray-500 uppercase tracking-wider mb-3">Images</p>
+                    </div>
+                    <div>
+                      <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">Feature Image</label>
+                      <input v-model="editFeatureImage" type="url" placeholder="https://…"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-lg text-xs text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition font-mono mb-2" />
+                      <div class="relative rounded-lg overflow-hidden bg-gray-100 cursor-pointer group"
+                        style="aspect-ratio:1200/630;"
+                        :class="featureImageDragOver ? 'ring-2 ring-orange-400 ring-offset-1' : ''"
+                        @click="$refs.featureFileInput.click()"
+                        @dragover.prevent="featureImageDragOver = true"
+                        @dragleave="featureImageDragOver = false"
+                        @drop.prevent="onFeatureImageDrop">
+                        <img v-if="editFeatureImagePreview || editFeatureImage"
+                          :src="editFeatureImagePreview || editFeatureImage"
+                          class="w-full h-full object-cover pointer-events-none" />
+                        <div v-else class="w-full h-full flex items-center justify-center text-gray-400 text-xs">No image</div>
+                        <div class="absolute inset-0 flex flex-col items-center justify-center gap-1 transition"
+                          :class="featureImageDragOver ? 'bg-orange-500/60 opacity-100' : 'bg-black/40 opacity-0 group-hover:opacity-100'">
+                          <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+                          </svg>
+                          <span class="text-white text-xs font-medium">{{ featureImageDragOver ? 'Drop to set' : 'Click to upload' }}</span>
+                        </div>
+                      </div>
+                      <input ref="featureFileInput" type="file" accept="image/*" class="hidden" @change="onFeatureImageFile" />
+                      <p v-if="editFeatureImageFile" class="text-xs text-gray-400 mt-1 truncate">{{ editFeatureImageFile.name }}</p>
+                    </div>
+
+                    <!-- Upload attachments -->
+                    <div>
+                      <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-2">Upload Images</label>
+
+                      <!-- Drop zone -->
+                      <div class="border-2 border-dashed border-gray-200 rounded-lg p-4 text-center cursor-pointer hover:border-orange-400 hover:bg-orange-50 transition"
+                        @click="$refs.attachmentInput.click()"
+                        @dragover.prevent
+                        @drop.prevent="onAttachmentDrop">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6 text-gray-300 mx-auto mb-1" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/>
+                        </svg>
+                        <p class="text-xs text-gray-400">Click or drag images here</p>
+                        <p class="text-xs text-gray-300 mt-0.5">PNG, JPG, WEBP</p>
+                      </div>
+                      <input ref="attachmentInput" type="file" accept="image/*" multiple class="hidden" @change="onAttachmentSelect" />
+
+                      <!-- Upload queue -->
+                      <div v-if="attachmentQueue.length" class="mt-3 flex flex-col gap-2">
+                        <div v-for="item in attachmentQueue" :key="item.id"
+                          class="flex items-center gap-2 bg-gray-50 rounded-lg px-3 py-2">
+                          <img :src="item.preview" class="w-10 h-10 object-cover rounded flex-shrink-0" />
+                          <div class="flex-1 min-w-0">
+                            <p class="text-xs text-gray-700 truncate">{{ item.file.name }}</p>
+                            <div v-if="item.status === 'uploading'" class="mt-1 h-1.5 bg-gray-200 rounded-full overflow-hidden">
+                              <div class="h-full bg-orange-400 rounded-full animate-pulse" style="width: 60%"></div>
+                            </div>
+                            <p v-else-if="item.status === 'done'" class="text-xs text-green-600 mt-0.5">✓ Uploaded</p>
+                            <p v-else-if="item.status === 'error'" class="text-xs text-red-500 mt-0.5">{{ item.error }}</p>
+                          </div>
+                          <button v-if="item.status === 'error'" @click="retryAttachment(item)"
+                            class="text-xs text-orange-500 hover:text-orange-700 flex-shrink-0">Retry</button>
+                          <button v-if="item.status !== 'uploading'" @click="removeAttachment(item.id)"
+                            class="text-gray-300 hover:text-red-500 transition flex-shrink-0 text-lg leading-none">&times;</button>
+                        </div>
+                      </div>
+
+                      <!-- Uploaded images -->
+                      <div v-if="uploadedImages.length" class="mt-4">
+                        <p class="text-xs text-gray-400 mb-2">Uploaded</p>
+                        <div class="grid grid-cols-2 gap-2">
+                          <div v-for="(img, i) in uploadedImages" :key="img.blob_id"
+                            class="relative group rounded-lg overflow-hidden bg-gray-100 cursor-grab active:cursor-grabbing" style="aspect-ratio:1/1;"
+                            draggable="true"
+                            @dragstart="onImageDragStart($event, img.key)">
+                            <img :src="toCloudFrontUrl(img.key)" class="w-full h-full object-cover pointer-events-none" />
+                            <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition flex items-center justify-center">
+                              <button @click="copyImageUrl(img.key, i)" title="Copy URL"
+                                class="flex items-center gap-1.5 px-3 py-1.5 bg-white rounded-lg text-xs font-medium text-gray-700 hover:bg-gray-100 transition shadow">
+                                <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z"/></svg>
+                                {{ copiedImageIndex === i ? 'Copied!' : 'Copy URL' }}
+                              </button>
+                            </div>
+                            <button @click.stop="deleteUploadedImage(img)" title="Remove"
+                              class="absolute top-1 right-1 w-5 h-5 rounded-full bg-black/60 text-white flex items-center justify-center opacity-0 group-hover:opacity-100 transition hover:bg-red-500 text-sm leading-none">
+                              &times;
+                            </button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </template>
+
+                </div>
+              </div>
+
+              <!-- Right panel: WYSIWYG editor -->
+              <div v-show="!isMobile || editStep === 2" class="flex-1 overflow-hidden flex flex-col">
+                <div id="quill-editor" class="flex-1 overflow-y-auto text-gray-800 text-sm"></div>
+              </div>
+
+            </div>
+          </div>
+        </div>
+      </transition>
+
+      <!-- Article Preview Drawer -->
+      <transition name="drawer">
+        <div v-if="previewPost" class="fixed inset-0 z-50 flex justify-start">
+          <!-- Backdrop -->
+          <div class="absolute inset-0 bg-black/50" @click="closePreview()"></div>
+
+          <!-- Drawer panel -->
+          <div class="relative w-full bg-white shadow-2xl flex flex-col h-full overflow-hidden" style="width: 100%; max-width: 100%;" :style="isMobile ? {} : { width: 'calc(4/6 * 100%)' }">
+            <!-- Preview banner -->
+            <div class="bg-amber-50 border-b border-amber-200 px-6 py-2 flex items-center justify-center gap-2 flex-shrink-0">
+              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 text-amber-500 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
+              </svg>
+              <p class="text-xs text-amber-700">
+                This is only a preview.
+                <a v-if="previewPost.published" :href="liveUrl(previewPost)" target="_blank" class="font-semibold underline hover:text-amber-900 transition">View the live version</a>
+              </p>
+            </div>
+
+            <!-- Drawer header -->
+            <div class="flex items-center justify-between px-6 py-4 border-b border-gray-100 flex-shrink-0">
+              <span class="text-sm font-semibold text-gray-600">Preview</span>
+              <button @click="closePreview()" class="p-1.5 rounded-md text-gray-400 hover:bg-gray-100 transition">
+                <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+                </svg>
+              </button>
+            </div>
+
+            <!-- Drawer content -->
+            <div class="overflow-y-auto flex-1 px-6 py-6">
+              <div class="w-full">
+              <!-- Status badge -->
+              <div class="mb-3">
+                <span :class="previewPost.published ? 'bg-green-100 text-green-700' : 'bg-gray-100 text-gray-500'"
+                  class="px-2 py-0.5 rounded-full text-xs font-medium">
+                  {{ previewPost.published ? 'Published' : 'Draft' }}
+                </span>
+              </div>
+
+              <!-- Title -->
+              <h1 class="text-2xl font-bold text-gray-900 mb-4 leading-snug">{{ previewPost.fm.title }}</h1>
+
+              <!-- Author + Share row -->
+              <div class="flex items-center justify-between gap-4 mb-6 pb-4 border-b border-gray-100">
+                <!-- Author info -->
+                <div class="flex items-center gap-3">
+                  <img
+                    src="https://d1rl40o93nnuyl.cloudfront.net/posts/567/892e461772016837-17.png"
+                    class="w-10 h-10 rounded-full object-cover bg-gray-100 flex-shrink-0"
+                  />
+                  <div>
+                    <p class="text-sm font-semibold text-gray-800">{{ previewPost.fm.author ?? '—' }}</p>
+                    <p class="text-xs text-gray-400">
+                      {{ previewPost.fm.published_at || previewPost.fm.published_date || previewPost.published_at
+                        ? new Date(previewPost.fm.published_at || previewPost.fm.published_date || previewPost.published_at).toLocaleDateString('en-PH', { year: 'numeric', month: 'long', day: 'numeric' })
+                        : '—' }}
+                    </p>
+                    <p v-if="previewPost.fm.editor" class="text-xs text-gray-400">Edited by {{ previewPost.fm.editor }}</p>
+                  </div>
+                </div>
+
+                <!-- Share buttons -->
+                <div class="flex items-center gap-2 flex-shrink-0">
+                  <!-- Facebook -->
+                  <button class="p-2 rounded-full bg-blue-600 text-white hover:bg-blue-700 transition" title="Share on Facebook">
+                    <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/></svg>
+                  </button>
+                  <!-- X / Twitter -->
+                  <button class="p-2 rounded-full bg-black text-white hover:bg-gray-800 transition" title="Share on X">
+                    <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+                  </button>
+                  <!-- WhatsApp -->
+                  <button class="p-2 rounded-full bg-green-500 text-white hover:bg-green-600 transition" title="Share on WhatsApp">
+                    <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.125.558 4.122 1.533 5.855L.057 23.625a.75.75 0 00.918.918l5.77-1.476A11.952 11.952 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 21.75a9.713 9.713 0 01-4.946-1.352l-.355-.21-3.666.938.955-3.574-.231-.368A9.712 9.712 0 012.25 12C2.25 6.615 6.615 2.25 12 2.25S21.75 6.615 21.75 12 17.385 21.75 12 21.75z"/></svg>
+                  </button>
+                  <!-- Copy link -->
+                  <button class="p-2 rounded-full bg-gray-100 text-gray-600 hover:bg-gray-200 transition" title="Copy link">
+                    <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13.828 10.172a4 4 0 00-5.656 0l-4 4a4 4 0 105.656 5.656l1.102-1.101m-.758-4.899a4 4 0 005.656 0l4-4a4 4 0 00-5.656-5.656l-1.1 1.1"/></svg>
+                  </button>
+                </div>
+              </div>
+
+              <!-- Feature image -->
+              <div v-if="previewPost.fm.img_big_1000x600" class="w-full mb-6" style="aspect-ratio: 1200/630;">
+                <img :src="previewPost.fm.img_big_1000x600"
+                  class="w-full h-full object-cover rounded-xl bg-gray-100" />
+              </div>
+
+              <!-- Body -->
+              <div class="prose prose-sm max-w-none text-gray-700 leading-relaxed"
+                v-html="renderedContent(previewPost.content)">
+              </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </transition>
+
+      <!-- Image insert modal -->
+      <div v-if="imageInsertModal.visible" class="fixed inset-0 z-[9999] flex items-center justify-center">
+        <div class="absolute inset-0 bg-black/40" @click="imageInsertModal.visible = false"></div>
+        <div class="relative bg-white rounded-2xl shadow-2xl p-6 w-full max-w-sm mx-4">
+          <h3 class="text-sm font-semibold text-gray-700 mb-4">Insert Image</h3>
+          <div class="flex gap-2 mb-4">
+            <input v-model="imageInsertModal.url" type="url" placeholder="https://..."
+              class="flex-1 px-3 py-2 border border-gray-300 rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-400"
+              @keydown.enter="insertImageByUrl" autofocus />
+            <button @click="insertImageByUrl"
+              class="px-4 py-2 bg-blue-500 text-white text-sm rounded-lg hover:bg-blue-600 transition font-medium">
+              Insert
+            </button>
+          </div>
+          <div class="flex items-center gap-3 mb-4">
+            <div class="flex-1 h-px bg-gray-200"></div>
+            <span class="text-xs text-gray-400">or</span>
+            <div class="flex-1 h-px bg-gray-200"></div>
+          </div>
+          <button @click="insertImageFromDevice"
+            class="w-full px-4 py-2 bg-gray-100 text-gray-700 text-sm rounded-lg hover:bg-gray-200 transition font-medium">
+            Upload from device
+          </button>
         </div>
       </div>
-        <div class="container pt-30">
-          <div class="text-right">
-            <button class="btn btn-primary mb-10" id="create-post">Create a Blog Post</button>
+
+      <!-- Mobile action sheet -->
+      <transition name="action-sheet">
+        <div v-if="actionSheet.visible" class="fixed inset-0 z-[9998] flex flex-col justify-end md:hidden">
+          <div class="absolute inset-0 bg-black/40" @click="actionSheet.visible = false"></div>
+          <div class="relative bg-white rounded-t-2xl shadow-2xl pb-safe">
+            <!-- Handle -->
+            <div class="flex justify-center pt-3 pb-1">
+              <div class="w-10 h-1 bg-gray-300 rounded-full"></div>
+            </div>
+            <!-- Post title -->
+            <p class="text-xs text-gray-400 text-center px-6 py-2 truncate">{{ actionSheet.post?.fm.title }}</p>
+            <div class="divide-y divide-gray-100 px-4 pb-4">
+              <button @click="actionSheet.visible = false; viewPost(actionSheet.post)"
+                class="flex items-center gap-4 w-full py-4 text-left text-gray-800">
+                <span class="w-10 h-10 rounded-full bg-blue-50 flex items-center justify-center flex-shrink-0">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-blue-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"/>
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M2.458 12C3.732 7.943 7.523 5 12 5c4.477 0 8.268 2.943 9.542 7-1.274 4.057-5.065 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"/>
+                  </svg>
+                </span>
+                <span class="font-medium">View Post</span>
+              </button>
+              <button @click="actionSheet.visible = false; editPost(actionSheet.post)"
+                class="flex items-center gap-4 w-full py-4 text-left text-gray-800">
+                <span class="w-10 h-10 rounded-full bg-blue-50 flex items-center justify-center flex-shrink-0">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-blue-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/>
+                  </svg>
+                </span>
+                <span class="font-medium">Edit Post</span>
+              </button>
+              <button @click="actionSheet.visible = false; deletePost(actionSheet.post)"
+                class="flex items-center gap-4 w-full py-4 text-left text-red-600">
+                <span class="w-10 h-10 rounded-full bg-red-50 flex items-center justify-center flex-shrink-0">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5 text-red-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/>
+                  </svg>
+                </span>
+                <span class="font-medium">Delete Post</span>
+              </button>
+              <button @click="actionSheet.visible = false"
+                class="flex items-center justify-center w-full py-4 text-gray-500 font-medium mt-1">
+                Cancel
+              </button>
+            </div>
           </div>
-          <table class="table" id="posts-table">
-            <thead>
-              <tr>
-                <th></th>
-                <th>Cover</th>
-                <th>Title</th>
-                <th>Author</th>
-                <th>Action</th>
-              </tr>
-            </thead>
-            <tbody>
-              <!-- Dynamic table rows  -->
-              <tr><td colspan="4" class="text-center"><span class="fa fa-pulse fa-spinner"></span></td></tr>
-            </tbody>
-          </table>
-          <div class="text-center">
-            <a href="javascript:showNext()" style="display: none" id="show_next">Show Next</a>
-          </div>
-          <br>
-          <br>
-          <br>
         </div>
-        <p class="font-small text-muted text-center" style="background-color: transparent">
-          Proud Bisaya Admin Tool v2
-      </p>
-    </div>
+      </transition>
 
-    <script>
-      // Your web app's Firebase configuration
-      const firebaseConfig = {
-        apiKey: "AIzaSyBCPzUyylI2kELAIDo-IryuIhcui3oXnXw",
-        authDomain: "proudbisayabaiph.firebaseapp.com",
-        projectId: "proudbisayabaiph",
-        storageBucket: "proudbisayabaiph.appspot.com",
-        messagingSenderId: "1000822839652",
-        appId: "1:1000822839652:web:0e0678396ee723e3c3c271",
-        measurementId: "G-HG59DT0Z7S"
-      };
-      // Initialize Firebase
-      firebase.initializeApp(firebaseConfig);
-      const DB = firebase.firestore();
-      DB.settings({timestampsInSnapshots: true});
-      var posts = [];
-      window.last_visible = null;
+      <!-- Toast confirmation -->
+      <transition name="toast">
+        <div v-if="toast.visible" class="fixed top-6 left-1/2 -translate-x-1/2 z-[9999] flex items-center gap-4 text-white text-sm px-5 py-3.5 rounded-2xl shadow-2xl"
+          :class="toast.mode === 'notify' ? 'bg-green-600' : 'bg-gray-900'">
+          <svg v-if="toast.mode === 'notify'" class="w-4 h-4 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+          <span>{{ toast.message }}</span>
+          <div v-if="toast.mode !== 'notify'" class="flex items-center gap-2">
+            <button @click="toast.resolve(false)" class="px-3 py-1.5 rounded-lg bg-white/10 hover:bg-white/20 transition text-xs font-medium">{{ toast.cancelLabel }}</button>
+            <button @click="toast.resolve(true)" class="px-3 py-1.5 rounded-lg bg-red-500 hover:bg-red-600 transition text-xs font-medium">{{ toast.confirmLabel }}</button>
+          </div>
+        </div>
+      </transition>
+    </template>
+  </div>
 
-      var appendPostData = function(post){
-        var created_at = ""
-        var description = "";
-
-        if (post.created_at){
-          created_at = post.created_at.toDate()
-        }
-
-        if (post.description && post.description.length){
-          description = post.description.substring(0,80);
-        }
-
-        let index = $('tr.blog-post').length + 1;
-
-        var tr = `<tr class="blog-post">
-          <td class="text-muted">${index}</td>
-          <td><img style="width: 200px" src="${post.img_big_3000x1144}"/></td>
-          <td>
-            <p>${post.title}</p>
-            <small class="d-block text-muted">${description}</small>
-          </td>
-          <td>${post.author}</td>
-          <td style="width: 180px" >
-            <a class="btn btn-primary btn-sm" href="/admin/create.html?edit=${post.id}">Edit</a>
-            &nbsp;&nbsp;
-            <a class="btn btn-secondary btn-sm" href="/admin/post.html?preview=${post.id}">Preview</a>
-            </td>
-          </tr>`;
-        $('#posts-table').find('tbody').append(tr)
-      }
-
-      var initDashboard = function(){
-        DB.collection("posts").orderBy("created_at", "desc").orderBy("title", "asc").limit(10).get().then((querySnapshot) => {
-          $('#posts-table tbody').html('')
-          querySnapshot.forEach((doc) => {
-            loadPosts(doc)
-          });
-
-          if (!querySnapshot.empty){
-            showNextButton();
-          }
-        })
-      }
-
-      var showNextButton = function(){
-        if (window.last_visible){
-          $('#show_next').show();
-        } else {
-          $('#show_next').hide();
-        }
-      }
-
-      var showNext = function(){
-        if (window.last_visible){
-          // DB.collection("posts").doc(window.last_visible).get().then((lastDoc)=>{
-            DB.collection("posts").orderBy("title", "asc").startAfter(window.last_visible).limit(10).get().then((querySnapshot) => {
-              querySnapshot.forEach((doc) => {
-                loadPosts(doc)
-              });
-              if (querySnapshot.empty){
-                window.last_visible = null;
-              } else {
-                showNextButton();
-              }
-            }).catch(function(){
-              window.last_visible = null;
-            })
-          // })
-        }
-      }
-
-      var loadPosts = function(doc){
-        window.last_visible = doc;
-        data = doc.data();
-        data['id'] = doc.id;
-        posts << data;
-        appendPostData(data);
-      }
-
-      var showPost = function(post){
-        // DB.collection('posts').doc('BIUR8LefeI8eq6YQm3Tk').get().then((docRef) => {
-        //     data = docRef.data();
-        //     console.log(data);
-        //   }).catch((err) => {
-        //     console.log(err)
-        //   });
-      }
-
-      $(document).on('click', '#create-post', function(){
-        DB.collection("posts").add({
-          title: "New Post",
-          created_by: window.current_user_email,
-          created_at: firebase.firestore.Timestamp.now()
-        })
-        .then((docRef) => {
-            console.log("Document written with ID: ", docRef.id);
-            window.location = "/admin/create.html?edit=" + docRef.id;
-        })
-        .catch((error) => {
-          console.error(error)
-        });
-      });
-
-      var createPost = function(){
-        
-      }
-
-      firebase.auth().onAuthStateChanged((user) => {
-        if (user) {
-          // User is signed in, see docs for a list of available properties
-          // https://firebase.google.com/docs/reference/js/firebase.User
-          var uid = user.uid;
-          window.current_user_email = user.email;
-          window.current_user = user.uid;
-          console.log('User is signed in')
-          $('#login').hide();
-          $('#blog-tool').show()
-
-          initDashboard();
-        } else {
-          // User is signed out
-          $('#blog-tool').hide()
-          $('#login').show();
-          console.log('User is signed out')
-        }
-      });
-      
-      function login(email, password){
-        firebase.auth().setPersistence(firebase.auth.Auth.Persistence.LOCAL)
-        .then(() => {
-          return firebase.auth().signInWithEmailAndPassword(email, password);
-        })
-        .catch((error) => {
-          // Handle Errors here.
-          var errorCode = error.code;
-          var errorMessage = error.message;
-        });
-      }
-
-      $(document).ready(function(){
-        $(document).on('submit', '#form-signin', function(e){
-          e.preventDefault();
-          console.log('logging in')
-          var email = $('#inputEmail').val()
-          var password = $('#inputPassword').val()
-
-          login(email, password);
-        })
-
-        $('#logout').on('click', function(){
-          firebase.auth().signOut().then(function() {
-            window.location = '/admin/dashboard.html'
-          }, function(error) {
-          console.log('error')
-          });
-        })
-      });
-    </script>
-  </body>
   <style>
-    #login{
-      width: 100%;
-      max-width: 330px;
-      padding: 15px;
-      margin: 0 auto;
-    }
+    .fade-enter-active, .fade-leave-active { transition: opacity 0.3s ease; }
+    .fade-enter-from, .fade-leave-to { opacity: 0; }
+
+    .toast-enter-active, .toast-leave-active { transition: opacity 0.2s ease, transform 0.2s ease; }
+    .toast-enter-from, .toast-leave-to { opacity: 0; transform: translateX(-50%) translateY(-1rem); }
+
+    .action-sheet-enter-active, .action-sheet-leave-active { transition: opacity 0.25s ease; }
+    .action-sheet-enter-active .relative, .action-sheet-leave-active .relative { transition: transform 0.25s ease; }
+    .action-sheet-enter-from, .action-sheet-leave-to { opacity: 0; }
+    .action-sheet-enter-from .relative, .action-sheet-leave-to .relative { transform: translateY(100%); }
+
+    .edit-drawer-enter-active, .edit-drawer-leave-active { transition: opacity 0.3s ease; }
+    .edit-drawer-enter-active .relative, .edit-drawer-leave-active .relative { transition: transform 0.3s ease; }
+    .edit-drawer-enter-from, .edit-drawer-leave-to { opacity: 0; }
+    .edit-drawer-enter-from .relative, .edit-drawer-leave-to .relative { transform: translateX(100%); }
+
+    /* Quill editor fills available height */
+    #quill-editor { font-size: 0.9rem; line-height: 1.7; }
+    #quill-editor .ql-editor { min-height: 400px; padding: 1.5rem; }
+    #quill-editor img { max-width: 100%; border-radius: 0.5rem; margin: 0.5rem 0; cursor: pointer; }
+    .ql-toolbar { flex-shrink: 0; border-left: none !important; border-right: none !important; border-top: none !important; border-bottom: 1px solid #e5e7eb !important; }
+    .ql-container { border: none !important; flex: 1; overflow-y: auto; }
+
+    .drawer-enter-active, .drawer-leave-active { transition: opacity 0.3s ease; }
+    .drawer-enter-active .relative, .drawer-leave-active .relative { transition: transform 0.3s ease; }
+    .drawer-enter-from, .drawer-leave-to { opacity: 0; }
+    .drawer-enter-from .relative, .drawer-leave-to .relative { transform: translateX(-100%); }
+
+    .prose h1,.prose h2,.prose h3 { font-weight: 700; margin: 1.2em 0 0.5em; color: #111; }
+    .prose h1 { font-size: 1.5rem; }
+    .prose h2 { font-size: 1.25rem; }
+    .prose h3 { font-size: 1.1rem; }
+    .prose p { margin: 0.75em 0; }
+    .prose a { color: #f97316; text-decoration: underline; }
+    .prose ul,.prose ol { padding-left: 1.5rem; margin: 0.75em 0; }
+    .prose ul { list-style: disc; }
+    .prose ol { list-style: decimal; }
+    .prose li { margin: 0.25em 0; }
+    .prose blockquote { border-left: 3px solid #e5e7eb; padding-left: 1rem; color: #6b7280; margin: 1em 0; }
+    .prose img { max-width: 100%; border-radius: 0.5rem; margin: 1em 0; }
+    .prose strong { font-weight: 700; }
+    .prose em { font-style: italic; }
   </style>
+
+  <script src="dashboard.js"></script>
+</body>
 </html>

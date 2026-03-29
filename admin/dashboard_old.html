@@ -1,0 +1,275 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Content Manager</title>
+
+    <link rel="stylesheet" href="/assets/css/vendor/toastr.min.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/widgets.css">
+    <link rel="stylesheet" href="/assets/css/responsive.css">
+    <link rel="stylesheet" href="/assets/css/vendor/viewer.css">
+
+    <!-- <script src="https://identity-js.netlify.com/v1/netlify-identity-widget.js"></script> -->
+    <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-firestore.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.2.9/firebase-auth.js"></script>
+
+    <script src="/assets/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="/assets/js/vendor/bootstrap.min.js"></script>
+    <script src="/assets/js/vendor/jquery.scrollUp.min.js"></script>
+  </head>
+  <body>
+    <!-- <script src="https://unpkg.com/netlify-cms@^2.0/dist/cms.js"></script> -->
+    <div id="login" style="display: none;">
+      <form class="form-signin" id="form-signin">
+        <img class="mb-4" src="/assets/imgs/theme/logo.png" alt="">
+        <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+        <label for="inputEmail" class="sr-only">Email address</label>
+        <input type="email" id="inputEmail" class="form-control mt-5" placeholder="Email address" required="" autofocus="">
+        <label for="inputPassword" class="sr-only">Password</label>
+        <input type="password" id="inputPassword" class="form-control mt-5" placeholder="Password" required="">
+        <!-- <div class="checkbox mb-3">
+          <label>
+            <input type="checkbox" value="remember-me"> Remember me
+          </label>
+        </div> -->
+        <div class="text-right mt-5">
+          <button class="btn btn-radius bg-primary text-white ml-15 font-small box-shadow right" type="submit">Sign in</button>
+          <!-- <p class="mt-5 mb-3 text-muted">© 2021</p> -->
+        </div>
+      </form>
+    </div>
+
+    <div id="blog-tool" style="display: none;">
+      <div class="header-top">
+        <div class="container">
+            <div class="row pt-20 pb-20">
+                <div class="col-md-3 col-xs-6">
+                    <a href="/admin/dashboard.html"><img class="logo" src="/assets/imgs/theme/logo.png" alt=""></a>
+                    BLOG TOOL
+                </div>
+                <div class="col-md-9 col-xs-6 text-right header-top-right ">
+                    <button class="btn btn-radius bg-danger text-white ml-15 font-small box-shadow be-featured-btn" id="logout">Logout</button>
+                </div>
+            </div>
+        </div>
+      </div>
+        <div class="container pt-30">
+          <div class="text-right">
+            <button class="btn btn-primary mb-10" id="create-post">Create a Blog Post</button>
+          </div>
+          <table class="table" id="posts-table">
+            <thead>
+              <tr>
+                <th></th>
+                <th>Cover</th>
+                <th>Title</th>
+                <th>Author</th>
+                <th>Action</th>
+              </tr>
+            </thead>
+            <tbody>
+              <!-- Dynamic table rows  -->
+              <tr><td colspan="4" class="text-center"><span class="fa fa-pulse fa-spinner"></span></td></tr>
+            </tbody>
+          </table>
+          <div class="text-center">
+            <a href="javascript:showNext()" style="display: none" id="show_next">Show Next</a>
+          </div>
+          <br>
+          <br>
+          <br>
+        </div>
+        <p class="font-small text-muted text-center" style="background-color: transparent">
+          Proud Bisaya Admin Tool v2
+      </p>
+    </div>
+
+    <script>
+      // Your web app's Firebase configuration
+      const firebaseConfig = {
+        apiKey: "AIzaSyBCPzUyylI2kELAIDo-IryuIhcui3oXnXw",
+        authDomain: "proudbisayabaiph.firebaseapp.com",
+        projectId: "proudbisayabaiph",
+        storageBucket: "proudbisayabaiph.appspot.com",
+        messagingSenderId: "1000822839652",
+        appId: "1:1000822839652:web:0e0678396ee723e3c3c271",
+        measurementId: "G-HG59DT0Z7S"
+      };
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig);
+      const DB = firebase.firestore();
+      DB.settings({timestampsInSnapshots: true});
+      var posts = [];
+      window.last_visible = null;
+
+      var appendPostData = function(post){
+        var created_at = ""
+        var description = "";
+
+        if (post.created_at){
+          created_at = post.created_at.toDate()
+        }
+
+        if (post.description && post.description.length){
+          description = post.description.substring(0,80);
+        }
+
+        let index = $('tr.blog-post').length + 1;
+
+        var tr = `<tr class="blog-post">
+          <td class="text-muted">${index}</td>
+          <td><img style="width: 200px" src="${post.img_big_3000x1144}"/></td>
+          <td>
+            <p>${post.title}</p>
+            <small class="d-block text-muted">${description}</small>
+          </td>
+          <td>${post.author}</td>
+          <td style="width: 180px" >
+            <a class="btn btn-primary btn-sm" href="/admin/create.html?edit=${post.id}">Edit</a>
+            &nbsp;&nbsp;
+            <a class="btn btn-secondary btn-sm" href="/admin/post.html?preview=${post.id}">Preview</a>
+            </td>
+          </tr>`;
+        $('#posts-table').find('tbody').append(tr)
+      }
+
+      var initDashboard = function(){
+        DB.collection("posts").orderBy("created_at", "desc").orderBy("title", "asc").limit(10).get().then((querySnapshot) => {
+          $('#posts-table tbody').html('')
+          querySnapshot.forEach((doc) => {
+            loadPosts(doc)
+          });
+
+          if (!querySnapshot.empty){
+            showNextButton();
+          }
+        })
+      }
+
+      var showNextButton = function(){
+        if (window.last_visible){
+          $('#show_next').show();
+        } else {
+          $('#show_next').hide();
+        }
+      }
+
+      var showNext = function(){
+        if (window.last_visible){
+          // DB.collection("posts").doc(window.last_visible).get().then((lastDoc)=>{
+            DB.collection("posts").orderBy("title", "asc").startAfter(window.last_visible).limit(10).get().then((querySnapshot) => {
+              querySnapshot.forEach((doc) => {
+                loadPosts(doc)
+              });
+              if (querySnapshot.empty){
+                window.last_visible = null;
+              } else {
+                showNextButton();
+              }
+            }).catch(function(){
+              window.last_visible = null;
+            })
+          // })
+        }
+      }
+
+      var loadPosts = function(doc){
+        window.last_visible = doc;
+        data = doc.data();
+        data['id'] = doc.id;
+        posts << data;
+        appendPostData(data);
+      }
+
+      var showPost = function(post){
+        // DB.collection('posts').doc('BIUR8LefeI8eq6YQm3Tk').get().then((docRef) => {
+        //     data = docRef.data();
+        //     console.log(data);
+        //   }).catch((err) => {
+        //     console.log(err)
+        //   });
+      }
+
+      $(document).on('click', '#create-post', function(){
+        DB.collection("posts").add({
+          title: "New Post",
+          created_by: window.current_user_email,
+          created_at: firebase.firestore.Timestamp.now()
+        })
+        .then((docRef) => {
+            console.log("Document written with ID: ", docRef.id);
+            window.location = "/admin/create.html?edit=" + docRef.id;
+        })
+        .catch((error) => {
+          console.error(error)
+        });
+      });
+
+      var createPost = function(){
+        
+      }
+
+      firebase.auth().onAuthStateChanged((user) => {
+        if (user) {
+          // User is signed in, see docs for a list of available properties
+          // https://firebase.google.com/docs/reference/js/firebase.User
+          var uid = user.uid;
+          window.current_user_email = user.email;
+          window.current_user = user.uid;
+          console.log('User is signed in')
+          $('#login').hide();
+          $('#blog-tool').show()
+
+          initDashboard();
+        } else {
+          // User is signed out
+          $('#blog-tool').hide()
+          $('#login').show();
+          console.log('User is signed out')
+        }
+      });
+      
+      function login(email, password){
+        firebase.auth().setPersistence(firebase.auth.Auth.Persistence.LOCAL)
+        .then(() => {
+          return firebase.auth().signInWithEmailAndPassword(email, password);
+        })
+        .catch((error) => {
+          // Handle Errors here.
+          var errorCode = error.code;
+          var errorMessage = error.message;
+        });
+      }
+
+      $(document).ready(function(){
+        $(document).on('submit', '#form-signin', function(e){
+          e.preventDefault();
+          console.log('logging in')
+          var email = $('#inputEmail').val()
+          var password = $('#inputPassword').val()
+
+          login(email, password);
+        })
+
+        $('#logout').on('click', function(){
+          firebase.auth().signOut().then(function() {
+            window.location = '/admin/dashboard.html'
+          }, function(error) {
+          console.log('error')
+          });
+        })
+      });
+    </script>
+  </body>
+  <style>
+    #login{
+      width: 100%;
+      max-width: 330px;
+      padding: 15px;
+      margin: 0 auto;
+    }
+  </style>
+</html>
