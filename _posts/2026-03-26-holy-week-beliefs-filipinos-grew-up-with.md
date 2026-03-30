@@ -27,6 +27,7 @@ read_time: 4 minutes
 published: true
 ---
 
+
 Holy Week in the Philippines is more than a religious observance, it’s a blend of faith, culture, and tradition passed down through generations.
 
 
