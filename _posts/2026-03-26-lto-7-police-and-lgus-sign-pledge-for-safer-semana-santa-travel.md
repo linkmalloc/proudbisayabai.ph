@@ -10,9 +10,9 @@ description: >-
 categories:
   - story
 tags:
-  - HolyWeek
   - Lent
   - Travel
+  - HolyWeek2026
 views: '10'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1396/88bb361774511348-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1396/88bb361774511348-2.jpeg
@@ -28,6 +28,9 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
+
 
 Mystery riders will be deployed for the first time in Central Visayas as the Land Transportation Office (LTO) 7 launched “Oplan Biyaheng Ayos: Semana Santa 2026” on March 25 to ensure safer travel during the Holy Week exodus.
 
