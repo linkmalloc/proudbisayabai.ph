@@ -12,7 +12,6 @@ categories:
 tags:
   - LapuLapuCity
   - Fuel
-  - HolyWeek2026
 views: '10'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1400/5010f21774586444-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1400/5010f21774586444-2.jpeg
@@ -28,6 +27,8 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
 
 
 
