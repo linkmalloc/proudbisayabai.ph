@@ -6,12 +6,16 @@
   <title>Admin Login — Proud Bisaya Bai</title>
   <script src="https://cdn.tailwindcss.com"></script>
   <script>
+    const API_BASE = window.location.hostname === 'localhost'
+      ? 'http://localhost:3000'
+      : 'https://metamix.app';
+
     // Redirect to dashboard if token is still valid
     (async () => {
       const token = localStorage.getItem('admin_token');
       if (!token) return;
       try {
-        const res = await fetch('http://localhost:3000/api/v1/auth/validate', {
+        const res = await fetch(`${API_BASE}/api/v1/auth/validate`, {
           headers: { 'Authorization': `Bearer ${token}` },
         });
         if (res.ok) {
@@ -108,47 +112,47 @@
   </div>
 
   <script>
-    // async function handleLogin(e) {
-    //   e.preventDefault();
-    //   const email = document.getElementById('email').value.trim();
-    //   const password = document.getElementById('password').value;
-    //   const errorMsg = document.getElementById('errorMsg');
-    //   const btn = e.submitter;
+    async function handleLogin(e) {
+      e.preventDefault();
+      const email = document.getElementById('email').value.trim();
+      const password = document.getElementById('password').value;
+      const errorMsg = document.getElementById('errorMsg');
+      const btn = e.submitter;
 
-    //   if (!email || !password) {
-    //     errorMsg.textContent = 'Please fill in all fields.';
-    //     errorMsg.classList.remove('hidden');
-    //     return;
-    //   }
+      if (!email || !password) {
+        errorMsg.textContent = 'Please fill in all fields.';
+        errorMsg.classList.remove('hidden');
+        return;
+      }
 
-    //   errorMsg.classList.add('hidden');
-    //   btn.disabled = true;
-    //   btn.textContent = 'Signing in…';
+      errorMsg.classList.add('hidden');
+      btn.disabled = true;
+      btn.textContent = 'Signing in…';
 
-    //   try {
-    //     const res = await fetch('http://localhost:3000/auth/login', {
-    //       method: 'POST',
-    //       headers: { 'Content-Type': 'application/json' },
-    //       body: JSON.stringify({ email, password }),
-    //     });
-    //     const data = await res.json().catch(() => ({}));
-    //     if (res.ok) {
-    //       // Store token if returned, then redirect
-    //       if (data.token) localStorage.setItem('admin_token', data.token);
-    //       window.location.href = data.redirect || '/admin/dashboard.html';
-    //     } else {
-    //       errorMsg.textContent = data.message || 'Invalid credentials. Please try again.';
-    //       errorMsg.classList.remove('hidden');
-    //     }
-    //   } catch (err) {
-    //     debugger
-    //     errorMsg.textContent = 'Unable to reach the server. Please try again.';
-    //     errorMsg.classList.remove('hidden');
-    //   } finally {
-    //     btn.disabled = false;
-    //     btn.textContent = 'Sign In';
-    //   }
-    // }
+      try {
+        const res = await fetch(`${API_BASE}/auth/login`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ email, password }),
+        });
+        const data = await res.json().catch(() => ({}));
+        if (res.ok) {
+          // Store token if returned, then redirect
+          if (data.token) localStorage.setItem('admin_token', data.token);
+          window.location.href = data.redirect || '/admin/dashboard.html';
+        } else {
+          errorMsg.textContent = data.message || 'Invalid credentials. Please try again.';
+          errorMsg.classList.remove('hidden');
+        }
+      } catch (err) {
+        debugger
+        errorMsg.textContent = 'Unable to reach the server. Please try again.';
+        errorMsg.classList.remove('hidden');
+      } finally {
+        btn.disabled = false;
+        btn.textContent = 'Sign In';
+      }
+    }
   </script>
 </body>
 </html>

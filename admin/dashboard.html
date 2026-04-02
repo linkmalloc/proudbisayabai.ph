@@ -12,6 +12,110 @@
   <script src="https://cdn.quilljs.com/1.3.7/quill.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/quill-image-resize-module@3.0.0/image-resize.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/turndown/dist/turndown.js"></script>
+  <script type="module">
+    import { Editor } from 'https://esm.sh/@tiptap/core@2'
+    import StarterKit from 'https://esm.sh/@tiptap/starter-kit@2'
+    import Image from 'https://esm.sh/@tiptap/extension-image@2'
+    import Link from 'https://esm.sh/@tiptap/extension-link@2'
+
+    const ResizableImage = Image.extend({
+      addAttributes() {
+        return {
+          ...this.parent?.(),
+          width: {
+            default: null,
+            parseHTML: el => el.style.width || el.getAttribute('width') || null,
+            renderHTML: attrs => attrs.width ? { style: `width: ${attrs.width}` } : {},
+          },
+        }
+      },
+      addNodeView() {
+        return ({ node, editor, getPos }) => {
+          let currentNode = node
+
+          const wrapper = document.createElement('div')
+          wrapper.className = 'tiptap-image-wrapper'
+
+          const img = document.createElement('img')
+          img.src = node.attrs.src || ''
+          img.alt = node.attrs.alt || ''
+          if (node.attrs.width) img.style.width = node.attrs.width
+
+          const handle = document.createElement('div')
+          handle.className = 'tiptap-resize-handle'
+          handle.contentEditable = 'false'
+
+          wrapper.appendChild(img)
+          wrapper.appendChild(handle)
+
+          function applyResize(newWidth) {
+            if (typeof getPos !== 'function') return
+            editor.view.dispatch(
+              editor.view.state.tr.setNodeMarkup(getPos(), undefined, {
+                ...currentNode.attrs,
+                width: newWidth + 'px',
+              })
+            )
+          }
+
+          // Mouse resize
+          handle.addEventListener('mousedown', (e) => {
+            e.preventDefault()
+            e.stopPropagation()
+            const startX = e.clientX
+            const startWidth = img.offsetWidth || img.naturalWidth || 300
+            const onMove = (e) => {
+              img.style.width = Math.max(50, startWidth + e.clientX - startX) + 'px'
+            }
+            const onUp = () => {
+              applyResize(parseInt(img.style.width) || startWidth)
+              document.removeEventListener('mousemove', onMove)
+              document.removeEventListener('mouseup', onUp)
+            }
+            document.addEventListener('mousemove', onMove)
+            document.addEventListener('mouseup', onUp)
+          })
+
+          // Touch resize
+          handle.addEventListener('touchstart', (e) => {
+            e.preventDefault()
+            e.stopPropagation()
+            const startX = e.touches[0].clientX
+            const startWidth = img.offsetWidth || img.naturalWidth || 300
+            const onMove = (e) => {
+              img.style.width = Math.max(50, startWidth + e.touches[0].clientX - startX) + 'px'
+            }
+            const onEnd = () => {
+              applyResize(parseInt(img.style.width) || startWidth)
+              document.removeEventListener('touchmove', onMove)
+              document.removeEventListener('touchend', onEnd)
+            }
+            document.addEventListener('touchmove', onMove, { passive: false })
+            document.addEventListener('touchend', onEnd)
+          }, { passive: false })
+
+          return {
+            dom: wrapper,
+            update(updatedNode) {
+              if (updatedNode.type.name !== 'image') return false
+              currentNode = updatedNode
+              img.src = updatedNode.attrs.src || ''
+              img.alt = updatedNode.attrs.alt || ''
+              img.style.width = updatedNode.attrs.width || ''
+              return true
+            },
+            selectNode() { wrapper.classList.add('selected') },
+            deselectNode() { wrapper.classList.remove('selected') },
+          }
+        }
+      },
+    })
+
+    window.TiptapEditor = Editor
+    window.TiptapStarterKit = StarterKit
+    window.TiptapImage = ResizableImage
+    window.TiptapLink = Link
+  </script>
 </head>
 <body class="min-h-screen bg-gray-100">
 
@@ -303,6 +407,7 @@
                 </template>
                 <!-- Desktop preview + save -->
                 <template v-if="!isMobile">
+
                   <button @click="viewPost(editingPost)"
                     class="px-4 py-1.5 text-sm bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition font-medium">
                     Preview
@@ -511,7 +616,58 @@
 
               <!-- Right panel: WYSIWYG editor -->
               <div v-show="!isMobile || editStep === 2" class="flex-1 overflow-hidden flex flex-col">
-                <div id="quill-editor" class="flex-1 overflow-y-auto text-gray-800 text-sm"></div>
+                <!-- Editor toggle bar -->
+                <div class="flex items-center gap-1 px-3 py-1.5 border-b border-gray-100 bg-gray-50 flex-shrink-0">
+                  <span class="text-xs text-gray-400 mr-2 hidden">Editor</span>
+                  <div class="flex bg-gray-200 rounded-lg p-0.5 gap-0.5">
+                    <button @click="switchToEditor('quill')"
+                      :class="activeEditor === 'quill' ? 'bg-white shadow-sm text-gray-800 font-medium' : 'text-gray-500 hover:text-gray-700'"
+                      class="px-3 py-1 text-xs rounded-md transition">
+                      Editor
+                    </button>
+                    <button @click="switchToEditor('tiptap')"
+                      :class="activeEditor === 'tiptap' ? 'bg-white shadow-sm text-gray-800 font-medium' : 'text-gray-500 hover:text-gray-700'"
+                      class="px-3 py-1 text-xs rounded-md transition hidden">
+                      Tiptap
+                    </button>
+                    <button @click="switchToEditor('markdown')"
+                      :class="activeEditor === 'markdown' ? 'bg-white shadow-sm text-gray-800 font-medium' : 'text-gray-500 hover:text-gray-700'"
+                      class="px-3 py-1 text-xs rounded-md transition">
+                      Markdown
+                    </button>
+                  </div>
+                </div>
+                <!-- Quill editor -->
+                <div v-show="activeEditor === 'quill'" id="quill-editor" class="flex-1 overflow-y-auto text-gray-800 text-sm"></div>
+                <!-- Tiptap editor -->
+                <div v-show="activeEditor === 'tiptap'" class="flex-1 overflow-hidden flex flex-col hidden">
+                  <!-- Tiptap toolbar -->
+                  <div class="flex flex-wrap items-center gap-0.5 px-2 py-1.5 border-b border-gray-200 bg-white flex-shrink-0">
+                    <button @click="tiptapCmd('heading', {level: 1})" :class="tiptapActive('heading', {level:1}) ? 'bg-gray-200' : 'hover:bg-gray-100'" class="tiptap-btn">H1</button>
+                    <button @click="tiptapCmd('heading', {level: 2})" :class="tiptapActive('heading', {level:2}) ? 'bg-gray-200' : 'hover:bg-gray-100'" class="tiptap-btn">H2</button>
+                    <button @click="tiptapCmd('heading', {level: 3})" :class="tiptapActive('heading', {level:3}) ? 'bg-gray-200' : 'hover:bg-gray-100'" class="tiptap-btn">H3</button>
+                    <div class="w-px h-4 bg-gray-200 mx-0.5"></div>
+                    <button @click="tiptapCmd('bold')" :class="tiptapActive('bold') ? 'bg-gray-200' : 'hover:bg-gray-100'" class="tiptap-btn font-bold">B</button>
+                    <button @click="tiptapCmd('italic')" :class="tiptapActive('italic') ? 'bg-gray-200' : 'hover:bg-gray-100'" class="tiptap-btn italic">I</button>
+                    <button @click="tiptapCmd('strike')" :class="tiptapActive('strike') ? 'bg-gray-200' : 'hover:bg-gray-100'" class="tiptap-btn"><s>S</s></button>
+                    <button @click="tiptapCmd('code')" :class="tiptapActive('code') ? 'bg-gray-200' : 'hover:bg-gray-100'" class="tiptap-btn font-mono">`</button>
+                    <div class="w-px h-4 bg-gray-200 mx-0.5"></div>
+                    <button @click="tiptapCmd('bulletList')" :class="tiptapActive('bulletList') ? 'bg-gray-200' : 'hover:bg-gray-100'" class="tiptap-btn">• List</button>
+                    <button @click="tiptapCmd('orderedList')" :class="tiptapActive('orderedList') ? 'bg-gray-200' : 'hover:bg-gray-100'" class="tiptap-btn">1. List</button>
+                    <button @click="tiptapCmd('blockquote')" :class="tiptapActive('blockquote') ? 'bg-gray-200' : 'hover:bg-gray-100'" class="tiptap-btn">&ldquo; Quote</button>
+                    <button @click="tiptapCmd('codeBlock')" :class="tiptapActive('codeBlock') ? 'bg-gray-200' : 'hover:bg-gray-100'" class="tiptap-btn font-mono">&lt;/&gt;</button>
+                    <div class="w-px h-4 bg-gray-200 mx-0.5"></div>
+                    <button @click="tiptapInsertImage()" class="tiptap-btn hover:bg-gray-100">Image</button>
+                    <button @click="tiptapSetLink()" :class="tiptapActive('link') ? 'bg-gray-200' : 'hover:bg-gray-100'" class="tiptap-btn">Link</button>
+                    <div class="w-px h-4 bg-gray-200 mx-0.5"></div>
+                    <button @click="tiptapCmd('clearNodes')" class="tiptap-btn hover:bg-gray-100" title="Clear formatting">Clear</button>
+                  </div>
+                  <div id="tiptap-editor" class="flex-1 overflow-y-auto"></div>
+                </div>
+                <!-- Markdown preview panel -->
+                <div v-show="activeEditor === 'markdown'" class="flex-1 overflow-y-auto bg-gray-50">
+                  <pre class="p-6 text-xs font-mono text-gray-700 whitespace-pre-wrap break-all leading-relaxed">{{ markdownOutput }}</pre>
+                </div>
               </div>
 
             </div>
@@ -731,6 +887,36 @@
     #quill-editor img { max-width: 100%; border-radius: 0.5rem; margin: 0.5rem 0; cursor: pointer; }
     .ql-toolbar { flex-shrink: 0; border-left: none !important; border-right: none !important; border-top: none !important; border-bottom: 1px solid #e5e7eb !important; }
     .ql-container { border: none !important; flex: 1; overflow-y: auto; }
+
+    /* Tiptap editor — matches Quill snow theme spacing (margin: 0 on all blocks, spacing from line-height only) */
+    .tiptap-btn { padding: 3px 8px; border-radius: 4px; font-size: 0.72rem; line-height: 1.5; transition: background 0.15s; }
+    #tiptap-editor .ProseMirror { min-height: 400px; outline: none; padding: 1.5rem; font-size: 0.9rem; line-height: 1.7; color: #1f2937; }
+    #tiptap-editor .ProseMirror p,
+    #tiptap-editor .ProseMirror h1,
+    #tiptap-editor .ProseMirror h2,
+    #tiptap-editor .ProseMirror h3,
+    #tiptap-editor .ProseMirror ul,
+    #tiptap-editor .ProseMirror ol,
+    #tiptap-editor .ProseMirror pre,
+    #tiptap-editor .ProseMirror blockquote { margin: 0; padding: 0; }
+    #tiptap-editor .ProseMirror h1 { font-size: 1.5rem; font-weight: 700; color: #111; }
+    #tiptap-editor .ProseMirror h2 { font-size: 1.25rem; font-weight: 700; color: #111; }
+    #tiptap-editor .ProseMirror h3 { font-size: 1.1rem; font-weight: 700; color: #111; }
+    #tiptap-editor .ProseMirror ul { list-style: disc; padding-left: 1.5rem; }
+    #tiptap-editor .ProseMirror ol { list-style: decimal; padding-left: 1.5rem; }
+    #tiptap-editor .ProseMirror blockquote { border-left: 3px solid #e5e7eb; padding-left: 1rem; color: #6b7280; }
+    #tiptap-editor .ProseMirror code { background: #f3f4f6; padding: 0.1em 0.3em; border-radius: 3px; font-size: 0.85em; font-family: monospace; }
+    #tiptap-editor .ProseMirror pre { background: #1e293b; color: #e2e8f0; padding: 1rem; border-radius: 0.5rem; overflow-x: auto; }
+    #tiptap-editor .ProseMirror pre code { background: none; padding: 0; color: inherit; }
+    /* Tiptap image resizer */
+    .tiptap-image-wrapper { display: inline-block; position: relative; max-width: 100%; margin: 0.5rem 0; line-height: 0; }
+    .tiptap-image-wrapper img { display: block; max-width: 100%; border-radius: 0.5rem; cursor: default; }
+    .tiptap-image-wrapper.selected img { outline: 2px solid #3b82f6; border-radius: 0.5rem; }
+    .tiptap-resize-handle { display: none; position: absolute; bottom: -5px; right: -5px; width: 12px; height: 12px; background: #3b82f6; border: 2px solid #fff; border-radius: 2px; cursor: se-resize; z-index: 10; }
+    .tiptap-image-wrapper.selected .tiptap-resize-handle { display: block; }
+    #tiptap-editor .ProseMirror a { color: #f97316; text-decoration: underline; }
+    #tiptap-editor .ProseMirror strong { font-weight: 700; }
+    #tiptap-editor .ProseMirror em { font-style: italic; }
 
     .drawer-enter-active, .drawer-leave-active { transition: opacity 0.3s ease; }
     .drawer-enter-active .relative, .drawer-leave-active .relative { transition: transform 0.3s ease; }
