@@ -476,7 +476,7 @@
                   <template v-if="isMobile || editMetaTab === 'metadata'">
                     <div>
                       <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">Title</label>
-                      <textarea v-model="editTitle" rows="3" @input="titleInvalid = false"
+                      <textarea v-model="editTitle" rows="3" @input="titleInvalid = false" @blur="onTitleBlur"
                         :class="titleInvalid ? 'border-red-500 ring-1 ring-red-500' : 'border-gray-200'"
                         class="w-full px-3 py-2 border rounded-lg text-sm text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition resize-none"></textarea>
                     </div>
@@ -505,8 +505,10 @@
                         <span :class="editSlugTitle.length >= 50 ? 'text-red-400' : 'text-gray-300'" class="text-xs">{{ editSlugTitle.length }}/50</span>
                       </div>
                       <input v-model="editSlugTitle" type="text" placeholder="custom-url-slug" maxlength="50"
+                        :disabled="editingPost && editingPost.published"
                         @blur="editSlugTitle = slugify(editSlugTitle)"
-                        class="w-full px-3 py-2 border border-gray-200 rounded-lg text-xs text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition font-mono" />
+                        :class="editingPost && editingPost.published ? 'bg-gray-100 text-gray-400 cursor-not-allowed' : 'bg-white text-gray-800'"
+                        class="w-full px-3 py-2 border border-gray-200 rounded-lg text-xs focus:outline-none focus:ring-2 focus:ring-orange-400 transition font-mono" />
                     </div>
                     <div>
                       <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-2">Category</label>
@@ -525,13 +527,14 @@
                     <div>
                       <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">Tags <span class="text-gray-300 font-normal normal-case tracking-normal">(comma or Enter)</span></label>
                       <input v-model="editTagsRaw" type="text" placeholder="Add a tag…"
-                        @input="addTag" @keydown.enter.prevent="addTagOnEnter"
-                        class="w-full px-3 py-2 border border-gray-200 rounded-lg text-xs text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition" />
-                      <div v-if="editTags.length" class="flex flex-wrap gap-1 mt-2">
+                        @input="addTag(); tagsInvalid = false" @keydown.enter.prevent="addTagOnEnter(); tagsInvalid = false"
+                        :class="tagsInvalid ? 'border-red-500 ring-1 ring-red-500' : 'border-gray-200'"
+                        class="w-full px-3 py-2 border rounded-lg text-xs text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition" />
+                      <div v-if="editTags.length" class="flex flex-wrap gap-2 mt-2">
                         <span v-for="tag in editTags" :key="tag"
-                          class="flex items-center gap-1 px-2 py-0.5 bg-orange-50 text-orange-600 text-xs rounded-full">
+                          class="flex items-center gap-1.5 px-3 py-1 bg-orange-50 text-orange-600 text-sm font-medium rounded-full">
                           {{ tag }}
-                          <button @click="removeTag(tag)" class="text-orange-400 hover:text-orange-700 leading-none">&times;</button>
+                          <button @click="removeTag(tag)" class="flex items-center justify-center w-4 h-4 rounded-full bg-orange-200 hover:bg-orange-400 hover:text-white text-orange-600 transition text-xs leading-none">&times;</button>
                         </span>
                       </div>
                     </div>
@@ -636,7 +639,7 @@
               </div>
 
               <!-- Right panel: WYSIWYG editor -->
-              <div v-show="!isMobile || editStep === 2" class="flex-1 overflow-hidden flex flex-col">
+              <div v-show="!isMobile || editStep === 2" :class="activeEditor === 'markdown' ? 'is-markdown' : ''" class="flex-1 overflow-hidden flex flex-col">
                 <!-- Editor toggle bar -->
                 <div class="flex items-center gap-1 px-3 py-1.5 border-b border-gray-100 bg-gray-50 flex-shrink-0">
                   <span class="text-xs text-gray-400 mr-2 hidden">Editor</span>
@@ -686,8 +689,9 @@
                   <div id="tiptap-editor" class="flex-1 overflow-y-auto"></div>
                 </div>
                 <!-- Markdown preview panel -->
-                <div v-show="activeEditor === 'markdown'" class="flex-1 overflow-y-auto bg-gray-50">
-                  <pre class="p-6 text-xs font-mono text-gray-700 whitespace-pre-wrap break-all leading-relaxed">{{ markdownOutput }}</pre>
+                <div v-show="activeEditor === 'markdown'" class="flex-1 overflow-hidden flex flex-col bg-gray-50">
+                  <textarea v-model="markdownOutput" spellcheck="false" @blur="onMarkdownBlur"
+                    class="flex-1 w-full h-full p-6 text-xs font-mono text-gray-700 bg-gray-50 border-none outline-none resize-none leading-relaxed"></textarea>
                 </div>
               </div>
 
@@ -976,6 +980,10 @@
     }
     .prose strong { font-weight: 700; }
     .prose em { font-style: italic; }
+    .is-markdown .ql-toolbar { display: none !important; }
+    .ql-undo, .ql-redo { font-size: 1rem !important; line-height: 1 !important; color: #444 !important; width: 28px !important; height: 24px !important; display: inline-flex !important; align-items: center !important; justify-content: center !important; border-radius: 4px !important; transition: background 0.15s !important; }
+    .ql-undo:hover, .ql-redo:hover { background: #e5e7eb !important; }
+    .ql-undo:active, .ql-redo:active { background: #d1d5db !important; transform: scale(0.92); }
   </style>
 
   <script src="dashboard.js"></script>

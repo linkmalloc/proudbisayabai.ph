@@ -42,6 +42,7 @@ createApp({
     const titleInvalid = ref(false);
     const descriptionInvalid = ref(false);
     const authorInvalid = ref(false);
+    const tagsInvalid = ref(false);
     const editTagsRaw = ref('');
     const editTags = ref([]);
     const postCategories = ['story', 'destination', 'food', 'brand'];
@@ -235,6 +236,7 @@ createApp({
       titleInvalid.value = false;
       descriptionInvalid.value = false;
       authorInvalid.value = false;
+      tagsInvalid.value = false;
       editTags.value = [].concat(post.fm.tags || []).map(t => String(t).trim().replace(/,+$/, '')).filter(Boolean);
       editTagsRaw.value = '';
       editFeatureImage.value = post.fm.img_big_1000x600 || '';
@@ -462,7 +464,7 @@ createApp({
           document.execCommand('copy');
           copiedImageIndex.value = index;
           setTimeout(() => { copiedImageIndex.value = null; }, 2000);
-        } catch {
+        } catch (e) {
           prompt('Copy this URL:', cfUrl);
         }
         document.body.removeChild(el);
@@ -614,6 +616,20 @@ createApp({
         return;
       }
 
+      // Sync markdown textarea back to rich editor
+      if (from === 'markdown') {
+        const bodyMatch = markdownOutput.value.match(/^---[\s\S]*?---\n\n?([\s\S]*)$/);
+        const body = bodyMatch ? bodyMatch[1] : markdownOutput.value;
+        const html = marked.parse(body);
+        if (type === 'quill' && quillEditor) {
+          quillEditor.root.innerHTML = html;
+          quillDirty = true;
+        } else if (type === 'tiptap' && tiptapEditor) {
+          tiptapEditor.commands.setContent(html, false);
+        }
+        editBodyHtml = html;
+      }
+
       // Sync between rich editors (skip if coming from markdown — each rich editor keeps its own state)
       if (from !== 'markdown') {
         if (type === 'tiptap' && tiptapEditor && quillDirty && quillEditor) {
@@ -702,8 +718,16 @@ createApp({
         editStep.value = 1;
         editMetaTab.value = 'metadata';
         nextTick(() => {
-          document.querySelector('textarea[data-title]')?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          const titleEl = document.querySelector('textarea[data-title]');
+          if (titleEl) titleEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
         });
+        return;
+      }
+      if (!editTags.value.length) {
+        errorToast('At least 1 tag is required.');
+        tagsInvalid.value = true;
+        editStep.value = 1;
+        editMetaTab.value = 'metadata';
         return;
       }
       if (!editAuthor.value.trim()) {
@@ -719,7 +743,7 @@ createApp({
         editStep.value = 1;
         editMetaTab.value = 'metadata';
         nextTick(() => {
-          categorySelect.value?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          if (categorySelect.value) categorySelect.value.scrollIntoView({ behavior: 'smooth', block: 'center' });
         });
         return;
       }
@@ -729,7 +753,7 @@ createApp({
         editStep.value = 1;
         editMetaTab.value = 'metadata';
         nextTick(() => {
-          categorySelect.value?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+          if (categorySelect.value) categorySelect.value.scrollIntoView({ behavior: 'smooth', block: 'center' });
         });
         return;
       }
@@ -779,13 +803,30 @@ createApp({
       }
     }
 
-    watch(editTitle, (title) => {
-      // Only auto-update if slug matches the previous auto-generated value
-      const autoSlug = slugify((editingPost.value && editingPost.value.fm.title) || '');
-      if (editSlugTitle.value === autoSlug || !editSlugTitle.value) {
-        editSlugTitle.value = slugify(title);
+    function onMarkdownBlur() {
+      const fmMatch = markdownOutput.value.match(/^---\n([\s\S]*?)\n---/);
+      if (!fmMatch) return;
+      try {
+        const fm = jsyaml.load(fmMatch[1]);
+        if (!fm || typeof fm !== 'object') return;
+        if (fm.title !== undefined) editTitle.value = fm.title || '';
+        if (fm.description !== undefined) editDescription.value = fm.description || '';
+        if (fm.author !== undefined) editAuthor.value = fm.author || '';
+        if (fm.categories !== undefined) editCategory.value = (Array.isArray(fm.categories) ? fm.categories[0] : fm.categories) || '';
+        if (fm.tags !== undefined) {
+          const tags = Array.isArray(fm.tags) ? fm.tags : String(fm.tags).split(',').map(t => t.trim()).filter(Boolean);
+          editTags.value = tags;
+          editTagsRaw.value = '';
+        }
+      } catch (e) { /* invalid yaml, skip */ }
+    }
+
+    function onTitleBlur() {
+      const isUnpublished = editingPost.value && !editingPost.value.published;
+      if (!editSlugTitle.value || isUnpublished) {
+        editSlugTitle.value = slugify(editTitle.value);
       }
-    });
+    }
 
     watch(editingPost, async (post) => {
       if (!post) return;
@@ -825,19 +866,40 @@ createApp({
       quillEditor.root.innerHTML = html;
       quillEditor.on('text-change', () => { quillDirty = true; });
 
-      // Undo / redo handlers
-      const historyModule = quillEditor.getModule('history');
-      quillEditor.getModule('toolbar').addHandler('undo', () => { historyModule.undo(); });
-      quillEditor.getModule('toolbar').addHandler('redo', () => { historyModule.redo(); });
-      // Set undo/redo button labels
+      // Undo / redo
       const toolbarEl = quillEditor.getModule('toolbar').container;
-      toolbarEl.querySelector('.ql-undo').innerHTML = '↩';
-      toolbarEl.querySelector('.ql-redo').innerHTML = '↪';
+      const undoBtn = toolbarEl.querySelector('.ql-undo');
+      const redoBtn = toolbarEl.querySelector('.ql-redo');
+      undoBtn.innerHTML = '↩';
+      redoBtn.innerHTML = '↪';
+      undoBtn.addEventListener('mousedown', (e) => {
+        e.preventDefault();
+        if (navigator.vibrate) navigator.vibrate(30);
+        quillEditor.history.undo();
+        quillEditor.focus();
+      });
+      redoBtn.addEventListener('mousedown', (e) => {
+        e.preventDefault();
+        if (navigator.vibrate) navigator.vibrate(30);
+        quillEditor.history.redo();
+        quillEditor.focus();
+      });
 
       // Override image toolbar button to show insert modal
       quillEditor.getModule('toolbar').addHandler('image', () => {
         imageInsertModal.url = '';
         imageInsertModal.visible = true;
+      });
+
+      // Paste image URL as <img> tag
+      quillEditor.root.addEventListener('paste', (e) => {
+        const text = e.clipboardData.getData('text/plain').trim();
+        if (/^https?:\/\/.+\.(jpg|jpeg|png|gif|webp|svg)(\?.*)?$/i.test(text)) {
+          e.preventDefault();
+          const range = quillEditor.getSelection(true) || { index: quillEditor.getLength() };
+          quillEditor.insertEmbed(range.index, 'image', text);
+          quillEditor.setSelection(range.index + 1);
+        }
       });
 
       // Drop uploaded image URL into editor
@@ -889,7 +951,7 @@ createApp({
     });
 
     return {
-      validating, isMobile, sidebarOpen, currentPage, openGroups, toast, notifyToast, errorToast, categorySelect, categoryInvalid, titleInvalid, descriptionInvalid, authorInvalid,
+      validating, isMobile, sidebarOpen, currentPage, openGroups, toast, notifyToast, errorToast, categorySelect, categoryInvalid, titleInvalid, descriptionInvalid, authorInvalid, tagsInvalid,
       loadingPosts, posts, postsError, pagination,
       toggleGroup, navigate, logout, goToPage, pageNumbers, viewPost, editPost, deletePost, actionSheet, openActionSheet,
       search, onSearch, previewPost, renderedContent, liveUrl, closePreview,
@@ -898,7 +960,7 @@ createApp({
       featureImageDragOver, onImageDragStart, onFeatureImageDrop,
       imageInsertModal, insertImageByUrl, insertImageFromDevice,
       attachmentQueue, uploadedImages, copiedImageIndex, copiedImageBlobIndex, onAttachmentSelect, onAttachmentDrop, removeAttachment, retryAttachment, deleteUploadedImage, copyImageUrl, copyImageBlob, toCloudFrontUrl,
-      editSlugTitle, editCategory, editTagsRaw, editTags, postCategories,
+      editSlugTitle, editCategory, editTagsRaw, editTags, postCategories, onTitleBlur, onMarkdownBlur,
       addTag, addTagOnEnter, removeTag, slugify,
       saving, saveSuccess, editStep, editMetaTab, closeEditor, savePost,
       activeEditor, markdownOutput, switchToEditor, tiptapCmd, tiptapActive, tiptapInsertImage, tiptapSetLink,
