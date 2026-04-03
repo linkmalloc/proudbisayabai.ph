@@ -4,6 +4,10 @@ on:
     branches:
       - master  # Adjust this if your primary branch is named "master"
 
+concurrency:
+  group: deploy-master
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
