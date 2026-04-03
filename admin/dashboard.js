@@ -1,8 +1,11 @@
 const { createApp, ref, reactive, watch, nextTick, onMounted, onUnmounted } = Vue;
 
-const API_BASE = window.location.hostname === 'localhost'
+const _h = window.location.hostname;
+const API_BASE = _h === 'localhost'
   ? 'http://localhost:3000'
-  : 'https://metamix.app';
+  : _h.startsWith('192.168.')
+    ? 'http://192.168.1.75:3000'
+    : 'https://metamix.app';
 
 createApp({
   setup() {
@@ -34,6 +37,11 @@ createApp({
     let attachmentIdCounter = 0;
     const editSlugTitle = ref('');
     const editCategory = ref('');
+    const categorySelect = ref(null);
+    const categoryInvalid = ref(false);
+    const titleInvalid = ref(false);
+    const descriptionInvalid = ref(false);
+    const authorInvalid = ref(false);
     const editTagsRaw = ref('');
     const editTags = ref([]);
     const postCategories = ['story', 'destination', 'food', 'brand'];
@@ -76,11 +84,14 @@ createApp({
       });
     }
 
-    function notifyToast(message, duration = 2500) {
-      toast.mode = 'notify';
+    function notifyToast(message, duration = 2500, mode = 'notify') {
+      toast.mode = mode;
       toast.message = message;
       toast.visible = true;
       setTimeout(() => { toast.visible = false; }, duration);
+    }
+    function errorToast(message, duration = 3000) {
+      notifyToast(message, duration, 'error');
     }
     const turndownService = new TurndownService({ headingStyle: 'atx', codeBlockStyle: 'fenced' });
     // Preserve image width (set by Quill resize or Tiptap resize) as inline HTML in the markdown
@@ -220,6 +231,10 @@ createApp({
       editAuthor.value = post.fm.author || '';
       editSlugTitle.value = post.slug_title ? post.slug_title.slice(0, 50) : slugify(post.fm.title || '');
       editCategory.value = (post.fm.categories && post.fm.categories[0]) || '';
+      categoryInvalid.value = false;
+      titleInvalid.value = false;
+      descriptionInvalid.value = false;
+      authorInvalid.value = false;
       editTags.value = [].concat(post.fm.tags || []).map(t => String(t).trim().replace(/,+$/, '')).filter(Boolean);
       editTagsRaw.value = '';
       editFeatureImage.value = post.fm.img_big_1000x600 || '';
@@ -437,7 +452,20 @@ createApp({
         copiedImageIndex.value = index;
         setTimeout(() => { copiedImageIndex.value = null; }, 2000);
       } catch (e) {
-        prompt('Copy this URL:', cfUrl);
+        const el = document.createElement('textarea');
+        el.value = cfUrl;
+        el.style.cssText = 'position:fixed;top:0;left:0;opacity:0;';
+        document.body.appendChild(el);
+        el.focus();
+        el.select();
+        try {
+          document.execCommand('copy');
+          copiedImageIndex.value = index;
+          setTimeout(() => { copiedImageIndex.value = null; }, 2000);
+        } catch {
+          prompt('Copy this URL:', cfUrl);
+        }
+        document.body.removeChild(el);
       }
     }
 
@@ -667,8 +695,42 @@ createApp({
 
 
     async function savePost() {
+      if (!editTitle.value.trim()) {
+        errorToast('Title is required.');
+        titleInvalid.value = true;
+        descriptionInvalid.value = false;
+        editStep.value = 1;
+        editMetaTab.value = 'metadata';
+        nextTick(() => {
+          document.querySelector('textarea[data-title]')?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        });
+        return;
+      }
+      if (!editAuthor.value.trim()) {
+        errorToast('Author is required.');
+        authorInvalid.value = true;
+        editStep.value = 1;
+        editMetaTab.value = 'metadata';
+        return;
+      }
+      if (!editDescription.value.trim()) {
+        errorToast('Description is required.');
+        descriptionInvalid.value = true;
+        editStep.value = 1;
+        editMetaTab.value = 'metadata';
+        nextTick(() => {
+          categorySelect.value?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        });
+        return;
+      }
       if (!editCategory.value) {
-        notifyToast('Category is required.');
+        errorToast('Category is required.');
+        categoryInvalid.value = true;
+        editStep.value = 1;
+        editMetaTab.value = 'metadata';
+        nextTick(() => {
+          categorySelect.value?.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        });
         return;
       }
       saving.value = true;
@@ -747,6 +809,7 @@ createApp({
         theme: 'snow',
         modules: {
           imageResize: { modules: ['Resize', 'DisplaySize'] },
+          history: { delay: 500, maxStack: 100, userOnly: true },
           toolbar: [
             [{ header: [1, 2, 3, false] }],
             ['bold', 'italic', 'underline', 'strike'],
@@ -755,11 +818,21 @@ createApp({
             ['link', 'image'],
             [{ align: [] }],
             ['clean'],
+            ['undo', 'redo'],
           ],
         },
       });
       quillEditor.root.innerHTML = html;
       quillEditor.on('text-change', () => { quillDirty = true; });
+
+      // Undo / redo handlers
+      const historyModule = quillEditor.getModule('history');
+      quillEditor.getModule('toolbar').addHandler('undo', () => { historyModule.undo(); });
+      quillEditor.getModule('toolbar').addHandler('redo', () => { historyModule.redo(); });
+      // Set undo/redo button labels
+      const toolbarEl = quillEditor.getModule('toolbar').container;
+      toolbarEl.querySelector('.ql-undo').innerHTML = '↩';
+      toolbarEl.querySelector('.ql-redo').innerHTML = '↪';
 
       // Override image toolbar button to show insert modal
       quillEditor.getModule('toolbar').addHandler('image', () => {
@@ -816,7 +889,7 @@ createApp({
     });
 
     return {
-      validating, isMobile, sidebarOpen, currentPage, openGroups, toast, notifyToast,
+      validating, isMobile, sidebarOpen, currentPage, openGroups, toast, notifyToast, errorToast, categorySelect, categoryInvalid, titleInvalid, descriptionInvalid, authorInvalid,
       loadingPosts, posts, postsError, pagination,
       toggleGroup, navigate, logout, goToPage, pageNumbers, viewPost, editPost, deletePost, actionSheet, openActionSheet,
       search, onSearch, previewPost, renderedContent, liveUrl, closePreview,

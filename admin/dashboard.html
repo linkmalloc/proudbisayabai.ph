@@ -214,17 +214,22 @@
                 <h2 class="text-lg font-semibold text-gray-700">All Posts</h2>
                 <span v-if="pagination.total" class="text-xs text-gray-400">{{ pagination.total }} posts</span>
               </div>
-              <div class="relative">
-                <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z"/>
-                </svg>
-                <input
-                  v-model="search"
-                  @input="onSearch"
-                  type="text"
-                  placeholder="Search posts…"
-                  class="pl-9 pr-4 py-2 text-sm border border-gray-200 rounded-lg bg-white focus:outline-none focus:ring-2 focus:ring-orange-400 w-full sm:w-64"
-                />
+              <div class="flex items-center gap-2">
+                <div class="relative">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 pointer-events-none" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-4.35-4.35M17 11A6 6 0 1 1 5 11a6 6 0 0 1 12 0z"/>
+                  </svg>
+                  <input
+                    v-model="search"
+                    @input="onSearch"
+                    type="text"
+                    placeholder="Search…"
+                    class="pl-9 pr-3 py-2 text-sm border border-gray-200 rounded-lg bg-white focus:outline-none focus:ring-2 focus:ring-orange-400 w-36 sm:w-64"
+                  />
+                </div>
+                <button @click="onSearch" class="md:hidden px-3 py-2 text-sm font-medium text-white rounded-lg" style="background: linear-gradient(135deg, #f95c00, #ff7a1a)">
+                  Search
+                </button>
               </div>
             </div>
 
@@ -235,11 +240,11 @@
             <template v-else>
               <div class="bg-white rounded-xl shadow overflow-hidden">
                 <div class="overflow-x-auto">
-                  <table class="w-full text-sm min-w-[480px]">
+                  <table class="w-full text-sm md:min-w-[480px]">
                     <thead class="bg-gray-50 text-gray-500 uppercase text-xs">
                       <tr>
                         <th class="px-5 py-3 text-left w-32 hidden md:table-cell"></th>
-                        <th class="px-5 py-3 text-left">Title</th>
+                        <th class="px-5 py-3 text-left max-w-0 w-full">Post</th>
                         <th class="px-5 py-3 text-left whitespace-nowrap hidden md:table-cell">Author</th>
                         <th class="px-5 py-3 text-left whitespace-nowrap hidden md:table-cell">Date</th>
                         <th class="px-5 py-3 text-left hidden md:table-cell">Status</th>
@@ -258,11 +263,18 @@
                             />
                           </div>
                         </td>
-                        <td class="px-5 py-3 font-medium text-gray-800">
-                          <div v-if="post.fm.img_big_1000x600" class="mb-2 rounded-lg overflow-hidden bg-gray-100 md:hidden" style="aspect-ratio: 1200/630;">
+                        <td class="px-5 py-3 font-medium text-gray-800 max-w-0 w-full">
+                          <div v-if="post.fm.img_big_1000x600" class="mb-2 rounded-lg overflow-hidden bg-gray-100 md:hidden" style="width:80px; aspect-ratio: 1200/630;">
                             <img :src="post.fm.img_big_1000x600" class="w-full h-full object-cover" loading="lazy" />
                           </div>
-                          {{ post.fm.title ?? '—' }}
+                          <span class="block text-xs font-semibold text-gray-400 uppercase tracking-wider mb-0.5 md:hidden">Title</span>
+                          <span class="text-xs md:text-sm">{{ post.fm.title ?? '—' }}</span>
+                          <div v-if="post.fm.categories?.length" class="flex flex-wrap gap-1 mt-1 md:hidden">
+                            <span v-for="cat in post.fm.categories" :key="cat" class="px-1.5 py-0.5 rounded text-xs font-medium bg-orange-100 text-orange-600">{{ cat }}</span>
+                          </div>
+                          <div v-if="post.fm.tags?.length" class="flex flex-wrap gap-1 mt-1 md:hidden">
+                            <span v-for="tag in post.fm.tags" :key="tag" class="px-1.5 py-0.5 rounded text-xs font-medium bg-gray-100 text-gray-500">#{{ tag }}</span>
+                          </div>
                         </td>
                         <td class="px-5 py-3 text-gray-500 whitespace-nowrap hidden md:table-cell">{{ post.fm.author ?? '—' }}</td>
                         <td class="px-5 py-3 text-gray-500 whitespace-nowrap hidden md:table-cell">
@@ -393,7 +405,7 @@
                   <template v-else>
                     <button @click="editStep = 1"
                       class="px-4 py-1.5 text-sm bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition font-medium">
-                      &larr; Back
+                      &larr; <span class="hidden sm:inline">Back</span>
                     </button>
                     <button @click="viewPost(editingPost)"
                       class="px-4 py-1.5 text-sm bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition font-medium">
@@ -464,18 +476,21 @@
                   <template v-if="isMobile || editMetaTab === 'metadata'">
                     <div>
                       <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">Title</label>
-                      <textarea v-model="editTitle" rows="3"
-                        class="w-full px-3 py-2 border border-gray-200 rounded-lg text-sm text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition resize-none"></textarea>
+                      <textarea v-model="editTitle" rows="3" @input="titleInvalid = false"
+                        :class="titleInvalid ? 'border-red-500 ring-1 ring-red-500' : 'border-gray-200'"
+                        class="w-full px-3 py-2 border rounded-lg text-sm text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition resize-none"></textarea>
                     </div>
                     <div>
                       <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">Description</label>
-                      <textarea v-model="editDescription" rows="4"
-                        class="w-full px-3 py-2 border border-gray-200 rounded-lg text-sm text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition resize-none"></textarea>
+                      <textarea v-model="editDescription" rows="4" @input="descriptionInvalid = false"
+                        :class="descriptionInvalid ? 'border-red-500 ring-1 ring-red-500' : 'border-gray-200'"
+                        class="w-full px-3 py-2 border rounded-lg text-sm text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition resize-none"></textarea>
                     </div>
                     <div>
                       <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">Author</label>
-                      <input v-model="editAuthor" type="text"
-                        class="w-full px-3 py-2 border border-gray-200 rounded-lg text-sm text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition" />
+                      <input v-model="editAuthor" type="text" @input="authorInvalid = false"
+                        :class="authorInvalid ? 'border-red-500 ring-1 ring-red-500' : 'border-gray-200'"
+                        class="w-full px-3 py-2 border rounded-lg text-sm text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition" />
                     </div>
                   </template>
 
@@ -494,12 +509,18 @@
                         class="w-full px-3 py-2 border border-gray-200 rounded-lg text-xs text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition font-mono" />
                     </div>
                     <div>
-                      <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">Category</label>
-                      <select v-model="editCategory"
-                        class="w-full px-3 py-2 border border-gray-200 rounded-lg text-xs text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition bg-white">
-                        <option value="">— Select —</option>
-                        <option v-for="cat in postCategories" :key="cat" :value="cat">{{ cat }}</option>
-                      </select>
+                      <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-2">Category</label>
+                      <div class="relative">
+                        <select ref="categorySelect" v-model="editCategory" @change="categoryInvalid = false"
+                          :class="categoryInvalid ? 'border-red-500 ring-1 ring-red-500' : 'border-gray-200 focus:ring-orange-400'"
+                          class="w-full appearance-none px-4 py-3 pr-10 border rounded-xl text-sm font-medium text-gray-800 focus:outline-none focus:ring-2 transition bg-white shadow-sm cursor-pointer">
+                          <option value="">— Select category —</option>
+                          <option v-for="cat in postCategories" :key="cat" :value="cat" class="capitalize">{{ cat }}</option>
+                        </select>
+                        <div class="pointer-events-none absolute inset-y-0 right-3 flex items-center">
+                          <svg class="w-4 h-4 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+                        </div>
+                      </div>
                     </div>
                     <div>
                       <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">Tags <span class="text-gray-300 font-normal normal-case tracking-normal">(comma or Enter)</span></label>
@@ -849,9 +870,18 @@
         </div>
       </transition>
 
+      <!-- Error banner (full-width top) -->
+      <transition name="toast">
+        <div v-if="toast.visible && toast.mode === 'error'"
+          class="fixed top-0 left-0 right-0 z-[9999] flex items-center gap-3 px-5 py-3 text-sm text-red-800 bg-red-50 border-b border-red-200">
+          <svg class="w-4 h-4 flex-shrink-0 text-red-500" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 9v4m0 4h.01M10.29 3.86L1.82 18a2 2 0 001.71 3h16.94a2 2 0 001.71-3L13.71 3.86a2 2 0 00-3.42 0z"/></svg>
+          <span class="flex-1">{{ toast.message }}</span>
+        </div>
+      </transition>
+
       <!-- Toast confirmation -->
       <transition name="toast">
-        <div v-if="toast.visible" class="fixed top-6 left-1/2 -translate-x-1/2 z-[9999] flex items-center gap-4 text-white text-sm px-5 py-3.5 rounded-2xl shadow-2xl"
+        <div v-if="toast.visible && toast.mode !== 'error'" class="fixed top-6 left-1/2 -translate-x-1/2 z-[9999] flex items-center gap-4 text-white text-sm px-5 py-3.5 rounded-2xl shadow-2xl"
           :class="toast.mode === 'notify' ? 'bg-green-600' : 'bg-gray-900'">
           <svg v-if="toast.mode === 'notify'" class="w-4 h-4 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
           <span>{{ toast.message }}</span>
@@ -935,6 +965,15 @@
     .prose li { margin: 0.25em 0; }
     .prose blockquote { border-left: 3px solid #e5e7eb; padding-left: 1rem; color: #6b7280; margin: 1em 0; }
     .prose img { max-width: 100%; border-radius: 0.5rem; margin: 1em 0; }
+    @media (max-width: 767px) {
+      input, textarea, select { font-size: 16px !important; }
+      #quill-editor, #tiptap-editor .ProseMirror { font-size: 16px !important; }
+      .ql-toolbar { padding: 8px 6px !important; }
+      .ql-toolbar .ql-formats { margin-right: 10px !important; }
+      .ql-toolbar button { width: 32px !important; height: 32px !important; padding: 4px !important; }
+      .ql-toolbar button svg { width: 18px !important; height: 18px !important; }
+      .ql-toolbar .ql-picker-label { padding: 4px 6px !important; font-size: 14px !important; }
+    }
     .prose strong { font-weight: 700; }
     .prose em { font-style: italic; }
   </style>
