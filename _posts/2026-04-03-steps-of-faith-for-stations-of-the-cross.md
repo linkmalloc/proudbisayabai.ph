@@ -27,22 +27,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Despite the heat, Catholic devotees take part in the Stations of the Cross at The Good Shepherd Celestial Garden in Banawa, Cebu City on Good Friday, April 3, 2026, an annual Holy Week tradition held in a hillside memorial park lined with life-sized statues depicting the Way of the Cross.
 
-
-
-Photos from Jacq Hernandez, PBB Photojournalist
+Photos from Jacq Hernandez, PBB Photojournalist&#x20;
