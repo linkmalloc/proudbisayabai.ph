@@ -52,6 +52,9 @@ layout: none
     {{ content }}
     {% include footer.html %}
     <!-- End Footer -->
+    <button id="scroll-to-top" aria-label="Scroll to top">
+        <i class="fas fa-chevron-up"></i>
+    </button>
     <div class="dark-mark"></div>
     <!-- Vendor JS-->
     {% include firebase.html %}
@@ -83,7 +86,13 @@ layout: none
     <script src="/assets/js/search.js"></script>
     <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=60276b8be83dc40011356b53&product=inline-share-buttons' async='async'></script>
     <script data-cfasync="false" type="text/javascript" src="/assets/js/contact-form-submission-handler.js"></script>
-   
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', function() {
+          navigator.serviceWorker.register('/sw.js');
+        });
+      }
+    </script>
 </body>
 
 </html>

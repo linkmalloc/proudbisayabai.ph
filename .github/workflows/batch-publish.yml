@@ -2,7 +2,14 @@ name: Build and Deploy to Netlify
 on:
   push:
     branches:
-      - master  # Adjust this if your primary branch is named "master"
+      - master
+  workflow_dispatch:
+    inputs:
+      full_build:
+        description: 'Build from scratch (skip incremental cache)'
+        required: false
+        default: false
+        type: boolean
 
 concurrency:
   group: deploy-master
@@ -18,12 +25,29 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' #Matches your local environment
-          bundler-cache: true # Speeds up builds by caching gems
+          ruby-version: '3.1'
+          bundler-cache: true
+
+      - name: Cache Jekyll build
+        if: ${{ !inputs.full_build }}
+        uses: actions/cache@v4
+        with:
+          path: |
+            .jekyll-metadata
+            _site
+          key: jekyll-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            jekyll-${{ runner.os }}-
 
       - name: Build Jekyll Site
         run: |
-          bundle exec jekyll build --incremental
+          if [ "${{ inputs.full_build }}" = "true" ]; then
+            echo "Running full build..."
+            bundle exec jekyll build
+          else
+            echo "Running incremental build..."
+            bundle exec jekyll build --incremental
+          fi
         env:
           JEKYLL_ENV: production
 

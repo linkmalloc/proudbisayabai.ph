@@ -1,11 +1,36 @@
 const { createApp, ref, reactive, watch, nextTick, onMounted, onUnmounted } = Vue;
 
+const POST_SKELETON_FM = {
+  author: '',
+  author2: '',
+  layout: 'post',
+  title: '',
+  description: '',
+  categories: [],
+  tags: [],
+  views: '0',
+  img_big_1000x600: '',
+  img_big_3000x1144: '',
+  img_500x500: '',
+  img_500_1: null,
+  img_500_2: null,
+  img_500_3: null,
+  img_500_4: null,
+  img_500_5: null,
+  photo_credit: '',
+  photo_credit_link: '',
+  editor: '',
+  read_time: '',
+  published: false,
+  published_at: null,
+};
+
 const _h = window.location.hostname;
-const API_BASE = _h === 'localhost'
-  ? 'http://localhost:3000'
-  : _h.startsWith('192.168.')
-    ? 'http://192.168.1.75:3000'
-    : 'https://metamix.app';
+const API_BASE = _h.includes('localhost')
+? 'http://192.168.1.75:3000'
+: _h.startsWith('192.168.')
+  ? 'http://192.168.1.75:3000'
+  : 'https://metamix.app';
 
 createApp({
   setup() {
@@ -227,19 +252,20 @@ createApp({
     }
 
     function editPost(post, updateUrl = true) {
-      editTitle.value = post.fm.title || '';
-      editDescription.value = post.fm.description || '';
-      editAuthor.value = post.fm.author || '';
-      editSlugTitle.value = post.slug_title ? post.slug_title.slice(0, 50) : slugify(post.fm.title || '');
-      editCategory.value = (post.fm.categories && post.fm.categories[0]) || '';
+      const fm = post.fm || {};
+      editTitle.value = fm.title || '';
+      editDescription.value = fm.description || '';
+      editAuthor.value = fm.author || '';
+      editSlugTitle.value = post.slug_title ? post.slug_title.slice(0, 50) : slugify(fm.title || '');
+      editCategory.value = (fm.categories && fm.categories[0]) || '';
       categoryInvalid.value = false;
       titleInvalid.value = false;
       descriptionInvalid.value = false;
       authorInvalid.value = false;
       tagsInvalid.value = false;
-      editTags.value = [].concat(post.fm.tags || []).map(t => String(t).trim().replace(/,+$/, '')).filter(Boolean);
+      editTags.value = [].concat(fm.tags || []).map(t => String(t).trim().replace(/,+$/, '')).filter(Boolean);
       editTagsRaw.value = '';
-      editFeatureImage.value = post.fm.img_big_1000x600 || '';
+      editFeatureImage.value = fm.img_big_1000x600 || '';
       editFeatureImagePreview.value = null;
       editFeatureImageFile.value = null;
       attachmentQueue.value = [];
@@ -564,6 +590,7 @@ createApp({
     function buildMarkdownDoc() {
       const markdown = turndownService.turndown(getEditorHtml());
       const fm = {
+        ...POST_SKELETON_FM,
         ...editingPost.value.fm,
         title: editTitle.value,
         description: editDescription.value,
@@ -710,7 +737,7 @@ createApp({
     }
 
 
-    async function savePost() {
+    async function savePost(publish = false) {
       if (!editTitle.value.trim()) {
         errorToast('Title is required.');
         titleInvalid.value = true;
@@ -727,7 +754,7 @@ createApp({
         errorToast('At least 1 tag is required.');
         tagsInvalid.value = true;
         editStep.value = 1;
-        editMetaTab.value = 'metadata';
+        editMetaTab.value = isMobile.value ? 'metadata' : 'seo';
         return;
       }
       if (!editAuthor.value.trim()) {
@@ -751,10 +778,16 @@ createApp({
         errorToast('Category is required.');
         categoryInvalid.value = true;
         editStep.value = 1;
-        editMetaTab.value = 'metadata';
+        editMetaTab.value = isMobile.value ? 'metadata' : 'seo';
         nextTick(() => {
           if (categorySelect.value) categorySelect.value.scrollIntoView({ behavior: 'smooth', block: 'center' });
         });
+        return;
+      }
+      if (!editFeatureImage.value && !editFeatureImagePreview.value) {
+        errorToast('Feature image is required.');
+        editStep.value = 1;
+        editMetaTab.value = isMobile.value ? 'metadata' : 'media';
         return;
       }
       saving.value = true;
@@ -764,11 +797,12 @@ createApp({
         const markdown = turndownService.turndown(html);
         const tags = editTags.value;
         const fm = {
-          ...editingPost.value.fm,
+          ...POST_SKELETON_FM,
+          ...(editingPost.value.fm || {}),
           title: editTitle.value,
           description: editDescription.value,
           author: editAuthor.value,
-          categories: editCategory.value ? [editCategory.value] : (editingPost.value.fm.categories || []),
+          categories: editCategory.value ? [editCategory.value] : ((editingPost.value.fm || {}).categories || []),
           tags,
           img_big_1000x600: editFeatureImage.value,
           img_big_3000x1144: editFeatureImage.value,
@@ -780,11 +814,13 @@ createApp({
         const res = await fetch(`${API_BASE}/api/v1/posts/${editingPost.value.id}`, {
           method: 'PATCH',
           headers: { 'Authorization': `Bearer ${token()}`, 'Content-Type': 'application/json' },
-          body: JSON.stringify({ content: newContent, slug_title: editSlugTitle.value || null }),
+          body: JSON.stringify({ content: newContent, slug_title: editSlugTitle.value || null, ...(publish ? { published: true } : {}) }),
         });
-        if (!res.ok) throw new Error('Failed to save');
+        if (!res.ok) throw new Error(publish ? 'Failed to publish' : 'Failed to save');
+        if (publish) editingPost.value.published = true;
         saveSuccess.value = true;
         setTimeout(() => { saveSuccess.value = false; }, 3000);
+        notifyToast(publish ? 'Post published!' : 'Post saved successfully!');
         editSnapshot = {
           title: editTitle.value,
           description: editDescription.value,
@@ -915,6 +951,28 @@ createApp({
 
     });
 
+    const creatingPost = ref(false);
+
+    async function createPost() {
+      creatingPost.value = true;
+      try {
+        const skeleton = `---\n${jsyaml.dump(POST_SKELETON_FM, { lineWidth: -1 })}---\n\n`;
+        const res = await fetch(`${API_BASE}/api/v1/posts`, {
+          method: 'POST',
+          headers: { 'Authorization': `Bearer ${token()}`, 'Content-Type': 'application/json' },
+          body: JSON.stringify({ content: skeleton, front_matter: POST_SKELETON_FM, organization_id: 1 }),
+        });
+        if (!res.ok) throw new Error('Failed to create post');
+        const data = await res.json();
+        await loadPosts(1);
+        editPost(data);
+      } catch (err) {
+        errorToast(err.message);
+      } finally {
+        creatingPost.value = false;
+      }
+    }
+
     async function deletePost(post) {
       const confirmed = await confirmToast(`Delete "${post.fm.title}"?`, { cancelLabel: 'Cancel', confirmLabel: 'Delete' });
       if (!confirmed) return;
@@ -953,7 +1011,7 @@ createApp({
     return {
       validating, isMobile, sidebarOpen, currentPage, openGroups, toast, notifyToast, errorToast, categorySelect, categoryInvalid, titleInvalid, descriptionInvalid, authorInvalid, tagsInvalid,
       loadingPosts, posts, postsError, pagination,
-      toggleGroup, navigate, logout, goToPage, pageNumbers, viewPost, editPost, deletePost, actionSheet, openActionSheet,
+      toggleGroup, navigate, logout, goToPage, pageNumbers, viewPost, editPost, deletePost, createPost, creatingPost, actionSheet, openActionSheet,
       search, onSearch, previewPost, renderedContent, liveUrl, closePreview,
       editingPost, editTitle, editDescription, editAuthor, editFeatureImage,
       editFeatureImagePreview, editFeatureImageFile, onFeatureImageFile,

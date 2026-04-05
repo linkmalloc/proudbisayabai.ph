@@ -17,16 +17,18 @@ isTop: true
     </div>
     <div class="container">
         <div class="loop-list loop-list-style-1">
-            <div class="row">
+            <div class="row" id="brands-grid">
 
+                {% assign brand_count = 0 %}
                 {% for post in site.posts %}
                 {% if post.categories contains "product" %}
+                {% if brand_count < 10 %}
                 {% assign image_big = post.img_big_3000x1144 %}
                 {% unless image_big %}
                     {% assign image_big = "https://via.placeholder.com/3000x1144" %}
                 {% endunless %}
 
-                <article class="col-md-6 mb-40 wow fadeInUp  animated">
+                <article class="col-md-6 mb-40 wow fadeInUp animated">
                     <div class="post-card-1 border-radius-10 hover-up">
                         <div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url({{ image_big }})">
                             <a class="img-link" href="{{ post.url }}"></a>
@@ -37,48 +39,143 @@ isTop: true
                                 <li><a class="pt" href="#" target="_blank" title="Pin it"><i class="elegant-icon social_pinterest"></i></a></li>
                             </ul>
                         </div>
-
                         <div class="post-content p-30">
-                            <!-- <div class="entry-meta meta-0 font-small mb-10">
-                                <a href="category.html"><span class="post-cat text-info">Artists</span></a>
-                                <a href="category.html"><span class="post-cat text-success">Film</span></a>
-                            </div> -->
                             <div class="d-flex post-card-content">
                                 <h5 class="post-title mb-20 font-weight-900">
                                     <a href="{{ post.url }}">{{ post.title }}</a>
                                 </h5>
-                                <!-- <div class="post-excerpt mb-25 font-small text-muted">
-                                    <p>Graduating from a top accelerator or incubator can be as career-defining for a&nbsp;startup founder&nbsp;as an elite university diploma. The intensive programmes, which…</p>
-                                </div> -->
                                 <div class="entry-meta meta-1 float-left font-x-small text-uppercase">
                                     <span class="post-on">{{ post.published_date | default: post.date | date_to_string }}</span>
                                     <span class="time-reading has-dot">{{ post.read_time }} read</span>
-                                    <!-- <span class="post-by has-dot">{{ post.views }} views</span> -->
                                 </div>
                             </div>
                         </div>
                     </div>
                 </article>
+
+                {% assign brand_count = brand_count | plus: 1 %}
+                {% endif %}
                 {% endif %}
                 {% endfor %}
 
             </div>
         </div>
-        <div class="row mt-50">
-            <div class="col-12">
-                <!-- <div class="pagination-area mb-30 wow fadeInUp animated">
-                    <nav aria-label="Page navigation example">
-                        <ul class="pagination justify-content-start">
-                            <li class="page-item"><a class="page-link" href="#"><i class="elegant-icon arrow_left"></i></a></li>
-                            <li class="page-item active"><a class="page-link" href="#">01</a></li>
-                            <li class="page-item"><a class="page-link" href="#">02</a></li>
-                            <li class="page-item"><a class="page-link" href="#">03</a></li>
-                            <li class="page-item"><a class="page-link" href="#">04</a></li>
-                            <li class="page-item"><a class="page-link" href="#"><i class="elegant-icon arrow_right"></i></a></li>
-                        </ul>
-                    </nav>
-                </div> -->
+
+        <div id="brands-more-loading" class="row justify-content-center py-4" style="display:none!important;">
+            <div class="col-auto">
+                <div class="spinner-border text-orange" role="status">
+                    <span class="sr-only">Loading more brands...</span>
+                </div>
             </div>
+        </div>
+
+        <div class="row mt-50">
+            <div class="col-12"></div>
         </div>
     </div>
 </main>
+
+<script>
+(function () {
+    var CACHE_VERSION = 'v2';
+    var CACHE_KEY = 'pbb_search_posts_' + CACHE_VERSION;
+    var CACHE_TS_KEY = 'pbb_search_posts_ts_' + CACHE_VERSION;
+    var ONE_DAY = 24 * 60 * 60 * 1000;
+    var SKIP = 10;
+
+    function formatDateString(dateString) {
+        if (!dateString) return '';
+        var d = new Date(dateString);
+        return d.toLocaleDateString('en-US', { day: '2-digit', month: 'short', year: 'numeric' });
+    }
+
+    function escapeHtml(text) {
+        var div = document.createElement('div');
+        div.textContent = text || '';
+        return div.innerHTML;
+    }
+
+    function renderCard(post) {
+        var image = post.img_big_1000x600 || post.image || 'https://via.placeholder.com/3000x1144';
+
+        return '<article class="col-md-6 mb-40">' +
+            '<div class="post-card-1 border-radius-10 hover-up">' +
+                '<div class="post-thumb thumb-overlay img-hover-slide position-relative" style="background-image: url(' + escapeHtml(image) + ')">' +
+                    '<a class="img-link" href="' + escapeHtml(post.url) + '"></a>' +
+                    '<ul class="social-share">' +
+                        '<li><a href="#"><i class="elegant-icon social_share"></i></a></li>' +
+                        '<li><a class="fb" href="#" title="Share on Facebook" target="_blank"><i class="elegant-icon social_facebook"></i></a></li>' +
+                        '<li><a class="tw" href="#" target="_blank" title="Tweet now"><i class="elegant-icon social_twitter"></i></a></li>' +
+                        '<li><a class="pt" href="#" target="_blank" title="Pin it"><i class="elegant-icon social_pinterest"></i></a></li>' +
+                    '</ul>' +
+                '</div>' +
+                '<div class="post-content p-30">' +
+                    '<div class="d-flex post-card-content">' +
+                        '<h5 class="post-title mb-20 font-weight-900"><a href="' + escapeHtml(post.url) + '">' + escapeHtml(post.title) + '</a></h5>' +
+                        '<div class="entry-meta meta-1 float-left font-x-small text-uppercase">' +
+                            '<span class="post-on">' + formatDateString(post.date) + '</span>' +
+                        '</div>' +
+                    '</div>' +
+                '</div>' +
+            '</div>' +
+        '</article>';
+    }
+
+    function appendBrands(posts) {
+        var grid = document.getElementById('brands-grid');
+        if (!grid) return;
+        var brands = posts
+            .filter(function (p) { return p.categories && p.categories.indexOf('product') !== -1; })
+            .sort(function (a, b) { return new Date(b.date) - new Date(a.date); })
+            .slice(SKIP);
+
+        var fragment = document.createDocumentFragment();
+        brands.forEach(function (post) {
+            var wrapper = document.createElement('div');
+            wrapper.innerHTML = renderCard(post);
+            fragment.appendChild(wrapper.firstChild);
+        });
+        grid.appendChild(fragment);
+    }
+
+    async function loadAndAppend() {
+        var loader = document.getElementById('brands-more-loading');
+        if (loader) loader.style.setProperty('display', 'flex', 'important');
+
+        try {
+            var cached = localStorage.getItem(CACHE_KEY);
+            var cachedAt = localStorage.getItem(CACHE_TS_KEY);
+            if (cached && cachedAt && (Date.now() - parseInt(cachedAt)) < ONE_DAY) {
+                appendBrands(JSON.parse(cached));
+                return;
+            }
+        } catch (e) {}
+
+        try {
+            var years = [2026, 2025, 2024, 2023, 2022, 2021];
+            var results = await Promise.all(years.map(function (year) {
+                return fetch('/search/' + year + '.json')
+                    .then(function (r) { return r.ok ? r.json() : []; })
+                    .catch(function () { return []; });
+            }));
+            var seen = {};
+            var posts = [].concat.apply([], results).filter(function (p) {
+                if (!p || seen[p.url]) return false;
+                seen[p.url] = true;
+                return true;
+            });
+            try {
+                localStorage.setItem(CACHE_KEY, JSON.stringify(posts));
+                localStorage.setItem(CACHE_TS_KEY, Date.now().toString());
+            } catch (e) {}
+            appendBrands(posts);
+        } catch (e) {
+            console.error('Failed to load more brands:', e);
+        } finally {
+            if (loader) loader.style.setProperty('display', 'none', 'important');
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', loadAndAppend);
+})();
+</script>

@@ -16,15 +16,42 @@ class SiteSearch {
     }
     
     async loadPosts() {
+        var CACHE_VERSION = 'v2';
+        var CACHE_KEY = 'pbb_search_posts_' + CACHE_VERSION;
+        var CACHE_TS_KEY = 'pbb_search_posts_ts_' + CACHE_VERSION;
+        var ONE_DAY = 24 * 60 * 60 * 1000;
         try {
-            // Generate posts data from Jekyll
-            const response = await fetch('/search-data.json');
-            if (response.ok) {
-                this.posts = await response.json();
+            var cached = localStorage.getItem(CACHE_KEY);
+            var cachedAt = localStorage.getItem(CACHE_TS_KEY);
+            if (cached && cachedAt && (Date.now() - parseInt(cachedAt)) < ONE_DAY) {
+                this.posts = JSON.parse(cached);
+                return;
             }
+        } catch (e) {}
+
+        try {
+            const years = [2026, 2025, 2024, 2023, 2022, 2021];
+            const results = await Promise.all(
+                years.map(function(year) {
+                    return fetch('/search/' + year + '.json')
+                        .then(function(res) { return res.ok ? res.json() : []; })
+                        .catch(function() { return []; });
+                })
+            );
+            var seen = {};
+            this.posts = [].concat.apply([], results).filter(function(post) {
+                if (!post || seen[post.url]) return false;
+                seen[post.url] = true;
+                return true;
+            }).sort(function(a, b) {
+                return new Date(b.date) - new Date(a.date);
+            });
+            try {
+                localStorage.setItem(CACHE_KEY, JSON.stringify(this.posts));
+                localStorage.setItem(CACHE_TS_KEY, Date.now().toString());
+            } catch (e) {}
         } catch (error) {
             console.error('Failed to load search data:', error);
-            // Fallback: use inline posts data if JSON file isn't available
             this.posts = window.searchData || [];
         }
     }
@@ -128,7 +155,7 @@ class SiteSearch {
             })
             .filter(post => post !== null)
             .sort((a, b) => b.score - a.score)
-            .slice(0, 10); // Limit to top 10 results
+            .slice(0, 20); // Limit to top 20 results
     }
     
     displayResults(results, query) {

@@ -85,22 +85,24 @@ document.addEventListener('DOMContentLoaded', function() {
     }
     
     // Search Overlay
-    const searchBtn = document.querySelector('.search-btn-nav');
+    const searchBtns = document.querySelectorAll('.search-btn-nav');
     const searchOverlay = document.querySelector('.search-overlay-orange');
     const searchClose = document.querySelector('.search-close-btn');
-    
-    if (searchBtn && searchOverlay) {
-        searchBtn.addEventListener('click', function() {
-            searchOverlay.classList.add('active');
-            document.body.style.overflow = 'hidden';
-            
-            // Focus on search input
-            setTimeout(() => {
-                const searchInput = searchOverlay.querySelector('input[type="text"], input[type="search"]');
-                if (searchInput) {
-                    searchInput.focus();
-                }
-            }, 300);
+
+    if (searchBtns.length && searchOverlay) {
+        searchBtns.forEach(function(searchBtn) {
+            searchBtn.addEventListener('click', function() {
+                searchOverlay.classList.add('active');
+                document.body.style.overflow = 'hidden';
+
+                // Focus on search input
+                setTimeout(function() {
+                    const searchInput = searchOverlay.querySelector('input[type="text"], input[type="search"]');
+                    if (searchInput) {
+                        searchInput.focus();
+                    }
+                }, 300);
+            });
         });
     }
     
@@ -230,5 +232,36 @@ document.addEventListener('DOMContentLoaded', function() {
             }
         });
     });
-    
+
+    // Scroll to Top Button
+    var scrollToTopBtn = document.getElementById('scroll-to-top');
+    var searchOverlayEl = document.querySelector('.search-overlay-orange');
+
+    function updateScrollBtnVisibility() {
+        var overlayOpen = searchOverlayEl && searchOverlayEl.classList.contains('active');
+        var overlayScrolled = overlayOpen && searchOverlayEl.scrollTop > 100;
+        if (window.pageYOffset > 300 || overlayScrolled) {
+            scrollToTopBtn.classList.add('visible');
+        } else {
+            scrollToTopBtn.classList.remove('visible');
+        }
+    }
+
+    if (scrollToTopBtn) {
+        window.addEventListener('scroll', updateScrollBtnVisibility, { passive: true });
+
+        if (searchOverlayEl) {
+            searchOverlayEl.addEventListener('scroll', updateScrollBtnVisibility, { passive: true });
+        }
+
+        scrollToTopBtn.addEventListener('click', function() {
+            var overlayOpen = searchOverlayEl && searchOverlayEl.classList.contains('active');
+            if (overlayOpen) {
+                searchOverlayEl.scrollTo({ top: 0, behavior: 'smooth' });
+            } else {
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            }
+        });
+    }
+
 });

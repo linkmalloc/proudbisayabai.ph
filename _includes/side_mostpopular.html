@@ -1,31 +1,114 @@
-
 <div class="widget-latest-posts mb-50 wow fadeInUp animated">
     <div class="widget-header-1 position-relative mb-30">
         <h5 class="mt-5 mb-30">Most popular</h5>
     </div>
     <div class="post-block-list post-module-1">
-        <ul class="list-post">
-            {% for post in site.posts limit: 4 %}
-            {% if post.url != page.url %}
-
-            <li class="mb-30 wow fadeInUp animated">
-                <div class="d-flex bg-white has-border p-25 hover-up transition-normal border-radius-5">
-                    <div class="d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">
-                        <a class="color-white" href="{{ post.url }}">
-                            <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" style="object-fit: cover; width: 120px;">
-                        </a>
-                    </div>
-                    <div class="post-content media-body">
-                        <h6 class="mb-10 text-limit-2-row font-small"><a href="{{ post.url }}">{{ post.title }}</a></h6>
-                        <p class="post-excerpt mb-10 font-x-small text-muted text-limit-2-row">{{ post.description | default: post.excerpt | strip_html | truncatewords: 15 }}</p>
-                        <div class="entry-meta meta-1 float-left font-x-small">
-                            <span class="post-on text-uppercase">{{ post.published_date | default: post.date | date_to_string }}</span>
-                        </div>
-                    </div>
-                </div>
-            </li>
-            {% endif %}
-            {% endfor %}
+        <ul class="list-post" id="sidebar-popular-list">
+            <li class="mb-30"><div class="d-flex bg-white has-border p-25 border-radius-5" style="opacity:0.4;">
+                <div class="mr-15 border-radius-5" style="width:120px;height:80px;background:#eee;flex-shrink:0;"></div>
+                <div style="flex:1;"><div style="height:12px;background:#eee;border-radius:4px;margin-bottom:8px;"></div><div style="height:10px;background:#eee;border-radius:4px;width:70%;"></div></div>
+            </div></li>
+            <li class="mb-30"><div class="d-flex bg-white has-border p-25 border-radius-5" style="opacity:0.4;">
+                <div class="mr-15 border-radius-5" style="width:120px;height:80px;background:#eee;flex-shrink:0;"></div>
+                <div style="flex:1;"><div style="height:12px;background:#eee;border-radius:4px;margin-bottom:8px;"></div><div style="height:10px;background:#eee;border-radius:4px;width:70%;"></div></div>
+            </div></li>
+            <li class="mb-30"><div class="d-flex bg-white has-border p-25 border-radius-5" style="opacity:0.4;">
+                <div class="mr-15 border-radius-5" style="width:120px;height:80px;background:#eee;flex-shrink:0;"></div>
+                <div style="flex:1;"><div style="height:12px;background:#eee;border-radius:4px;margin-bottom:8px;"></div><div style="height:10px;background:#eee;border-radius:4px;width:70%;"></div></div>
+            </div></li>
+            <li class="mb-30"><div class="d-flex bg-white has-border p-25 border-radius-5" style="opacity:0.4;">
+                <div class="mr-15 border-radius-5" style="width:120px;height:80px;background:#eee;flex-shrink:0;"></div>
+                <div style="flex:1;"><div style="height:12px;background:#eee;border-radius:4px;margin-bottom:8px;"></div><div style="height:10px;background:#eee;border-radius:4px;width:70%;"></div></div>
+            </div></li>
         </ul>
     </div>
 </div>
+
+<script>
+(function () {
+    var CACHE_VERSION = 'v2';
+    var CACHE_KEY = 'pbb_search_posts_' + CACHE_VERSION;
+    var CACHE_TS_KEY = 'pbb_search_posts_ts_' + CACHE_VERSION;
+    var ONE_DAY = 24 * 60 * 60 * 1000;
+    var CURRENT_URL = '{{ page.url }}';
+
+    function escapeHtml(text) {
+        var div = document.createElement('div');
+        div.textContent = text || '';
+        return div.innerHTML;
+    }
+
+    function formatDate(dateString) {
+        if (!dateString) return '';
+        return new Date(dateString).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+    }
+
+    function renderList(posts) {
+        var list = document.getElementById('sidebar-popular-list');
+        if (!list) return;
+
+        var popular = posts
+            .filter(function (p) { return p.url !== CURRENT_URL; })
+            .sort(function (a, b) { return new Date(b.date) - new Date(a.date); })
+            .slice(0, 4);
+
+        list.innerHTML = popular.map(function (post) {
+            var image = post.image || post.img_big_1000x600 || '';
+            var description = post.description || post.content || '';
+            if (description.length > 80) description = description.substring(0, 80).trim() + '...';
+
+            return '<li class="mb-30 wow fadeInUp animated">' +
+                '<div class="d-flex bg-white has-border p-25 hover-up transition-normal border-radius-5">' +
+                    '<div class="d-flex mr-15 border-radius-5 img-hover-scale overflow-hidden">' +
+                        '<a class="color-white" href="' + escapeHtml(post.url) + '">' +
+                            '<img src="' + escapeHtml(image) + '" alt="' + escapeHtml(post.title) + '" style="object-fit:cover;width:120px;" loading="lazy">' +
+                        '</a>' +
+                    '</div>' +
+                    '<div class="post-content media-body">' +
+                        '<h6 class="mb-10 text-limit-2-row font-small"><a href="' + escapeHtml(post.url) + '">' + escapeHtml(post.title) + '</a></h6>' +
+                        '<p class="post-excerpt mb-10 font-x-small text-muted text-limit-2-row">' + escapeHtml(description) + '</p>' +
+                        '<div class="entry-meta meta-1 float-left font-x-small">' +
+                            '<span class="post-on text-uppercase">' + formatDate(post.date) + '</span>' +
+                        '</div>' +
+                    '</div>' +
+                '</div>' +
+            '</li>';
+        }).join('');
+    }
+
+    async function loadPopular() {
+        try {
+            var cached = localStorage.getItem(CACHE_KEY);
+            var cachedAt = localStorage.getItem(CACHE_TS_KEY);
+            if (cached && cachedAt && (Date.now() - parseInt(cachedAt)) < ONE_DAY) {
+                renderList(JSON.parse(cached));
+                return;
+            }
+        } catch (e) {}
+
+        try {
+            var years = [2026, 2025, 2024, 2023, 2022, 2021];
+            var results = await Promise.all(years.map(function (year) {
+                return fetch('/search/' + year + '.json')
+                    .then(function (r) { return r.ok ? r.json() : []; })
+                    .catch(function () { return []; });
+            }));
+            var seen = {};
+            var posts = [].concat.apply([], results).filter(function (p) {
+                if (!p || seen[p.url]) return false;
+                seen[p.url] = true;
+                return true;
+            });
+            try {
+                localStorage.setItem(CACHE_KEY, JSON.stringify(posts));
+                localStorage.setItem(CACHE_TS_KEY, Date.now().toString());
+            } catch (e) {}
+            renderList(posts);
+        } catch (e) {
+            console.error('Failed to load popular posts:', e);
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', loadPopular);
+})();
+</script>

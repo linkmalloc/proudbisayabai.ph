@@ -230,6 +230,14 @@
                 <button @click="onSearch" class="md:hidden px-3 py-2 text-sm font-medium text-white rounded-lg" style="background: linear-gradient(135deg, #f95c00, #ff7a1a)">
                   Search
                 </button>
+                <button @click="createPost" :disabled="creatingPost"
+                  class="flex items-center gap-1.5 px-3 py-2 text-sm font-medium text-white rounded-lg disabled:opacity-60 transition"
+                  style="background: linear-gradient(135deg, #f95c00, #ff7a1a)">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"/>
+                  </svg>
+                  <span class="hidden sm:inline">New Article</span>
+                </button>
               </div>
             </div>
 
@@ -264,16 +272,29 @@
                           </div>
                         </td>
                         <td class="px-5 py-3 font-medium text-gray-800 max-w-0 w-full">
-                          <div v-if="post.fm.img_big_1000x600" class="mb-2 rounded-lg overflow-hidden bg-gray-100 md:hidden" style="width:80px; aspect-ratio: 1200/630;">
-                            <img :src="post.fm.img_big_1000x600" class="w-full h-full object-cover" loading="lazy" />
-                          </div>
-                          <span class="block text-xs font-semibold text-gray-400 uppercase tracking-wider mb-0.5 md:hidden">Title</span>
+                          <!-- Title -->
                           <span class="text-xs md:text-sm">{{ post.fm.title ?? '—' }}</span>
-                          <div v-if="post.fm.categories?.length" class="flex flex-wrap gap-1 mt-1 md:hidden">
-                            <span v-for="cat in post.fm.categories" :key="cat" class="px-1.5 py-0.5 rounded text-xs font-medium bg-orange-100 text-orange-600">{{ cat }}</span>
+                          <!-- Mobile: image + cats/tags side by side, below title -->
+                          <div class="md:hidden mt-1.5 flex gap-2 items-start">
+                            <div v-if="post.fm.img_big_1000x600" class="flex-shrink-0 rounded-lg overflow-hidden bg-gray-100" style="width:80px; aspect-ratio: 1200/630;">
+                              <img :src="post.fm.img_big_1000x600" class="w-full h-full object-cover" loading="lazy" />
+                            </div>
+                            <div class="flex flex-col gap-1 pt-0.5">
+                              <div class="flex flex-wrap gap-1 items-center">
+                                <span v-for="cat in post.fm.categories" :key="cat" class="px-1.5 py-0.5 rounded text-xs font-medium bg-orange-100 text-orange-600">{{ cat }}</span>
+                                <span :class="post.published ? 'bg-green-100 text-green-700' : 'bg-gray-100 text-gray-500'" class="px-1.5 py-0.5 rounded-full text-xs font-medium">{{ post.published ? 'Published' : 'Draft' }}</span>
+                              </div>
+                              <div v-if="post.fm.tags?.length" class="flex flex-wrap gap-1">
+                                <span v-for="tag in post.fm.tags" :key="tag" class="px-1.5 py-0.5 rounded text-xs font-medium bg-gray-100 text-gray-500">#{{ tag }}</span>
+                              </div>
+                            </div>
                           </div>
-                          <div v-if="post.fm.tags?.length" class="flex flex-wrap gap-1 mt-1 md:hidden">
-                            <span v-for="tag in post.fm.tags" :key="tag" class="px-1.5 py-0.5 rounded text-xs font-medium bg-gray-100 text-gray-500">#{{ tag }}</span>
+                          <!-- Desktop only: description + cats/tags -->
+                          <p v-if="post.fm.description" class="hidden md:block text-[11px] font-light text-gray-400 mt-0.5 leading-snug line-clamp-2">{{ post.fm.description }}</p>
+                          <div v-if="post.fm.categories?.length || post.fm.tags?.length" class="hidden md:flex flex-wrap gap-1 mt-1.5">
+                            <span v-for="cat in post.fm.categories" :key="cat" class="px-1.5 py-0.5 rounded text-xs font-medium bg-orange-100 text-orange-600">{{ cat }}</span>
+                            <span v-for="tag in post.fm.tags.slice(0, 5)" :key="tag" class="px-1.5 py-0.5 rounded text-xs font-medium bg-gray-100 text-gray-500">#{{ tag }}</span>
+                            <span v-if="post.fm.tags?.length > 5" class="px-1.5 py-0.5 rounded text-xs font-medium bg-gray-100 text-gray-400">+{{ post.fm.tags.length - 5 }}</span>
                           </div>
                         </td>
                         <td class="px-5 py-3 text-gray-500 whitespace-nowrap hidden md:table-cell">{{ post.fm.author ?? '—' }}</td>
@@ -395,7 +416,7 @@
                 <span class="text-xs text-gray-400 hidden sm:inline">{{ editTitle }}</span>
               </div>
               <div class="flex items-center gap-2">
-                <span v-if="saveSuccess" class="text-xs text-green-600">Saved!</span>
+
                 <!-- Mobile step nav -->
                 <template v-if="isMobile">
                   <button v-if="editStep === 1" @click="editStep = 2"
@@ -411,22 +432,29 @@
                       class="px-4 py-1.5 text-sm bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition font-medium">
                       Preview
                     </button>
-                    <button @click="savePost" :disabled="saving"
+                    <button @click="savePost()" :disabled="saving"
                       class="px-4 py-1.5 text-sm bg-orange-500 text-white rounded-lg hover:bg-orange-600 disabled:opacity-50 transition font-medium">
                       {{ saving ? 'Saving…' : 'Save' }}
+                    </button>
+                    <button v-if="editingPost && !editingPost.published" @click="savePost(true)" :disabled="saving"
+                      class="px-4 py-1.5 text-sm bg-green-600 text-white rounded-lg hover:bg-green-700 disabled:opacity-50 transition font-medium">
+                      {{ saving ? 'Publishing…' : 'Publish' }}
                     </button>
                   </template>
                 </template>
                 <!-- Desktop preview + save -->
                 <template v-if="!isMobile">
-
                   <button @click="viewPost(editingPost)"
                     class="px-4 py-1.5 text-sm bg-gray-100 text-gray-700 rounded-lg hover:bg-gray-200 transition font-medium">
                     Preview
                   </button>
-                  <button @click="savePost" :disabled="saving"
+                  <button @click="savePost()" :disabled="saving"
                     class="px-4 py-1.5 text-sm bg-orange-500 text-white rounded-lg hover:bg-orange-600 disabled:opacity-50 transition font-medium">
                     {{ saving ? 'Saving…' : 'Save' }}
+                  </button>
+                  <button v-if="editingPost && !editingPost.published" @click="savePost(true)" :disabled="saving"
+                    class="px-4 py-1.5 text-sm bg-green-600 text-white rounded-lg hover:bg-green-700 disabled:opacity-50 transition font-medium">
+                    {{ saving ? 'Publishing…' : 'Publish' }}
                   </button>
                 </template>
                 <button @click="closeEditor" class="p-1.5 rounded-md text-gray-400 hover:bg-gray-100 transition">
