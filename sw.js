@@ -23,7 +23,7 @@ self.addEventListener('fetch', (event) => {
           cache.put(request, response.clone());
         }
         return response;
-      } catch {
+      } catch (err) {
         return cached || new Response('', { status: 408 });
       }
     })
