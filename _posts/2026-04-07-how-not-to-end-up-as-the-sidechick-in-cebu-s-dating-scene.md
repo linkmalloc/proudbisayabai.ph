@@ -70,7 +70,7 @@ Kung mangutana ka unsa mo, likayan, i-joke, or i-turn against nimo. 
 
 **5. Too smooth, but too vague**
 
-Sweet siya, but if you listen closely, walay klaro nga direction inyong “situationship.” Mura ra mo nagduwa og dakpanay ana, bes. Kilig-kilig ra pero wa'y commitment
+Sweet siya, but if you listen closely, wala'y klaro nga direction inyong “situationship.” Mura ra mo nagduwa og dakpanay ana, bes. Kilig-kilig ra pero wa'y commitment
 
 **How to Protect Yourself (Without Feeling OA)**
 
@@ -110,7 +110,7 @@ Not because you weren’t enough, but because someone chose not to be honest.
 
 Yes, kilig is exciting. But clarity? That’s what protects you.
 
-So before ka mu-invest ug feelings, make sure kahibalo ka asa ka dapit sa iyang life.
+So before ka mu-invest og feelings, make sure kahibalo ka asa ka dapit sa iyang life.
 
 Kay kung tinuod na, dili na libog.
 
