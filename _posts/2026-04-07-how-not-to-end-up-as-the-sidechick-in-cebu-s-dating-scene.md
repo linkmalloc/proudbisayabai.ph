@@ -54,7 +54,7 @@ So even if it *feels* safe… it doesn’t always mean you are.
 
 **1. Murag “secret” ka niya**
 
-Sige mo ug laag, sige mo storyahanay, pero online? Deadma ra. Bawalan pa ka og react sa iyang mga post kay dapat daw lage *lowkey* lang mo.
+Sige mo og laag, sige mo og storyahanay, pero online? Deadma ra. Bawalan pa ka og react sa iyang mga post kay dapat daw lage *lowkey* lang mo.
 
 **2. Limited iyang time for you**
 
@@ -113,7 +113,5 @@ Yes, kilig is exciting. But clarity? That’s what protects you.
 So before ka mu-invest ug feelings, make sure kahibalo ka asa ka dapit sa iyang life.
 
 Kay kung tinuod na, dili na libog.
-
-
 
 Image: Unsplash
