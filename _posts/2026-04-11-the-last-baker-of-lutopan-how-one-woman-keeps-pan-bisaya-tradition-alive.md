@@ -3,29 +3,29 @@ author: PBB ADMIN
 author2: ''
 layout: post
 title: 'The Last Baker of Lutopan: How one woman keeps pan bisaya tradition alive'
-description: >-
-  In a small hillside community in Barangay Lutopan, now known as Don Andres
+description: In a small hillside community in Barangay Lutopan, now known as Don Andres
   Soriano, a quiet culinary tradition is on the brink of disappearing.
 categories:
-  - story
+- story
 tags:
-  - PanBisaya
-  - Lutopan
+- PanBisaya
+- Lutopan
 views: '10'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1495/69e3861775886404-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1495/69e3861775886404-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1495/69e3861775886404-1.jpg
-img_500_1: null
-img_500_2: null
-img_500_3: null
-img_500_4: null
-img_500_5: null
+img_500_1:
+img_500_2:
+img_500_3:
+img_500_4:
+img_500_5:
 photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
-published: true
+published: false
 ---
+
 
 
 
