@@ -32,45 +32,7 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**MANDAUE CITY, CEBU** — Bellshayce Foods, Inc., a homegrown business founded in 2010, celebrated a major achievement with the blessing and ribbon-cutting ceremony of its newest corporate center on April 9, 2026, located along Ouano Street, Mandaue City.
+**MANDAUE CITY, CEBU** — Bellshayce Foods, Inc., a homegrown business founded in 2010, celebrated a major achievement with the blessing and ribbon-cutting ceremony of its newest corporate center on April 9, 2026, located at C. Batiller Brgy Umapad, Mandaue City.
 
 The new corporate center stands as a testament to Bellshayce Foods Inc.’s steady growth, strong community ties, and unwavering commitment to excellence in the food industry. From its humble beginnings in the public market, the company has grown into one of the country’s emerging food suppliers, continuously expanding its reach across the Philippines.
 
