@@ -31,23 +31,20 @@ published: true
 
 
 
+An accident along Archbishop Reyes Avenue flyover in Cebu City prompted the temporary closure of the flyover as emergency responders arrived at the scene on Tuesday, April 14, 2026.
 
 
 
+According to initial reports, the victims, both students of the University of San Carlos, were struck by an ambulance transporting a patient.&#x20;
 
 
 
+They were identified as Braille Nichole Q. Kwek and Juan Antonio S. Ladioray. Kwek was declared dead at the scene, while Ladioray was rushed to the Cebu City Medical Center.
 
 
 
+Authorities are continuing their investigation.
 
 
-A fatal road accident on Archbishop Reyes Avenue Bridge led to its temporary closure on Tuesday, April 14, as emergency responders secured the area and attended to the victims.
-
-According to an initial report from the Cebu City Transportation Office, a motorcycle was struck by an ambulance that was transporting a patient at the time of the incident. The collision resulted in the death of the motorcycle’s passenger, while the rider sustained injuries and was immediately rushed to the Cebu City Medical Center for treatment.
-
-Authorities swiftly responded to the scene, temporarily halting traffic along the bridge to allow for rescue operations and clearing of the roadway. The incident caused traffic disruptions in the area as motorists were advised to take alternative routes.
-
-As of writing, further details regarding the circumstances of the collision, including possible liability, are still under investigation. Officials continue to remind motorists to exercise caution and remain alert, especially in high-traffic areas and emergency situations involving response vehicles.
 
 Photo from Jacq Hernandez, PBB Photojournalist
