@@ -12,9 +12,9 @@ tags:
   - TaxiDriver
   - Mambaling
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1521/64c5101776239452-1.jpg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1521/64c5101776239452-1.jpg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1521/64c5101776239452-1.jpg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1521/11247e1776257551-2.jpeg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1521/11247e1776257551-2.jpeg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1521/11247e1776257551-2.jpeg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
 
 A taxi driver reportedly suffered a medical emergency while driving, causing alarm along the Mambaling Tunnel and flyover on April 14, 2026.
 
