@@ -2,9 +2,7 @@
 author: PBB Admin
 author2: ''
 layout: post
-title: >-
-  Apriel Smith Stuns in “Queen of the Fluvial” Costume at Miss Universe
-  Philippines 2026 Showcase
+title: Apriel Smith Stuns in “Queen of the Fluvial” at MUPH 2026
 description: >-
   Cebu City’s pride, Apriel Smith, captivates with her stunning “Queen of the
   Fluvial” national costume for the Miss Universe Philippines 2026 National
@@ -28,6 +26,11 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
+
+
+
 
 Cebu City’s pride, Apriel Smith, captivates with her stunning “Queen of the Fluvial” national costume for the Miss Universe Philippines 2026 National Costume Showcase.
 
