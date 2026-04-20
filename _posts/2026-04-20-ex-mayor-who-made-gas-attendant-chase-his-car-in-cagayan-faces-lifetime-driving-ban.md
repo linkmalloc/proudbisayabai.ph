@@ -2,33 +2,32 @@
 author: PBB Admin
 author2: ''
 layout: post
-title: >-
-  Ex-mayor who made gas attendant chase his car in Cagayan faces lifetime
-  driving ban
-description: >-
-  A former mayor in Cagayan is now facing a possible lifetime driving ban after
-  allegedly fleeing a gasoline station without paying, forcing a gas attendant
+title: Ex-mayor who made gas attendant chase his car in Cagayan faces lifetime driving
+  ban
+description: A former mayor in Cagayan is now facing a possible lifetime driving ban
+  after allegedly fleeing a gasoline station without paying, forcing a gas attendant
   to chase his vehicle along a busy road.
 categories:
-  - story
+- story
 tags:
-  - ExMayor
-  - Cagayan
+- ExMayor
+- Cagayan
 views: '10'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1566/7d7f431776695605-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1566/7d7f431776695605-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1566/7d7f431776695605-1.jpg
-img_500_1: null
-img_500_2: null
-img_500_3: null
-img_500_4: null
-img_500_5: null
+img_500_1:
+img_500_2:
+img_500_3:
+img_500_4:
+img_500_5:
 photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
-published: true
+published: false
 ---
+
 
 
 
