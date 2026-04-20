@@ -27,21 +27,15 @@ read_time: 4 minutes
 published: true
 ---
 
-
 Carbon Market just proved once again that Cebuano humor is alive and kicking—even on watermelons.
-
-
 
 Spotted this Monday afternoon, April 20, 2026, these quirky and witty notes written on pakwan quickly caught the attention of marketgoers. Instead of the usual “sweet” or “fresh” labels, some carried playful, hugot-style lines that made people stop, laugh, and even take photos before buying.
 
-
-
 From cheesy punchlines to relatable one-liners, these watermelons became instant conversation starters—turning a simple fruit stall into a mini comedy corner in the middle of the busy market.
-
-
 
 It’s a reminder that in Cebu, creativity finds its way into everyday life—even in the most unexpected places. Bisag unsa nalang gyud atong gimik ani, pero tinuod, kalingaw gyud!
 
 
+Note: The watermelon is wrapped in clear plastic before writing—nothing is written directly on the fruit.
 
 📷 Cynikka Marie Rafinnan, PBB Photoblogger
