@@ -29,20 +29,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The countdown to ASEAN-related activities in May has triggered parallel citywide preparations in Lapu-Lapu and Mandaue, with both local governments tightening security coordination and accelerating infrastructure and cleanliness efforts along key routes.
 
 In Lapu-Lapu City, Mayor Ma. Cynthia “Cindi” King-Chan has directed barangay officials to step up coordination as the city prepares to host international delegates, stressing cleanliness, order, and security readiness.&#x20;
@@ -78,3 +64,5 @@ The Mandaue City Police Office is likewise preparing security measures to ensure
 Malig-on said the goal is to ensure smooth and secure movement of visiting officials across Mandaue’s routes.
 
 Cleaning operations and fence installations are also ongoing in select areas, including portions near Pasilong sa Paradise in Barangay Guizo, as part of efforts to improve the city’s overall appearance ahead of the international event. (VCL)
+
+Photo from Lapu-Lapu City Public Information Office
