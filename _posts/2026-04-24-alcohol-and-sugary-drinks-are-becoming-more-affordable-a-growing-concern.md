@@ -14,9 +14,9 @@ tags:
   - Alcohol
   - SugaryDrinks
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1605/f54e001777188603-2.jpeg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1605/f54e001777188603-2.jpeg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1605/f54e001777188603-2.jpeg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1605/a0ddc21777189461-4.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1605/a0ddc21777189461-4.jpg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1605/a0ddc21777189461-4.jpg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -37,4 +37,4 @@ Higher consumption of sugary drinks can lead to obesity, diabetes, tooth decay, 
 
 When affordability rises, demand often increases—and so does the potential harm to individuals, families, and communities. Promoting healthier choices, stronger public health policies, and greater awareness can help address this growing issue and protect public health.
 
-Image courtesy of PNA
+Image courtesy of WYRK
