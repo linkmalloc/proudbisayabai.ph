@@ -2,7 +2,7 @@
 author: PBB Admin
 author2: ''
 layout: post
-title: DOE Releases Updated Fuel Discounts as Oil Prices Rise
+title: DOE Releases Comprehensive List of Fuel Discounts
 description: >-
   The Department of Energy (DOE) has released an updated list of fuel discount
   programs available as of April 27, offering relief to public utility drivers,
@@ -34,21 +34,54 @@ published: true
 
 
 
-The Department of Energy (DOE) has released an updated list of fuel discount programs available as of April 27, offering relief to public utility drivers, private motorists, and transport network vehicle service (TNVS) riders amid rising fuel prices.
 
 
 
-According to the DOE, the government continues to coordinate with oil companies to maintain and expand fuel discount programs aimed at easing the burden of increasing oil costs on Filipinos who rely on the road for their livelihood and daily transportation.
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Department of Energy (DOE) has released an updated list of fuel discount programs available as of April 27, offering relief to public utility drivers, private motorists, and transport network vehicle service (TNVS) riders.
+
+According to the DOE, the government continues to coordinate with oil companies to maintain and expand fuel discount programs aimed at easing the burden of oil costs on Filipinos who rely on the road for their livelihood and daily transportation.
 
 Beneficiaries include public utility vehicle (PUV) and public utility jeepney (PUJ) drivers, TNVS drivers, delivery riders, and private motorists.
 
 
 
 **For PUV/PUJ Drivers**
-
-
 
 ***Caltex***
 
@@ -60,17 +93,13 @@ Beneficiaries include public utility vehicle (PUV) and public utility jeepney (P
 
 • ₱10 off on lubricants
 
-
-
 ***Shell***
 
 *Automatic PUV Discount (Continuous Program)*
 
 • Minimum of ₱1 off per liter
 
-• Until April 30: ₱5 off per lite&#x72;****** 
-
-
+• Until April 30: ₱5 off per liter
 
 ***Petron***
 
@@ -78,19 +107,13 @@ Beneficiaries include public utility vehicle (PUV) and public utility jeepney (P
 
 • ₱0.50 to ₱3 off per liter
 
-
-
 ***Seaoil***
 
 *Byahero Discount Promo (Until April 30*)
 
 • ₱0.50 to ₱3 off per liter
 
-
-
 **For Private Motorists**
-
-
 
 ***Seaoil***
 
@@ -99,8 +122,6 @@ Beneficiaries include public utility vehicle (PUV) and public utility jeepney (P
 • ₱5 off per liter on gasoline
 
 • ₱2 off per liter on diesel
-
-
 
 ***PTT***
 
@@ -114,8 +135,6 @@ Beneficiaries include public utility vehicle (PUV) and public utility jeepney (P
 
 • Free soda for every ₱500 fuel purchase
 
-
-
 ***Petron***
 
 *Value Card (Ongoing Program*)
@@ -123,8 +142,6 @@ Beneficiaries include public utility vehicle (PUV) and public utility jeepney (P
 • Earn 1 point for every 5 liters purchased
 
 • 1 point = ₱1
-
-
 
 ***Shell***
 
@@ -158,8 +175,6 @@ Beneficiaries include public utility vehicle (PUV) and public utility jeepney (P
 
 • 5% rebate on fuel and servicing
 
-
-
 ***Unioil***
 
 *EastWest Promo (Until December 2026)*
@@ -180,8 +195,6 @@ Beneficiaries include public utility vehicle (PUV) and public utility jeepney (P
 
 • 10% off lubricants
 
-
-
 ***Total***
 
 *Gas PaBigas Promo (Ongoing)*
@@ -201,7 +214,6 @@ Beneficiaries include public utility vehicle (PUV) and public utility jeepney (P
 *Angkas*
 
 • ₱2.50 off per liter on Gas 91
-
 
 • ₱4 off per liter on Gas 95 and 97
 
@@ -237,8 +249,6 @@ Beneficiaries include public utility vehicle (PUV) and public utility jeepney (P
 
 • ₱2.50 off per liter on Gas 95 and 97
 
-
-
 ***Seaoil***
 
 *Byahero Discount Program (Until April 30)*
@@ -247,17 +257,15 @@ Beneficiaries include public utility vehicle (PUV) and public utility jeepney (P
 
 • ₱2 off per liter on diesel
 
-
-
 ***Shell***
 
 *Discount Promo (Until April 30)*
 
 • ₱5 off per liter
 
-
-
 The DOE said these programs reflect the strong partnership between the government and private oil companies in helping motorists cope with fluctuating fuel prices while supporting their daily operations and livelihood.
+
+
 
 Source: DOE Philippines
 
