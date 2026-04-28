@@ -10,7 +10,7 @@ description: >-
   of tropical immersion, rustic elegance, and modern comfort. It is an ideal
   destination for travelers seeking a peaceful yet memorable escape.
 categories:
-  - story
+  - destination
 tags:
   - Bambusa
   - GlampingResort
@@ -30,6 +30,8 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
 
 If you’re dreaming of an exotic getaway with an Indonesia feels vibe, you don’t actually have to leave the Philippines. Tucked away in the serene coastal town of Moalboal, Cebu, Bambusa Glamping Resort offers a unique blend of tropical immersion, rustic elegance, and modern comfort. It is an ideal destination for travelers seeking a peaceful yet memorable escape.
 
