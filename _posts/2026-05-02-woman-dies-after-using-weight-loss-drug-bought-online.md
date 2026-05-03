@@ -3,29 +3,29 @@ author: PBB Admin
 author2: ''
 layout: post
 title: Woman Dies After Using Weight Loss Drug Bought Online
-description: >-
-  A woman in her 30s has died after reportedly self-administering Tirzepatide, a
-  prescription medication intended for diabetes and weight management, which she
+description: A woman in her 30s has died after reportedly self-administering Tirzepatide,
+  a prescription medication intended for diabetes and weight management, which she
   allegedly purchased online without medical supervision.
 categories:
-  - story
+- story
 tags:
-  - WeightLossDrug
+- WeightLossDrug
 views: '10'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1671/7a337f1777703185-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1671/7a337f1777703185-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1671/7a337f1777703185-1.jpeg
-img_500_1: null
-img_500_2: null
-img_500_3: null
-img_500_4: null
-img_500_5: null
+img_500_1:
+img_500_2:
+img_500_3:
+img_500_4:
+img_500_5:
 photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
-published: true
+published: false
 ---
+
 
 
 
