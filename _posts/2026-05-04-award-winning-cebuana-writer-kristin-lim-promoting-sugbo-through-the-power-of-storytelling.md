@@ -29,17 +29,13 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
 Every writer has an origin story. For Kristin Lim, it began at age seven in a Grade One classroom in Cebu, where putting words on paper felt like coming home. 
 
 "I started writing when I was seven years old," she recalls. "I simply fell in love with storytelling."
 
 What seemed like a small decision to keep writing, to keep imagining, and to keep showing up for the stories in her head eventually led her across oceans and onto some of the most respected platforms in the field of literature. 
 
-Today, Kristin Lim is an award-winning international author and illustrator whose works have been published in the United States and the Philippines. She is a Magna Cum Laude graduate of Mass Communication, a homeschooling mother, a wife, a brand ambassador for Seven Arts Foto and Framing and a resource speaker on creativity and storytelling. In 2025, her graphic novel *Zugbo Chronicles: Adrift* was named a Top Five finalist at the Akdang Pinoy Choice Awards.
+Today, Kristin Lim is an award-winning international author and illustrator whose works have been published in the United States and the Philippines. She is a Magna Cum Laude graduate of Mass Communication, a homeschooling mother, a wife, a brand ambassador for Seven Arts Foto and Framing and a resource speaker on creativity and storytelling. In 2025, her graphic novel *Zugbo Chronicles: Adrift* was named a Top Ten finalist at the Akdang Pinoy Choice Awards.
 
 But long before any of that, she was simply a child who refused to stop writing.
 
