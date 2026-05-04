@@ -1,5 +1,5 @@
 ---
-author: PBB ADMIN
+author: PBB Admin
 author2: ''
 layout: post
 title: Bata, 24 tanan ang mga tudlo sa kamot ug tiil?
@@ -10,12 +10,11 @@ description: >-
 categories:
   - story
 tags:
-  - tudlo
-  - kamot
+  - Polydactyly
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1678/0edb591777870913-1.jpeg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1678/0edb591777870913-1.jpeg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1678/0edb591777870913-1.jpeg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1678/8eb4a41777870952-2.jpeg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1678/8eb4a41777870952-2.jpeg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1678/8eb4a41777870952-2.jpeg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -27,16 +26,6 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -58,4 +47,4 @@ While the viral post has sparked curiosity and varied opinions, health professio
 
 
 
-Screenshot from Vincent Alcain Linao
+📸 Screenshot from Vincent Alcain Linao
