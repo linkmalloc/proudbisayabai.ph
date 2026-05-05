@@ -30,13 +30,7 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-**What is anaemia?**
+**What is anemia?**
 
 Anemia is a condition where your body doesn’t have enough healthy red blood cells or hemoglobin to carry adequate oxygen to tissues. This can lead to symptoms such as fatigue, weakness, pale skin, shortness of breath, and dizziness. Anaemia can result from iron deficiency, vitamin deficiencies, blood loss, or underlying medical conditions.
 
