@@ -2,7 +2,7 @@
 author: Kaiser Jan Fuentes
 author2: ''
 layout: post
-title: Inflation rices to 7.2% amid rising rice, fuel prices
+title: Inflation rises to 7.2% amid rising rice, fuel prices
 description: >-
   Prices sprinted harder in April, with inflation jumping to its fastest pace in
   over a year as transport, food, and utilities pushed household costs higher
@@ -26,6 +26,21 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
