@@ -2,7 +2,7 @@
 author: PBB Admin
 author2: ''
 layout: post
-title: Cebu pushes 'future-read' agenda at ASEAN–EU summit
+title: Cebu pushes 'future-ready' agenda at ASEAN–EU summit
 description: >-
   Cebu is positioning itself as a future-ready province anchored on
   sustainability, resilience, and inclusive growth as it hosted the inaugural
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
 
 
 
