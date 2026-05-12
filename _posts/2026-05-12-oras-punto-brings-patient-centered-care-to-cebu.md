@@ -33,6 +33,7 @@ published: true
 ---
 
 
+
 **Grand Opening Marks New Chapter in Healthcare**
 
 A new healthcare facility dedicated to accessible, timely, and patient-centered medical services has officially opened in Cebu as Oras Punto Diagnostics formally welcomed the public during its grand opening celebration on May 11, 2026.
@@ -87,4 +88,4 @@ As it opens its doors in Cebu, Oras Punto Diagnostics hopes to empower more fami
 
 📍 **Located at The Excelsior Tower, 168 R. Duterte St., Banawa, Cebu City.**
 
-For ad inquiries, message pbb.fyi/Advertising or email [proudbisayabaiph@gmail.com](mailto\:proudbisayabaiph@gmail.com). Let’s promote your brand!
+For ad inquiries, message [pbb.fyi/Advertising](pbb.fyi/Advertising) or email [proudbisayabaiph@gmail.com](mailto\:proudbisayabaiph@gmail.com). Let’s promote your brand!
