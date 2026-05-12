@@ -1,3 +1,38 @@
+---
+author: PBB Admin
+author2: ''
+layout: post
+title: Oras Punto Brings Patient-Centered Care to Cebu
+description: >-
+  A new healthcare facility dedicated to accessible, timely, and
+  patient-centered medical services has officially opened in Cebu as Oras Punto
+  Diagnostics formally welcomed the public during its grand opening celebration
+  on May 11, 2026.
+categories:
+  - story
+tags:
+  - cebu
+  - healthcare
+  - free health care
+  - hmo
+  - mental health
+views: '10'
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1751/2422981778528212-1.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1751/2422981778528212-1.jpg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1751/2422981778528212-1.jpg
+img_500_1: null
+img_500_2: null
+img_500_3: null
+img_500_4: null
+img_500_5: null
+photo_credit: ''
+photo_credit_link: ''
+editor: PBB Admin
+read_time: 4 minutes
+published: true
+---
+
+
 **Grand Opening Marks New Chapter in Healthcare**
 
 A new healthcare facility dedicated to accessible, timely, and patient-centered medical services has officially opened in Cebu as Oras Punto Diagnostics formally welcomed the public during its grand opening celebration on May 11, 2026.
