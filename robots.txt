@@ -1,0 +1,12 @@
+---
+---
+User-agent: *
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Facebot
+Allow: /
+
+Sitemap: {{ site.url_sitemap }}/sitemap.xml
