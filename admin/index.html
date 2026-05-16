@@ -5,15 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Admin Login — Proud Bisaya Bai</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <script src="api-base.js"></script>
   <script>
-    const _h = window.location.hostname;
-    const API_BASE = _h.includes('localhost') || _h.includes('pbb.local')
-      ? 'http://192.168.1.75:3000'
-      : _h.startsWith('192.168.')
-        ? 'http://192.168.1.75:3000'
-        : 'https://metamix.app';
-
-
     // Redirect to dashboard if token is still valid
     (async () => {
       const token = localStorage.getItem('admin_token');
@@ -150,7 +143,6 @@
           errorMsg.classList.remove('hidden');
         }
       } catch (err) {
-        debugger
         errorMsg.textContent = 'Unable to reach the server. Please try again.';
         errorMsg.classList.remove('hidden');
       } finally {
