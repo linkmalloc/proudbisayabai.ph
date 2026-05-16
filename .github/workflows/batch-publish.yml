@@ -42,12 +42,16 @@ jobs:
       - name: Build Jekyll Site
         run: |
           if [ "${{ inputs.full_build }}" = "true" ]; then
-            echo "Running full build..."
-            bundle exec jekyll build
+            echo "Running full build with profile..."
+            bundle exec jekyll build --profile 2>&1 | tee build.log
           else
-            echo "Running incremental build..."
-            bundle exec jekyll build --incremental
+            echo "Running incremental build with profile..."
+            bundle exec jekyll build --incremental --profile 2>&1 | tee build.log
           fi
+
+          echo ""
+          echo "=== Top 20 slowest Liquid renders ==="
+          awk '/^Filename/,/^$/' build.log | head -n 22
         env:
           JEKYLL_ENV: production
 

@@ -1,6 +1,6 @@
 ---
 layout: null
 ---
-[{% assign first = true %}{% for post in site.posts %}{% if post.date | date: "%Y" == "2021" %}{% unless first %},{% endunless %}{% assign first = false %}
+[{% assign first = true %}{% for post in site.posts %}{% assign post_year = post.date | date: "%Y" %}{% if post_year == "2021" %}{% unless first %},{% endunless %}{% assign first = false %}
   {"title":{{ post.title | jsonify }},"url":{{ post.url | jsonify }},"date":{{ post.date | date: "%Y-%m-%d" | jsonify }},"categories":{{ post.categories | jsonify }},"content":{{ post.content | strip_html | strip_newlines | truncatewords: 50 | jsonify }},"tags":{{ post.tags | jsonify }},"author":{{ post.author | default: "Admin" | jsonify }},"description":{{ post.description | strip_html | strip_newlines | truncatewords: 25 | jsonify }},"image":{{ post.img_medium_400x300 | default: post.img_big_1000x600 | default: "" | jsonify }},"img_big_1000x600":{{ post.img_big_1000x600 | default: "" | jsonify }}}{% endif %}{% endfor %}
 ]
