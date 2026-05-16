@@ -385,8 +385,13 @@ createApp({
       let restoreDraft = null;
       if (existingDraft) {
         const restore = await confirmToast('Restore unsaved draft from before?', { cancelLabel: 'Discard', confirmLabel: 'Restore' });
-        if (restore) restoreDraft = existingDraft;
-        else clearDraft(post.id);
+        if (restore) {
+          restoreDraft = existingDraft;
+        } else {
+          clearDraft(post.id);
+          clearUrlState();
+          return;
+        }
       }
 
       suppressDraftSave = true;

@@ -263,11 +263,11 @@
                     <tbody class="divide-y divide-gray-100">
                       <tr v-for="post in posts" :key="post.id" class="hover:bg-gray-50 transition" @click="isMobile && openActionSheet(post)">
                         <td class="px-5 py-3 hidden md:table-cell">
-                          <div class="w-28 rounded-lg overflow-hidden bg-gray-100" style="aspect-ratio: 1200/630;">
+                          <div class="w-full relative rounded-lg overflow-hidden bg-gray-100" style="aspect-ratio: 1200/630;">
                             <img
                               v-if="post.fm.img_big_1000x600"
                               :src="post.fm.img_big_1000x600"
-                              class="w-full h-full object-cover"
+                              class="absolute inset-0 w-full h-full object-cover block"
                               loading="lazy"
                             />
                           </div>
@@ -431,11 +431,11 @@
                     <tbody class="divide-y divide-gray-100">
                       <tr v-for="post in archivedPosts" :key="post.id" class="hover:bg-gray-50 transition">
                         <td class="px-5 py-3 hidden md:table-cell">
-                          <div class="w-28 rounded-lg overflow-hidden bg-gray-100" style="aspect-ratio: 1200/630;">
+                          <div class="w-full relative rounded-lg overflow-hidden bg-gray-100" style="aspect-ratio: 1200/630;">
                             <img
                               v-if="post.fm.img_big_1000x600"
                               :src="post.fm.img_big_1000x600"
-                              class="w-full h-full object-cover"
+                              class="absolute inset-0 w-full h-full object-cover block"
                               loading="lazy"
                             />
                           </div>
@@ -799,7 +799,7 @@
                             @dragstart="onImageDragStart($event, img.key)">
                             <img :src="toCloudFrontUrl(img.key)" class="w-full h-full object-cover pointer-events-none" />
                             <div class="absolute inset-0 bg-black/40 transition flex flex-col items-center justify-center gap-1.5 p-2"
-                              :class="selectedImageBlobId === img.blob_id ? 'opacity-100' : 'opacity-0 group-hover:opacity-100 pointer-events-none group-hover:pointer-events-auto'">
+                              :class="selectedImageBlobId === img.blob_id ? 'opacity-100' : 'opacity-0 group-hover:opacity-100 pointer-events-none'">
                               <button @click.stop="setFeatureImage(img)" title="Set as feature image"
                                 class="w-full flex items-center justify-center gap-1.5 px-2 py-1.5 bg-orange-500 text-white rounded-lg text-xs font-medium hover:bg-orange-600 transition shadow">
                                 <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z"/></svg>
@@ -1083,11 +1083,17 @@
 
       <!-- Toast confirmation -->
       <transition name="toast">
-        <div v-if="toast.visible && toast.mode !== 'error'" class="fixed top-6 left-1/2 -translate-x-1/2 z-[9999] flex items-center gap-4 text-white text-sm px-5 py-3.5 rounded-2xl shadow-2xl"
-          :class="(toast.mode === 'notify' || toast.mode === 'success-confirm') ? 'bg-green-600' : 'bg-gray-900'">
-          <svg v-if="toast.mode === 'notify' || toast.mode === 'success-confirm'" class="w-4 h-4 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
-          <span>{{ toast.message }}</span>
-          <div v-if="toast.mode !== 'notify'" class="flex items-center gap-2">
+        <div v-if="toast.visible && toast.mode !== 'error'"
+          class="fixed top-6 left-1/2 -translate-x-1/2 z-[9999] flex text-white text-sm px-5 py-3.5 rounded-2xl shadow-2xl"
+          :class="[
+            (toast.mode === 'notify' || toast.mode === 'success-confirm') ? 'bg-green-600' : 'bg-gray-900',
+            isMobile ? 'flex-col gap-3 items-center' : 'flex-row items-center gap-4'
+          ]">
+          <div class="flex items-center gap-2">
+            <svg v-if="toast.mode === 'notify' || toast.mode === 'success-confirm'" class="w-4 h-4 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+            <span>{{ toast.message }}</span>
+          </div>
+          <div v-if="toast.mode !== 'notify'" class="flex items-center justify-center gap-2">
             <button @click="toast.resolve(false)" class="px-3 py-1.5 rounded-lg bg-white/10 hover:bg-white/20 transition text-xs font-medium">{{ toast.cancelLabel }}</button>
             <button @click="toast.resolve(true)"
               :class="toast.mode === 'success-confirm' ? 'bg-white text-green-700 hover:bg-green-50' : 'bg-red-500 hover:bg-red-600'"
