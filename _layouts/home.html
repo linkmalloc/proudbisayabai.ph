@@ -26,7 +26,7 @@ layout: default
                     <div class="hero-post position-relative">
                         <div class="post-thumb-wrapper">
                             <a href="{{ featured_post.url }}">
-                                <img class="border-radius-15" src="{{ featured_post.img_big_1000x600 }}" alt="{{ featured_post.title }}">
+                                <img class="border-radius-15 ignore-lazy-image-load" src="{{ featured_post.img_big_1000x600 }}" alt="{{ featured_post.title }}" width="1000" height="600" fetchpriority="high">
                             </a>
                             <div class="hero-overlay"></div>
                         </div>
@@ -61,7 +61,7 @@ layout: default
                             <article class="trending-item d-flex mb-25 wow fadeInUp animated">
                                 <div class="trending-thumb mr-15">
                                     <a href="{{ post.url }}">
-                                        <img src="{{ post.img_small_250x150 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-5">
+                                        <img src="{{ post.img_small_250x150 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-5" loading="lazy">
                                     </a>
                                 </div>
                                 <div class="trending-content">
@@ -113,7 +113,7 @@ layout: default
                                 <article class="post-card border-radius-10 wow fadeInUp animated">
                                     <div class="post-thumb">
                                         <a href="{{ post.url }}">
-                                            <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10">
+                                            <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10" loading="lazy">
                                         </a>
                                         <div class="post-category-badge bg-orange text-white">
                                             {{ post.category | default: "News" }}
@@ -231,7 +231,7 @@ layout: default
                             <article class="post-card border-radius-10 wow fadeInUp animated">
                                 <div class="post-thumb">
                                     <a href="{{ post.url }}">
-                                        <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10">
+                                        <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10" loading="lazy">
                                     </a>
                                     <div class="post-category-badge bg-orange text-white">
                                         {{ post.category | default: "Destinations" }}
@@ -297,7 +297,7 @@ layout: default
                                 <article class="post-card border-radius-10 wow fadeInUp animated">
                                     <div class="post-thumb">
                                         <a href="{{ post.url }}">
-                                            <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10">
+                                            <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10" loading="lazy">
                                         </a>
                                         <div class="post-category-badge bg-orange text-white">
                                             {{ post.category | default: "Foods" }}
@@ -360,7 +360,7 @@ layout: default
                             <article class="post-card border-radius-10 wow fadeInUp animated">
                                 <div class="post-thumb">
                                     <a href="{{ post.url }}">
-                                        <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10">
+                                        <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10" loading="lazy">
                                     </a>
                                     <div class="post-category-badge bg-orange text-white">
                                         {{ post.category | default: "Brands" }}
@@ -408,7 +408,7 @@ layout: default
                             <article class="post-card border-radius-10 wow fadeInUp animated">
                                 <div class="post-thumb">
                                     <a href="{{ post.url }}">
-                                        <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10">
+                                        <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10" loading="lazy">
                                     </a>
                                     <div class="post-category-badge bg-orange text-white">
                                         {{ post.category | default: "Weather" }}
