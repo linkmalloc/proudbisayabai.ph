@@ -436,9 +436,9 @@
                       class="px-4 py-1.5 text-sm bg-orange-500 text-white rounded-lg hover:bg-orange-600 disabled:opacity-50 transition font-medium">
                       {{ saving ? 'Saving…' : 'Save' }}
                     </button>
-                    <button v-if="editingPost && !editingPost.published" @click="savePost(true)" :disabled="saving"
+                    <button v-if="editingPost" @click="savePost(true)" :disabled="saving"
                       class="px-4 py-1.5 text-sm bg-green-600 text-white rounded-lg hover:bg-green-700 disabled:opacity-50 transition font-medium">
-                      {{ saving ? 'Publishing…' : 'Publish' }}
+                      {{ saving ? (editingPost.published ? 'Republishing…' : 'Publishing…') : (editingPost.published ? 'Republish' : 'Publish') }}
                     </button>
                   </template>
                 </template>
@@ -452,9 +452,9 @@
                     class="px-4 py-1.5 text-sm bg-orange-500 text-white rounded-lg hover:bg-orange-600 disabled:opacity-50 transition font-medium">
                     {{ saving ? 'Saving…' : 'Save' }}
                   </button>
-                  <button v-if="editingPost && !editingPost.published" @click="savePost(true)" :disabled="saving"
+                  <button v-if="editingPost" @click="savePost(true)" :disabled="saving"
                     class="px-4 py-1.5 text-sm bg-green-600 text-white rounded-lg hover:bg-green-700 disabled:opacity-50 transition font-medium">
-                    {{ saving ? 'Publishing…' : 'Publish' }}
+                    {{ saving ? (editingPost.published ? 'Republishing…' : 'Publishing…') : (editingPost.published ? 'Republish' : 'Publish') }}
                   </button>
                 </template>
                 <button @click="closeEditor" class="p-1.5 rounded-md text-gray-400 hover:bg-gray-100 transition">
@@ -500,6 +500,15 @@
                 <!-- Tab / mobile content -->
                 <div class="flex-1 overflow-y-auto p-5 flex flex-col gap-4">
 
+                  <button @click="autopopulate" :disabled="autopopulating || !canAutopopulate" type="button"
+                    :title="canAutopopulate ? 'Autofill metadata and SEO from body' : 'Write at least 50 words in the body first'"
+                    class="w-full flex items-center justify-center gap-2 px-3 py-2 text-xs font-semibold rounded-lg bg-gradient-to-r from-purple-500 to-orange-500 text-white hover:opacity-90 disabled:opacity-50 disabled:cursor-not-allowed transition shadow-sm">
+                    <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/>
+                    </svg>
+                    {{ autopopulating ? 'Populating…' : 'AI Populate' }}
+                  </button>
+
                   <!-- METADATA tab -->
                   <template v-if="isMobile || editMetaTab === 'metadata'">
                     <div>
@@ -509,16 +518,25 @@
                         class="w-full px-3 py-2 border rounded-lg text-sm text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition resize-none"></textarea>
                     </div>
                     <div>
-                      <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">Description</label>
+                      <div class="flex items-center justify-between mb-1">
+                        <label class="text-xs font-semibold text-gray-500 uppercase tracking-wider">Description</label>
+                        <button @click="suggestDescription" type="button"
+                          class="px-2.5 py-1 text-xs font-medium rounded-md bg-orange-50 text-orange-600 hover:bg-orange-100 border border-orange-200 transition">
+                          Suggest from body
+                        </button>
+                      </div>
                       <textarea v-model="editDescription" rows="4" @input="descriptionInvalid = false"
                         :class="descriptionInvalid ? 'border-red-500 ring-1 ring-red-500' : 'border-gray-200'"
                         class="w-full px-3 py-2 border rounded-lg text-sm text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition resize-none"></textarea>
                     </div>
                     <div>
                       <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-1">Author</label>
-                      <input v-model="editAuthor" type="text" @input="authorInvalid = false"
+                      <input v-model="editAuthor" type="text" list="author-suggestions" autocomplete="off" @input="authorInvalid = false"
                         :class="authorInvalid ? 'border-red-500 ring-1 ring-red-500' : 'border-gray-200'"
                         class="w-full px-3 py-2 border rounded-lg text-sm text-gray-800 focus:outline-none focus:ring-2 focus:ring-orange-400 transition" />
+                      <datalist id="author-suggestions">
+                        <option v-for="a in authorSuggestions" :key="a" :value="a"></option>
+                      </datalist>
                     </div>
                   </template>
 
@@ -595,13 +613,18 @@
                           </svg>
                           <span class="text-white text-xs font-medium">{{ featureImageDragOver ? 'Drop to set' : 'Click to upload' }}</span>
                         </div>
+                        <button v-if="editFeatureImagePreview || editFeatureImage"
+                          @click.stop="clearFeatureImage" title="Remove"
+                          class="absolute top-2 right-2 w-6 h-6 rounded-full bg-black/60 text-white flex items-center justify-center opacity-0 group-hover:opacity-100 transition hover:bg-red-500 text-base leading-none z-10">
+                          &times;
+                        </button>
                       </div>
                       <input ref="featureFileInput" type="file" accept="image/*" class="hidden" @change="onFeatureImageFile" />
                       <p v-if="editFeatureImageFile" class="text-xs text-gray-400 mt-1 truncate">{{ editFeatureImageFile.name }}</p>
                     </div>
 
                     <!-- Upload attachments -->
-                    <div>
+                    <div class="border-t border-gray-100 pt-4 mt-2">
                       <label class="block text-xs font-semibold text-gray-500 uppercase tracking-wider mb-2">Upload Images</label>
 
                       <!-- Drop zone -->
@@ -669,24 +692,36 @@
               <!-- Right panel: WYSIWYG editor -->
               <div v-show="!isMobile || editStep === 2" :class="activeEditor === 'markdown' ? 'is-markdown' : ''" class="flex-1 overflow-hidden flex flex-col">
                 <!-- Editor toggle bar -->
-                <div class="flex items-center gap-1 px-3 py-1.5 border-b border-gray-100 bg-gray-50 flex-shrink-0">
-                  <span class="text-xs text-gray-400 mr-2 hidden">Editor</span>
-                  <div class="flex bg-gray-200 rounded-lg p-0.5 gap-0.5">
-                    <button @click="switchToEditor('quill')"
-                      :class="activeEditor === 'quill' ? 'bg-white shadow-sm text-gray-800 font-medium' : 'text-gray-500 hover:text-gray-700'"
-                      class="px-3 py-1 text-xs rounded-md transition">
-                      Editor
-                    </button>
-                    <button @click="switchToEditor('tiptap')"
-                      :class="activeEditor === 'tiptap' ? 'bg-white shadow-sm text-gray-800 font-medium' : 'text-gray-500 hover:text-gray-700'"
-                      class="px-3 py-1 text-xs rounded-md transition hidden">
-                      Tiptap
-                    </button>
-                    <button @click="switchToEditor('markdown')"
-                      :class="activeEditor === 'markdown' ? 'bg-white shadow-sm text-gray-800 font-medium' : 'text-gray-500 hover:text-gray-700'"
-                      class="px-3 py-1 text-xs rounded-md transition">
-                      Markdown
-                    </button>
+                <div class="flex items-center justify-between gap-1 px-3 py-1.5 border-b border-gray-100 bg-gray-50 flex-shrink-0">
+                  <div class="flex items-center gap-2">
+                    <span class="text-xs text-gray-400 mr-2 hidden">Editor</span>
+                    <div class="flex bg-gray-200 rounded-lg p-0.5 gap-0.5">
+                      <button @click="switchToEditor('quill')"
+                        :class="activeEditor === 'quill' ? 'bg-white shadow-sm text-gray-800 font-medium' : 'text-gray-500 hover:text-gray-700'"
+                        class="px-3 py-1 text-xs rounded-md transition">
+                        Editor
+                      </button>
+                      <button @click="switchToEditor('tiptap')"
+                        :class="activeEditor === 'tiptap' ? 'bg-white shadow-sm text-gray-800 font-medium' : 'text-gray-500 hover:text-gray-700'"
+                        class="px-3 py-1 text-xs rounded-md transition hidden">
+                        Tiptap
+                      </button>
+                      <button @click="switchToEditor('markdown')"
+                        :class="activeEditor === 'markdown' ? 'bg-white shadow-sm text-gray-800 font-medium' : 'text-gray-500 hover:text-gray-700'"
+                        class="px-3 py-1 text-xs rounded-md transition">
+                        Markdown
+                      </button>
+                    </div>
+                  </div>
+                  <div class="flex items-center gap-2 text-xs text-gray-500">
+                    <span title="Word count">{{ bodyWordCount }} {{ bodyWordCount === 1 ? 'word' : 'words' }}</span>
+                    <span class="text-gray-300">•</span>
+                    <span class="flex items-center gap-1" title="Estimated read time">
+                      <svg xmlns="http://www.w3.org/2000/svg" class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
+                      </svg>
+                      {{ currentReadTime }}
+                    </span>
                   </div>
                 </div>
                 <!-- Quill editor -->
@@ -914,12 +949,14 @@
       <!-- Toast confirmation -->
       <transition name="toast">
         <div v-if="toast.visible && toast.mode !== 'error'" class="fixed top-6 left-1/2 -translate-x-1/2 z-[9999] flex items-center gap-4 text-white text-sm px-5 py-3.5 rounded-2xl shadow-2xl"
-          :class="toast.mode === 'notify' ? 'bg-green-600' : 'bg-gray-900'">
-          <svg v-if="toast.mode === 'notify'" class="w-4 h-4 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
+          :class="(toast.mode === 'notify' || toast.mode === 'success-confirm') ? 'bg-green-600' : 'bg-gray-900'">
+          <svg v-if="toast.mode === 'notify' || toast.mode === 'success-confirm'" class="w-4 h-4 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/></svg>
           <span>{{ toast.message }}</span>
           <div v-if="toast.mode !== 'notify'" class="flex items-center gap-2">
             <button @click="toast.resolve(false)" class="px-3 py-1.5 rounded-lg bg-white/10 hover:bg-white/20 transition text-xs font-medium">{{ toast.cancelLabel }}</button>
-            <button @click="toast.resolve(true)" class="px-3 py-1.5 rounded-lg bg-red-500 hover:bg-red-600 transition text-xs font-medium">{{ toast.confirmLabel }}</button>
+            <button @click="toast.resolve(true)"
+              :class="toast.mode === 'success-confirm' ? 'bg-white text-green-700 hover:bg-green-50' : 'bg-red-500 hover:bg-red-600'"
+              class="px-3 py-1.5 rounded-lg transition text-xs font-medium">{{ toast.confirmLabel }}</button>
           </div>
         </div>
       </transition>
@@ -1014,6 +1051,7 @@
     .ql-undo:active, .ql-redo:active { background: #d1d5db !important; transform: scale(0.92); }
   </style>
 
+  <script src="api-base.js"></script>
   <script src="dashboard.js"></script>
 </body>
 </html>

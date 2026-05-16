@@ -1,4 +1,4 @@
-const { createApp, ref, reactive, watch, nextTick, onMounted, onUnmounted } = Vue;
+const { createApp, ref, reactive, computed, watch, nextTick, onMounted, onUnmounted } = Vue;
 
 const POST_SKELETON_FM = {
   author: '',
@@ -25,12 +25,7 @@ const POST_SKELETON_FM = {
   published_at: null,
 };
 
-const _h = window.location.hostname;
-const API_BASE = _h.includes('localhost')
-? 'http://192.168.1.75:3000'
-: _h.startsWith('192.168.')
-  ? 'http://192.168.1.75:3000'
-  : 'https://metamix.app';
+const API_BASE = window.API_BASE;
 
 createApp({
   setup() {
@@ -53,6 +48,7 @@ createApp({
     const editFeatureImage = ref('');
     const editFeatureImagePreview = ref(null);
     const editFeatureImageFile = ref(null);
+    const featureFileInput = ref(null);
     const attachmentQueue = ref([]);
     const uploadedImages = ref([]);
     const copiedImageIndex = ref(null);
@@ -70,7 +66,7 @@ createApp({
     const tagsInvalid = ref(false);
     const editTagsRaw = ref('');
     const editTags = ref([]);
-    const postCategories = ['story', 'destination', 'food', 'brand'];
+    const postCategories = ['story', 'destination', 'food', 'brand', 'product', 'news'];
     const saving = ref(false);
 
     const saveSuccess = ref(false);
@@ -86,6 +82,8 @@ createApp({
     const activeEditor = ref('quill');
     const tiptapUpdateTick = ref(0);
     const markdownOutput = ref('');
+    const bodyLength = ref(0);
+    const bodyWordCount = ref(0);
     const toast = reactive({ visible: false, mode: 'confirm', message: '', cancelLabel: 'Cancel', confirmLabel: 'Confirm', resolve: null });
     const actionSheet = reactive({ visible: false, post: null });
 
@@ -95,9 +93,9 @@ createApp({
     }
     const imageInsertModal = reactive({ visible: false, url: '', target: null });
 
-    function confirmToast(message, { cancelLabel = 'Cancel', confirmLabel = 'Confirm' } = {}) {
+    function confirmToast(message, { cancelLabel = 'Cancel', confirmLabel = 'Confirm', mode = 'confirm' } = {}) {
       return new Promise((resolve) => {
-        toast.mode = 'confirm';
+        toast.mode = mode;
         toast.message = message;
         toast.cancelLabel = cancelLabel;
         toast.confirmLabel = confirmLabel;
@@ -251,7 +249,84 @@ createApp({
       clearUrlState();
     }
 
-    function editPost(post, updateUrl = true) {
+    function draftKey(id) { return `pb_admin_draft_${id}`; }
+    function loadDraft(id) {
+      try {
+        const raw = localStorage.getItem(draftKey(id));
+        return raw ? JSON.parse(raw) : null;
+      } catch (e) { return null; }
+    }
+    function clearDraft(id) {
+      try { localStorage.removeItem(draftKey(id)); } catch (e) { /* ignore */ }
+    }
+
+    const AUTHORS_KEY = 'pb_admin_authors';
+    const AUTHORS_MAX = 25;
+    const authorSuggestions = ref([]);
+    function loadAuthorSuggestions() {
+      try {
+        const raw = localStorage.getItem(AUTHORS_KEY);
+        const list = raw ? JSON.parse(raw) : [];
+        if (Array.isArray(list)) authorSuggestions.value = list.filter(Boolean);
+      } catch (e) { authorSuggestions.value = []; }
+    }
+    function rememberAuthor(name) {
+      const trimmed = (name || '').trim();
+      if (!trimmed) return;
+      const next = [trimmed, ...authorSuggestions.value.filter(a => a !== trimmed)].slice(0, AUTHORS_MAX);
+      authorSuggestions.value = next;
+      try { localStorage.setItem(AUTHORS_KEY, JSON.stringify(next)); } catch (e) { /* quota */ }
+    }
+    function seedAuthorSuggestionsFromPosts(list) {
+      if (!Array.isArray(list)) return;
+      const fromPosts = list
+        .map(p => p && p.fm && p.fm.author)
+        .map(a => (a || '').trim())
+        .filter(Boolean);
+      if (!fromPosts.length) return;
+      const merged = [];
+      const seen = new Set();
+      for (const a of [...authorSuggestions.value, ...fromPosts]) {
+        if (!seen.has(a)) { seen.add(a); merged.push(a); }
+      }
+      authorSuggestions.value = merged.slice(0, AUTHORS_MAX);
+      try { localStorage.setItem(AUTHORS_KEY, JSON.stringify(authorSuggestions.value)); } catch (e) { /* quota */ }
+    }
+    let suppressDraftSave = false;
+    let pendingDraft = null;
+    let draftSaveTimer = null;
+    function saveDraftToStorage() {
+      if (suppressDraftSave || !editingPost.value) return;
+      if (!hasUnsavedChanges()) { clearDraft(editingPost.value.id); return; }
+      const draft = {
+        title: editTitle.value,
+        description: editDescription.value,
+        author: editAuthor.value,
+        slugTitle: editSlugTitle.value,
+        category: editCategory.value,
+        tags: editTags.value.slice(),
+        featureImage: editFeatureImage.value,
+        body: getEditorHtml(),
+      };
+      try { localStorage.setItem(draftKey(editingPost.value.id), JSON.stringify(draft)); }
+      catch (e) { /* quota — drop silently */ }
+    }
+    function scheduleDraftSave() {
+      if (suppressDraftSave) return;
+      clearTimeout(draftSaveTimer);
+      draftSaveTimer = setTimeout(saveDraftToStorage, 500);
+    }
+
+    async function editPost(post, updateUrl = true) {
+      const existingDraft = loadDraft(post.id);
+      let restoreDraft = null;
+      if (existingDraft) {
+        const restore = await confirmToast('Restore unsaved draft from before?', { cancelLabel: 'Discard', confirmLabel: 'Restore' });
+        if (restore) restoreDraft = existingDraft;
+        else clearDraft(post.id);
+      }
+
+      suppressDraftSave = true;
       const fm = post.fm || {};
       editTitle.value = fm.title || '';
       editDescription.value = fm.description || '';
@@ -274,7 +349,6 @@ createApp({
       saveSuccess.value = false;
       editStep.value = 1;
       editMetaTab.value = 'metadata';
-      editingPost.value = post;
       editSnapshot = {
         title: editTitle.value,
         description: editDescription.value,
@@ -284,8 +358,21 @@ createApp({
         tags: JSON.stringify(editTags.value),
         featureImage: editFeatureImage.value,
       };
+
+      if (restoreDraft) {
+        if (restoreDraft.title !== undefined) editTitle.value = restoreDraft.title;
+        if (restoreDraft.description !== undefined) editDescription.value = restoreDraft.description;
+        if (restoreDraft.author !== undefined) editAuthor.value = restoreDraft.author;
+        if (restoreDraft.slugTitle !== undefined) editSlugTitle.value = restoreDraft.slugTitle;
+        if (restoreDraft.category !== undefined) editCategory.value = restoreDraft.category;
+        if (Array.isArray(restoreDraft.tags)) editTags.value = restoreDraft.tags.slice();
+        if (restoreDraft.featureImage !== undefined) editFeatureImage.value = restoreDraft.featureImage;
+        pendingDraft = restoreDraft;
+      }
+
+      editingPost.value = post;
       activeEditor.value = 'quill';
-      quillDirty = false;
+      quillDirty = !!restoreDraft;
       if (updateUrl) pushUrlState('edit', post.id);
     }
 
@@ -335,6 +422,7 @@ createApp({
             pushUrlState('edit', editingPost.value.id);
             return;
           }
+          clearDraft(editingPost.value.id);
           quillDirty = false;
           editSnapshot = null;
         }
@@ -520,11 +608,32 @@ createApp({
       }
     }
 
-    function onFeatureImageFile(e) {
+    async function onFeatureImageFile(e) {
       const file = e.target.files[0];
       if (!file) return;
       editFeatureImageFile.value = file;
       editFeatureImagePreview.value = URL.createObjectURL(file);
+      try {
+        const formData = new FormData();
+        formData.append('files', file);
+        const res = await fetch(`${API_BASE}/api/v1/posts/${editingPost.value.id}/upload_attachments`, {
+          method: 'POST',
+          headers: { 'Authorization': `Bearer ${token()}` },
+          body: formData,
+        });
+        if (!res.ok) throw new Error('Upload failed');
+        const data = await res.json();
+        const imgs = data.attachments || [];
+        if (imgs.length) {
+          editFeatureImage.value = toCloudFrontUrl(imgs[imgs.length - 1].key);
+          editFeatureImagePreview.value = null;
+          editFeatureImageFile.value = null;
+          uploadedImages.value.push(...imgs);
+        }
+      } catch (err) {
+        errorToast('Feature image upload failed.');
+        console.error('Feature image upload failed', err);
+      }
     }
 
     function insertImageByUrl() {
@@ -587,19 +696,33 @@ createApp({
         : (quillEditor ? quillEditor.root.innerHTML : '');
     }
 
+    function readTimeFromLength(len) {
+      return `${Math.max(2, Math.min(5, Math.ceil((len || 0) / 1500)))} minutes`;
+    }
+    function computeReadTime(body) {
+      return readTimeFromLength((body || '').length);
+    }
+    function countWords(text) {
+      return (text || '').trim().split(/\s+/).filter(Boolean).length;
+    }
+    const currentReadTime = computed(() => readTimeFromLength(bodyLength.value));
+
     function buildMarkdownDoc() {
       const markdown = turndownService.turndown(getEditorHtml());
+      const { attachments: _attachments, ...existingFm } = editingPost.value.fm || {};
       const fm = {
         ...POST_SKELETON_FM,
-        ...editingPost.value.fm,
+        ...existingFm,
         title: editTitle.value,
         description: editDescription.value,
         author: editAuthor.value,
-        categories: editCategory.value ? [editCategory.value] : (editingPost.value.fm.categories || []),
+        categories: editCategory.value ? [editCategory.value] : (existingFm.categories || []),
         tags: editTags.value,
         img_big_1000x600: editFeatureImage.value,
         img_big_3000x1144: editFeatureImage.value,
         img_500x500: editFeatureImage.value,
+        editor: 'PBB Admin',
+        read_time: computeReadTime(markdown),
       };
       return `---\n${jsyaml.dump(fm, { lineWidth: -1 })}---\n\n${markdown}`;
     }
@@ -630,7 +753,12 @@ createApp({
             window.TiptapLink.configure({ openOnClick: false }),
           ],
           content,
-          onUpdate() { quillDirty = true; },
+          onUpdate() {
+            quillDirty = true;
+            bodyLength.value = turndownService.turndown(tiptapEditor.getHTML()).length;
+            bodyWordCount.value = countWords(tiptapEditor.getText());
+            scheduleDraftSave();
+          },
           onTransaction() { tiptapUpdateTick.value++; },
         });
         document.querySelector('#tiptap-editor').addEventListener('drop', (e) => {
@@ -725,8 +853,16 @@ createApp({
       }
     }
 
+    function clearFeatureImage() {
+      editFeatureImage.value = '';
+      editFeatureImagePreview.value = null;
+      editFeatureImageFile.value = null;
+      if (featureFileInput.value) featureFileInput.value.value = '';
+    }
+
     async function closeEditor() {
       if (hasUnsavedChanges() && !await confirmToast('You have unsaved changes.', { cancelLabel: 'Stay', confirmLabel: 'Leave' })) return;
+      if (editingPost.value && hasUnsavedChanges()) clearDraft(editingPost.value.id);
       if (tiptapEditor) { tiptapEditor.destroy(); tiptapEditor = null; }
       if (quillEditor) { quillEditor = null; }
       editBodyHtml = '';
@@ -738,6 +874,8 @@ createApp({
 
 
     async function savePost(publish = false) {
+      const wasPublished = !!(editingPost.value && editingPost.value.published);
+      const republish = publish && wasPublished;
       if (!editTitle.value.trim()) {
         errorToast('Title is required.');
         titleInvalid.value = true;
@@ -787,7 +925,7 @@ createApp({
       if (!editFeatureImage.value && !editFeatureImagePreview.value) {
         errorToast('Feature image is required.');
         editStep.value = 1;
-        editMetaTab.value = isMobile.value ? 'metadata' : 'media';
+        editMetaTab.value = isMobile.value ? 'metadata' : 'images';
         return;
       }
       saving.value = true;
@@ -796,17 +934,20 @@ createApp({
         const html = getEditorHtml();
         const markdown = turndownService.turndown(html);
         const tags = editTags.value;
+        const { attachments: _attachments, ...existingFm } = editingPost.value.fm || {};
         const fm = {
           ...POST_SKELETON_FM,
-          ...(editingPost.value.fm || {}),
+          ...existingFm,
           title: editTitle.value,
           description: editDescription.value,
           author: editAuthor.value,
-          categories: editCategory.value ? [editCategory.value] : ((editingPost.value.fm || {}).categories || []),
+          categories: editCategory.value ? [editCategory.value] : (existingFm.categories || []),
           tags,
           img_big_1000x600: editFeatureImage.value,
           img_big_3000x1144: editFeatureImage.value,
           img_500x500: editFeatureImage.value,
+          editor: 'PBB Admin',
+          read_time: computeReadTime(markdown),
         };
         const newFrontMatter = jsyaml.dump(fm, { lineWidth: -1 });
         const newContent = `---\n${newFrontMatter}---\n\n${markdown}`;
@@ -816,11 +957,29 @@ createApp({
           headers: { 'Authorization': `Bearer ${token()}`, 'Content-Type': 'application/json' },
           body: JSON.stringify({ content: newContent, slug_title: editSlugTitle.value || null, ...(publish ? { published: true } : {}) }),
         });
-        if (!res.ok) throw new Error(publish ? 'Failed to publish' : 'Failed to save');
+        if (!res.ok) {
+          let detail = '';
+          try {
+            const body = await res.json();
+            detail = body.error || body.message || (Array.isArray(body.errors) ? body.errors.join(', ') : '');
+          } catch (_) { /* non-json response */ }
+          const action = republish ? 'Failed to republish' : (publish ? 'Failed to publish' : 'Failed to save');
+          throw new Error(`${action}${detail ? `: ${detail}` : ''}`);
+        }
         if (publish) editingPost.value.published = true;
+        editingPost.value.content = newContent;
+        editingPost.value.fm = fm;
+        rememberAuthor(editAuthor.value);
         saveSuccess.value = true;
         setTimeout(() => { saveSuccess.value = false; }, 3000);
-        notifyToast(publish ? 'Post published!' : 'Post saved successfully!');
+        if (publish) {
+          const message = `${republish ? 'Republished' : 'Published'}! The post will go live in the background.`;
+          const postToPreview = editingPost.value;
+          confirmToast(message, { mode: 'success-confirm', cancelLabel: 'Close', confirmLabel: 'Preview' })
+            .then((preview) => { if (preview && postToPreview) viewPost(postToPreview); });
+        } else {
+          notifyToast('Post saved successfully!');
+        }
         editSnapshot = {
           title: editTitle.value,
           description: editDescription.value,
@@ -831,9 +990,10 @@ createApp({
           featureImage: editFeatureImage.value,
         };
         quillDirty = false;
+        clearDraft(editingPost.value.id);
         await loadPosts(pagination.value.page);
       } catch (err) {
-        notifyToast(err.message);
+        errorToast(err.message);
       } finally {
         saving.value = false;
       }
@@ -861,6 +1021,99 @@ createApp({
       const isUnpublished = editingPost.value && !editingPost.value.published;
       if (!editSlugTitle.value || isUnpublished) {
         editSlugTitle.value = slugify(editTitle.value);
+      }
+    }
+
+    function suggestDescription() {
+      let text = '';
+      if (quillEditor) text = quillEditor.getText();
+      else if (tiptapEditor) text = tiptapEditor.getText();
+      text = (text || '').replace(/\s+/g, ' ').trim();
+      if (!text) {
+        errorToast('Body is empty.');
+        return;
+      }
+      const match = text.match(/^.*?[.!?](?=\s|$)/);
+      editDescription.value = (match ? match[0] : text).trim();
+      descriptionInvalid.value = false;
+    }
+
+    function stripImagesAndBlobs(markdown) {
+      return (markdown || '')
+        .replace(/!\[[^\]]*\]\([^)]*\)/g, '')
+        .replace(/<img\b[^>]*>/gi, '')
+        .replace(/\bblob:[^\s)"']+/gi, '')
+        .replace(/\bdata:image\/[^\s)"']+/gi, '')
+        .replace(/\n{3,}/g, '\n\n')
+        .trim();
+    }
+
+    const autopopulating = ref(false);
+    const AUTOPOPULATE_MIN_WORDS = 50;
+    const canAutopopulate = computed(() => bodyWordCount.value >= AUTOPOPULATE_MIN_WORDS);
+    async function autopopulate() {
+      if (!editingPost.value || autopopulating.value) return;
+      const cleanBody = stripImagesAndBlobs(turndownService.turndown(getEditorHtml()));
+      if (!cleanBody) {
+        errorToast('Write the body first before AI populating.');
+        return;
+      }
+      const wordCount = countWords(cleanBody);
+      if (wordCount < AUTOPOPULATE_MIN_WORDS) {
+        errorToast(`Body is too short (${wordCount}/${AUTOPOPULATE_MIN_WORDS} words after stripping images). Finish writing before AI populating.`);
+        return;
+      }
+      const filled = [
+        editTitle.value.trim() && 'title',
+        editDescription.value.trim() && 'description',
+        editCategory.value && 'category',
+        editTags.value.length && 'tags',
+      ].filter(Boolean);
+      if (filled.length) {
+        const ok = await confirmToast(
+          `AI Populate will overwrite your existing ${filled.join(', ')}. Continue?`,
+          { cancelLabel: 'Cancel', confirmLabel: 'Overwrite' }
+        );
+        if (!ok) return;
+      }
+      autopopulating.value = true;
+      try {
+        const res = await fetch(`${API_BASE}/api/v1/posts/${editingPost.value.id}/autopopulate`, {
+          method: 'POST',
+          headers: { 'Authorization': `Bearer ${token()}`, 'Content-Type': 'application/json' },
+          body: JSON.stringify({ body: cleanBody }),
+        });
+        if (!res.ok) {
+          let detail = '';
+          try {
+            const body = await res.json();
+            detail = body.error || body.message || (Array.isArray(body.errors) ? body.errors.join(', ') : '');
+          } catch (_) { /* non-json */ }
+          throw new Error(`AI populate failed${detail ? `: ${detail}` : ''}`);
+        }
+        const data = await res.json();
+        const isPublished = !!(editingPost.value && editingPost.value.published);
+        if (typeof data.title === 'string') editTitle.value = data.title;
+        if (typeof data.description === 'string') editDescription.value = data.description;
+        if (typeof data.author === 'string') editAuthor.value = data.author;
+        if (!isPublished) {
+          const aiSlug = typeof data.slug_title === 'string' ? data.slug_title.trim() : '';
+          if (aiSlug) editSlugTitle.value = aiSlug.slice(0, 50);
+          else if (editTitle.value) editSlugTitle.value = slugify(editTitle.value).slice(0, 50);
+        }
+        if (Array.isArray(data.categories) && data.categories[0]) editCategory.value = data.categories[0];
+        else if (typeof data.category === 'string') editCategory.value = data.category;
+        if (Array.isArray(data.tags)) editTags.value = data.tags.map(t => String(t).trim()).filter(Boolean);
+        titleInvalid.value = false;
+        descriptionInvalid.value = false;
+        authorInvalid.value = false;
+        categoryInvalid.value = false;
+        tagsInvalid.value = false;
+        notifyToast('Fields populated by AI.');
+      } catch (err) {
+        errorToast(err.message);
+      } finally {
+        autopopulating.value = false;
       }
     }
 
@@ -900,7 +1153,14 @@ createApp({
         },
       });
       quillEditor.root.innerHTML = html;
-      quillEditor.on('text-change', () => { quillDirty = true; });
+      bodyLength.value = turndownService.turndown(quillEditor.root.innerHTML).length;
+      bodyWordCount.value = countWords(quillEditor.getText());
+      quillEditor.on('text-change', () => {
+        quillDirty = true;
+        bodyLength.value = turndownService.turndown(quillEditor.root.innerHTML).length;
+        bodyWordCount.value = countWords(quillEditor.getText());
+        scheduleDraftSave();
+      });
 
       // Undo / redo
       const toolbarEl = quillEditor.getModule('toolbar').container;
@@ -949,7 +1209,15 @@ createApp({
         quillEditor.setSelection(range.index + 1);
       });
 
+      if (pendingDraft && pendingDraft.body) {
+        quillEditor.root.innerHTML = pendingDraft.body;
+      }
+      pendingDraft = null;
+      suppressDraftSave = false;
     });
+
+    watch([editTitle, editDescription, editAuthor, editSlugTitle, editCategory, editFeatureImage], scheduleDraftSave);
+    watch(editTags, scheduleDraftSave, { deep: true });
 
     const creatingPost = ref(false);
 
@@ -996,10 +1264,12 @@ createApp({
     onMounted(async () => {
       window.addEventListener('resize', onResize);
       window.addEventListener('popstate', onPopState);
+      loadAuthorSuggestions();
       const valid = await validate();
       if (!valid) return;
       validating.value = false;
       await loadPosts();
+      seedAuthorSuggestionsFromPosts(posts.value);
       await restoreFromUrl();
     });
 
@@ -1013,15 +1283,15 @@ createApp({
       loadingPosts, posts, postsError, pagination,
       toggleGroup, navigate, logout, goToPage, pageNumbers, viewPost, editPost, deletePost, createPost, creatingPost, actionSheet, openActionSheet,
       search, onSearch, previewPost, renderedContent, liveUrl, closePreview,
-      editingPost, editTitle, editDescription, editAuthor, editFeatureImage,
-      editFeatureImagePreview, editFeatureImageFile, onFeatureImageFile,
+      editingPost, editTitle, editDescription, editAuthor, authorSuggestions, editFeatureImage,
+      editFeatureImagePreview, editFeatureImageFile, onFeatureImageFile, clearFeatureImage, featureFileInput,
       featureImageDragOver, onImageDragStart, onFeatureImageDrop,
       imageInsertModal, insertImageByUrl, insertImageFromDevice,
       attachmentQueue, uploadedImages, copiedImageIndex, copiedImageBlobIndex, onAttachmentSelect, onAttachmentDrop, removeAttachment, retryAttachment, deleteUploadedImage, copyImageUrl, copyImageBlob, toCloudFrontUrl,
-      editSlugTitle, editCategory, editTagsRaw, editTags, postCategories, onTitleBlur, onMarkdownBlur,
+      editSlugTitle, editCategory, editTagsRaw, editTags, postCategories, onTitleBlur, onMarkdownBlur, suggestDescription, autopopulate, autopopulating, canAutopopulate,
       addTag, addTagOnEnter, removeTag, slugify,
       saving, saveSuccess, editStep, editMetaTab, closeEditor, savePost,
-      activeEditor, markdownOutput, switchToEditor, tiptapCmd, tiptapActive, tiptapInsertImage, tiptapSetLink,
+      activeEditor, markdownOutput, currentReadTime, bodyWordCount, switchToEditor, tiptapCmd, tiptapActive, tiptapInsertImage, tiptapSetLink,
     };
   }
 }).mount('#app');

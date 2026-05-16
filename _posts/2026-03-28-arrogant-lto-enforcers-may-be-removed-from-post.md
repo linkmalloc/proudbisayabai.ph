@@ -27,7 +27,7 @@ read_time: 4 minutes
 published: true
 ---
 
-The Land Transportation Office in Central Visayas (LTO 7 ) has issued a warning to traffic enforcers who behave arrogantly toward motorists, saying such personnel may face removal from their posts.
+The Land Transportation Office in Central Visayas (LTO 7 ) has issued a warning to traffic enforcers who behave arrogantly toward motorists, saying such personnel may face removal from their posts. 
 
 
 

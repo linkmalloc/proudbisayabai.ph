@@ -24,7 +24,7 @@ isTop: true
             <div class="row" id="stories-grid">
                 {% assign story_count = 0 %}
                 {% for post in site.posts %}
-                {% if post.categories contains "story" %}
+                {% if post.categories contains "story" or post.categories contains "news" %}
                 {% if story_count < 6 %}
 
                 {% assign image_big = post.img_big_3000x1144 %}
@@ -134,7 +134,7 @@ isTop: true
         var grid = document.getElementById('stories-grid');
         if (!grid) return;
         var stories = posts
-            .filter(function (p) { return p.categories && p.categories.indexOf('story') !== -1; })
+            .filter(function (p) { return p.categories && (p.categories.indexOf('story') !== -1 || p.categories.indexOf('news') !== -1); })
             .sort(function (a, b) { return new Date(b.date) - new Date(a.date); })
             .slice(SKIP);
 
