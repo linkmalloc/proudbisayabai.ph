@@ -40,6 +40,12 @@ createApp({
     const postsError = ref(null);
     const pagination = ref({ page: 1, per_page: 20, total: 0, total_pages: 1 });
     const search = ref('');
+    const loadingArchivedPosts = ref(false);
+    const archivedPosts = ref([]);
+    const archivedPostsError = ref(null);
+    const archivedPagination = ref({ page: 1, per_page: 20, total: 0, total_pages: 1 });
+    const archivedSearch = ref('');
+    let archivedSearchTimer = null;
     const previewPost = ref(null);
     const editingPost = ref(null);
     const editTitle = ref('');
@@ -53,6 +59,7 @@ createApp({
     const uploadedImages = ref([]);
     const copiedImageIndex = ref(null);
     const copiedImageBlobIndex = ref(null);
+    const selectedImageBlobId = ref(null);
     const featureImageDragOver = ref(false);
     const uploadingAttachments = ref(false);
     let attachmentIdCounter = 0;
@@ -223,6 +230,62 @@ createApp({
         pages.push(i);
       }
       return pages;
+    }
+
+    async function loadArchivedPosts(page = 1) {
+      loadingArchivedPosts.value = true;
+      archivedPostsError.value = null;
+      try {
+        const params = new URLSearchParams({ page });
+        if (archivedSearch.value.trim()) params.set('q', archivedSearch.value.trim());
+        const res = await fetch(`${API_BASE}/api/v1/posts/archived?${params}`, {
+          headers: { 'Authorization': `Bearer ${token()}` },
+        });
+        if (!res.ok) throw new Error('Failed to load archived posts');
+        const json = await res.json();
+        archivedPosts.value = json.data.map(p => ({ ...p, fm: parseFrontMatter(p.front_matter) }));
+        archivedPagination.value = json.pagination;
+      } catch (err) {
+        archivedPostsError.value = err.message;
+      } finally {
+        loadingArchivedPosts.value = false;
+      }
+    }
+
+    function onArchivedSearch() {
+      clearTimeout(archivedSearchTimer);
+      archivedSearchTimer = setTimeout(() => loadArchivedPosts(1), 400);
+    }
+
+    function goToArchivedPage(page) {
+      if (page < 1 || page > archivedPagination.value.total_pages) return;
+      loadArchivedPosts(page);
+    }
+
+    function archivedPageNumbers() {
+      const { page, total_pages } = archivedPagination.value;
+      const delta = 2;
+      const pages = [];
+      for (let i = Math.max(1, page - delta); i <= Math.min(total_pages, page + delta); i++) {
+        pages.push(i);
+      }
+      return pages;
+    }
+
+    async function unarchivePost(post) {
+      const confirmed = await confirmToast(`Unarchive "${post.fm.title}"?`, { cancelLabel: 'Cancel', confirmLabel: 'Unarchive' });
+      if (!confirmed) return;
+      try {
+        const res = await fetch(`${API_BASE}/api/v1/posts/${post.id}/republish`, {
+          method: 'POST',
+          headers: { 'Authorization': `Bearer ${token()}` },
+        });
+        if (!res.ok) throw new Error('Failed to unarchive');
+        notifyToast('Post unarchived.');
+        await loadArchivedPosts(archivedPagination.value.page);
+      } catch (err) {
+        errorToast(err.message);
+      }
     }
 
     function pushUrlState(mode, id) {
@@ -559,6 +622,14 @@ createApp({
         // relative path — strip leading slash if present
         return `${base}/${url.replace(/^\//, '')}`;
       }
+    }
+
+    function setFeatureImage(img) {
+      editFeatureImage.value = toCloudFrontUrl(img.key);
+      editFeatureImagePreview.value = null;
+      editFeatureImageFile.value = null;
+      selectedImageBlobId.value = null;
+      notifyToast('Feature image set.');
     }
 
     async function copyImageUrl(url, index) {
@@ -1064,7 +1135,6 @@ createApp({
         return;
       }
       const filled = [
-        editTitle.value.trim() && 'title',
         editDescription.value.trim() && 'description',
         editCategory.value && 'category',
         editTags.value.length && 'tags',
@@ -1093,7 +1163,7 @@ createApp({
         }
         const data = await res.json();
         const isPublished = !!(editingPost.value && editingPost.value.published);
-        if (typeof data.title === 'string') editTitle.value = data.title;
+        if (typeof data.title === 'string' && !editTitle.value.trim()) editTitle.value = data.title;
         if (typeof data.description === 'string') editDescription.value = data.description;
         if (typeof data.author === 'string') editAuthor.value = data.author;
         if (!isPublished) {
@@ -1261,6 +1331,11 @@ createApp({
       window.location.href = '/admin/index.html';
     }
 
+    watch(currentPage, (page) => {
+      if (page === 'archived-posts') loadArchivedPosts(archivedPagination.value.page || 1);
+      else if (page === 'all-posts') loadPosts(pagination.value.page || 1);
+    });
+
     onMounted(async () => {
       window.addEventListener('resize', onResize);
       window.addEventListener('popstate', onPopState);
@@ -1281,13 +1356,15 @@ createApp({
     return {
       validating, isMobile, sidebarOpen, currentPage, openGroups, toast, notifyToast, errorToast, categorySelect, categoryInvalid, titleInvalid, descriptionInvalid, authorInvalid, tagsInvalid,
       loadingPosts, posts, postsError, pagination,
+      loadingArchivedPosts, archivedPosts, archivedPostsError, archivedPagination,
+      archivedSearch, onArchivedSearch, goToArchivedPage, archivedPageNumbers, unarchivePost,
       toggleGroup, navigate, logout, goToPage, pageNumbers, viewPost, editPost, deletePost, createPost, creatingPost, actionSheet, openActionSheet,
       search, onSearch, previewPost, renderedContent, liveUrl, closePreview,
       editingPost, editTitle, editDescription, editAuthor, authorSuggestions, editFeatureImage,
       editFeatureImagePreview, editFeatureImageFile, onFeatureImageFile, clearFeatureImage, featureFileInput,
       featureImageDragOver, onImageDragStart, onFeatureImageDrop,
       imageInsertModal, insertImageByUrl, insertImageFromDevice,
-      attachmentQueue, uploadedImages, copiedImageIndex, copiedImageBlobIndex, onAttachmentSelect, onAttachmentDrop, removeAttachment, retryAttachment, deleteUploadedImage, copyImageUrl, copyImageBlob, toCloudFrontUrl,
+      attachmentQueue, uploadedImages, copiedImageIndex, copiedImageBlobIndex, selectedImageBlobId, setFeatureImage, onAttachmentSelect, onAttachmentDrop, removeAttachment, retryAttachment, deleteUploadedImage, copyImageUrl, copyImageBlob, toCloudFrontUrl,
       editSlugTitle, editCategory, editTagsRaw, editTags, postCategories, onTitleBlur, onMarkdownBlur, suggestDescription, autopopulate, autopopulating, canAutopopulate,
       addTag, addTagOnEnter, removeTag, slugify,
       saving, saveSuccess, editStep, editMetaTab, closeEditor, savePost,
