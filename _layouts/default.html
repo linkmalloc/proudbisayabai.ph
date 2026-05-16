@@ -20,6 +20,26 @@ layout: none
     {% include ads.html %}
     <!-- NewsBoard CSS  -->
 
+    <!-- Preconnect to third-party origins so DNS/TLS happens in parallel with HTML parsing -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
+
+    <!-- Google Fonts (loaded directly to skip the old @import waterfall in style.css) -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,700;1,400&family=Noto+Sans+JP:wght@400;500;700;900&display=swap">
+
+    <!-- Vendor CSS (previously @import'd from style.css; now loaded in parallel) -->
+    <link rel="stylesheet" href="/assets/css/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/vendor/owl.carousel.min.css">
+    <link rel="stylesheet" href="/assets/css/vendor/ticker-style.css">
+    <link rel="stylesheet" href="/assets/css/vendor/elegant-icons.css">
+    <link rel="stylesheet" href="/assets/css/vendor/slick.css">
+    <link rel="stylesheet" href="/assets/css/vendor/slicknav.css">
+    <link rel="stylesheet" href="/assets/css/vendor/animate.min.css">
+    <link rel="stylesheet" href="/assets/css/vendor/nice-select.css">
+    <link rel="stylesheet" href="/assets/css/vendor/perfect-scrollbar.css">
+
+    <!-- Site CSS -->
     <link rel="stylesheet" href="/assets/css/vendor/toastr.min.css">
     <link rel="stylesheet" href="/assets/css/style.css">
     <link rel="stylesheet" href="/assets/css/widgets.css">
@@ -27,9 +47,11 @@ layout: none
     <link rel="stylesheet" href="/assets/css/home-layout.css">
     <link rel="stylesheet" href="/assets/css/header-orange.css">
     <link rel="stylesheet" href="/assets/css/vendor/viewer.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <script src="/assets/js/vendor/jquery-1.12.4.min.js"></script>
-    
+
+    <!-- FontAwesome (deferred: load with media=print then swap to all, so it doesn't block render) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" media="print" onload="this.media='all'">
+    <noscript><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer"></noscript>
+
     {% include gtm/head.html %}
      {% comment %}
     <script src="/assets/js/ads.v2.js"></script>
@@ -58,7 +80,10 @@ layout: none
     <div class="dark-mark"></div>
     <!-- Vendor JS-->
     {% include firebase.html %}
-    <script src="/assets/js/all-libs.merge.min.js"></script>
+    <!-- jQuery moved from <head> to end of body and deferred to avoid blocking initial render.
+         `defer` keeps execution order: jQuery → all-libs → dependents, after HTML parse completes. -->
+    <script src="/assets/js/vendor/jquery-1.12.4.min.js" defer></script>
+    <script src="/assets/js/all-libs.merge.min.js" defer></script>
     {% comment %}
     <script src="/assets/js/vendor/lazysizes.min.js"></script>
     <script src="/assets/js/vendor/modernizr-3.5.0.min.js"></script>
@@ -79,13 +104,13 @@ layout: none
     <script src="/assets/js/vendor/viewer.js"></script>
     <script src="/assets/js/vendor/jquery-viewer.min.js"></script>
     {% endcomment %}
-    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11.0.16/dist/sweetalert2.all.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11.0.16/dist/sweetalert2.all.min.js" defer></script>
     <!-- NewsBoard JS -->
-    <script src="/assets/js/main.js"></script>
-    <script src="/assets/js/header-orange.js"></script>
-    <script src="/assets/js/search.js"></script>
+    <script src="/assets/js/main.js" defer></script>
+    <script src="/assets/js/header-orange.js" defer></script>
+    <script src="/assets/js/search.js" defer></script>
     <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=60276b8be83dc40011356b53&product=inline-share-buttons' async='async'></script>
-    <script data-cfasync="false" type="text/javascript" src="/assets/js/contact-form-submission-handler.js"></script>
+    <script data-cfasync="false" type="text/javascript" src="/assets/js/contact-form-submission-handler.js" defer></script>
     <script>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', function() {

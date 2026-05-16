@@ -56,7 +56,7 @@ isTop: true
                 {% assign dest_count = 0 %}
                 {% for post in site.posts %}
                 {% if post.categories contains "destination" %}
-                {% if dest_count < 10 %}
+                {% if dest_count < 6 %}
 
                 {% assign image_big = post.img_big_3000x1144 %}
                 {% unless image_big %}
@@ -67,7 +67,7 @@ isTop: true
                     <article class="post-card border-radius-10 wow fadeInUp animated">
                         <div class="post-thumb">
                             <a href="{{ post.url }}">
-                                <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10">
+                                <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10"{% if dest_count == 0 %} loading="eager" fetchpriority="high" decoding="async"{% else %} loading="lazy" decoding="async" fetchpriority="low"{% endif %}>
                             </a>
                             <div class="post-category-badge bg-orange text-white">
                                 {{ post.category | default: "Destinations" }}
@@ -121,7 +121,7 @@ isTop: true
     var CACHE_KEY = 'pbb_search_posts_' + CACHE_VERSION;
     var CACHE_TS_KEY = 'pbb_search_posts_ts_' + CACHE_VERSION;
     var ONE_DAY = 24 * 60 * 60 * 1000;
-    var SKIP = 10;
+    var SKIP = 6;
 
     function formatDate(dateString) {
         if (!dateString) return '';
@@ -145,7 +145,7 @@ isTop: true
             '<article class="post-card border-radius-10">' +
                 '<div class="post-thumb">' +
                     '<a href="' + escapeHtml(post.url) + '">' +
-                        '<img src="' + escapeHtml(image) + '" alt="' + escapeHtml(post.title) + '" class="border-radius-10" loading="lazy">' +
+                        '<img src="' + escapeHtml(image) + '" alt="' + escapeHtml(post.title) + '" class="border-radius-10" loading="lazy" decoding="async" fetchpriority="low">' +
                     '</a>' +
                     '<div class="post-category-badge bg-orange text-white">' + escapeHtml(category) + '</div>' +
                 '</div>' +

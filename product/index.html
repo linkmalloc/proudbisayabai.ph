@@ -21,9 +21,11 @@ isTop: true
     </div>
     <div class="container">
         <div class="loop-grid mb-30">
-            <div class="row">
+            <div class="row" id="products-grid">
+                {% assign product_count = 0 %}
                 {% for post in site.posts %}
                 {% if post.categories contains "product" or post.categories contains "brand" %}
+                {% if product_count < 6 %}
 
                 {% assign image_big = post.img_big_3000x1144 %}
                 {% unless image_big %}
@@ -34,7 +36,7 @@ isTop: true
                     <article class="post-card border-radius-10 wow fadeInUp animated">
                         <div class="post-thumb">
                             <a href="{{ post.url }}">
-                                <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10">
+                                <img src="{{ post.img_medium_400x300 | default: post.img_big_1000x600 }}" alt="{{ post.title }}" class="border-radius-10"{% if product_count == 0 %} loading="eager" fetchpriority="high" decoding="async"{% else %} loading="lazy" decoding="async" fetchpriority="low"{% endif %}>
                             </a>
                             <div class="post-category-badge bg-orange text-white">
                                 {{ post.category | default: "Products" }}
@@ -53,8 +55,8 @@ isTop: true
                     </article>
                 </div>
 
-                {% assign post_index = forloop.index %}
-                {% assign ad_position = post_index | modulo: 21 %}
+                {% assign product_count = product_count | plus: 1 %}
+                {% assign ad_position = product_count | modulo: 21 %}
                 {% if ad_position == 0 %}
                 <div class="col-lg-12 mb-30">
                     {% include ads/in-feed.html %}
@@ -62,25 +64,136 @@ isTop: true
                 {% endif %}
 
                 {% endif %}
+                {% endif %}
                 {% endfor %}
 
             </div>
-            <div class="row mt-50">
-                <div class="col-12">
-                    <!-- <div class="pagination-area mb-30 wow fadeInUp animated">
-                        <nav aria-label="Page navigation example">
-                            <ul class="pagination justify-content-start">
-                                <li class="page-item"><a class="page-link" href="#"><i class="elegant-icon arrow_left"></i></a></li>
-                                <li class="page-item active"><a class="page-link" href="#">01</a></li>
-                                <li class="page-item"><a class="page-link" href="#">02</a></li>
-                                <li class="page-item"><a class="page-link" href="#">03</a></li>
-                                <li class="page-item"><a class="page-link" href="#">04</a></li>
-                                <li class="page-item"><a class="page-link" href="#"><i class="elegant-icon arrow_right"></i></a></li>
-                            </ul>
-                        </nav>
-                    </div> -->
+
+            <div id="products-more-loading" class="row justify-content-center py-4" style="display:none!important;">
+                <div class="col-auto">
+                    <div class="spinner-border text-orange" role="status">
+                        <span class="sr-only">Loading more products...</span>
+                    </div>
                 </div>
+            </div>
+
+            <div class="row mt-50">
+                <div class="col-12"></div>
             </div>
         </div>
     </div>
 </main>
+
+<script>
+(function () {
+    var CACHE_VERSION = 'v2';
+    var CACHE_KEY = 'pbb_search_posts_' + CACHE_VERSION;
+    var CACHE_TS_KEY = 'pbb_search_posts_ts_' + CACHE_VERSION;
+    var ONE_DAY = 24 * 60 * 60 * 1000;
+    var SKIP = 6;
+
+    function formatDate(dateString) {
+        if (!dateString) return '';
+        var d = new Date(dateString);
+        return d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+    }
+
+    function escapeHtml(text) {
+        var div = document.createElement('div');
+        div.textContent = text || '';
+        return div.innerHTML;
+    }
+
+    function renderCard(post) {
+        var image = post.image || post.img_big_1000x600 || '';
+        var category = (post.categories && post.categories[0]) || 'Products';
+        var excerpt = post.description || post.content || '';
+        if (excerpt.length > 120) excerpt = excerpt.substring(0, 120).trim() + '...';
+
+        return '<div class="col-lg-4 col-md-6 mb-30">' +
+            '<article class="post-card border-radius-10">' +
+                '<div class="post-thumb">' +
+                    '<a href="' + escapeHtml(post.url) + '">' +
+                        '<img src="' + escapeHtml(image) + '" alt="' + escapeHtml(post.title) + '" class="border-radius-10" loading="lazy" decoding="async" fetchpriority="low">' +
+                    '</a>' +
+                    '<div class="post-category-badge bg-orange text-white">' + escapeHtml(category) + '</div>' +
+                '</div>' +
+                '<div class="post-content pt-20">' +
+                    '<h4 class="post-title mb-15"><a href="' + escapeHtml(post.url) + '">' + escapeHtml(post.title) + '</a></h4>' +
+                    '<div class="post-meta color-muted font-small mb-15">' +
+                        '<span class="post-by">' + escapeHtml(post.author || '') + '</span>' +
+                        '<span class="post-on has-dot">' + formatDate(post.date) + '</span>' +
+                    '</div>' +
+                    '<p class="post-excerpt color-grey">' + escapeHtml(excerpt) + '</p>' +
+                '</div>' +
+            '</article>' +
+        '</div>';
+    }
+
+    function appendProducts(posts) {
+        var grid = document.getElementById('products-grid');
+        if (!grid) return;
+        var products = posts
+            .filter(function (p) {
+                if (!p.categories) return false;
+                return p.categories.indexOf('product') !== -1 || p.categories.indexOf('brand') !== -1;
+            })
+            .sort(function (a, b) { return new Date(b.date) - new Date(a.date); })
+            .slice(SKIP);
+
+        var fragment = document.createDocumentFragment();
+        products.forEach(function (post, i) {
+            var wrapper = document.createElement('div');
+            wrapper.innerHTML = renderCard(post);
+            fragment.appendChild(wrapper.firstChild);
+
+            if ((i + 1 + SKIP) % 21 === 0) {
+                var adRow = document.createElement('div');
+                adRow.className = 'col-lg-12 mb-30';
+                fragment.appendChild(adRow);
+            }
+        });
+        grid.appendChild(fragment);
+    }
+
+    async function loadAndAppend() {
+        var loader = document.getElementById('products-more-loading');
+        if (loader) loader.style.setProperty('display', 'flex', 'important');
+
+        try {
+            var cached = localStorage.getItem(CACHE_KEY);
+            var cachedAt = localStorage.getItem(CACHE_TS_KEY);
+            if (cached && cachedAt && (Date.now() - parseInt(cachedAt)) < ONE_DAY) {
+                appendProducts(JSON.parse(cached));
+                return;
+            }
+        } catch (e) {}
+
+        try {
+            var years = [2026, 2025, 2024, 2023, 2022, 2021];
+            var results = await Promise.all(years.map(function (year) {
+                return fetch('/search/' + year + '.json')
+                    .then(function (r) { return r.ok ? r.json() : []; })
+                    .catch(function () { return []; });
+            }));
+            var seen = {};
+            var posts = [].concat.apply([], results).filter(function (p) {
+                if (!p || seen[p.url]) return false;
+                seen[p.url] = true;
+                return true;
+            });
+            try {
+                localStorage.setItem(CACHE_KEY, JSON.stringify(posts));
+                localStorage.setItem(CACHE_TS_KEY, Date.now().toString());
+            } catch (e) {}
+            appendProducts(posts);
+        } catch (e) {
+            console.error('Failed to load more products:', e);
+        } finally {
+            if (loader) loader.style.setProperty('display', 'none', 'important');
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', loadAndAppend);
+})();
+</script>

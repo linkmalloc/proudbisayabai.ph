@@ -32,9 +32,9 @@ layout: default
                                             <p class="mb-5">
                                                 <a class="author-avatar" href="#">
                                                     {% if page.author_img %}
-                                                        <img class="img-circle" src="{{ page.author_img}}" alt=""></a>
+                                                        <img class="img-circle" src="{{ page.author_img}}" alt="" width="60" height="60" loading="lazy"></a>
                                                     {% else %}
-                                                        <img class="img-circle" src="{{ site.cloudfront }}/images/logo/pbb-logo-202601.jpg" alt=""></a>
+                                                        <img class="img-circle" src="{{ site.cloudfront }}/images/logo/pbb-logo-202601.jpg" alt="" width="60" height="60" loading="lazy"></a>
                                                     {% endif %}
                                                 By <a href="author.html"><span class="author-name font-weight-bold">{{ page.author }}</span></a>
                                             </p>
@@ -61,9 +61,9 @@ layout: default
                             {% unless page.hide_header_image %}
                             <figure class="image mb-15 m-auto text-center border-radius-10">
                                 {% if page.img_post_header %}
-                                    <img class="border-radius-10" src="{{ page.img_post_header }}" alt="post-title" />
+                                    <img class="border-radius-10 ignore-lazy-image-load" src="{{ page.img_post_header }}" alt="{{ page.title }}" fetchpriority="high" />
                                 {% else %}
-                                    <img class="border-radius-10" src="{{ page.img_big_1000x600 }}" alt="post-title" />
+                                    <img class="border-radius-10 ignore-lazy-image-load" src="{{ page.img_big_1000x600 }}" alt="{{ page.title }}" fetchpriority="high" />
                                 {% endif %}
                             </figure>
                             {% endunless %}
@@ -259,7 +259,7 @@ layout: default
                                                         <div class="col-md-4">
                                                             <div class="post-thumb position-relative border-radius-10 overflow-hidden">
                                                                 <a href="${post.url}">
-                                                                    <img class="border-radius-10" src="${post.image}" alt="${post.title}" />
+                                                                    <img class="border-radius-10" src="${post.image}" alt="${post.title}" loading="lazy" />
                                                                 </a>
                                                                 <div class="post-category-badge bg-orange text-white">
                                                                     ${post.categories[0] || 'Article'}
@@ -320,7 +320,7 @@ layout: default
                                                                 <div class="entry-meta align-items-center meta-2 font-small color-muted">
                                                                     <p class="mb-5">
                                                                         <a class="author-avatar" href="#">
-                                                                            <img class="img-circle" src="{{ site.cloudfront }}/images/logo/pbb-logo-202601.jpg" alt="">
+                                                                            <img class="img-circle" src="{{ site.cloudfront }}/images/logo/pbb-logo-202601.jpg" alt="" width="60" height="60" loading="lazy">
                                                                         </a>
                                                                         By <a href="author.html"><span class="author-name font-weight-bold">${post.author}</span></a>
                                                                     </p>
@@ -335,10 +335,10 @@ layout: default
                                                     
                                                     ${post.image ? `
                                                     <figure class="image mb-15 m-auto text-center border-radius-10">
-                                                        <img class="border-radius-10" src="${post.image}" alt="${post.title}" />
+                                                        <img class="border-radius-10" src="${post.image}" alt="${post.title}" loading="lazy" />
                                                     </figure>
                                                     ` : ''}
-                                                    
+
                                                     <article class="entry-wraper mb-50">
                                                         <div class="entry-main-content dropcap wow fadeIn animated">
                                                             ${post.content || post.excerpt}
