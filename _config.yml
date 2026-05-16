@@ -103,3 +103,6 @@ jekyll-minifier:
   remove_quotes: false              # Default: false
   uglifier_args:
     harmony: true
+  exclude:
+    - 'admin/dashboard.js'
+    - 'admin/dashboard.html'
