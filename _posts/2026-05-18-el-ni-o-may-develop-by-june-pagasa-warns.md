@@ -32,6 +32,7 @@ published: true
 
 
 
+
 The Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA) is warning that El Niño could begin developing as early as June, after raising its status from El Niño Watch to El Niño Alert on April 22.
 
 
