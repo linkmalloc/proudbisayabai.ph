@@ -28,22 +28,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 The hands that feed the community deserve honest governance, not forgotten sacrifices
 
 Behind every fresh vegetable displayed at KADIWA in Lapu-Lapu City are hardworking Cebuanos whose sacrifices and dedication continue to keep communities alive and thriving.
