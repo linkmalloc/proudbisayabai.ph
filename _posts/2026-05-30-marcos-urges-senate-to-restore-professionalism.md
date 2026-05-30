@@ -1,5 +1,5 @@
 ---
-author: PBB ADMIN
+author: Kaiser Jan Fuentes
 author2: ''
 layout: post
 title: 'Marcos urges Senate to restore professionalism '
@@ -28,6 +28,26 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
