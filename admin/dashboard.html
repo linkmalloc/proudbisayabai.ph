@@ -262,12 +262,12 @@
                     </thead>
                     <tbody class="divide-y divide-gray-100">
                       <tr v-for="post in posts" :key="post.id" class="hover:bg-gray-50 transition" @click="isMobile && openActionSheet(post)">
-                        <td class="px-5 py-3 hidden md:table-cell">
-                          <div class="w-full relative rounded-lg overflow-hidden bg-gray-100" style="aspect-ratio: 1200/630;">
+                        <td class="px-5 py-3 hidden md:table-cell align-middle w-32">
+                          <div class="w-32 rounded-lg overflow-hidden bg-gray-100" style="aspect-ratio: 1200/630;">
                             <img
                               v-if="post.fm.img_big_1000x600"
                               :src="post.fm.img_big_1000x600"
-                              class="absolute inset-0 w-full h-full object-cover block"
+                              class="w-full h-full object-cover block"
                               loading="lazy"
                             />
                           </div>
@@ -430,12 +430,12 @@
                     </thead>
                     <tbody class="divide-y divide-gray-100">
                       <tr v-for="post in archivedPosts" :key="post.id" class="hover:bg-gray-50 transition">
-                        <td class="px-5 py-3 hidden md:table-cell">
-                          <div class="w-full relative rounded-lg overflow-hidden bg-gray-100" style="aspect-ratio: 1200/630;">
+                        <td class="px-5 py-3 hidden md:table-cell align-middle w-32">
+                          <div class="w-32 rounded-lg overflow-hidden bg-gray-100" style="aspect-ratio: 1200/630;">
                             <img
                               v-if="post.fm.img_big_1000x600"
                               :src="post.fm.img_big_1000x600"
-                              class="absolute inset-0 w-full h-full object-cover block"
+                              class="w-full h-full object-cover block"
                               loading="lazy"
                             />
                           </div>
@@ -633,7 +633,7 @@
                     <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z"/>
                     </svg>
-                    {{ autopopulating ? 'Populating…' : 'AI Populate' }}
+                    {{ autopopulating ? 'Generating…' : 'AI Generate Metadata' }}
                   </button>
 
                   <!-- METADATA tab -->
@@ -907,13 +907,29 @@
           <!-- Drawer panel -->
           <div class="relative w-full bg-white shadow-2xl flex flex-col h-full overflow-hidden" style="width: 100%; max-width: 100%;" :style="isMobile ? {} : { width: 'calc(4/6 * 100%)' }">
             <!-- Preview banner -->
-            <div class="bg-amber-50 border-b border-amber-200 px-6 py-2 flex items-center justify-center gap-2 flex-shrink-0">
-              <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 text-amber-500 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <div :class="previewPost.published && liveStatus === 'live' ? 'bg-green-50 border-green-200 text-green-700' : 'bg-amber-50 border-amber-200 text-amber-700'"
+              class="border-b px-6 py-2 flex items-center justify-center gap-2 flex-shrink-0 transition-colors">
+              <!-- Live: checkmark -->
+              <svg v-if="previewPost.published && liveStatus === 'live'" xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
+              </svg>
+              <!-- Pending: spinner -->
+              <svg v-else-if="previewPost.published && (liveStatus === 'checking' || liveStatus === 'pending')" xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 flex-shrink-0 animate-spin" fill="none" viewBox="0 0 24 24">
+                <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v4a4 4 0 00-4 4H4z"></path>
+              </svg>
+              <!-- Default info icon -->
+              <svg v-else xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 flex-shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/>
               </svg>
-              <p class="text-xs text-amber-700">
-                This is only a preview.
-                <a v-if="previewPost.published" :href="liveUrl(previewPost)" target="_blank" class="font-semibold underline hover:text-amber-900 transition">View the live version</a>
+              <p class="text-xs">
+                <template v-if="!previewPost.published">This is only a preview.</template>
+                <template v-else-if="liveStatus === 'live'">
+                  Live —
+                  <a :href="liveUrl(previewPost)" target="_blank" class="font-semibold underline hover:opacity-80 transition">View the live version</a>
+                </template>
+                <template v-else-if="liveStatus === 'pending'">Not deployed yet. Please wait a few minutes…</template>
+                <template v-else>Checking deployment status…</template>
               </p>
             </div>
 

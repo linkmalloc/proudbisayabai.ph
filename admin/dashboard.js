@@ -27,6 +27,11 @@ const POST_SKELETON_FM = {
 
 const API_BASE = window.API_BASE;
 
+const IS_PRODUCTION = (() => {
+  const h = window.location.hostname;
+  return !(h.includes('localhost') || h.includes('pbb.local') || h.startsWith('192.168.'));
+})();
+
 createApp({
   setup() {
     const validating = ref(true);
@@ -311,6 +316,69 @@ createApp({
       previewPost.value = null;
       clearUrlState();
     }
+
+    const liveStatus = ref('idle'); // 'idle' | 'checking' | 'live' | 'pending'
+    let liveCheckTimer = null;
+
+    async function checkLiveStatus() {
+      const post = previewPost.value;
+      if (!post || !post.published) {
+        console.log('[liveStatus] skip — no published preview post');
+        liveStatus.value = 'idle';
+        return;
+      }
+      const url = liveUrl(post);
+      if (!url || url === '#') {
+        console.log('[liveStatus] skip — no resolvable live URL for post', post.id);
+        liveStatus.value = 'idle';
+        return;
+      }
+      if (liveStatus.value !== 'live') liveStatus.value = 'checking';
+      console.log('[liveStatus] checking', url);
+      try {
+        const res = await fetch(url, { method: 'HEAD', cache: 'no-store' });
+        console.log('[liveStatus] response', res.status, url);
+        if (res.ok) {
+          liveStatus.value = 'live';
+          console.log('[liveStatus] LIVE — stopping interval');
+          stopLiveCheckInterval();
+        } else {
+          liveStatus.value = 'pending';
+          console.log('[liveStatus] PENDING — will retry in 60s');
+        }
+      } catch (e) {
+        liveStatus.value = 'pending';
+        console.log('[liveStatus] PENDING (fetch error) — will retry in 60s', e);
+      }
+    }
+
+    function startLiveCheckInterval() {
+      stopLiveCheckInterval();
+      console.log('[liveStatus] starting 60s interval');
+      liveCheckTimer = setInterval(checkLiveStatus, 60 * 1000);
+    }
+
+    function stopLiveCheckInterval() {
+      if (liveCheckTimer) {
+        console.log('[liveStatus] stopping interval');
+        clearInterval(liveCheckTimer);
+        liveCheckTimer = null;
+      }
+    }
+
+    watch(previewPost, (post) => {
+      if (post && post.published) {
+        console.log('[liveStatus] preview opened for published post', post.id, post.slug);
+        liveStatus.value = 'checking';
+        checkLiveStatus();
+        startLiveCheckInterval();
+      } else {
+        if (post) console.log('[liveStatus] preview opened for draft — not checking', post.id);
+        else console.log('[liveStatus] preview closed');
+        liveStatus.value = 'idle';
+        stopLiveCheckInterval();
+      }
+    });
 
     function draftKey(id) { return `pb_admin_draft_${id}`; }
     function loadDraft(id) {
@@ -1025,6 +1093,12 @@ createApp({
           editor: 'PBB Admin',
           read_time: computeReadTime(markdown),
         };
+        if (publish && !fm.published_at) {
+          fm.published_at = new Date().toISOString();
+        }
+        if (fm.published === null || fm.published === undefined) {
+          fm.published = IS_PRODUCTION;
+        }
         const newFrontMatter = jsyaml.dump(fm, { lineWidth: -1 });
         const newContent = `---\n${newFrontMatter}---\n\n${markdown}`;
         
@@ -1100,7 +1174,7 @@ createApp({
       }
     }
 
-    function suggestDescription() {
+    async function suggestDescription() {
       let text = '';
       if (quillEditor) text = quillEditor.getText();
       else if (tiptapEditor) text = tiptapEditor.getText();
@@ -1109,6 +1183,11 @@ createApp({
         errorToast('Body is empty.');
         return;
       }
+      const ok = await confirmToast(
+        'This will replace your current description with text from the article content. Continue?',
+        { cancelLabel: 'Cancel', confirmLabel: 'Replace' }
+      );
+      if (!ok) return;
       const match = text.match(/^.*?[.!?](?=\s|$)/);
       editDescription.value = (match ? match[0] : text).trim();
       descriptionInvalid.value = false;
@@ -1146,7 +1225,7 @@ createApp({
       ].filter(Boolean);
       if (filled.length) {
         const ok = await confirmToast(
-          `AI Populate will overwrite your existing ${filled.join(', ')}. Continue?`,
+          `AI Generate Metadata will overwrite your existing ${filled.join(', ')}. Continue?`,
           { cancelLabel: 'Cancel', confirmLabel: 'Overwrite' }
         );
         if (!ok) return;
@@ -1356,6 +1435,7 @@ createApp({
     onUnmounted(() => {
       window.removeEventListener('resize', onResize);
       window.removeEventListener('popstate', onPopState);
+      stopLiveCheckInterval();
     });
 
     return {
@@ -1364,7 +1444,7 @@ createApp({
       loadingArchivedPosts, archivedPosts, archivedPostsError, archivedPagination,
       archivedSearch, onArchivedSearch, goToArchivedPage, archivedPageNumbers, unarchivePost,
       toggleGroup, navigate, logout, goToPage, pageNumbers, viewPost, editPost, deletePost, createPost, creatingPost, actionSheet, openActionSheet,
-      search, onSearch, previewPost, renderedContent, liveUrl, closePreview,
+      search, onSearch, previewPost, renderedContent, liveUrl, closePreview, liveStatus,
       editingPost, editTitle, editDescription, editAuthor, authorSuggestions, editFeatureImage,
       editFeatureImagePreview, editFeatureImageFile, onFeatureImageFile, clearFeatureImage, featureFileInput,
       featureImageDragOver, onImageDragStart, onFeatureImageDrop,
