@@ -154,7 +154,15 @@ createApp({
     const token = () => localStorage.getItem('admin_token');
 
     function parseFrontMatter(fm) {
-      try { return jsyaml.load(fm) || {}; } catch (e) { return {}; }
+      if (!fm) return {};
+      if (typeof fm === 'object') return Array.isArray(fm) ? {} : fm;
+      if (typeof fm !== 'string') return {};
+      try {
+        const parsed = jsyaml.load(fm);
+        return parsed && typeof parsed === 'object' && !Array.isArray(parsed) ? parsed : {};
+      } catch (e) {
+        return {};
+      }
     }
 
     function onResize() {
@@ -1376,16 +1384,17 @@ createApp({
     async function createPost() {
       creatingPost.value = true;
       try {
-        const skeleton = `---\n${jsyaml.dump(POST_SKELETON_FM, { lineWidth: -1 })}---\n\n`;
+        const skeletonFm = jsyaml.dump(POST_SKELETON_FM, { lineWidth: -1 });
+        const skeleton = `---\n${skeletonFm}---\n\n`;
         const res = await fetch(`${API_BASE}/api/v1/posts`, {
           method: 'POST',
           headers: { 'Authorization': `Bearer ${token()}`, 'Content-Type': 'application/json' },
-          body: JSON.stringify({ content: skeleton, front_matter: POST_SKELETON_FM, organization_id: 1 }),
+          body: JSON.stringify({ content: skeleton, front_matter: skeletonFm, organization_id: 1 }),
         });
         if (!res.ok) throw new Error('Failed to create post');
         const data = await res.json();
         await loadPosts(1);
-        editPost(data);
+        editPost({ ...data, fm: parseFrontMatter(data.front_matter) });
       } catch (err) {
         errorToast(err.message);
       } finally {
