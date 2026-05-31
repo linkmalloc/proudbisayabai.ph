@@ -106,3 +106,4 @@ jekyll-minifier:
   exclude:
     - 'admin/dashboard.js'
     - 'admin/dashboard.html'
+    - 'admin/tutorial.js'
