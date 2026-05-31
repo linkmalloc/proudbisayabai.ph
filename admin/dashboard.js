@@ -27,11 +27,6 @@ const POST_SKELETON_FM = {
 
 const API_BASE = window.API_BASE;
 
-const IS_PRODUCTION = (() => {
-  const h = window.location.hostname;
-  return !(h.includes('localhost') || h.includes('pbb.local') || h.startsWith('192.168.'));
-})();
-
 createApp({
   setup() {
     const validating = ref(true);
@@ -80,6 +75,7 @@ createApp({
     const editTags = ref([]);
     const postCategories = ['story', 'destination', 'food', 'brand', 'product', 'news'];
     const saving = ref(false);
+    const publishing = ref(false);
 
     const saveSuccess = ref(false);
     const editStep = ref(1);
@@ -1073,6 +1069,7 @@ createApp({
         return;
       }
       saving.value = true;
+      publishing.value = publish;
       saveSuccess.value = false;
       try {
         const html = getEditorHtml();
@@ -1097,7 +1094,7 @@ createApp({
           fm.published_at = new Date().toISOString();
         }
         if (fm.published === null || fm.published === undefined) {
-          fm.published = IS_PRODUCTION;
+          fm.published = true;
         }
         const newFrontMatter = jsyaml.dump(fm, { lineWidth: -1 });
         const newContent = `---\n${newFrontMatter}---\n\n${markdown}`;
@@ -1146,6 +1143,7 @@ createApp({
         errorToast(err.message);
       } finally {
         saving.value = false;
+        publishing.value = false;
       }
     }
 
@@ -1452,7 +1450,7 @@ createApp({
       attachmentQueue, uploadedImages, copiedImageIndex, copiedImageBlobIndex, selectedImageBlobId, setFeatureImage, onAttachmentSelect, onAttachmentDrop, removeAttachment, retryAttachment, deleteUploadedImage, copyImageUrl, copyImageBlob, toCloudFrontUrl,
       editSlugTitle, editCategory, editTagsRaw, editTags, postCategories, onTitleBlur, onMarkdownBlur, suggestDescription, autopopulate, autopopulating, canAutopopulate,
       addTag, addTagOnEnter, removeTag, slugify,
-      saving, saveSuccess, editStep, editMetaTab, closeEditor, savePost,
+      saving, publishing, saveSuccess, editStep, editMetaTab, closeEditor, savePost,
       activeEditor, markdownOutput, currentReadTime, bodyWordCount, switchToEditor, tiptapCmd, tiptapActive, tiptapInsertImage, tiptapSetLink,
     };
   }

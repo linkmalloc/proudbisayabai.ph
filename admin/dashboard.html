@@ -561,11 +561,11 @@
                   </button>
                   <button @click="savePost()" :disabled="saving" data-tut="save-btn"
                     class="px-4 py-1.5 text-sm bg-orange-500 text-white rounded-lg hover:bg-orange-600 disabled:opacity-50 transition font-medium">
-                    {{ saving ? 'Saving…' : 'Save' }}
+                    {{ saving && !publishing ? 'Saving…' : 'Save' }}
                   </button>
                   <button v-if="editingPost" @click="savePost(true)" :disabled="saving" data-tut="publish-btn"
                     class="px-4 py-1.5 text-sm bg-green-600 text-white rounded-lg hover:bg-green-700 disabled:opacity-50 transition font-medium">
-                    {{ saving ? (editingPost.published ? 'Republishing…' : 'Publishing…') : (editingPost.published ? 'Republish' : 'Publish') }}
+                    {{ publishing ? (editingPost.published ? 'Republishing…' : 'Publishing…') : (editingPost.published ? 'Republish' : 'Publish') }}
                   </button>
                 </template>
                 <button @click="closeEditor" class="p-1.5 rounded-md text-gray-400 hover:bg-gray-100 transition">
@@ -584,11 +584,11 @@
               </button>
               <button @click="savePost()" :disabled="saving" data-tut="save-btn"
                 class="flex-1 px-3 py-1.5 text-sm bg-orange-500 text-white rounded-lg hover:bg-orange-600 disabled:opacity-50 transition font-medium">
-                {{ saving ? 'Saving…' : 'Save' }}
+                {{ saving && !publishing ? 'Saving…' : 'Save' }}
               </button>
               <button v-if="editingPost" @click="savePost(true)" :disabled="saving" data-tut="publish-btn"
                 class="flex-1 px-3 py-1.5 text-sm bg-green-600 text-white rounded-lg hover:bg-green-700 disabled:opacity-50 transition font-medium">
-                {{ saving ? (editingPost.published ? 'Republishing…' : 'Publishing…') : (editingPost.published ? 'Republish' : 'Publish') }}
+                {{ publishing ? (editingPost.published ? 'Republishing…' : 'Publishing…') : (editingPost.published ? 'Republish' : 'Publish') }}
               </button>
             </div>
 
