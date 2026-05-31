@@ -155,14 +155,23 @@ createApp({
 
     function parseFrontMatter(fm) {
       if (!fm) return {};
-      if (typeof fm === 'object') return Array.isArray(fm) ? {} : fm;
-      if (typeof fm !== 'string') return {};
-      try {
-        const parsed = jsyaml.load(fm);
-        return parsed && typeof parsed === 'object' && !Array.isArray(parsed) ? parsed : {};
-      } catch (e) {
+      let parsed;
+      if (typeof fm === 'object') {
+        if (Array.isArray(fm)) return {};
+        parsed = fm;
+      } else if (typeof fm === 'string') {
+        try { parsed = jsyaml.load(fm); } catch (e) { return {}; }
+      } else {
         return {};
       }
+      if (!parsed || typeof parsed !== 'object' || Array.isArray(parsed)) return {};
+      // Drop numeric-string keys (e.g. '0', '1') left over from a prior bug
+      // that spread an array into the front matter object.
+      const cleaned = {};
+      for (const k of Object.keys(parsed)) {
+        if (!/^\d+$/.test(k)) cleaned[k] = parsed[k];
+      }
+      return cleaned;
     }
 
     function onResize() {
