@@ -1107,11 +1107,11 @@ createApp({
           editor: 'PBB Admin',
           read_time: computeReadTime(markdown),
         };
-        if (publish && !fm.published_at) {
-          fm.published_at = new Date().toISOString();
-        }
-        if (fm.published === null || fm.published === undefined) {
+        if (publish) {
           fm.published = true;
+          if (!fm.published_at) {
+            fm.published_at = new Date().toISOString();
+          }
         }
         const newFrontMatter = jsyaml.dump(fm, { lineWidth: -1 });
         const newContent = `---\n${newFrontMatter}---\n\n${markdown}`;
