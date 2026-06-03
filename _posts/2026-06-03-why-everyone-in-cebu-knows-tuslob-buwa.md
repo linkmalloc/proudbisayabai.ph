@@ -42,6 +42,4 @@ Over the years, Tuslob Buwa has gained attention far beyond Cebu. It has been fe
 
 Today, whether served in a bustling roadside stall or a modern dining establishment, Tuslob Buwa remains a source of Cebuano pride — a dish that tells the story of the city's creativity, culture, and love for good food shared with others.
 
-Photo by: 
-
-Giolla Abigail Abad, Dlan Casinillo, Precious Sheira Mendiola, Maria Shaila Montillano
+Photo by: Giolla Abigail Abad, Dlan Casinillo, Precious Sheira Mendiola, Maria Shaila Montillano, Blessy Shekinah Padillo
