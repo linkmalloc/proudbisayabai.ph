@@ -2,7 +2,7 @@
 author: LLP
 author2: ''
 layout: post
-title: 'Retired Cebu vet official questions continued use of her name in records '
+title: 'Retired City vet questions continued use of her name in records '
 description: >-
   A public exchange between a former and current official of the Cebu City
   Department of Veterinary Medicine and Fisheries (DVMF) has exposed the
@@ -30,6 +30,11 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
+
+
+
 
 
 
