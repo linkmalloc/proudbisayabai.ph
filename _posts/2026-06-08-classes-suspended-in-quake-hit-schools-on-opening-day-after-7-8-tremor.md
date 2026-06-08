@@ -12,6 +12,7 @@ categories:
   - story
 tags:
   - 7.8 Earthquake
+  - SouthernMindanaoEarthquakeJune8
 views: '10'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2042/bd73a51780902208-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2042/bd73a51780902208-1.jpeg
@@ -27,6 +28,10 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
+
+
 
 
 
