@@ -20,9 +20,9 @@ tags:
   - ReneClartBaterbonia
   - DivineAdili
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2048/482fbb1780922000-1.jpeg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2048/482fbb1780922000-1.jpeg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2048/482fbb1780922000-1.jpeg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2048/decb511780925042-2.jpeg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2048/decb511780925042-2.jpeg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2048/decb511780925042-2.jpeg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -34,6 +34,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
 
 
 The Philippine sports community is in deep mourning following a profound tragedy. Ateneo de Manila University confirmed the sudden passing of Blue Eagles student-athletes Rene Clert Baterbonia and Divine Adili. The two young athletes tragically lost their lives in a drowning incident during an off-season team-building activity in Dipaculao, Aurora.
