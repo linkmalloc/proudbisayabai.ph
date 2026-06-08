@@ -13,8 +13,7 @@ description: >-
 categories:
   - story
 tags:
-  - earthquake
-  - PhilippineArmy
+  - SouthernMindanaoEarthquakeJune8
 views: '10'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2046/70074c1780909482-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2046/70074c1780909482-1.jpeg
@@ -30,6 +29,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
 
 
 
