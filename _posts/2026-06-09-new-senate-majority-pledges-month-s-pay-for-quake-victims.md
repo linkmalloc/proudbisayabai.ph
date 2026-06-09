@@ -33,6 +33,8 @@ published: true
 
 
 
+
+
 Members of the Senate's new majority bloc on Tuesday pledged to donate one month's salary to support relief and recovery efforts in communities devastated by the magnitude 7.8 earthquake that struck parts of Mindanao.
 
 
