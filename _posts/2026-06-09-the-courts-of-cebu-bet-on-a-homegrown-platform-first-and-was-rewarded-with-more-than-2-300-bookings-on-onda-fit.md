@@ -12,6 +12,7 @@ categories:
   - brand
 tags:
   - Onda Fit
+  - Courts Of Cebu
 views: '10'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2055/5ec2d01780991603-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2055/5ec2d01780991603-1.jpeg
@@ -27,6 +28,8 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
 
 
 
