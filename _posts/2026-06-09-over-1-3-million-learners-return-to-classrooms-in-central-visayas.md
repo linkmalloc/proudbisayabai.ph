@@ -36,6 +36,8 @@ published: true
 
 
 
+
+
 More than 1.3 million learners returned to classrooms across Central Visayas on Monday, June 8, as School Year 2026–2027 officially opened, with education officials expecting enrollment figures to increase in the coming weeks.
 
 
