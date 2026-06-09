@@ -31,6 +31,8 @@ published: true
 ---
 
 
+
+
 What began as a swimming activity turned into a tragedy after two Ateneo de Manila University men’s basketball players were swept away by strong currents in Dipaculao town, with police ruling out foul play in the incident that led to their deaths.
 
 
