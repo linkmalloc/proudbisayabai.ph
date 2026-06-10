@@ -2,33 +2,33 @@
 author: Ariel Alegado
 author2: ''
 layout: post
-title: >-
-  People Struggling Without Food, Water, Electricity Following Sarangani
-  Earthquake
-description: >
-  GLAN, Sarangani — As relief operations continue across parts of Southern
-  Mindanao, residents in Glan, Sarangani and nearby municipalities are appealing
-  for greater attention and assistance following the devastating magnitude 7.8
-  earthquake that struck offshore Sarangani on June 8.
+title: People Struggling Without Food, Water, Electricity Following Sarangani Earthquake
+description: 'GLAN, Sarangani — As relief operations continue across parts of Southern
+  Mindanao, residents in Glan, Sarangani and nearby municipalities are appealing for
+  greater attention and assistance following the devastating magnitude 7.8 earthquake
+  that struck offshore Sarangani on June 8.
+
+  '
 categories:
-  - story
+- story
 tags:
-  - '#SouthernMindanaoEarthquakeJune8'
+- "#SouthernMindanaoEarthquakeJune8"
 views: '10'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2066/a87bf61781062015-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2066/a87bf61781062015-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2066/a87bf61781062015-1.jpeg
-img_500_1: null
-img_500_2: null
-img_500_3: null
-img_500_4: null
-img_500_5: null
+img_500_1:
+img_500_2:
+img_500_3:
+img_500_4:
+img_500_5:
 photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
-published: true
+published: false
 ---
+
 
 
 
