@@ -3,29 +3,29 @@ author: Ariel Alegado
 author2: ''
 layout: post
 title: Mangaon ta humba na!
-description: >-
-  BISAYA EATS: Humba remains one of the most beloved dishes in the Visayas,
-  known for its tender pork slow cooked in a rich, savory sweet sauce that has
-  become a staple in many Filipino homes.
+description: 'BISAYA EATS: Humba remains one of the most beloved dishes in the Visayas,
+  known for its tender pork slow cooked in a rich, savory sweet sauce that has become
+  a staple in many Filipino homes.'
 categories:
-  - food
+- food
 tags:
-  - Humba
+- Humba
 views: '10'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2062/5a64c71781061291-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2062/5a64c71781061291-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2062/5a64c71781061291-1.jpeg
-img_500_1: null
-img_500_2: null
-img_500_3: null
-img_500_4: null
-img_500_5: null
+img_500_1:
+img_500_2:
+img_500_3:
+img_500_4:
+img_500_5:
 photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
-published: true
+published: false
 ---
+
 
 
 
