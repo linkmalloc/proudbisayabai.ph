@@ -9,7 +9,7 @@ description: >-
   reinforcing the restaurant’s commitment to authentic Chinese cuisine, culinary
   excellence, and the preservation of time-honored traditions.
 categories:
-  - story
+  - brand
 tags:
   - Marco Polo
   - Marco Polo Plaza Cebu
@@ -29,6 +29,8 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
 
 
 
