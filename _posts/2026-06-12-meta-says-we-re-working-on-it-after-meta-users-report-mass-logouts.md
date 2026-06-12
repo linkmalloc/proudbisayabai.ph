@@ -31,7 +31,6 @@ read_time: 4 minutes
 published: true
 ---
 
-
 CEBU CITY, Philippines — Thousands of users across different parts of the world reported being unexpectedly logged out of their Facebook, Instagram, and Messenger accounts on the evening of June 12, 2026, sparking concerns about a possible platform outage or security issue.
 
 Many users took to social media to share their experiences after suddenly losing access to their accounts and being prompted to log in again. The unexpected logout left some users worried that their accounts had been hacked, while others struggled to remember their passwords and regain access.
@@ -52,4 +51,4 @@ As of posting time, some users reported that their accounts had returned to norm
 
 Proud Bisaya Bai will continue to monitor the situation and provide updates as more information becomes available.
 
-Photo courtesy of Ars Technica
+Photo courtesy of ChannelX
