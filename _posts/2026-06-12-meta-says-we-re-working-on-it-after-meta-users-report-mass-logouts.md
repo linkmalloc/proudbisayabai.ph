@@ -16,9 +16,9 @@ tags:
   - Instagram
   - Messenger
 views: '10'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2097/41982c1781276777-2.jpeg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2097/41982c1781276777-2.jpeg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2097/41982c1781276777-2.jpeg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2097/bc57ac1781276943-3.jpeg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2097/bc57ac1781276943-3.jpeg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2097/bc57ac1781276943-3.jpeg
 img_500_1: null
 img_500_2: null
 img_500_3: null
@@ -51,7 +51,5 @@ The incident once again highlights the extent to which millions of people rely o
 As of posting time, some users reported that their accounts had returned to normal, while others continued to experience login-related issues.
 
 Proud Bisaya Bai will continue to monitor the situation and provide updates as more information becomes available.
-
-
 
 Photo courtesy of Ars Technica
