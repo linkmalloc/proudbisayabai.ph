@@ -37,6 +37,7 @@ published: true
 
 
 
+
 GLAN, Sarangani Province — The Department of Environment and Natural Resources (DENR) is set to conduct a scientific assessment after a powerful magnitude 7.8 earthquake dramatically altered portions of the Sarangani coastline, exposing vast areas of seabed and transforming the shoreline landscape.
 
 
