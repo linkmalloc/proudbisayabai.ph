@@ -10,7 +10,7 @@ description: >-
   striking experience for visitors who prefer nature over crowded tourist
   attractions.
 categories:
-  - story
+  - destination
 tags:
   - Camotes
   - Cave
@@ -30,6 +30,8 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
 
 
 
