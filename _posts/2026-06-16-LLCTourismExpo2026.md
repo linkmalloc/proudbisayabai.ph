@@ -31,6 +31,7 @@ published: true
 
 
 
+
 Lapu-Lapu City officially opened Tourism Expo 2026 on June 15 at the Mahi Center, kicking off one of the flagship events of the city’s 65th Charter Day celebration.
 
 
