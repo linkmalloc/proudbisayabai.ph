@@ -33,6 +33,8 @@ published: true
 
 
 
+
+
 President Ferdinand Marcos Jr. is set to visit Cebu on Monday, June 22, for a series of official engagements highlighting his administration’s priorities on infrastructure development, disaster resilience, and food security.
 
 
