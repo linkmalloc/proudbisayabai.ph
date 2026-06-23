@@ -36,6 +36,8 @@ published: true
 
 
 
+
+
 Typhoon “Francisco,” internationally named “Mekkhala,” has intensified into a super typhoon as of 8:00 p.m. on Monday, June 22, while remaining inside the Philippine Area of Responsibility (PAR), according to state weather bureau DOST-PAGASA.
 
 
