@@ -31,6 +31,8 @@ published: true
 
 
 
+
+
 The recent shooting incident at San Jose National High School in Tacloban City, which allegedly involved minor suspects, has reignited debate over the country’s Juvenile Justice and Welfare Act.
 
 
