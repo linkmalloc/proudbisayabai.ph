@@ -31,6 +31,10 @@ published: true
 
 
 
+
+
+
+
 The Cebu City Council has approved a resolution honoring Ana Garcia, widely known as “Nanay Ana,” in recognition of her decades-long dedication to caring for stray dogs and cats across the city.
 
 
