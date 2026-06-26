@@ -31,6 +31,8 @@ published: true
 
 
 
+
+
 A day after a Mandaue court issued a warrant for his arrest, former Cebu Capitol consultant Byron Garcia posted bail and secured his temporary release in three cyberlibel cases.
 
 
