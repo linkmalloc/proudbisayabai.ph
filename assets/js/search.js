@@ -30,22 +30,24 @@ class SiteSearch {
         } catch (e) {}
 
         try {
+            // Load newest year first so 2026 results are available before older years finish.
             const years = [2026, 2025, 2024, 2023, 2022, 2021];
-            const results = await Promise.all(
-                years.map(function(year) {
-                    return fetch('/search/' + year + '.json')
-                        .then(function(res) { return res.ok ? res.json() : []; })
-                        .catch(function() { return []; });
-                })
-            );
             var seen = {};
-            this.posts = [].concat.apply([], results).filter(function(post) {
-                if (!post || seen[post.url]) return false;
-                seen[post.url] = true;
-                return true;
-            }).sort(function(a, b) {
-                return new Date(b.date) - new Date(a.date);
-            });
+            this.posts = [];
+            for (var i = 0; i < years.length; i++) {
+                var yearPosts = await fetch('/search/' + years[i] + '.json')
+                    .then(function(res) { return res.ok ? res.json() : []; })
+                    .catch(function() { return []; });
+                for (var j = 0; j < yearPosts.length; j++) {
+                    var post = yearPosts[j];
+                    if (!post || seen[post.url]) continue;
+                    seen[post.url] = true;
+                    this.posts.push(post);
+                }
+                this.posts.sort(function(a, b) {
+                    return new Date(b.date) - new Date(a.date);
+                });
+            }
             try {
                 localStorage.setItem(CACHE_KEY, JSON.stringify(this.posts));
                 localStorage.setItem(CACHE_TS_KEY, Date.now().toString());
@@ -130,7 +132,9 @@ class SiteSearch {
                     }
                     
                     // Category matches (high priority)
-                    if (post.category && typeof post.category === 'string' && post.category.toLowerCase().includes(term)) {
+                    if (post.categories && Array.isArray(post.categories) && post.categories.some(cat =>
+                        typeof cat === 'string' && cat.toLowerCase().includes(term)
+                    )) {
                         score += 8;
                         matchedTerms++;
                     }
@@ -177,7 +181,7 @@ class SiteSearch {
             const postTitle = post.title || 'Untitled';
             const postAuthor = post.author || 'Admin';
             const postDate = this.formatDate(post.date) || '';
-            const postCategory = post.category || 'Article';
+            const postCategory = (Array.isArray(post.categories) && post.categories[0]) || 'Article';
             const postDescription = this.truncateText(post.description || 'No description available', 150);
             const postTags = this.formatTags(post.tags);
             
