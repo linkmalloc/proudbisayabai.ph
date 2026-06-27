@@ -38,6 +38,8 @@ published: true
 
 
 
+
+
 Seven years is often seen as a symbol of stability, a point where two people have already weathered countless ups and downs together. But recently, many netizens couldn’t help but notice a striking coincidence: several well-known couples, each together for seven years, have all announced the end of their relationships.
 
 
