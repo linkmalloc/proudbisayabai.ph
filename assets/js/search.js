@@ -16,14 +16,14 @@ class SiteSearch {
     }
     
     async loadPosts() {
-        var CACHE_VERSION = 'v2';
+        var CACHE_VERSION = 'v3';
         var CACHE_KEY = 'pbb_search_posts_' + CACHE_VERSION;
         var CACHE_TS_KEY = 'pbb_search_posts_ts_' + CACHE_VERSION;
-        var ONE_DAY = 24 * 60 * 60 * 1000;
+        var CACHE_TTL = 2 * 60 * 60 * 1000; // 2 hours
         try {
             var cached = localStorage.getItem(CACHE_KEY);
             var cachedAt = localStorage.getItem(CACHE_TS_KEY);
-            if (cached && cachedAt && (Date.now() - parseInt(cachedAt)) < ONE_DAY) {
+            if (cached && cachedAt && (Date.now() - parseInt(cachedAt)) < CACHE_TTL) {
                 this.posts = JSON.parse(cached);
                 return;
             }
