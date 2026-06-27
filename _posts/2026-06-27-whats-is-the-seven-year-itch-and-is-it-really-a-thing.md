@@ -2,7 +2,7 @@
 author: PBB Admin
 author2: ''
 layout: post
-title: Whats is the 'seven-year-itch'—and is it really a thing?
+title: What is the 'seven-year-itch'—and is it really a thing?
 description: >-
   Seven years is often seen as a symbol of stability, a point where two people
   have already weathered countless ups and downs together. But recently, many
@@ -29,6 +29,9 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
+
+
 
 
 
