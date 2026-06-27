@@ -3,32 +3,31 @@ author: PBB Admin
 author2: ''
 layout: post
 title: What is the 'seven-year-itch'—and is it really a thing?
-description: >-
-  Seven years is often seen as a symbol of stability, a point where two people
-  have already weathered countless ups and downs together. But recently, many
-  netizens couldn’t help but notice a striking coincidence: several well-known
-  couples, each together for seven years, have all announced the end of their
-  relationships.
+description: 'Seven years is often seen as a symbol of stability, a point where two
+  people have already weathered countless ups and downs together. But recently, many
+  netizens couldn’t help but notice a striking coincidence: several well-known couples,
+  each together for seven years, have all announced the end of their relationships.'
 categories:
-  - story
+- story
 tags:
-  - Relationships
-  - Lifestyle
+- Relationships
+- Lifestyle
 views: '10'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2228/ba39e51782541188-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2228/ba39e51782541188-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2228/ba39e51782541188-1.jpeg
-img_500_1: null
-img_500_2: null
-img_500_3: null
-img_500_4: null
-img_500_5: null
+img_500_1:
+img_500_2:
+img_500_3:
+img_500_4:
+img_500_5:
 photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
-published: true
+published: false
 ---
+
 
 
 
