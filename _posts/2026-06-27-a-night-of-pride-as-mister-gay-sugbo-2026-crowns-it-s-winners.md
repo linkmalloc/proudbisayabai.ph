@@ -2,7 +2,7 @@
 author: Christie Mae Sato/ Andrie Gabutan/ Sammy Cuizon - UP Cebu PBB Interns
 author2: ''
 layout: post
-title: A Night of Pride as Mister Gay Sugbo 2026 crowns it's winners
+title: A Night of Pride as Mister Gay Sugbo 2026 crowns its winners
 description: >-
   Mister Gay Sugbo 2026 crowned its first-ever feminine king last night, June
   26, at the Guadalupe Sports Complex.
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 ---
+
 
 
 
