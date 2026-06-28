@@ -298,7 +298,7 @@
                             <span v-if="post.fm.tags?.length > 5" class="px-1.5 py-0.5 rounded text-xs font-medium bg-gray-100 text-gray-400">+{{ post.fm.tags.length - 5 }}</span>
                           </div>
                         </td>
-                        <td class="px-5 py-3 text-gray-500 whitespace-nowrap hidden md:table-cell">{{ post.fm.author ?? '—' }}</td>
+                        <td class="px-5 py-3 text-gray-500 hidden md:table-cell">{{ post.fm.author ?? '—' }}</td>
                         <td class="px-5 py-3 text-gray-500 whitespace-nowrap hidden md:table-cell">
                           {{ post.fm.published_at || post.fm.published_date || post.published_at ? new Date(post.fm.published_at || post.fm.published_date || post.published_at).toLocaleDateString() : '—' }}
                         </td>
