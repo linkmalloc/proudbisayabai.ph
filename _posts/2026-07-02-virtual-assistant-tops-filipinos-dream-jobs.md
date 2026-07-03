@@ -42,4 +42,8 @@ The study also highlights the growing appeal of the creator economy, with profes
 
 While traditional professions remain respected, the findings suggest that digital careers are becoming increasingly attractive as technology reshapes employment opportunities in the Philippines.
 
+  
+
+Read the full research here: [https://www.remitly.com/gb/en/landing/dream-jobs-around-the-world](https://www.remitly.com/gb/en/landing/dream-jobs-around-the-world)
+
 Photo courtesy of Emily Reagan
