@@ -118,3 +118,7 @@ Tumulak made the appeal following a bomb threat incident at a mall in Cebu IT Pa
   
 
 Authorities later declared the area safe after no explosive device was found.
+
+  
+
+Screengrab from Tumulak / FB video
