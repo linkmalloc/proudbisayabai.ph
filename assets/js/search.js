@@ -19,7 +19,8 @@ class SiteSearch {
         var CACHE_VERSION = 'v3';
         var CACHE_KEY = 'pbb_search_posts_' + CACHE_VERSION;
         var CACHE_TS_KEY = 'pbb_search_posts_ts_' + CACHE_VERSION;
-        var CACHE_TTL = 2 * 60 * 60 * 1000; // 2 hours
+        // var CACHE_TTL = 2 * 60 * 60 * 1000; // 2 hours
+        var CACHE_TTL = 0; // Disable caching
         try {
             var cached = localStorage.getItem(CACHE_KEY);
             var cachedAt = localStorage.getItem(CACHE_TS_KEY);
