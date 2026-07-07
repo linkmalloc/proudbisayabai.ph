@@ -39,7 +39,7 @@ Whether you are planning a weekend hike, a barkada camping trip, or a nature get
 
   
 
-Mt. Kapayas Location in Catmon, Cebu
+**Mt. Kapayas Location in Catmon, Cebu**
 
   
 
@@ -53,11 +53,11 @@ Located in the quiet highlands of Catmon, Mt. Kapayas highlights the natural bea
 
   
 
-How to Get to Mt. Kapayas Cebu
+**How to Get to Mt. Kapayas Cebu**
 
   
 
-Via Public Transportation from Cebu City
+_Via Public Transportation from Cebu City_
 
   
 
@@ -79,7 +79,7 @@ The estimated habal-habal fare is around ₱400–₱500 round trip, with possib
 
   
 
-For Travelers Bringing Their Own Motorcycle
+_For Travelers Bringing Their Own Motorcycle_
 
   
 
@@ -91,7 +91,7 @@ Travel reminder: Drive carefully, especially during rainy weather. Some sections
 
   
 
-Mt. Kapayas Hiking and Trekking Experience
+**Mt. Kapayas Hiking and Trekking Experience**
 
   
 
@@ -107,39 +107,39 @@ The trail features uphill sections, natural landscapes, and peaceful mountain su
 
   
 
-Mt. Kapayas Fees, Expenses, and Budget Guide
+**Mt. Kapayas Fees, Expenses, and Budget Guide**
 
   
 
-Permit Fee
+_Permit Fee_
 
   
 
-\* ₱250 per group
+• ₱250 per group
 
-\* Maximum of 10 persons per group
-
-  
-
-Habal-Habal Transportation
+• Maximum of 10 persons per group
 
   
 
-\* Around ₱450 per person
-
-\* Round trip transportation with possible falls side trip
+_Habal-Habal Transportation_
 
   
 
-Guide and Camp Fee
+• Around ₱450 per person
+
+• Round trip transportation with possible falls side trip
 
   
 
-\* ₱250 per person
+_Guide and Camp Fee_
 
   
 
-Camping at Mt. Kapayas and Local Community Experience
+• ₱250 per person
+
+  
+
+**Camping at Mt. Kapayas and Local Community Experience**
 
   
 
@@ -159,7 +159,7 @@ Supporting these community services helps promote sustainable tourism and preser
 
   
 
-What to Bring for Your Mt. Kapayas Hiking Adventure
+**What to Bring for Your Mt. Kapayas Hiking Adventure**
 
   
 
@@ -167,25 +167,25 @@ Before starting your climb, prepare these hiking essentials:
 
   
 
-\* Comfortable hiking shoes
+• Comfortable hiking shoes
 
-\* Extra clothes
+• Extra clothes
 
-\* Drinking water and trail snacks
+• Drinking water and trail snacks
 
-\* Rain protection
+• Rain protection
 
-\* Flashlight or headlamp
+• Flashlight or headlamp
 
-\* Power bank
+• Power bank
 
-\* Personal essentials
+• Personal essentials
 
-\* Garbage bag for proper waste disposal
+• Garbage bag for proper waste disposal
 
   
 
-Why Mt. Kapayas Should Be Your Next Cebu Hiking Destination
+**Why Mt. Kapayas Should Be Your Next Cebu Hiking Destination**
 
   
 
