@@ -9,9 +9,9 @@ categories:
 tags:
   - Illegal LPG Refilling
 views: '0'
-img_big_1000x600: ''
-img_big_3000x1144: ''
-img_500x500: ''
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2342/c05b931783575969-1.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2342/c05b931783575969-1.jpg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2342/c05b931783575969-1.jpg
 img_500_1: null
 img_500_2: null
 img_500_3: null
