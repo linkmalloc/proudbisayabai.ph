@@ -33,7 +33,7 @@ Here are some tips to keep you and your families safe from any possible electric
 
   
 
-Keep Cords and Hands Dry
+**Keep Cords and Hands Dry**
 
   
 
@@ -41,7 +41,7 @@ Families are advised to ensure that electrical cords and outlets remain dry befo
 
   
 
-Unplug Unnecessary Appliances during Storms
+**Unplug Unnecessary Appliances during Storms**
 
   
 
@@ -49,7 +49,7 @@ Non-essential appliances, such as television, computers, and kitchen equipment, 
 
   
 
-Charge Devices Ahead 
+**Charge Devices Ahead** 
 
   
 
@@ -57,7 +57,7 @@ During downpours, unexpected outages and brownouts might occur if weather condit
 
   
 
-Turn Off Main Breakers During Floods
+**Turn Off Main Breakers During Floods**
 
   
 
@@ -65,7 +65,7 @@ Once floodwater begins entering a house, the main breaker should be switched off
 
   
 
-Inspect Flooded Appliances and Electronics
+**Inspect Flooded Appliances and Electronics**
 
   
 
