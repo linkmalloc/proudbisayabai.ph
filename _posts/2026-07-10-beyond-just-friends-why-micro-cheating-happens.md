@@ -21,7 +21,7 @@ img_500_5: null
 photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
-read_time: 2 minutes
+read_time: 3 minutes
 published: true
 published_at: '2026-07-10T03:14:41.508Z'
 ---
@@ -46,6 +46,8 @@ Despite its subtle nature, experts say micro-cheating should not be dismissed. L
 
 As relationships continue to evolve alongside technology, experts say emotional fidelity deserves just as much attention as physical loyalty. Whether online or offline, consistent honesty, respect, and clear boundaries can help couples navigate the gray areas of modern relationships before small acts of secrecy grow into deeper emotional betrayal.
 
+Photo courtesy of Yahoo
+
   
 
-Photo courtesy of Yahoo
+Angeles, Victor, J., & Almari, Ma. (2025, October 24). _Exploring the Psychological Impact of Micro-Cheating: A Mixed-Method Analysis of the Betrayed Partner in a Relationship_ \[Review of _Exploring the Psychological Impact of Micro-Cheating: A Mixed-Method Analysis of the Betrayed Partner in a Relationship_\]. ResearchGate. https://doi.org/10.13140/RG.2.2.26876.81288
