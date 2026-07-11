@@ -32,7 +32,7 @@ CEBU CITY — Pickleball booking platform Onda Fit officially brought Cebu-based
 
   
 
-The event, held in Punched Coffee at Johndorf Tower, brought together Onda Fit CEO Pat Loren, Pacific Equities Group President George Padin, and Pacific Equities Group Director Danielle Villa-Padin, alongside members of The Wonggoys, Gabe, Kyle, and Bill who signed on as the platform’s newest partners.
+The event, held in Punched Coffee at Johndorf Tower, brought together Onda Fit CEO Pat Loren, Pacific Equities Group President George Padin, and Pacific Equities Group Director Danielle Villa-Padin, alongside members of The Wonggoys, Gabriel “Gabe” Keith, Kyle Miguel, and William Jr. Wong “Bill” who signed on as the platform’s newest partners.
 
   
 
@@ -90,7 +90,7 @@ The tie-up builds on the momentum of the band’s recent single, “Pickleball S
 
   
 
-“It’s an honor to partner with people who really speak for the community,” one of the band members said, noting the group’s roots as homegrown Cebuano artists partnering with a homegrown platform. Onda Fit’s team echoed the sentiment, saying the partnership reflects “Cebuano craftsmanship and artistry” with ambitions for the sport and the brand to reach a bigger stage.
+“It’s an honor to partner with people who really speak for the community,” Gabe said, noting the group’s roots as homegrown Cebuano artists partnering with a homegrown platform. Onda Fit’s team echoed the sentiment, saying the partnership reflects “Cebuano craftsmanship and artistry” with ambitions for the sport and the brand to reach a bigger stage.
 
   
 
