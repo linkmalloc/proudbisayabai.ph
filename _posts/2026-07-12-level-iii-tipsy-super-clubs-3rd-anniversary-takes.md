@@ -59,3 +59,5 @@ Celebrate the next level of nightlife with an unforgettable atmosphere, top-tier
   
 
 Tipsy Super Club is located on the third floor of the Sonata Building, Lahug, Cebu City. Music starts at 10:00 p.m. until late, from Tuesday through Sundays.
+
+![](https://d1rl40o93nnuyl.cloudfront.net/posts/2381/cfe81b1783817128-2.jpeg)
