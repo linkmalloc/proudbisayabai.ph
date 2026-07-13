@@ -24,7 +24,7 @@ img_500_5: null
 photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
-read_time: 4 minutes
+read_time: 5 minutes
 published: true
 published_at: '2026-07-13T02:41:49.795Z'
 ---
@@ -57,7 +57,11 @@ Inspired by the phrase “Keep Up, Keep Up,” KUKU reflects the company’s com
 
 Customers can choose from:
 
-  
+• Plain – ₱59
+
+• Combo – ₱79
+
+• Overload – ₱149
 
 As KUKU continues to expand in Cebu and key cities across the Philippines, it offers another exciting opportunity for entrepreneurs looking to invest in a fast-growing dessert brand.
 
@@ -77,11 +81,35 @@ Whether you’re starting your first business or expanding your portfolio, DMGC 
 
 ## Your Franchise Journey
 
-  
+1\. Contact the franchise team through the official Facebook Pages or hotline.
+
+2\. Attend the FREE Franchise Orientation to learn more about the business opportunity.
+
+3\. Submit your preferred business location for evaluation.
+
+4\. Reserve your franchise once your location is approved.
+
+5\. Complete the franchise agreement, store construction, training, and opening preparations with guidance from the DMGC team.
 
 ## Why Franchise with DMGC Business Group?
 
-  
+• Home of Cebu’s First 39ers Coffee
+
+• More than 1,000 Don Macchiatos branches nationwide
+
+• More than 200 Don Lemon branches nationwide
+
+• Fast-growing and trusted Filipino brands
+
+• Proven and scalable business model
+
+• Comprehensive franchise training and operational support
+
+• Affordable, high-quality products with strong market demand
+
+• Continuous innovation and brand development
+
+• A company committed to community service and nation-building
 
 ## Start your business journey today!
 
