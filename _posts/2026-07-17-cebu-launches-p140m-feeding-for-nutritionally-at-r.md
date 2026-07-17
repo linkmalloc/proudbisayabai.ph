@@ -103,7 +103,3 @@ The provincial government also distributed school supplies to Kindergarten to Gr
   
 
 Cabahug thanked the provincial government for selecting Balamban as the first site of the initiative.
-
-  
-
-Photo courtesy of Wikipedia
