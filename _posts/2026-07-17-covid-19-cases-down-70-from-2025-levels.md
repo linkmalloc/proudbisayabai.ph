@@ -27,42 +27,22 @@ published_at: '2026-07-17T12:30:01.214Z'
 
 The number of reported Covid-19 cases in the Philippines remained low in 2026, with the Department of Health (DOH) recording a 70 percent decline compared with the same period last year.
 
-  
-
 In a statement on Friday, the DOH said the country recorded 1,532 confirmed Covid-19 cases from Jan. 4 to July 11, 2026.
-
-  
 
 The figure is lower than the 5,070 cases reported during the same period in 2025.
 
-  
-
 Despite the decline, the DOH said it continues to monitor the situation through its regional offices and local government partners while maintaining disease surveillance and response measures nationwide.
-
-  
 
 The health agency reminded the public that Covid-19 may appear with no symptoms or may develop into mild to severe respiratory illness.
 
-  
-
 The DOH listed common symptoms, including fever, chills, sore throat, cough, runny or clogged nose, headache, fatigue, muscle aches, shortness of breath, nausea, vomiting, diarrhea, abdominal pain, and changes or loss of taste or smell.
-
-  
 
 The agency encouraged the public to continue observing basic health practices to help prevent the spread of Covid-19 and other respiratory illnesses.
 
-  
-
 These include regular handwashing with soap and water, covering the mouth and nose when coughing or sneezing, and maintaining proper hygiene.
-
-  
 
 Individuals experiencing respiratory symptoms were advised to seek medical consultation at the nearest health center or healthcare facility and follow recommended health measures to prevent possible transmission.
 
-  
-
 The DOH said it will continue monitoring Covid-19 trends and provide updated information based on verified health data.
-
-  
 
 Photo courtesy of Vatican News
