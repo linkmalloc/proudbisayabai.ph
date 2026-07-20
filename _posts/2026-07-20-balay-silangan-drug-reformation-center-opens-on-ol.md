@@ -10,9 +10,9 @@ tags:
   - Balay Silangan Drug Reformation Center
   - Lapu-Lapu City
 views: '0'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2454/77b8411784534454-1.JPG
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2454/77b8411784534454-1.JPG
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2454/77b8411784534454-1.JPG
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2454/e4c2f11784534526-1.jpeg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2454/e4c2f11784534526-1.jpeg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2454/e4c2f11784534526-1.jpeg
 img_500_1: null
 img_500_2: null
 img_500_3: null
