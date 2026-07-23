@@ -45,7 +45,7 @@ Hontiveros said some online comments following Lipata’s death went beyond poli
 
   
 
-“We are taking these threats seriously. My staff has routinely deleted and reported these disturbing comments on Facebook, and we have submitted to the NBI the names and screenshots of hundreds of Facebook users who have threatened to kill me,” she said.
+> “We are taking these threats seriously. My staff has routinely deleted and reported these disturbing comments on Facebook, and we have submitted to the NBI the names and screenshots of hundreds of Facebook users who have threatened to kill me,” she said.
 
   
 
@@ -53,7 +53,7 @@ The senator called on social media platforms and law enforcement agencies to str
 
   
 
-“Hindi dapat maging normal sa atin ang pagbabanta sa buhay ng ating kapwa. Kahit gaano kalalim ang pagkakaiba natin sa pulitika, may hangganan ang ating mga pagtatalo,” Hontiveros said.
+> “Hindi dapat maging normal sa atin ang pagbabanta sa buhay ng ating kapwa. Kahit gaano kalalim ang pagkakaiba natin sa pulitika, may hangganan ang ating mga pagtatalo,” Hontiveros said.
 
   
 
@@ -61,7 +61,7 @@ She added that political disagreements should not lead to threats or violence.
 
   
 
-“We cannot allow such hatred to cost another life. We are better than this,” she said.
+> “We cannot allow such hatred to cost another life. We are better than this,” she said.
 
   
 
