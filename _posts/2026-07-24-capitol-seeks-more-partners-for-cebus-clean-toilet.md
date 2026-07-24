@@ -27,54 +27,32 @@ published_at: '2026-07-24T11:31:06.267Z'
 
 The Cebu Provincial Government is seeking more local government units and private establishments to join its Clean Toilet Stops Partnership Program as it expands efforts to provide accessible and sanitary restrooms for travelers across the province.
 
-  
-
 Provincial Tourism Officer Rowena Montecillo said the program aims to build a wider network of identified restroom facilities that visitors can easily locate while traveling around Cebu.
-
-  
 
 She said many establishments already have available restrooms, but travelers often do not know where to find them.
 
   
 
-> “Pwede na aron makahibaw ang tanan nga daghan tag available toilets, wala lang ta kahibalo asa,” Montecillo told the Provincial Information Office on July 20.
-
-  
-
 The initiative currently has 17 partner establishments under the administration of Governor Pamela Baricuatro, with the Capitol continuing to encourage more businesses and LGUs to participate.
-
-  
 
 Montecillo said the provincial government will assist partners by promoting accredited toilet stops and helping ensure that facilities meet sanitation requirements.
 
-  
-
 The network includes gas stations, bus terminals, transport hubs, public markets, boardwalks, plazas, and other establishments located along major travel routes.
-
-  
 
 The program was formalized in June through a memorandum of agreement between the provincial government, participating LGUs, and private sector partners to establish an organized system of accredited restroom facilities.
 
-  
-
 Under the agreement, the Cebu Provincial Tourism Office will monitor participating establishments and identify them through official signages, tourism maps, and promotional materials.
-
-  
 
 Partner establishments are expected to maintain clean and functional restrooms by ensuring sufficient water supply, proper waste disposal, ventilation, lighting, and basic supplies such as soap and tissue.
 
-  
-
 Some privately operated facilities may collect minimal maintenance fees for restroom use, which Montecillo said help support cleaning and upkeep.
-
-  
 
 Governor Baricuatro earlier said tourism development should also focus on improving basic services that affect visitors’ overall experience.
 
   
 
-> “As governor, I believe that tourism is not measured only by the number of visitors we receive. It is measured by the quality of experiences we provide. It is measured by how comfortable, safe, and welcomed our guests feel while exploring our province,” Baricuatro said.
+The provincial government said it expects the growing network of toilet stops to support both residents and tourists by making basic facilities more accessible throughout Cebu.
 
   
 
-The provincial government said it expects the growing network of toilet stops to support both residents and tourists by making basic facilities more accessible throughout Cebu.
+Photo courtesy of InfoCebu
