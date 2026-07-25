@@ -50,7 +50,7 @@ The agency said CCTV footage, police reports, and other documentary evidence wer
 
   
 
-“The revocation of a driver's license is reserved for those whose actions clearly show they are no longer fit to exercise the privilege of driving. This decision sends a strong message that LTO will not tolerate reckless, irresponsible, and dangerous behavior on our roads. The safety of the motoring public and our traffic enforcers will always come first,” LTO 7 Director Wendel Dinglasan said.
+> “The revocation of a driver's license is reserved for those whose actions clearly show they are no longer fit to exercise the privilege of driving. This decision sends a strong message that LTO will not tolerate reckless, irresponsible, and dangerous behavior on our roads. The safety of the motoring public and our traffic enforcers will always come first,” LTO 7 Director Wendel Dinglasan said.
 
   
 
