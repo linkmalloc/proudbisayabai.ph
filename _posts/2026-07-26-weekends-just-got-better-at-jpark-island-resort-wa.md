@@ -11,9 +11,9 @@ tags:
   - JPark Island Resort
   - Resort in Cebu
 views: '0'
-img_big_1000x600: ''
-img_big_3000x1144: ''
-img_500x500: ''
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2507/98cd3f1785050242-7.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2507/98cd3f1785050242-7.jpg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2507/98cd3f1785050242-7.jpg
 img_500_1: null
 img_500_2: null
 img_500_3: null
