@@ -26,8 +26,6 @@ published: true
 published_at: '2026-07-29T10:58:35.443Z'
 ---
 
-  
-
 NUSTAR's Dragon Boat Regatta 2026 takes center stage on its second year this September 18 to 20, 2026, gaining double the number of registrations from its first year.
 
   
