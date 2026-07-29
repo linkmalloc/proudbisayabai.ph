@@ -67,3 +67,7 @@ He added that the Ombudsman's investigation would not prevent the Senate Blue Ri
   
 
 "It doesn't preclude any action that the BRC may take in the course of the committee's investigation of the flood control anomalies, depending on the chairman and the members' appreciation," Lacson said.
+
+  
+
+Photo from Inquirer
