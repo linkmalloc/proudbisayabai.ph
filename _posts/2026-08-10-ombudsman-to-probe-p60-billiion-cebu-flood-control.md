@@ -34,7 +34,7 @@ Ombudsman Jesus Crispin “Boying” Remulla said Monday, Aug. 10, that the inve
 
   
 
-“That’s a lot of money to control the flooding but apparently, the past month, flooding happened again here in Cebu,” Remulla said during a press conference following a town hall meeting with employees of the Office of the Ombudsman-Visayas in Cebu City.
+> “That’s a lot of money to control the flooding but apparently, the past month, flooding happened again here in Cebu,” Remulla said during a press conference following a town hall meeting with employees of the Office of the Ombudsman-Visayas in Cebu City.
 
   
 
@@ -82,4 +82,4 @@ Remulla said the office would not immediately identify individuals or file cases
 
   
 
-“We cannot file cases just like that. Or put people in jail just like that. We need the evidence,” he said.
+> “We cannot file cases just like that. Or put people in jail just like that. We need the evidence,” he said.
