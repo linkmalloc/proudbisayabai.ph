@@ -30,8 +30,6 @@ The Office of the Ombudsman will investigate around P60 billion worth of flood c
 
 Ombudsman Jesus Crispin “Boying” Remulla said Monday, Aug. 10, that the investigation will determine whether the projects were properly designed and implemented and whether corruption contributed to the continued flooding.
 
-  
-
 Remulla said around 20 percent of the P60 billion was allocated to Cebu’s 7th District, while about 25 percent went to a single contractor.
 
 The 7th District covers Alcantara, Alegria, Badian, Dumanjug, Ginatilan, Malabuyoc, Moalboal and Ronda.
