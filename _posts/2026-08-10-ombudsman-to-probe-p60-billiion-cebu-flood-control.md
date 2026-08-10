@@ -28,58 +28,28 @@ published_at: '2026-08-10T10:21:48.131Z'
 
 The Office of the Ombudsman will investigate around P60 billion worth of flood control projects implemented in Cebu over the past six years following heavy flooding in several parts of the province in recent weeks.
 
-  
-
 Ombudsman Jesus Crispin “Boying” Remulla said Monday, Aug. 10, that the investigation will determine whether the projects were properly designed and implemented and whether corruption contributed to the continued flooding.
-
-  
-
-> “That’s a lot of money to control the flooding but apparently, the past month, flooding happened again here in Cebu,” Remulla said during a press conference following a town hall meeting with employees of the Office of the Ombudsman-Visayas in Cebu City.
 
   
 
 Remulla said around 20 percent of the P60 billion was allocated to Cebu’s 7th District, while about 25 percent went to a single contractor.
 
-  
-
 The 7th District covers Alcantara, Alegria, Badian, Dumanjug, Ginatilan, Malabuyoc, Moalboal and Ronda.
-
-  
 
 The Ombudsman will initially examine flood control projects in areas that experienced flooding, then expand the investigation across the province.
 
-  
-
 Investigators will determine whether flooding resulted from problems in project design, execution or possible corruption.
-
-  
 
 The probe will include the Office of the Regional Director of the Department of Public Works and Highways (DPWH) in Central Visayas and the district engineers involved in the projects.
 
-  
-
 The Ombudsman will also conduct lifestyle checks on some DPWH engineers and examine contractors for possible bid-rigging.
-
-  
 
 Investigators will use digital tools to verify whether reported flood control projects exist and comply with required standards.
 
-  
-
 Remulla said the office will check project coordinates and other records to determine whether projects were actually built, whether they are substandard or whether they could be “ghost” projects.
-
-  
 
 The review will also cover project contracts and technical specifications, which Remulla said would require extensive documentation.
 
-  
-
 The Ombudsman plans to extend similar reviews to other areas in the Visayas, including Bohol and Tacloban.
 
-  
-
 Remulla said the office would not immediately identify individuals or file cases based only on allegations.
-
-  
-
-> “We cannot file cases just like that. Or put people in jail just like that. We need the evidence,” he said.
