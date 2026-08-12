@@ -1,0 +1,57 @@
+{% comment %}
+  JSON-LD structured data.
+  - NewsMediaOrganization: emitted on every page (publisher identity, logo, social profiles).
+  - NewsArticle: emitted only on posts (layout: post) for Top Stories / rich-result eligibility.
+  Values are passed through `jsonify` so titles/descriptions with quotes or colons stay valid JSON.
+{% endcomment %}
+{% assign sd_logo = site.cloudfront | append: '/images/logo/pbb-logo-202601.jpg' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsMediaOrganization",
+  "name": {{ site.title | jsonify }},
+  "url": "{{ site.url }}",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "{{ sd_logo }}"
+  },
+  "sameAs": [
+    {{ site.facebook | jsonify }},
+    {{ site.instagram | jsonify }}
+  ]
+}
+</script>
+{% if page.layout == 'post' %}
+{% assign sd_desc = page.description | strip_html | normalize_whitespace | truncate: 300 %}
+{% assign sd_image = page.img_big_1000x600 | default: page.img_big_3000x1144 | default: sd_logo %}
+{% assign sd_date = page.published_at | default: page.date | date_to_xmlschema %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ page.url }}"
+  },
+  "headline": {{ page.title | truncate: 110 | jsonify }},
+  "description": {{ sd_desc | jsonify }},
+  "image": [
+    {{ sd_image | jsonify }}
+  ],
+  "datePublished": "{{ sd_date }}",
+  "dateModified": "{{ sd_date }}",
+  "author": {
+    "@type": "Person",
+    "name": {{ page.author | default: site.title | jsonify }}
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": {{ site.title | jsonify }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ sd_logo }}"
+    }
+  }
+}
+</script>
+{% endif %}
