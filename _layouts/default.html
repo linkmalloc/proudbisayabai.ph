@@ -84,19 +84,33 @@ layout: none
     <script>
     (function () {
       var FADE_MS = 600; // keep in sync with the CSS transition above
+      function shuffle(a) { // Fisher-Yates
+        for (var k = a.length - 1; k > 0; k--) {
+          var j = Math.floor(Math.random() * (k + 1));
+          var t = a[k]; a[k] = a[j]; a[j] = t;
+        }
+        return a;
+      }
       function initWinzirRotators() {
         var rotators = document.querySelectorAll('.winzir-rotator');
         for (var n = 0; n < rotators.length; n++) {
           (function (r) {
             if (r.getAttribute('data-winzir-init')) return;
             r.setAttribute('data-winzir-init', '1');
-            var slides = r.querySelectorAll('.winzir-slide');
-            if (slides.length < 2) return;
+            // Randomize this slot's order + starting image, independently, each page load.
+            var order = shuffle(Array.prototype.slice.call(r.querySelectorAll('.winzir-slide')));
+            if (order.length < 1) return;
+            for (var s = 0; s < order.length; s++) {
+              order[s].classList.remove('is-fading', 'is-active');
+              order[s].style.display = (s === 0) ? '' : 'none';
+            }
+            order[0].classList.add('is-active');
+            if (order.length < 2) return;
             var i = 0;
             var interval = parseInt(r.getAttribute('data-interval'), 10) || 30000;
             setInterval(function () {
-              var cur = slides[i];
-              var next = slides[(i + 1) % slides.length];
+              var cur = order[i];
+              var next = order[(i + 1) % order.length];
               cur.classList.add('is-fading'); // fade the current image out
               window.setTimeout(function () {
                 cur.style.display = 'none';
@@ -107,7 +121,7 @@ layout: none
                 next.classList.remove('is-fading');
                 next.classList.add('is-active');
               }, FADE_MS);
-              i = (i + 1) % slides.length;
+              i = (i + 1) % order.length;
             }, interval);
           })(rotators[n]);
         }
