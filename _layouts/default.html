@@ -17,7 +17,8 @@ layout: none
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://d1rl40o93nnuyl.cloudfront.net/posts/567/6941e31772016837-17.png">
     {% include seo.html %}
-    {% include ads.html %}
+    {% comment %} Google AdSense loader — hidden while site.data.winzir.provider != 'google'. {% endcomment %}
+    {% if site.data.winzir.provider == 'google' %}{% include ads.html %}{% endif %}
     <!-- NewsBoard CSS  -->
 
     <!-- Preconnect to third-party origins so DNS/TLS happens in parallel with HTML parsing -->
@@ -74,6 +75,48 @@ layout: none
     {{ content }}
     {% include footer.html %}
     <!-- End Footer -->
+    {% unless site.data.winzir.provider == 'google' %}
+    <!-- Winzir rotating ads: cross-fade each slot's image every rotate_ms (30s). -->
+    <style>
+      .winzir-slide { transition: opacity 600ms ease-in-out; will-change: opacity; }
+      .winzir-slide.is-fading { opacity: 0; }
+    </style>
+    <script>
+    (function () {
+      var FADE_MS = 600; // keep in sync with the CSS transition above
+      function initWinzirRotators() {
+        var rotators = document.querySelectorAll('.winzir-rotator');
+        for (var n = 0; n < rotators.length; n++) {
+          (function (r) {
+            if (r.getAttribute('data-winzir-init')) return;
+            r.setAttribute('data-winzir-init', '1');
+            var slides = r.querySelectorAll('.winzir-slide');
+            if (slides.length < 2) return;
+            var i = 0;
+            var interval = parseInt(r.getAttribute('data-interval'), 10) || 30000;
+            setInterval(function () {
+              var cur = slides[i];
+              var next = slides[(i + 1) % slides.length];
+              cur.classList.add('is-fading'); // fade the current image out
+              window.setTimeout(function () {
+                cur.style.display = 'none';
+                cur.classList.remove('is-fading', 'is-active');
+                next.classList.add('is-fading'); // stage next hidden, then reveal
+                next.style.display = '';
+                void next.offsetWidth;           // force reflow so the fade-in animates
+                next.classList.remove('is-fading');
+                next.classList.add('is-active');
+              }, FADE_MS);
+              i = (i + 1) % slides.length;
+            }, interval);
+          })(rotators[n]);
+        }
+      }
+      if (document.readyState !== 'loading') initWinzirRotators();
+      else document.addEventListener('DOMContentLoaded', initWinzirRotators);
+    })();
+    </script>
+    {% endunless %}
     <button id="scroll-to-top" aria-label="Scroll to top">
         <i class="fas fa-chevron-up"></i>
     </button>

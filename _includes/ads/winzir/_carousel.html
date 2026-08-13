@@ -1,0 +1,24 @@
+{% comment %}
+  Winzir rotating image ad (custom-image duplicate of a Google ad slot).
+  Param: type = folder type (leaderboard | rectangle | inline-banner).
+  Rotates through every image in site.data.winzir.images[type], one every
+  site.data.winzir.rotate_ms milliseconds. Rotation handled by the shared
+  script in _layouts/default.html.
+{% endcomment %}
+{% assign w = site.data.winzir %}
+{% assign type = include.type %}
+{% assign imgs = w.images[type] %}
+{% if imgs and imgs.size > 0 %}
+<div class="winzir-rotator ignore-lazy-image-load" data-interval="{{ w.rotate_ms }}" style="width:100%; min-width:300px; text-align:center;">
+  {% for img in imgs %}
+    {% assign src = img | replace: ' ', '%20' %}
+    <a class="winzir-slide{% if forloop.first %} is-active{% endif %}"
+       href="{{ w.click_url }}"{% if w.click_url != '#' %} target="_blank" rel="noopener sponsored nofollow"{% endif %}{% unless forloop.first %} style="display:none;"{% endunless %}>
+      <img class="ignore-lazy-image-load"
+           src="{{ w.base_url }}/{{ type }}/{{ src }}"
+           alt="{{ w.alt }}" loading="lazy" decoding="async"
+           style="max-width:100%; height:auto; border-radius:10px; display:inline-block;">
+    </a>
+  {% endfor %}
+</div>
+{% endif %}

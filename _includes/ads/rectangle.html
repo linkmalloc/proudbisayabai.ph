@@ -1,5 +1,7 @@
+{% comment %} Rectangle slot. Google hidden while site.data.winzir.provider != 'google'. {% endcomment %}
+{% if site.data.winzir.provider == 'google' %}
 <!-- Google AdSense Rectangle Ad - 300x250 -->
-<div class="home-banner-ad" style="width:100%; min-width: 300px;"></div>
+<div class="home-banner-ad" style="width:100%; min-width: 300px;">
      <ins class="adsbygoogle"
           style="display:block"
           data-ad-client="ca-pub-1359231121915800"
@@ -10,3 +12,6 @@
           (adsbygoogle = window.adsbygoogle || []).push({});
      </script>
 </div>
+{% else %}
+{% include ads/winzir/rectangle.html %}
+{% endif %}

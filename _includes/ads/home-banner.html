@@ -1,3 +1,5 @@
+{% comment %} Leaderboard slot. Google hidden while site.data.winzir.provider != 'google'. {% endcomment %}
+{% if site.data.winzir.provider == 'google' %}
 <!-- Home Page Banner Ad - 1140x200 -->
 <div class="home-banner-ad" style="width:100%; min-width: 300px;">
     <!-- Google AdSense Banner Ad -->
@@ -18,3 +20,6 @@
         <p class="text-muted mb-0">Advertisement Banner - 1140x200</p>
     </div>
 </noscript>
+{% else %}
+{% include ads/winzir/leaderboard.html %}
+{% endif %}
