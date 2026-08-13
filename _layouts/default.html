@@ -76,9 +76,14 @@ layout: none
     {% include footer.html %}
     <!-- End Footer -->
     {% unless site.data.winzir.provider == 'google' %}
-    <!-- Winzir rotating ads: swap each slot's image every rotate_ms (30s). -->
+    <!-- Winzir rotating ads: cross-fade each slot's image every rotate_ms (30s). -->
+    <style>
+      .winzir-slide { transition: opacity 600ms ease-in-out; will-change: opacity; }
+      .winzir-slide.is-fading { opacity: 0; }
+    </style>
     <script>
     (function () {
+      var FADE_MS = 600; // keep in sync with the CSS transition above
       function initWinzirRotators() {
         var rotators = document.querySelectorAll('.winzir-rotator');
         for (var n = 0; n < rotators.length; n++) {
@@ -90,11 +95,19 @@ layout: none
             var i = 0;
             var interval = parseInt(r.getAttribute('data-interval'), 10) || 30000;
             setInterval(function () {
-              slides[i].style.display = 'none';
-              slides[i].classList.remove('is-active');
+              var cur = slides[i];
+              var next = slides[(i + 1) % slides.length];
+              cur.classList.add('is-fading'); // fade the current image out
+              window.setTimeout(function () {
+                cur.style.display = 'none';
+                cur.classList.remove('is-fading', 'is-active');
+                next.classList.add('is-fading'); // stage next hidden, then reveal
+                next.style.display = '';
+                void next.offsetWidth;           // force reflow so the fade-in animates
+                next.classList.remove('is-fading');
+                next.classList.add('is-active');
+              }, FADE_MS);
               i = (i + 1) % slides.length;
-              slides[i].style.display = '';
-              slides[i].classList.add('is-active');
             }, interval);
           })(rotators[n]);
         }
