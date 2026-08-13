@@ -17,8 +17,9 @@ layout: none
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://d1rl40o93nnuyl.cloudfront.net/posts/567/6941e31772016837-17.png">
     {% include seo.html %}
-    {% comment %} Google AdSense loader — hidden while site.data.winzir.provider != 'google'. {% endcomment %}
-    {% if site.data.winzir.provider == 'google' %}{% include ads.html %}{% endif %}
+    {% comment %} Load AdSense so Google Auto Ads (vignette + anchor/"lower") run. The
+       explicit slots stay on Winzir unless provider == 'google'. {% endcomment %}
+    {% if site.data.winzir.provider == 'google' or site.data.winzir.google_auto_ads %}{% include ads.html %}{% endif %}
     <!-- NewsBoard CSS  -->
 
     <!-- Preconnect to third-party origins so DNS/TLS happens in parallel with HTML parsing -->
