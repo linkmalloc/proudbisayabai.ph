@@ -1,0 +1,51 @@
+# Winzir custom image ads (served from CloudFront; local images/ is gitignored).
+#
+# provider: 'winzir' shows the rotating custom-image ads below and HIDES Google AdSense.
+#           set to 'google' to restore AdSense everywhere.
+provider: winzir
+
+# CloudFront base. Full url = {base_url}/{folder-type}/{filename}
+base_url: https://d1rl40o93nnuyl.cloudfront.net/ads/winzir
+
+# Rotation interval in milliseconds (30s). Single constant used by every ad slot.
+rotate_ms: 30000
+
+# Where a click on any winzir ad should go.
+click_url: "https://winzir.ph/affiliates/?btag=557078_l386511"
+
+alt: "Winzir"
+
+# Images grouped by folder type. Mirrors images/posts/winzir-ads/<type>/ and the
+# CloudFront layout /ads/winzir/<type>/<file>. Each slot rotates through its full list.
+images:
+  leaderboard:
+    - A950x250.png
+    - B950x250.png
+    - C950x250.jpg
+    - D950x250.jpg
+  rectangle:
+    - A300x250.png
+    - B300x250.png
+    - C300x250.jpg
+    - D300x250.jpg
+    - A315x300.png
+    - B315x300.png
+    - C315x300.jpg
+    - C315x300.png
+    - D315x300.jpg
+    - A400x350.png
+    - "B400x350 - taboola.png"
+    - "C400x350 - taboola.jpg"
+    - D400x350.jpg
+  inline-banner:
+    - A300x100.png
+    - B300x100.png
+    - C300x100.jpg
+    - D300x100.jpg
+    - A305x99.png
+    - B305x99.png
+    - C305x99.jpg
+    - D305x99.jpg
+    - B468x60.png
+    - C468x60.jpg
+    - D468x60.jpg
