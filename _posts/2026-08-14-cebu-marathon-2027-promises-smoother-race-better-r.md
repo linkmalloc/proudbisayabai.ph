@@ -57,11 +57,11 @@ CCSC Chairman Dr. Rhoel Dejaño said Mayor Nestor Archival instructed the commis
 
   
 
-“In the previous years, the Cebu City Government was not part of the organization of the running event, but only played a role in issuing the permits,” Dejaño said.
+> “In the previous years, the Cebu City Government was not part of the organization of the running event, but only played a role in issuing the permits,” Dejaño said.
 
   
 
-“But this time around, the mayor wanted us to oversee the overall organization, execution, and overall running of the event so that we will have a better experience for the participants,” he added.
+> “But this time around, the mayor wanted us to oversee the overall organization, execution, and overall running of the event so that we will have a better experience for the participants,” he added.
 
   
 
@@ -73,7 +73,7 @@ The medals are expected to arrive as early as November.
 
   
 
-“As we continue to transition to this new chapter, we will continue to work closely with them through guidance and consultation only,” Tan said.
+> “As we continue to transition to this new chapter, we will continue to work closely with them through guidance and consultation only,” Tan said.
 
   
 
