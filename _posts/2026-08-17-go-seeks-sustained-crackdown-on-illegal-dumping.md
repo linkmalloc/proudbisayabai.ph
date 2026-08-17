@@ -90,3 +90,7 @@ The proposed resolution would not create new penalties or enforcement bodies by 
   
 
 Its implementation would depend on existing laws and city ordinances, available resources and action by the concerned city offices.
+
+  
+
+Stock Photo
