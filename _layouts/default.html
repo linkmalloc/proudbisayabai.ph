@@ -98,6 +98,14 @@ layout: none
           (function (r) {
             if (r.getAttribute('data-winzir-init')) return;
             r.setAttribute('data-winzir-init', '1');
+            // Hydrate ad image URLs from data-winzir-src. The URLs are deliberately
+            // absent from the server-rendered HTML so Facebook's crawler (which does
+            // not run JS) can't scrape an ad as the page's og:image.
+            var lazyImgs = r.querySelectorAll('img[data-winzir-src]');
+            for (var h = 0; h < lazyImgs.length; h++) {
+              var li = lazyImgs[h];
+              if (!li.getAttribute('src')) li.src = li.getAttribute('data-winzir-src');
+            }
             // Randomize this slot's order + starting image, independently, each page load.
             var order = shuffle(Array.prototype.slice.call(r.querySelectorAll('.winzir-slide')));
             if (order.length < 1) return;

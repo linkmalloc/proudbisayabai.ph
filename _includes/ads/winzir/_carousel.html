@@ -15,7 +15,7 @@
     <a class="winzir-slide{% if forloop.first %} is-active{% endif %}"
        href="{{ w.click_url }}"{% if w.click_url != '#' %} target="_blank" rel="noopener sponsored nofollow"{% endif %}{% unless forloop.first %} style="display:none;"{% endunless %}>
       <img class="ignore-lazy-image-load"
-           src="{{ w.base_url }}/{{ type }}/{{ src }}"
+           data-winzir-src="{{ w.base_url }}/{{ type }}/{{ src }}"
            alt="{{ w.alt }}" loading="lazy" decoding="async"
            style="max-width:100%; height:auto; border-radius:10px; display:inline-block;">
     </a>
