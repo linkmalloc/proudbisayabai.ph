@@ -1,0 +1,133 @@
+---
+author: LLP
+author2: ''
+layout: post
+title: Cebu City centralizes management of city-owned medium-rise housing
+description: Cebu City Mayor Nestor Archival has placed all city-owned medium-rise buildings (MRBs) under a single executive committee that will oversee their operations, maintenance, rental rates, commercial spaces and tenancy-related concerns.
+categories:
+  - story
+tags:
+  - Division for the Welfare of the Urban Poor
+  - MRBs
+views: '0'
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2738/aa5e871787380383-1.jpeg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2738/aa5e871787380383-1.jpeg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2738/aa5e871787380383-1.jpeg
+img_500_1: null
+img_500_2: null
+img_500_3: null
+img_500_4: null
+img_500_5: null
+photo_credit: ''
+photo_credit_link: ''
+editor: PBB Admin
+read_time: 4 minutes
+published: true
+published_at: '2026-08-22T06:33:05.663Z'
+---
+
+Cebu City Mayor Nestor Archival has placed all city-owned medium-rise buildings (MRBs) under a single executive committee that will oversee their operations, maintenance, rental rates, commercial spaces and tenancy-related concerns.
+
+  
+
+Archival created the Medium Rise Building Executive Committee through Executive Order No. 094, signed Aug. 12, assigning it overall responsibility for the operation and maintenance of all MRBs owned by the Cebu City Government.
+
+  
+
+The new system separates building management from the selection of housing beneficiaries. The Division for the Welfare of the Urban Poor (DWUP) will continue to screen, qualify and approve beneficiaries, while the new committee will manage the buildings once they are occupied.
+
+  
+
+Under the order, the committee will oversee building maintenance, security, sanitation, rental collection, commercial leasing and enforcement of house rules.
+
+  
+
+EO 094 designates the committee as the “sole body” responsible for the operation and maintenance of the city’s MRBs. It will also formulate policies and standards covering the buildings’ operation, maintenance, occupancy and use.
+
+  
+
+The committee may appoint a building administrator for each MRB and hire or assign maintenance, security and utility personnel, subject to civil service rules, city personnel policies and available funds.
+
+  
+
+Archival will chair the committee or designate the city administrator to lead it.
+
+  
+
+Its members will include the chairperson of the City Local Housing Board, the DWUP head, Department of General Services head, city legal officer, Department of Engineering and Public Works head, and a representative of a private institution involved in the construction, funding or co-management of the concerned MRB.
+
+  
+
+One of the committee’s key responsibilities will be setting, reviewing and adjusting monthly rental or amortization rates for MRB units.
+
+  
+
+The rates must consider residents’ ability to pay, the cost of maintaining and administering the buildings and the socialized housing purpose of the projects.
+
+  
+
+EO 094 specifically requires the rates to remain “socialized rates” and prohibits the committee from setting charges that would defeat the purpose of providing affordable housing.
+
+  
+
+The committee will also determine lease rates for commercial spaces within the buildings. Qualified tenants may lease the spaces subject to existing procurement and property regulations.
+
+  
+
+The order requires the city to conduct the leasing process transparently and competitively whenever practicable.
+
+  
+
+Revenue from commercial spaces will form part of city income and will be prioritized for the maintenance and operation of the MRB where the revenue was generated.
+
+  
+
+Despite its broad management authority, the committee will not determine who qualifies for housing.
+
+  
+
+EO 094 retains the screening, qualification and approval of beneficiaries with the DWUP in accordance with existing city policies and the local shelter plan.
+
+  
+
+The committee will instead handle building and tenancy concerns and coordinate with the DWUP, City Local Housing Board, Department of Human Settlements and Urban Development and other government agencies on socialized housing matters.
+
+  
+
+The committee may also recommend policies for dealing with delinquent occupants, including eviction or relocation.
+
+  
+
+However, the order requires any eviction or relocation to be carried out in a “just and humane manner” and in compliance with Section 28 of Republic Act No. 7279, or the Urban Development and Housing Act of 1992, and its implementing rules and regulations.
+
+  
+
+The committee will prepare an annual report, budget and financial plan for the operation and maintenance of the city-owned MRBs.
+
+  
+
+Operating expenses, including compensation for building administrators and other personnel, should primarily come from rentals, lease payments and other income generated by the buildings.
+
+  
+
+If these revenues are insufficient, the city may provide funding through appropriations under the Office of the City Mayor, subject to available funds and accounting and auditing rules.
+
+  
+
+The committee must meet at least once every quarter or more frequently when called by its chairperson. A majority of its members will constitute a quorum, while policies and resolutions will require approval by a majority of members present.
+
+  
+
+The DWUP will serve as the committee’s secretariat and maintain its records and meeting minutes.
+
+  
+
+EO 094 took effect immediately upon its signing on Aug. 12.
+
+  
+
+The order cited the Local Government Code, the Urban Development and Housing Act and the law creating the Department of Human Settlements and Urban Development as legal bases for the city’s authority to administer its socialized housing program.
+
+  
+
+It also cited the city’s continuing construction of MRBs intended to provide affordable housing to qualified underprivileged and homeless residents, informal settler families and other beneficiaries identified under city policies and the local shelter plan.
