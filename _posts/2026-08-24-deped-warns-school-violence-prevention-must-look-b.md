@@ -26,12 +26,6 @@ published: true
 published_at: '2026-08-24T04:39:27.624Z'
 ---
 
-  
-
-Kaiser Jan Fuentes 
-
-  
-
 The Department of Education (DepEd) on Thursday warned that efforts to prevent school violence should look beyond social media, saying violent content from foreign incidents, YouTube and television programs could contribute to copycat behavior among vulnerable young people.
 
   
