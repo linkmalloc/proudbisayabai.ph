@@ -114,4 +114,4 @@ He added that signing checks and payment documents formed part of his duties as 
 
   
 
-Photoo courtesy of Mandaue LGU / FB
+Photoo courtesy of Mandaue / FB
