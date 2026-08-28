@@ -124,4 +124,4 @@ The city will monitor scholars’ academic progress through periodic evaluations
 
   
 
-Photo
+Photo courtesy of Philippine Star
