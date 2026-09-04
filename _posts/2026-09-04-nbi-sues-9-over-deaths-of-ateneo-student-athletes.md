@@ -60,3 +60,7 @@ The Anti-Hazing Act complaint has therefore not yet proceeded to the same stage 
   
 
 Dato said the preliminary investigation into the NBI complaint remains ongoing as prosecutors evaluate the allegations and the respondents’ defenses.
+
+  
+
+Photo courtesy of NBTC
