@@ -2,31 +2,36 @@
 author: 'Kaiser Jan Fuentes '
 author2: ''
 layout: post
-title: |
-  Human activity, poor infrastructure worsen flood risks, climate expert says
-description: |
-  Human activity, environmental degradation and inadequate infrastructure are compounding the Philippines’ vulnerability to severe flooding as climate change intensifies extreme weather events, a climate policy expert said Monday.
+title: 'Human activity, poor infrastructure worsen flood risks, climate expert says
+
+  '
+description: 'Human activity, environmental degradation and inadequate infrastructure
+  are compounding the Philippines’ vulnerability to severe flooding as climate change
+  intensifies extreme weather events, a climate policy expert said Monday.
+
+  '
 categories:
-  - news
+- news
 tags:
-  - environment
-  - climate
+- environment
+- climate
 views: '0'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2877/deaec71788851091-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2877/deaec71788851091-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2877/deaec71788851091-2.jpeg
-img_500_1: null
-img_500_2: null
-img_500_3: null
-img_500_4: null
-img_500_5: null
+img_500_1:
+img_500_2:
+img_500_3:
+img_500_4:
+img_500_5:
 photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 3 minutes
-published: true
+published: false
 published_at: '2026-09-08T07:04:00.720Z'
 ---
+
 
 Human activity, environmental degradation and inadequate infrastructure are compounding the Philippines’ vulnerability to severe flooding as climate change intensifies extreme weather events, a climate policy expert said Monday.
 
