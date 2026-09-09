@@ -3,27 +3,30 @@ author: Kaiser Jan Fuentes
 author2: ''
 layout: post
 title: 'Cebu honors National Artist Resil Mojares '
-description: Cebu Province lowered the Philippine flag at the Cebu Provincial Capitol to honor National Artist for Literature Resil B. Mojares, who died two days after his 83rd birthday.
+description: Cebu Province lowered the Philippine flag at the Cebu Provincial Capitol
+  to honor National Artist for Literature Resil B. Mojares, who died two days after
+  his 83rd birthday.
 categories:
-  - story
+- story
 tags:
-  - Resil Mojares
+- Resil Mojares
 views: '0'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2884/b819e11788938704-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2884/b819e11788938704-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2884/b819e11788938704-1.jpeg
-img_500_1: null
-img_500_2: null
-img_500_3: null
-img_500_4: null
-img_500_5: null
+img_500_1:
+img_500_2:
+img_500_3:
+img_500_4:
+img_500_5:
 photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 2 minutes
-published: true
+published: false
 published_at: '2026-09-09T07:25:23.602Z'
 ---
+
 
 Cebu Province lowered the Philippine flag at the Cebu Provincial Capitol to honor National Artist for Literature Resil B. Mojares, who died two days after his 83rd birthday.
 
