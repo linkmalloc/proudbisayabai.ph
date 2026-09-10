@@ -64,8 +64,6 @@ So gather your favorite people and make your weekend buffet a little more exciti
 
 ### **Promo Details**
 
-  
-
 **Promo Period:** September 1–30, 2026
 
 **Buffet Rate:** ₱688 per person
