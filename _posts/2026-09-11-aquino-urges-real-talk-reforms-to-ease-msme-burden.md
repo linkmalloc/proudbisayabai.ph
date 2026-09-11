@@ -10,9 +10,9 @@ tags:
   - Bam Aquino
   - MSMEs
 views: '0'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2905/88d1711789120015-1.jpeg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2905/88d1711789120015-1.jpeg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2905/88d1711789120015-1.jpeg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2905/3732701789120075-2.jpeg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2905/3732701789120075-2.jpeg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2905/3732701789120075-2.jpeg
 img_500_1: null
 img_500_2: null
 img_500_3: null
