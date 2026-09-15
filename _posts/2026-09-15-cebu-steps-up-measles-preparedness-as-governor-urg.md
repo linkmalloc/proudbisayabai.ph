@@ -11,9 +11,9 @@ tags:
   - Preparedness
   - Cebu
 views: '0'
-img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2927/780e481789450332-1.jpg
-img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2927/780e481789450332-1.jpg
-img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2927/780e481789450332-1.jpg
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2927/83bdc01789450565-2.jpeg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2927/83bdc01789450565-2.jpeg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2927/83bdc01789450565-2.jpeg
 img_500_1: null
 img_500_2: null
 img_500_3: null
