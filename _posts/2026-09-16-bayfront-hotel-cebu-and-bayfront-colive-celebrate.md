@@ -2,30 +2,36 @@
 author: Press Release
 author2: ''
 layout: post
-title: Bayfront Hotel Cebu and Bayfront CoLive+ celebrate new milestones with exclusive anniversary offers
-description: For 12 years, Bayfront Hotel Cebu has been part of countless Cebu stories—from family getaways and business trips to celebrations and quiet moments of rest. This year, it marks its 12th anniversary alongside the first anniversary of Bayfront CoLive+, its modern co-living concept for travelers, remote workers, students, and long-stay guests.
+title: Bayfront Hotel Cebu and Bayfront CoLive+ celebrate new milestones with exclusive
+  anniversary offers
+description: For 12 years, Bayfront Hotel Cebu has been part of countless Cebu stories—from
+  family getaways and business trips to celebrations and quiet moments of rest. This
+  year, it marks its 12th anniversary alongside the first anniversary of Bayfront
+  CoLive+, its modern co-living concept for travelers, remote workers, students, and
+  long-stay guests.
 categories:
-  - brand
+- brand
 tags:
-  - Bayfront
-  - Anniversary
-  - Exclusive offers
+- Bayfront
+- Anniversary
+- Exclusive offers
 views: '0'
 img_big_1000x600: ''
 img_big_3000x1144: ''
 img_500x500: ''
-img_500_1: null
-img_500_2: null
-img_500_3: null
-img_500_4: null
-img_500_5: null
+img_500_1:
+img_500_2:
+img_500_3:
+img_500_4:
+img_500_5:
 photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 3 minutes
-published: true
+published: false
 published_at: '2026-09-16T03:13:29.653Z'
 ---
+
 
 For 12 years, Bayfront Hotel Cebu has been part of countless Cebu stories—from family getaways and business trips to celebrations and quiet moments of rest. This year, it marks its 12th anniversary alongside the first anniversary of Bayfront CoLive+, its modern co-living concept for travelers, remote workers, students, and long-stay guests.
 
