@@ -68,3 +68,7 @@ King-Chan expressed hope that the assistance would help ease the financial burde
   
 
 Members of the 17th Sangguniang Panlungsod, barangay officials, DILG 7 officials, DBM 7 Regional Director Maricor Baquial, PIA 7 Regional Head Fayette Rinen and DILG Lapu-Lapu City Director Dr. Neila Aquino attended the activity.
+
+  
+
+_Photo courtesy of Lapu-Lapu City PIO_
