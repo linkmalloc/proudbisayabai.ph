@@ -28,30 +28,16 @@ published_at: '2026-09-18T17:15:39.398Z'
 
 The Lapu-Lapu City Government is seeking licensed and certified divers to join an underwater cleanup drive on Sept. 19 aimed at removing marine debris from the city’s coastal waters.
 
-  
-
 Through the City Environment and Natural Resources Office (CENRO), the city will hold SCUBASURERO 2026 at The Mactan Newtown Beach as part of activities for this year’s International Coastal Cleanup (ICC).
-
-  
 
 The activity will start at 8 a.m. and focus on collecting waste beneath the water, complementing cleanup efforts along the shoreline.
 
-  
-
 Volunteer divers must be licensed or certified and must bring their own diving equipment, including tanks and weights. Organizers will confirm participants and notify those selected to join the activity.
-
-  
 
 SCUBASURERO 2026 is organized in partnership with the Department of Environment and Natural Resources-Central Visayas, City Tourism Office, Megaworld, The Mactan Newtown, The Mactan Newtown Beach, Savoy Hotel, Feel Deep and International Coastal Cleanup Philippines.
 
-  
-
 The underwater cleanup forms part of Lapu-Lapu City’s activities for the 2026 ICC, which will be observed on Sept. 19 with initiatives focused on marine and coastal protection.
 
-  
-
 The city government said the activity aims to reduce marine debris and support efforts to maintain healthier coastal waters.
-
-  
 
 _Photo courtesy of Scuba Diving Magazine_
