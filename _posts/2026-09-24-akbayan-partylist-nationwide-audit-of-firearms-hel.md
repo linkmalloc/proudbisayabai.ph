@@ -25,14 +25,6 @@ published: true
 published_at: '2026-09-24T09:14:34.244Z'
 ---
 
-  
-
-  
-
-  
-
-  
-
 A group of lawmakers has called for a nationwide review of the government’s systems for the custody, safekeeping and accountability of firearms issued to, owned or possessed by public officials and employees following three school shooting incidents in the past three months.
 
   
