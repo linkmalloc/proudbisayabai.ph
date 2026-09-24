@@ -95,4 +95,4 @@ CMO-SMART said it will continue conducting patrols and protecting city facilitie
 
   
 
-_Photo courtesy of Doc Rd Soon Gobalani_
+_Photo courtesy of Gerard Glenn “RD” Soon Gobalani_
