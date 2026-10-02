@@ -28,26 +28,14 @@ published_at: '2026-10-01T17:04:50.287Z'
 
 Alex Eala’s bid for the women’s singles gold medal at the 2026 Asian Games came to an end after a hard-fought three-set semifinal loss to China’s Wang Xiyu.
 
-  
-
 Eala made a strong start, taking the opening set, 6-3, and putting herself in a favorable position early in the match.
-
-  
 
 Wang, however, responded in the second set, also winning 6-3 to force a deciding set.
 
-  
-
 The Chinese player carried the momentum into the third, closing out the match with a 6-2 victory and securing her place in the women’s singles gold medal match.
-
-  
 
 The semifinal lasted 2 hours and 34 minutes, with Wang narrowly leading Eala in total points, 98-88, according to POC Media.
 
-  
-
 Despite falling short of the gold medal match, Eala’s campaign remains a notable run on the Asian Games stage.
-
-  
 
 _Photo courtesy of POC Media_
