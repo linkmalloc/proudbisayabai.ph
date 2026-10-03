@@ -9,7 +9,7 @@ categories:
 tags:
   - East Asia Business Council
   - Regional Comprehensive Economic Partnership
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2965/d863d41789751948-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2965/d863d41789751948-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2965/d863d41789751948-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-09-18T17:19:10.239Z'
+pbb_post_id: 2965
 ---
 
 The East Asia Business Council (EABC) called for stronger business participation in regional trade as the Regional Comprehensive Economic Partnership (RCEP) prepares for its first General Review.

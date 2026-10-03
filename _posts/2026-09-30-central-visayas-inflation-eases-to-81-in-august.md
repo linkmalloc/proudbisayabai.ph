@@ -11,7 +11,7 @@ tags:
   - market
   - increase
   - Visayas
-views: '0'
+views: "9"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3056/cc6a2d1790743537-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3056/cc6a2d1790743537-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3056/cc6a2d1790743537-1.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-30T04:45:40.264Z'
+pbb_post_id: 3056
 ---
 
 Inflation in Central Visayas slowed to 8.1% in August from 8.7% in July, with slower increases in food prices accounting for most of the regional deceleration, the Philippine Statistics Authority in Central Visayas (PSA 7) reported.

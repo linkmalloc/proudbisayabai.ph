@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - MSMEs
-views: '0'
+views: "34"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2489/4e76991784892366-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2489/4e76991784892366-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2489/4e76991784892366-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-24T11:24:05.727Z'
+pbb_post_id: 2489
 ---
 
 Small businesses must move beyond recovery efforts and invest in preparedness as disasters continue to threaten operations, income, and jobs, the Department of Trade and Industry (DTI) said.

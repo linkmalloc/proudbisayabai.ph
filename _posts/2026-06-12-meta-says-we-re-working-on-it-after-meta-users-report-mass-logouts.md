@@ -15,7 +15,7 @@ tags:
   - Facebook
   - Instagram
   - Messenger
-views: '10'
+views: "48"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2097/bc57ac1781276943-3.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2097/bc57ac1781276943-3.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2097/bc57ac1781276943-3.jpeg
@@ -29,6 +29,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 2097
 ---
 
 CEBU CITY, Philippines — Thousands of users across different parts of the world reported being unexpectedly logged out of their Facebook, Instagram, and Messenger accounts on the evening of June 12, 2026, sparking concerns about a possible platform outage or security issue.

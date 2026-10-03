@@ -11,7 +11,7 @@ tags:
   - chicken cebu
   - wingers
   - chicken wings
-views: "10"
+views: "1,175"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/wingersunlimited/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/wingersunlimited/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/wingersunlimited/cover.jpg
@@ -24,6 +24,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 457
 ---
 ****
 Wingers Unlimited is giving you the ultimate reason to celebrate your special day! Introducing the Wingers Birthmonth Blowout, where you can indulge in our famous unlimited chicken and more, with a special treat for the birthday celebrant. Gather your friends and family and head to your nearest Wingers branch for a feast that will make your birthday one to remember.  

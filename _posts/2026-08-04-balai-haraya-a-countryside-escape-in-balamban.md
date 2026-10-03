@@ -8,7 +8,7 @@ categories:
   - destination
 tags:
   - Balamban
-views: '0'
+views: "891"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2581/ec1c1f1785786677-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2581/ec1c1f1785786677-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2581/ec1c1f1785786677-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-03T19:51:29.725Z'
+pbb_post_id: 2581
 ---
 
   

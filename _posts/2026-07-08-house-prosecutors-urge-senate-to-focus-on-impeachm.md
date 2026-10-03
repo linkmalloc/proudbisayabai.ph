@@ -10,7 +10,7 @@ categories:
 tags:
   - House
   - VPSaraImpeachment
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2339/7c001a1783506881-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2339/7c001a1783506881-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2339/7c001a1783506881-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-08T10:34:44.733Z'
+pbb_post_id: 2339
 ---
 
 The House prosecution panel on Tuesday said the impeachment case against Vice President Sara Duterte should be decided based on the allegations and evidence presented before the Senate impeachment court, not on unrelated controversies involving the House of Representatives.

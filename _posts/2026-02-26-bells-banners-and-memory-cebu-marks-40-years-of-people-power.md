@@ -17,7 +17,7 @@ tags:
   - PeoplePowerRevolution
   - PeaceMarch
   - ArchbishopUy
-views: '10'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1212/5c9f251772101963-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1212/5c9f251772101963-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1212/5c9f251772101963-2.jpg
@@ -31,6 +31,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1212
 ---
 
 Forty years after millions of Filipinos gathered along Epifanio de los Santos Avenue in a peaceful uprising that toppled a dictatorship, downtown Cebu on Wednesday, February 25, echoed with the same language of faith, memory, and moral resolve.

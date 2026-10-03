@@ -9,7 +9,7 @@ categories:
 tags:
   - Rescued Pets
   - Adoption
-views: '0'
+views: "30"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2794/57c7ab1787946237-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2794/57c7ab1787946237-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2794/57c7ab1787946237-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-28T19:43:59.750Z'
+pbb_post_id: 2794
 ---
 
 More rescued dogs and cats under the care of the Cebu City Government are finding homes, with 170 pets adopted from January to August 2026.

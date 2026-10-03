@@ -17,7 +17,7 @@ tags:
   - SarahDiscaya
   - PreTrial
   - DPWH
-views: '10'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1071/0dfe171770196209-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1071/0dfe171770196209-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1071/0dfe171770196209-2.jpg
@@ -31,6 +31,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1071
 ---
 
 The pre-trial for contractor Sarah Discaya, her company president Maria Roma Rimando, and eight Department of Public Works and Highways (DPWH) officials in connection with the alleged P96.5-million “ghost” flood control project in Davao Occidental has been reset to February 27 by the Regional Trial Court (RTC) Branch 27 in Lapu-Lapu City.

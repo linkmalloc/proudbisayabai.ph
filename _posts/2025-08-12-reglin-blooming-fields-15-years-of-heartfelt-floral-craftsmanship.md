@@ -14,7 +14,7 @@ categories:
   - destination
 tags:
   - ReglinBloomingFieldsFlowerShop
-views: '10'
+views: "515"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/544/abda9d1755098925-10.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/544/abda9d1755098925-10.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/544/abda9d1755098925-10.jpg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-08-13T00:00:00
+pbb_post_id: 544
 ---
 
 For over a decade, Reglin Blooming Fields Flower Shop has quietly bloomed into a beloved fixture in the heart of Cebu, offering exquisite floral arrangements for every occasion. Located along P. Laez Street, just across the University of San Carlos Main Campus and near the old Jollibee, the shop has become a trusted source of fresh, beautifully arranged blooms for students, professionals, and residents alike.

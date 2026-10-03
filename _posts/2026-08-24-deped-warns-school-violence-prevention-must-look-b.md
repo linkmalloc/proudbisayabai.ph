@@ -9,7 +9,7 @@ categories:
 tags:
   - DepEd
   - violence
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2744/1e60c21787546364-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2744/1e60c21787546364-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2744/1e60c21787546364-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-24T04:39:27.624Z'
+pbb_post_id: 2744
 ---
 
 The Department of Education (DepEd) on Thursday warned that efforts to prevent school violence should look beyond social media, saying violent content from foreign incidents, YouTube and television programs could contribute to copycat behavior among vulnerable young people.

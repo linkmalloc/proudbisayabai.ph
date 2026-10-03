@@ -9,7 +9,7 @@ categories:
 tags:
   - Mandaue
   - Solo Parents
-views: '0'
+views: "258"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2921/35a6181789370709-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2921/35a6181789370709-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2921/35a6181789370709-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-14T07:25:12.015Z'
+pbb_post_id: 2921
 ---
 
 Around 1,757 qualified solo parents in Mandaue City are set to receive P12,000 each in annual financial assistance, with the next tranche potentially released next week.

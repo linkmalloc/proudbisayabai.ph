@@ -9,7 +9,7 @@ categories:
 tags:
   - Mandaue City
   - EdukAhon
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2967/9031881789752518-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2967/9031881789752518-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2967/9031881789752518-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-18T17:28:54.061Z'
+pbb_post_id: 2967
 ---
 
 More than 20,000 school supply sets have been turned over to 12 public elementary schools in Mandaue City as the city government rolls out its EdukAhon assistance program.

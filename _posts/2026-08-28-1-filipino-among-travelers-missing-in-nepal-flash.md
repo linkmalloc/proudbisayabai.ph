@@ -8,7 +8,7 @@ categories:
   - news
 tags:
   - Nepal Flashhflood
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2790/2065111787892105-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2790/2065111787892105-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2790/2065111787892105-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-28T04:41:47.152Z'
+pbb_post_id: 2790
 ---
 
 One Filipino is among 644 travelers reported missing after deadly flash floods swept through villages and trekking routes in Nepal on Aug. 26, according to the Nepal Tourism Board.

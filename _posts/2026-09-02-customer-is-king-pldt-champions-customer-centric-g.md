@@ -9,7 +9,7 @@ categories:
 tags:
   - HaladSaPagtuoUpdates
   - PLDT
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2823/d2278a1788325529-1.png
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2823/d2278a1788325529-1.png
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2823/d2278a1788325529-1.png
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-02T05:05:32.533Z'
+pbb_post_id: 2823
 ---
 
 HONG KONG — As enterprises accelerate their digital transformation journeys amid the rise of artificial intelligence (AI), PLDT Inc. underscored the importance of customer-centricity, strategic investment, and ecosystem partnerships in driving sustainable growth and long-term business resilience during the inaugural ACC CXO Forum in Hong Kong.

@@ -9,7 +9,7 @@ categories:
 tags:
   - Cebu Provincial Board
   - School Safety
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2787/f407b21787891795-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2787/f407b21787891795-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2787/f407b21787891795-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-28T04:36:39.671Z'
+pbb_post_id: 2787
 ---
 
 The Cebu Provincial Board is pushing for a province-wide school safety strategy as firearm incidents, shooting scares and threats involving schools and minors continue to raise security concerns.

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Bantayan District Hospital
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2741/3798dc1787380958-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2741/3798dc1787380958-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2741/3798dc1787380958-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-22T06:42:40.874Z'
+pbb_post_id: 2741
 ---
 
 Bantayan District Hospital has expanded its surgical services after its in-house medical team performed the hospital’s first laparoscopic cholecystectomy on Aug. 19.

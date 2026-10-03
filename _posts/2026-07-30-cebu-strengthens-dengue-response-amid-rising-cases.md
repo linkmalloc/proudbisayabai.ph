@@ -9,7 +9,7 @@ categories:
 tags:
   - Dengue
   - PHO
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2544/9d85251785388291-1.webp
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2544/9d85251785388291-1.webp
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2544/9d85251785388291-1.webp
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-30T05:11:34.586Z'
+pbb_post_id: 2544
 ---
 
 The Cebu Provincial Government has intensified its dengue preparedness measures as cases continue to increase during the rainy season, with hospitals activating special response protocols to ensure timely treatment for patients.

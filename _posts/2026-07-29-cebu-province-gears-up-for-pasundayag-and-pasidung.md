@@ -10,7 +10,7 @@ tags:
   - CebuProvince
   - Pasundayag
   - Pasidungog
-views: '0'
+views: "40"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2537/1b258a1785323311-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2537/1b258a1785323311-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2537/1b258a1785323311-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-29T11:08:33.774Z'
+pbb_post_id: 2537
 ---
 
 The Cebu City Government sets to commemorate its 457th Founding Anniversary through various activities including the Pasidungog and Pasundayag sa Pagtuo on August 29, 2026, showcasing the culture of the different municipalities through festival performances and carrozas procession.

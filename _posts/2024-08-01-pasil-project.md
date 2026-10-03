@@ -13,7 +13,7 @@ tags:
   - pasil
   - pollution
   - environment
-views: "10"
+views: "158"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pasil_project/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pasil_project/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pasil_project/cover.jpg
@@ -26,6 +26,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 456
 ---
 ****
 Amidst the bustle of daily urban life, a group of dedicated individuals is drastically transforming the community's relationship with the environment. Their mission is to clean up and restore the rivers and seasides, including a recent project in Pasil, Cebu City, Philippines—a vital yet often neglected part of the city's ecosystem.  

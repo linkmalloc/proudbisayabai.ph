@@ -8,7 +8,7 @@ categories:
   - news
 tags:
   - Mandaue
-views: '0'
+views: "28"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2953/e3daa31789640367-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2953/e3daa31789640367-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2953/e3daa31789640367-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-17T10:19:33.339Z'
+pbb_post_id: 2953
 ---
 
 A nine-year-old boy who was swept away by floodwaters while trying to retrieve a ball in Cebu City was found dead in a river in Mandaue City nearly 20 hours later.

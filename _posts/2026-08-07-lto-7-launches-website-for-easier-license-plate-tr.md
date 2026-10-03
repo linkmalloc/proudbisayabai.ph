@@ -9,7 +9,7 @@ categories:
 tags:
   - LTO7
   - licenseplate
-views: '0'
+views: "77"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2621/f410d41786091362-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2621/f410d41786091362-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2621/f410d41786091362-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-07T08:29:25.221Z'
+pbb_post_id: 2621
 ---
 
   

@@ -9,7 +9,7 @@ categories:
 tags:
   - SenatorCayetano
   - childsafety
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2878/ea0b5c1788851168-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2878/ea0b5c1788851168-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2878/ea0b5c1788851168-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-08T07:06:09.300Z'
+pbb_post_id: 2878
 ---
 
 Senate Minority Leader Alan Peter Cayetano renewed his call Monday for a total ban on online gambling, saying its accessibility through mobile phones makes the activity increasingly difficult to regulate and exposes users to addiction and financial losses.

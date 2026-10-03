@@ -13,7 +13,7 @@ categories:
 tags:
   - Baricuatro
   - CebuProvince
-views: '10'
+views: "28"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/902/99ce061767689390-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/902/99ce061767689390-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/902/99ce061767689390-2.jpeg
@@ -28,6 +28,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-06T00:00:00
 published: true
+pbb_post_id: 902
 ---
 
 Governor Pamela Baricuatro kicked off the provincial government’s 2026 work calendar with a call for discipline, professionalism, and unity among Capitol officials and employees, stressing that public service must always be grounded in “service, teamwork, and protection.”

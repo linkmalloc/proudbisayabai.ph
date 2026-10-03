@@ -10,7 +10,7 @@ tags:
   - solo parents
   - Lapu-Lapu City
   - cash aid
-views: '0'
+views: "24"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2985/b352b21790060745-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2985/b352b21790060745-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2985/b352b21790060745-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-22T07:06:37.262Z'
+pbb_post_id: 2985
 ---
 
 A total of 1,257 solo parents in Lapu-Lapu City received P3,000 each in third-quarter cash assistance to help cover their children’s daily needs and school expenses.

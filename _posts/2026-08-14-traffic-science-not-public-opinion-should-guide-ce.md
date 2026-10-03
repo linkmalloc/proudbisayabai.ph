@@ -9,7 +9,7 @@ categories:
 tags:
   - Cebu City Traffic
   - BanTal Operation
-views: '0'
+views: "42"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2671/0214ee1786689010-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2671/0214ee1786689010-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2671/0214ee1786689010-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-08-14T06:30:10.734Z'
+pbb_post_id: 2671
 ---
 
 Traffic planning in Cebu City should be guided by transportation science, technical data and economic analysis rather than public opinion alone, former city administrator and urban planner Nigel Paul Villarete said amid the ongoing review of Oplan BanTal.

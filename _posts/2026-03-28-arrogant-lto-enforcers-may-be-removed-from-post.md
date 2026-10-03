@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - LTO
-views: '10'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1410/e9aebc1774695926-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1410/e9aebc1774695926-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1410/e9aebc1774695926-2.jpeg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1410
 ---
 
 The Land Transportation Office in Central Visayas (LTO 7 ) has issued a warning to traffic enforcers who behave arrogantly toward motorists, saying such personnel may face removal from their posts. 

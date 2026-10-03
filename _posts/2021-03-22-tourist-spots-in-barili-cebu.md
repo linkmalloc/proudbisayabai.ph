@@ -19,6 +19,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616343069/t
 photo_credit: "Barili Digital | Cebu South"
 photo_credit_link: "https://www.facebook.com/BarilidigitalCebuSouth/  "
 published: false
+pbb_post_id: 112
 ---
 #### Barili Tourist Destinations!  
 BISDAK LAAGAN CHECK! Nalibot nani nimo tanan sa Barili, Cebu? Nganung mo layu paman ka nga naa raman diay sa dool! 💦😯😍  

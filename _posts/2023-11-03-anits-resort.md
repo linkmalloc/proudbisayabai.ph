@@ -12,7 +12,7 @@ tags:
   - beach
   - north cebu
   - exclusive beach house
-views: "10"
+views: "1,551"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/anits/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/anits/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/anits/cover.jpg
@@ -25,6 +25,7 @@ photo_credit: Adrian Parami
 photo_credit_link:
 editor: "Evner Negro"
 read_time: "3 minutes"
+pbb_post_id: 426
 ---
 ****
 Are you in search of the perfect getaway to unwind and relax? Look no further! Anit's Beach Resort in Catmon, in North Cebu, is your ultimate destination for serenity and comfort.  

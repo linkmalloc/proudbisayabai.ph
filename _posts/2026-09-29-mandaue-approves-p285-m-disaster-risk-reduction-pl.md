@@ -11,7 +11,7 @@ categories:
 tags:
   - Disaster Risk Reduction
   - management Investment plan
-views: '0'
+views: "12"
 img_big_1000x600: ''
 img_big_3000x1144: ''
 img_500x500: ''
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-29T04:57:17.467Z'
+pbb_post_id: 3043
 ---
 
 Disaster preparedness will receive the biggest share of Mandaue City’s proposed P285-million disaster risk reduction and management investment plan for 2027, covering 49 programs, projects and activities (PPAs).

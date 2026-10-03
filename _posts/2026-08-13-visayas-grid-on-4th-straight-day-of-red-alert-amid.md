@@ -9,7 +9,7 @@ categories:
 tags:
   - Red Alert
   - Electricity
-views: '0'
+views: "34"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2665/0099f51786596548-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2665/0099f51786596548-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2665/0099f51786596548-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-13T04:49:15.074Z'
+pbb_post_id: 2665
 ---
 
 The Visayas power grid remained under red alert for the fourth consecutive day on Thursday as limited power supply struggled to keep pace with demand, while the Mindanao grid was placed under yellow alert amid several power plant outages.

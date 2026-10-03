@@ -10,7 +10,7 @@ tags:
   - Pickleball courts
   - Safety clearance
   - Permit
-views: '0'
+views: "40"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3025/5ce8531790396672-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3025/5ce8531790396672-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3025/5ce8531790396672-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-26T04:25:12.249Z'
+pbb_post_id: 3025
 ---
 
 What started as a shift toward indoor recreation is now prompting Cebu City officials to look into whether some pickleball courts operating in converted warehouses have the permits and safety clearances required for their current use.

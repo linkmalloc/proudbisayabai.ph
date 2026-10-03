@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Harold Go
-views: '0'
+views: "32"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2687/7a6c281786950606-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2687/7a6c281786950606-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2687/7a6c281786950606-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-17T07:10:14.032Z'
+pbb_post_id: 2687
 ---
 
 Cebu City Councilor Harold Go is calling for a sustained campaign against illegal dumping, warning that trash accumulating in waterways can restrict drainage and worsen flooding during heavy rains.

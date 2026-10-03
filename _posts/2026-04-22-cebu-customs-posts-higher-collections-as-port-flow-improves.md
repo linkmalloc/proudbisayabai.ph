@@ -13,7 +13,7 @@ categories:
 tags:
   - Customs
   - Trade
-views: '10'
+views: "24"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1580/563cdc1776853197-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1580/563cdc1776853197-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1580/563cdc1776853197-1.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1580
 ---
 
 Cargo moved faster through Cebu’s ports while collections climbed past targets, as the Bureau of Customs (BOC) Port of Cebu drew a wave of recognition from trucking groups, exporters, logistics firms, and industry associations citing improved efficiency and smoother trade flow.

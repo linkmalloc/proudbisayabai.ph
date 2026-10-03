@@ -11,7 +11,7 @@ tags:
   -  cebu
   -  ice seguerra
   -  vic sotto               
-views: "10"
+views: "42"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/becoming_ice/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/becoming_ice/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/becoming_ice/cover.jpg
@@ -24,6 +24,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 362
 ---
 ****
 "Becoming Ice: The 35th Anniversary Concert" will perform again, this time for music lovers in the south, after a successful performance in The Theatre at Solaire Resort in October to a sold-out crowd. On February 18, the concert is scheduled to take place at the Pacific Grand Ballroom of the Waterfront Cebu Hotel and Casino in Cebu City.  

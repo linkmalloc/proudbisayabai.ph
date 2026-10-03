@@ -10,7 +10,7 @@ tags:
   - Butuanon waterway
   - Mahiga waterway
   - Beyond Borders 5.0
-views: '0'
+views: "24"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3026/675e1d1790396773-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3026/675e1d1790396773-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3026/675e1d1790396773-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-26T04:27:00.753Z'
+pbb_post_id: 3026
 ---
 
 A flood problem in one city can quickly become a problem for another, pushing Cebu City and Mandaue City to continue coordinating efforts to manage waterways shared by both jurisdictions.

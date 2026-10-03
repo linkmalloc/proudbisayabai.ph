@@ -21,6 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615737854/p
 photo_credit: "Payag Sa Babag Page Admin"
 photo_credit_link: ""
 published: false
+pbb_post_id: 93
 ---
 #### Payag Sa Babag   
   

@@ -11,7 +11,7 @@ tags:
   - fusion
   - festival
   - music festival
-views: "10"
+views: "114"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bigwin29/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bigwin29/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bigwin29/cover.jpg
@@ -24,6 +24,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 477
 ---
 *****    
 October 5 marked a significant milestone for BIGWIN29 as the brand went all in for its Cebu grand launch with Fusion: The Philippine Music Festival. The celebration kicked off with a press launch at Radisson Blu Hotel Cebu and culminated in the festival at City di Mare, drawing a full house of 9,500 enthusiastic attendees.  

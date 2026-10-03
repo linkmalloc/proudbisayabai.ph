@@ -14,7 +14,7 @@ categories:
 tags:
   - Butanding
   - oslob
-views: '10'
+views: "955"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1857/0636091779418600-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1857/0636091779418600-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1857/0636091779418600-1.jpeg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1857
 ---
 
 OSLOB, CEBU — Tourists who traveled to the southern town of Oslob early Friday morning, May 22, 2026, were left surprised and disappointed after no whale sharks or “butanding” appeared during the scheduled interaction hours.

@@ -9,7 +9,7 @@ categories:
   - story
 tags:
   - Naga Economic Zone
-views: '0'
+views: "78"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3068/3ff11d1790838056-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3068/3ff11d1790838056-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3068/3ff11d1790838056-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-10-01T07:01:15.173Z'
+pbb_post_id: 3068
 ---
 
 A proposed economic zone in Naga City could bring as many as 10,000 jobs, but before the project moves forward, Cebu Province will first determine whether the plan can fit within its existing development plans for the Balili property.

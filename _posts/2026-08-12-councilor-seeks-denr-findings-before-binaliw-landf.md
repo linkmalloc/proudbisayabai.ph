@@ -10,7 +10,7 @@ tags:
   - DENR
   - Binaliw
   - landslide
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2655/2c70b71786515668-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2655/2c70b71786515668-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2655/2c70b71786515668-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-12T06:21:10.907Z'
+pbb_post_id: 2655
 ---
 
 The fate of Cebu City’s Binaliw sanitary landfill remains tied to unanswered questions surrounding the landslide that killed 36 people in January, with a city councilor demanding the release of the official investigation findings before the facility fully resumes operations.

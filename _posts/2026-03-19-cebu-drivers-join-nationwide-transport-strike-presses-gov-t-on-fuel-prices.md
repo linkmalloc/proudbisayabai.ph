@@ -12,7 +12,7 @@ categories:
 tags:
   - transportstrike
   - Piston
-views: '10'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1332/a80e461773879706-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1332/a80e461773879706-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1332/a80e461773879706-2.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1332
 ---
 
 Transport group Piston launched a nationwide transport strike on Thursday, March 19, as drivers and operators pressed the government to address rising fuel prices and provide stronger support for the transport sector.

@@ -21,6 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614959273/b
 photo_credit: "Vhince Benedict Ligones Chiu"
 photo_credit_link: ""
 published: false
+pbb_post_id: 61
 ---
 #### Banta-aw Hills
 <center><i>Camping on weekdays at Banta-aw Hills in Catarman Dauis, Bohol.  ⛺️🌌⛰</i></center>  

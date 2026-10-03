@@ -9,7 +9,7 @@ categories:
 tags:
   - School Security
   - Cebu City
-views: '0'
+views: "26"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2279/3d58891782987776-1.JPG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2279/3d58891782987776-1.JPG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2279/3d58891782987776-1.JPG
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-02T10:22:58.293Z'
+pbb_post_id: 2279
 ---
 
 As it strengthens campus security following recent incidents of school violence in the country, the Cebu City Government will procure and install metal detectors at the entrances of public and private schools.

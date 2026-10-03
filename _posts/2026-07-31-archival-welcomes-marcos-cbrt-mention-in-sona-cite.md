@@ -9,7 +9,7 @@ categories:
 tags:
   - CBRT Phase 2
   - Nestor Archival
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2554/4360181785482629-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2554/4360181785482629-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2554/4360181785482629-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-31T07:23:50.980Z'
+pbb_post_id: 2554
 ---
 
 Cebu City Mayor Nestor Archival welcomed President Ferdinand Marcos Jr.’s mention of the Cebu Bus Rapid Transit (CBRT) during his fifth State of the Nation Address (SONA), saying it strengthens confidence that the flagship transport project will continue despite challenges in its succeeding phases.

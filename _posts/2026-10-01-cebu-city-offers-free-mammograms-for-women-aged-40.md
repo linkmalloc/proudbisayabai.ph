@@ -10,7 +10,7 @@ categories:
 tags:
   - Mammograms
   - Healthcare
-views: '0'
+views: "1,388"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3069/23baaa1790838215-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3069/23baaa1790838215-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3069/23baaa1790838215-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-10-01T07:03:52.523Z'
+pbb_post_id: 3069
 ---
 
 Women aged 40 to 50 in Cebu City can avail themselves of free mammography services this October as part of the city government’s Breast Cancer Awareness Month activities.

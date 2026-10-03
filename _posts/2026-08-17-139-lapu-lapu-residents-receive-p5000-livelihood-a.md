@@ -9,7 +9,7 @@ categories:
 tags:
   - Lapu-Lapu City
   - Government Aid
-views: '0'
+views: "7"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2688/bc49be1786950756-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2688/bc49be1786950756-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2688/bc49be1786950756-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-17T07:12:38.178Z'
+pbb_post_id: 2688
 ---
 
 A total of 139 residents of Lapu-Lapu City received P5,000 each in livelihood assistance from the city government, with P695,000 released for the program.

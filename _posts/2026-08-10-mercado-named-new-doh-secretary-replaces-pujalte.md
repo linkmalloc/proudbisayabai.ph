@@ -9,7 +9,7 @@ categories:
 tags:
   - Department of Health
   - DOH Secretary
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2640/a14dbc1786357809-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2640/a14dbc1786357809-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2640/a14dbc1786357809-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-10T10:30:20.527Z'
+pbb_post_id: 2640
 ---
 
 President Ferdinand R. Marcos Jr. has appointed Philippine Health Insurance Corp. (PhilHealth) acting President and Chief Executive Officer Dr. Edwin Mercado as the new secretary of the Department of Health (DOH), replacing Dr. Jose “Brix” Pujalte Jr.

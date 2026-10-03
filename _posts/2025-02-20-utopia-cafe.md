@@ -10,7 +10,7 @@ tags:
   - cebu
   - restaurant
   - busay
-views: "10"
+views: "922"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/utopia/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/utopia/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/utopia/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 499
 ---
 <br>  
 

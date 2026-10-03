@@ -24,6 +24,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614355394/p
 photo_credit: "Karl-anthony Calderon Cañares"
 photo_credit_link: ""
 published: false
+pbb_post_id: 50
 ---
 #### Planet Wings, Talisay Cebu  
 <center>UNLI CHICKEN + UNLI SHRIMP + ROOFTOP DINE IN? = PLANET WINGS! 🍗🦐</center>

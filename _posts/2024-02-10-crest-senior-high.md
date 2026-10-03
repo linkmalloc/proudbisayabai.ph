@@ -12,7 +12,7 @@ tags:
   - senior high
   - education
   - free tuition
-views: "10"
+views: "493"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/crest/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/crest/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/crest/cover.jpg
@@ -25,6 +25,7 @@ photo_credit: "PBB"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 436
 ---
 ****  
 Aspiring seafarer looking for the perfect school to launch your global career? Look no further than CREST Senior High School! We offer a high-quality, affordable education combined with exciting maritime opportunities, preparing you to be a globally competitive graduate.  

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - PAGIBIG
-views: '0'
+views: "42"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2326/2324731783420298-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2326/2324731783420298-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2326/2324731783420298-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-07T10:31:42.644Z'
+pbb_post_id: 2326
 ---
 
 PAG-IBIG Fund is expanding its home financing support by lowering promotional interest rates and increasing its maximum housing loan ceiling to P10 million, as the government seeks to make homeownership more affordable for Filipino workers.

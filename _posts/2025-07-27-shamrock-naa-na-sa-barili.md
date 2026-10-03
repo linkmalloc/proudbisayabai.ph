@@ -11,7 +11,7 @@ tags:
   - Barili
   - Otap
   - Pasalubong
-views: '10'
+views: "271"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/533/d689f91753714568-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/533/d689f91753714568-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/533/d689f91753714568-2.jpg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-07-28T00:00:00
+pbb_post_id: 533
 ---
 
 From a humble bakeshop in Cebu City in the 1960s, **Shamrock** has become a household name known for its signature Otap, broas, and proudly local delicacies. Decades later, it continues to bring the comforting flavors of Cebu to more communities — and now in Barili!

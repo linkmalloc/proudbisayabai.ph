@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Lifestyle
-views: '0'
+views: "29"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2457/c35ec51784535242-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2457/c35ec51784535242-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2457/c35ec51784535242-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-20T08:14:06.662Z'
+pbb_post_id: 2457
 ---
 
 At the start of the year, we list down the goals we want to accomplish, and most of the time, we immediately take actions to fulfill these personal priorities. However, we often focus too much on achieving those goals which results in the lack of self-care, such as insufficient sleep, rest and relaxation. That is why introspection and regular check-ins are essential — to avoid burnout. 

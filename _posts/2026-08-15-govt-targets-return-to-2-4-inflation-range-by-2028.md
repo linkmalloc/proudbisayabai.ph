@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Inflation
-views: '0'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2679/e757161786776880-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2679/e757161786776880-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2679/e757161786776880-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-15T06:54:44.492Z'
+pbb_post_id: 2679
 ---
 
 The government expects inflation to remain elevated in the near term but is working to bring it back within the 2 to 4 percent target range by 2028, acting Budget Secretary Kim Robert de Leon said Friday.

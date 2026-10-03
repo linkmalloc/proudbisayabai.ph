@@ -9,7 +9,7 @@ categories:
   - story
 tags:
   - jollibee               
-views: "10"
+views: "392"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibees_individuality/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibees_individuality/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibees_individuality/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 387
 ---
 ****
 Dominic, the tattooed Jollibee service crew, has recently taken a buzz in social media, not a usual scene you see in the country because of the discriminatory stereotypes of tattooed individuals. The photo of Dominic by Doug Noel showing the tattoos on his arms received praise from netizens to Jollibee for employing him in the said fast-food chain despite his tattoos.  

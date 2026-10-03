@@ -11,7 +11,7 @@ tags:
   - CPD
   - mentalhealth
   - familysupport
-views: '0'
+views: "42"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2709/3979cc1787129877-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2709/3979cc1787129877-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2709/3979cc1787129877-1.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-19T08:58:02.700Z'
+pbb_post_id: 2709
 ---
 
 Stronger family support, accessible mental health services and early intervention for adolescents should complement tighter school security measures to prevent violence, the Commission on Population and Development (CPD) said Wednesday.

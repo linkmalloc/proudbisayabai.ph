@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Measles-Rebulla Vaccination Drive
-views: '0'
+views: "185"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2696/2b9e121787041891-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2696/2b9e121787041891-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2696/2b9e121787041891-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-18T08:31:33.488Z'
+pbb_post_id: 2696
 ---
 
 Health authorities in Central Visayas are falling short of their daily measles-rubella vaccination targets as misinformation, particularly on social media, continues to influence some parents’ decisions to have their children vaccinated.

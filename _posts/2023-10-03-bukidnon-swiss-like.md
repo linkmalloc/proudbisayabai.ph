@@ -12,7 +12,7 @@ tags:
   - mountain
   - landscape
   - nature
-views: "10"
+views: "1,627"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/rotypeaks/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/rotypeaks/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/rotypeaks/cover.jpg
@@ -25,6 +25,7 @@ photo_credit: "PBB"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 417
 ---
 ****
 Enveloped by the beauty of Bukidnon's landscape, a province known for its picturesque mountainous terrains reminiscent of Swiss, lies RotyPeaks Ridge Camp—a haven for adventurers seeking a mountain retreat. As you embark on this journey, you'll find yourself surrounded by some of the highest peaks and most captivating mountain ranges. RotyPeaks Ridge Camp offers a serene escape from the daily grind, where you can reconnect with nature and immerse yourself in tranquility.  

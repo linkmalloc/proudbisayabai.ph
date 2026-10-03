@@ -9,7 +9,7 @@ categories:
 tags:
   - Mandaue City
   - Tipolo Creek
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2661/f179d11786596060-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2661/f179d11786596060-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2661/f179d11786596060-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-13T04:41:03.955Z'
+pbb_post_id: 2661
 ---
 
 Mandaue City has begun clearing and deepening Tipolo Creek as part of its immediate response to flooding, with the Department of Public Works and Highways (DPWH) Region VII deploying equipment to the waterway.

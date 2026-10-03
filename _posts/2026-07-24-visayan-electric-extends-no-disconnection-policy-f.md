@@ -9,7 +9,7 @@ categories:
 tags:
   - VECO
   - Electricity
-views: '0'
+views: "354"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2488/ea245a1784892042-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2488/ea245a1784892042-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2488/ea245a1784892042-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-24T11:22:18.212Z'
+pbb_post_id: 2488
 ---
 
 Thousands of Visayan Electric customers in Metro Cebu and nearby areas will have additional time to settle unpaid electricity bills after the Energy Regulatory Commission (ERC) extended its temporary no-disconnection policy until October 2026.

@@ -9,7 +9,7 @@ categories:
 tags:
   - PNP
   - Crime Rate
-views: '0'
+views: "21"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2318/fd24081783334979-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2318/fd24081783334979-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2318/fd24081783334979-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-06T10:49:51.047Z'
+pbb_post_id: 2318
 ---
 
 THE nationwide crime rate dropped by 30.43 percent in June compared to the same period in 2025, the Philippine National Police (PNP) said Monday, citing a significant decline in focus crime incidents across the country.

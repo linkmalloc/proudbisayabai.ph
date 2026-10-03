@@ -13,7 +13,7 @@ categories:
   - destination
 tags:
   - BantayanIsland
-views: '10'
+views: "614"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/878/f1c1e61767072317-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/878/f1c1e61767072317-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/878/f1c1e61767072317-2.jpeg
@@ -28,6 +28,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-12-30T00:00:00
 published: true
+pbb_post_id: 878
 ---
 
 Bantayan Island, located off the northern coast of Cebu, Philippines, is a serene destination known for its powdery white-sand beaches, crystal-clear waters, and rich cultural heritage. Often called a “hidden paradise,” the island offers a perfect escape from city life while showcasing the warmth and hospitality of its locals.

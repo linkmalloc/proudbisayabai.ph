@@ -15,7 +15,7 @@ tags:
   - Cagayan
   - LTO
   - Vlogger
-views: '10'
+views: "90"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1567/161b4d1776697824-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1567/161b4d1776697824-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1567/161b4d1776697824-1.jpg
@@ -29,6 +29,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1567
 ---
 
 A vlogger, along with a driver and the registered owner of a vehicle, is now under investigation after the Land Transportation Office (LTO) issued a show cause order (SCO) over a viral incident in Allacapan.

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Health
-views: '0'
+views: "21"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2903/7ee7081789108604-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2903/7ee7081789108604-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2903/7ee7081789108604-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-11T06:36:46.770Z'
+pbb_post_id: 2903
 ---
 
 The Philippines continues to grapple with a double burden of malnutrition, with 43% of Filipino adults classified as overweight or obese and one in four children affected by stunting.

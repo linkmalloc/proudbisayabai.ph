@@ -14,7 +14,7 @@ categories:
 tags:
   - DonMacchiatos
   - KantoStyleChristmasParty
-views: '10'
+views: "61"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/846/5048431766467353-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/846/5048431766467353-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/846/5048431766467353-2.jpeg
@@ -29,6 +29,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-12-23T00:00:00
 published: true
+pbb_post_id: 846
 ---
 
 Stepping away from extravagant celebrations, Don Macchiatos Philippines embraced a simpler and more meaningful approach through a Kanto-style themed Christmas party. This initiative was done in consideration of the recent calamities that affected Cebu, ensuring that employees would not feel pressured to spend on outfits or gifts just to attend the celebration.

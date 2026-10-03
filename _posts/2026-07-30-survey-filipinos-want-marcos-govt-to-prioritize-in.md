@@ -10,7 +10,7 @@ tags:
   - Survey
   - OCTA
   - MarcosAdministration
-views: '0'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2543/b4bc961785388513-1.avif
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2543/b4bc961785388513-1.avif
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2543/b4bc961785388513-1.avif
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-30T05:09:53.953Z'
+pbb_post_id: 2543
 ---
 
 Rising prices, low wages, and corruption remained the biggest concerns of adult Filipinos in the second quarter of 2026, according to the latest survey released by OCTA Research.

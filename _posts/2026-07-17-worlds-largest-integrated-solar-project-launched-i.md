@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Solar
-views: '0'
+views: "40"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2436/09a5871784286252-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2436/09a5871784286252-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2436/09a5871784286252-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-17T11:04:17.816Z'
+pbb_post_id: 2436
 ---
 
 The Philippines is strengthening its renewable energy push with the launch of the first phase of the Meralco Terra (MTerra) Solar Project in Nueva Ecija, a large-scale solar and battery storage facility expected to help improve power supply stability and reduce dependence on traditional fuel sources.

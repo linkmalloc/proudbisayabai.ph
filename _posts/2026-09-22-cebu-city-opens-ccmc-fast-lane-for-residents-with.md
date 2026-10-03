@@ -13,7 +13,7 @@ tags:
   - CCMC
   - breathing dificulty
   - fast lane
-views: '0'
+views: "91"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2982/9a1b7c1790060340-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2982/9a1b7c1790060340-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2982/9a1b7c1790060340-1.jpg
@@ -28,6 +28,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-22T06:59:05.487Z'
+pbb_post_id: 2982
 ---
 
 Cebu City has opened a health fast lane at the Cebu City Medical Center (CCMC) for residents experiencing difficulty breathing as Metro Cebu’s air quality reached the “very unhealthy” level Monday, Sept. 21.

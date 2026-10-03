@@ -10,7 +10,7 @@ tags:
   -  cebu
   - restaurant
   - transcentral highway
-views: "39,049"
+views: "224"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/elgrahe_de_busay/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/elgrahe_de_busay/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/elgrahe_de_busay/1.jpg
@@ -18,6 +18,7 @@ photo_credit: "Food Craving Reviews"
 photo_credit_link: ""
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/michael.jpg"
 read_time: "3 minutes"
+pbb_post_id: 199
 ---
 ****
 #Kaonsabukid: El-Grahe de Busay is finally open to the public! 🍽😍😮  

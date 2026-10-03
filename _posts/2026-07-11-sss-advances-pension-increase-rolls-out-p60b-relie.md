@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - SSS
-views: '0'
+views: "120"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2378/3261391783771277-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2378/3261391783771277-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2378/3261391783771277-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-07-11T12:01:28.276Z'
+pbb_post_id: 2378
 ---
 
 Pensioners began receiving an earlier increase in their Social Security System (SSS) benefits as the agency rolled out expanded relief programs aimed at helping members cope with rising prices.

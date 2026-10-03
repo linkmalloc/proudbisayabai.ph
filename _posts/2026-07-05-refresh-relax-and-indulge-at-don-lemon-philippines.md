@@ -9,7 +9,7 @@ categories:
 tags:
   - Kuku
   - DonLemon
-views: '0'
+views: "43"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2308/f417721783255504-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2308/f417721783255504-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2308/f417721783255504-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-05T12:45:08.328Z'
+pbb_post_id: 2308
 ---
 
   

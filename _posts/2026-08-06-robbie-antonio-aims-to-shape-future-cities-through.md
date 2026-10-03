@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Robbie Antonio
-views: '0'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2609/653a761785996910-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2609/653a761785996910-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2609/653a761785996910-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-06T06:15:11.262Z'
+pbb_post_id: 2609
 ---
 
 Filipino real estate entrepreneur Robbie Antonio is expanding his development strategy beyond branded residential projects as he looks to participate in the next phase of Philippine urban growth through a broader mix of property and infrastructure-related ventures.

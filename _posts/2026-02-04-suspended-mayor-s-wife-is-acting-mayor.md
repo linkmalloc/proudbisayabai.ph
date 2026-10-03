@@ -14,7 +14,7 @@ tags:
   - Minglanilla
   - ViceMayorLaniPena
   - MayorEnad
-views: '10'
+views: "160"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1070/54ee031770196128-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1070/54ee031770196128-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1070/54ee031770196128-2.jpg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1070
 ---
 
 The Department of the Interior and Local Government (DILG) has activated transition measures in Minglanilla, Cebu, following the preventive suspension of several of the town’s top officials, including Mayor Rajiv Enad and Vice Mayor Lani Peña.

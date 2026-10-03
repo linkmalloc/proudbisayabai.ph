@@ -9,7 +9,7 @@ tags:
   - mindanao
   - mountain
   - resort
-views: "123,999"
+views: "4,645"
 img_big_1000x600:  https://d3hukd8e3cn3kb.cloudfront.net/images/posts/campo_uno/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/campo_uno/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/campo_uno/1.jpg
@@ -22,6 +22,7 @@ photo_credit: "ARAT Travel | https://www.facebook.com/arattravel/ (No copyright 
 photo_credit_link: "https://www.facebook.com/arattravel/"
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "4 minutes"
+pbb_post_id: 231
 ---
 ****
 ##### KAMPO UNO MOUNTAIN RESORT

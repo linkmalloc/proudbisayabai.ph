@@ -12,7 +12,7 @@ categories:
   - destination
 tags:
   - LilyoftheValleyFarmRetreat
-views: '10'
+views: "1,207"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/569/a8bcba1759167763-11.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/569/a8bcba1759167763-11.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/569/a8bcba1759167763-11.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-09-29T00:00:00
 published: true
+pbb_post_id: 569
 ---
 
 Heads up, nature lovers! If you’re planning a peaceful escape to Lily of the Valley Farm Retreat, take note: the main access road is temporarily closed due to ongoing construction. But no worries there’s a scenic alternate route that will still take you to this charming countryside haven.&#x20;

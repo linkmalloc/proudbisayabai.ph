@@ -9,7 +9,7 @@ categories:
 tags:
   - Tourism
   - Slogan
-views: '0'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3072/53f0d61790855473-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3072/53f0d61790855473-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3072/53f0d61790855473-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-10-01T11:51:31.543Z'
+pbb_post_id: 3072
 ---
 
 The Philippines could keep its official tourism slogan for at least 15 years under a measure filed by Sen. Erwin Tulfo, as the lawmaker seeks to prevent frequent changes in the country’s tourism branding with every new administration.

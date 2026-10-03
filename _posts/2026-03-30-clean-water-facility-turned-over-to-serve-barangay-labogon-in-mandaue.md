@@ -13,7 +13,7 @@ categories:
 tags:
   - Mandaue
   - WaterFacility
-views: '10'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1413/4e67231774852189-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1413/4e67231774852189-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1413/4e67231774852189-2.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1413
 ---
 
 The Mandaue City Government, in partnership with the Department of the Interior and Local Government Central Visayas (DILG 7), has turned over a Level 3 Potable Water Supply Facility in Barangay Labogon to provide clean and safe drinking water to residents of three sitios.

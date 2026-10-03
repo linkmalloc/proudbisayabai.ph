@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - BamAquino
-views: '10'
+views: "47"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1548/c06f311776495903-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1548/c06f311776495903-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1548/c06f311776495903-1.jpeg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1548
 ---
 
 Senator Bam Aquino led the latest nationwide survey on public favorability, while separate polling showed a tightening race among potential contenders for the 2028 presidential elections.

@@ -13,7 +13,7 @@ tags:
   - Fuel
   - NestorArchival
   - PamelaBaricuatro
-views: '10'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1436/38d34e1775032252-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1436/38d34e1775032252-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1436/38d34e1775032252-2.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1436
 ---
 
 Cebu’s drivers and farmers are feeling the heat—not just from rising temperatures, but from diesel prices hitting P129 per liter as global supply uncertainties persist.

@@ -9,7 +9,7 @@ categories:
 tags:
   - PISTON Cebu
   - Strike
-views: '0'
+views: "26"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3037/1bb3761790581299-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3037/1bb3761790581299-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3037/1bb3761790581299-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-28T07:41:42.786Z'
+pbb_post_id: 3037
 ---
 
 The Cebu chapter of the Pagkakaisa ng mga Samahan ng mga Tsuper at Operator Nationwide (PISTON) will join the nationwide transport strike on Sept. 29 and 30, with its members planning to set up strike centers in various parts of Cebu.

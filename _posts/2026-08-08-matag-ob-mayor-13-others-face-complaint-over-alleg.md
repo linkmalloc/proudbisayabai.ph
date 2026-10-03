@@ -9,7 +9,7 @@ categories:
 tags:
   - Illegal Cockfighting
   - Matag-ob
-views: '0'
+views: "95"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2630/a272241786170930-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2630/a272241786170930-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2630/a272241786170930-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-08T06:35:33.207Z'
+pbb_post_id: 2630
 ---
 
 Matag-ob, Leyte Mayor Bernardino Tacoy and 13 other local officials are facing a complaint before the Office of the Ombudsman over alleged illegal cockfighting activities held during the town’s fiesta celebration in June.

@@ -10,7 +10,7 @@ categories:
 tags:
   - Fuel Aid
   - Gcash
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2286/4126241783063653-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2286/4126241783063653-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2286/4126241783063653-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-03T07:27:34.346Z'
+pbb_post_id: 2286
 ---
 
 The Department of Transportation (DOTr) and the Land Transportation Franchising and Regulatory Board (LTFRB), in partnership with GCash, have rolled out a digital fuel subsidy program aimed at faster and more efficient delivery of financial assistance to public utility vehicle (PUV) drivers nationwide.

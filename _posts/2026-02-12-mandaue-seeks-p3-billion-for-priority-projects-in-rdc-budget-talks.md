@@ -13,7 +13,7 @@ tags:
   - MandaueCity
   - priorityprojects
   - 3billion
-views: '10'
+views: "69"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1128/57fac21770883260-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1128/57fac21770883260-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1128/57fac21770883260-2.jpg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1128
 ---
 
 The Mandaue City Government has proposed a P3-billion budget for at least 15 priority projects for 2027 during the Regional Development Council (RDC) consultation and technical budget review.

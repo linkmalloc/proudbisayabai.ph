@@ -9,7 +9,7 @@ categories:
 tags:
   - palarong pambasa
   - cultural
-views: "10"
+views: "72"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/palarong_pambasa_updates/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/palarong_pambasa_updates/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/palarong_pambasa_updates/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 450
 ---
 ****
 Proud Bisaya Bai - Palarong Pambansa in Cebu City 2024 Coverage is brought to you by, Jollibee, KUKU by Don Macchiatos, Don Macchiatos, Mr. BABOO, Don Lemon Philippines, Zip ‘N Sip, Luxe Beauty Salon, At Home Massage & Spa Cebu, Bagoong City, and Siquijor Summit Events  

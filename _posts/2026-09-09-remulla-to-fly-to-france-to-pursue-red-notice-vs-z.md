@@ -10,7 +10,7 @@ tags:
   - Jonvic Remulla
   - France
   - Zaldy Co
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2885/f08f631788938860-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2885/f08f631788938860-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2885/f08f631788938860-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-09T07:27:50.660Z'
+pbb_post_id: 2885
 ---
 
 Interior Secretary Jonvic Remulla will travel to Lyon, France, to follow up with Interpol on a renewed request for a red notice against ousted Ako Bicol party list congressman Zaldy Co, who remains wanted in connection with the government’s flood control scandal.

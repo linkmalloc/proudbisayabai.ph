@@ -13,7 +13,7 @@ tags:
   - BluBarGrill
   - MarcoPolo
   - ChurrascoNights
-views: '10'
+views: "274"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/527/3a16531751289724-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/527/3a16531751289724-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/527/3a16531751289724-2.jpg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-07-01T00:00:00
+pbb_post_id: 527
 ---
 
 **CHURRASCO NIGHTS WITH A VIEW — ONLY AT BLU BAR & GRILL**

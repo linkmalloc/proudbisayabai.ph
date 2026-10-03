@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - FuelPrices
-views: '10'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1546/34edff1776495605-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1546/34edff1776495605-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1546/34edff1776495605-1.jpeg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1546
 ---
 
 Transport groups in Cebu are calling out what they described as misplaced government priorities, even as fuel prices ease slightly but remain high enough to keep jeepney drivers under pressure.

@@ -9,7 +9,7 @@ categories:
 tags:
   - psychometricians
   - Mandaue City
-views: '0'
+views: "65"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2756/34f0e71787648396-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2756/34f0e71787648396-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2756/34f0e71787648396-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-25T08:59:58.535Z'
+pbb_post_id: 2756
 ---
 
 The Mandaue City Government is set to add three psychometricians to help address the limited availability of mental health personnel in public schools.

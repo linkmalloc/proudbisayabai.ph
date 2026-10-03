@@ -10,7 +10,7 @@ tags:
   - cebu
   -  little kyoto
   -  japanese               
-views: "10"
+views: "1,876"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sachikoslittlekyoto/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sachikoslittlekyoto/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sachikoslittlekyoto/1.jpg
@@ -23,6 +23,7 @@ photo_credit: "Kurt Travels"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 341
 ---
 ****
 Ohayou-gozaimasu! Are you keen to go to Kyoto without traveling to Japan or securing a visa?  

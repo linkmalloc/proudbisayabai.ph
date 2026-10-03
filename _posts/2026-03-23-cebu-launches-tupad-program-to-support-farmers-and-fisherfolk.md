@@ -13,7 +13,7 @@ tags:
   - TUPAD
   - Farmers
   - Fisherfolk
-views: '10'
+views: "31"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1369/a6d4811774256090-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1369/a6d4811774256090-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1369/a6d4811774256090-2.jpeg

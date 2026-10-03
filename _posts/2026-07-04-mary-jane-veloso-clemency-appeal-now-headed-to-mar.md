@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Mary Jane Veloso
-views: '0'
+views: "61"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2300/f75edf1783153098-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2300/f75edf1783153098-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2300/f75edf1783153098-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-04T08:18:32.882Z'
+pbb_post_id: 2300
 ---
 
 Malacañang on Friday (Canada time) said an appeal for executive clemency for Mary Jane Veloso will be properly relayed to President Ferdinand R. Marcos Jr. through the appropriate government channels, as calls for her possible release continue to gain attention.

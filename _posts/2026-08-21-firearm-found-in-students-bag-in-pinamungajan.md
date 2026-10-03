@@ -9,7 +9,7 @@ categories:
 tags:
   - School Threat
   - Pinamungajan
-views: '0'
+views: "281"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2722/d40cdf1787299931-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2722/d40cdf1787299931-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2722/d40cdf1787299931-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-21T08:12:14.128Z'
+pbb_post_id: 2722
 ---
 
 A .357 revolver was found inside the school bag of a 14-year-old student at Lut-od National High School during a surprise inspection by a teacher Thursday afternoon, August 20.

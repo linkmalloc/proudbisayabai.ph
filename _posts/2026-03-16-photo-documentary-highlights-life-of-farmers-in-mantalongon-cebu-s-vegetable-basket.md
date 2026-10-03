@@ -14,7 +14,7 @@ categories:
 tags:
   - Vegetablebasket
   - Dalaguete
-views: '10'
+views: "42"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1314/2508e91773652599-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1314/2508e91773652599-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1314/2508e91773652599-2.jpeg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1314
 ---
 
 

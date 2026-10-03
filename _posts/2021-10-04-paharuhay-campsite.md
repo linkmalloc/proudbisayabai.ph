@@ -11,7 +11,7 @@ tags:
   - cebu
   - trekk
   - campsite               
-views: "10"
+views: "1,212"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paharuhay_campsite/14.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paharuhay_campsite/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paharuhay_campsite/14.jpg
@@ -23,6 +23,7 @@ img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paharuhay_campsite
 photo_credit: "Mark Cuyos | (No copyright infringement intended)"
 photo_credit_link: ""
 editor: "PBB Admin"
+pbb_post_id: 242
 ---
 ****  
 ###### Paharuhay Campsite  

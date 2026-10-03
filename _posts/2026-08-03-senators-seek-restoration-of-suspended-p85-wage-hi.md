@@ -9,7 +9,7 @@ categories:
 tags:
   - Wage Hike
   - Metro Manila
-views: '0'
+views: "21"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2572/8df0eb1785734695-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2572/8df0eb1785734695-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2572/8df0eb1785734695-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-03T05:24:57.757Z'
+pbb_post_id: 2572
 ---
 
 Two senators on Monday called for the restoration of the suspended P85 daily minimum wage increase for workers in Metro Manila, with one urging the government to challenge the court order that halted its implementation and another seeking changes to the Labor Code to prevent similar cases.

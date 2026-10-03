@@ -10,7 +10,7 @@ tags:
   - DENR
   - Republic Act No. 9003
   - Ecological Solid Waste Management Act
-views: '0'
+views: "33"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2455/10ae6f1784534700-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2455/10ae6f1784534700-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2455/10ae6f1784534700-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-20T08:05:02.302Z'
+pbb_post_id: 2455
 ---
 
 The Department of Environment and Natural Resources (DENR) is backing proposed measures that seek to overhaul the country’s waste management system by moving away from simple disposal and toward recycling, resource recovery, and climate-resilient practices.

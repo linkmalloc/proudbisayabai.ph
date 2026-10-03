@@ -11,7 +11,7 @@ categories:
 tags:
   - ICC
   - FPRRD
-views: '0'
+views: "21"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2872/06effd1788850701-1.webp
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2872/06effd1788850701-1.webp
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2872/06effd1788850701-1.webp
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-08T06:58:23.960Z'
+pbb_post_id: 2872
 ---
 
 International Criminal Court President Tomoko Akane called the Hague based tribunal the “last bastion of the rule of law in the world” as she appealed for continued international support while facing US sanctions.

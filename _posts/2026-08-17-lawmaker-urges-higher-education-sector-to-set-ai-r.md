@@ -10,7 +10,7 @@ tags:
   - AI Rules
   - Education
   - Higher Education
-views: '0'
+views: "40"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2690/b486821786951080-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2690/b486821786951080-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2690/b486821786951080-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-17T07:18:03.426Z'
+pbb_post_id: 2690
 ---
 
 Philippine higher education institutions should come together soon to establish a common approach to students’ use of artificial intelligence, a member of the House Committee on Higher and Technical Education said Monday.

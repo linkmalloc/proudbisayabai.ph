@@ -9,7 +9,7 @@ categories:
 tags:
   - Human trafficking
   - Armenia
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2908/5c21a51789120912-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2908/5c21a51789120912-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2908/5c21a51789120912-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-11T10:01:56.818Z'
+pbb_post_id: 2908
 ---
 
 Authorities have charged a Cebu woman with qualified human trafficking and large-scale illegal recruitment after three women allegedly recruited for housekeeping jobs in Armenia were stopped from leaving the Philippines.

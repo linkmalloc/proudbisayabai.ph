@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Capitol Projects
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2465/9431171784621599-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2465/9431171784621599-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2465/9431171784621599-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-21T08:13:29.473Z'
+pbb_post_id: 2465
 ---
 
 The Cebu Provincial Government brought a series of infrastructure projects and financial assistance programs to the Camotes Islands as Governor Pamela Baricuatro led the rollout of new public facilities and development initiatives in the municipalities of Poro and San Francisco.

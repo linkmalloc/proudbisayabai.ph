@@ -10,7 +10,7 @@ tags:
   - Bam Aquino
   - Education
   - Budget
-views: '0'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2497/4e89551784893639-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2497/4e89551784893639-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2497/4e89551784893639-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-24T11:47:22.388Z'
+pbb_post_id: 2497
 ---
 
 Senator Bam Aquino has urged government agencies and local government units (LGUs) to speed up the implementation of the country’s P67-billion classroom construction budget, warning that delays in using the funds could affect future education allocations.

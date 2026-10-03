@@ -15,7 +15,7 @@ tags:
   - Crimson
   - HRRACI
   - DOTCV
-views: '10'
+views: "53"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/546/4a41de1755627700-9.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/546/4a41de1755627700-9.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/546/4a41de1755627700-9.jpg
@@ -29,6 +29,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-08-19T00:00:00
+pbb_post_id: 546
 ---
 
 NUSTAR Resort & Casino Cebu dominated the 2025 Cebu Tourism and Hospitality Awards (CTHA) on August 13 at Ayala Center Cebu’s Activity Center, winning Hotel and Resort Manager of the Year and Best Marketing Campaign of the Year.

@@ -9,7 +9,7 @@ categories:
 tags:
   - Siargao
   - Nustar
-views: '0'
+views: "60"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2528/5918de1785294692-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2528/5918de1785294692-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2528/5918de1785294692-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-07-29T03:11:35.825Z'
+pbb_post_id: 2528
 ---
 
 With years of investments in infrastructure, tourism and environmental conservation, this Del Carmen is positioning itself as an investment-ready destination as it prepares to host Siargao Island’s first landmark luxury development.

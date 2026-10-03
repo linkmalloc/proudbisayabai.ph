@@ -8,7 +8,7 @@ categories:
   - destination
 tags:
   - Kan-irag
-views: '0'
+views: "49"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2460/85649a1784581334-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2460/85649a1784581334-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2460/85649a1784581334-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-20T21:02:27.858Z'
+pbb_post_id: 2460
 ---
 
 Just a short drive from the bustling streets of Cebu City lies a mountain escape where cool winds, lush landscapes, and breathtaking panoramic views await. Nestled in the highlands of Sitio Langob, Barangay Sirao, Kan-Irag Peak has become one of Cebu’s most sought-after hiking and camping destinations, offering visitors a peaceful retreat surrounded by nature.

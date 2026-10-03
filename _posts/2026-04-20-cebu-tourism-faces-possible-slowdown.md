@@ -12,7 +12,7 @@ categories:
 tags:
   - Tourism
   - BMRedDuterte
-views: '10'
+views: "96"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1561/90c02c1776666684-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1561/90c02c1776666684-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1561/90c02c1776666684-1.jpg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1561
 ---
 
 Cebu’s tourism sector is facing a possible decline in visitor arrivals this year, with projections at the Provincial Board indicating a potential reduction of around 213,000 passengers if current global conditions persist.

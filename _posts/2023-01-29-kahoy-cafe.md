@@ -13,7 +13,7 @@ tags:
   -  coffee
   -  nature
   -  tea               
-views: "10"
+views: "1,381"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kahoy_cafe/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kahoy_cafe/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kahoy_cafe/cover.jpg
@@ -26,6 +26,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "6 minutes"
+pbb_post_id: 360
 ---
 ****
 Kahoy Café is a newly opened café in Consolacion, Cebu that offers a warm and welcoming atmosphere for coffee lovers and foodies alike. This quaint and cozy café boasts a menu full of delicious and innovative dishes, as well as a wide selection of specialty coffees and teas.   

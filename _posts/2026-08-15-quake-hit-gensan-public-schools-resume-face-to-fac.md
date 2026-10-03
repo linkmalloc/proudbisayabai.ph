@@ -10,7 +10,7 @@ tags:
   - DepEd
   - General Santos City
   - Education
-views: '0'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2680/ebc2c61786776955-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2680/ebc2c61786776955-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2680/ebc2c61786776955-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-15T06:56:01.323Z'
+pbb_post_id: 2680
 ---
 
 Public elementary and secondary schools in General Santos City have resumed face-to-face classes after authorities completed structural assessments and safety checks following the magnitude 7.8 earthquake that struck the region on June 8.

@@ -9,7 +9,7 @@ tags:
   - skincare
   -  cebu
   -  best skincare clinic               
-views: "10"
+views: "121"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/beautique_aesthetic/12.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/beautique_aesthetic/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/beautique_aesthetic/12.jpg
@@ -22,6 +22,7 @@ photo_credit: "Edward Charles Tinga"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 349
 ---
 ****
 Our bodies are our temples, so it makes sense that we should take the process of looking and feeling good seriously. Along with healthy diet, proper exercise and overall lifestyle, many of us turn to beauty treatments to make our skin and bodies look better. It is not a surprise that aesthetic clinics are now at the peak of its popularity as people became aware of the services offered and the benefits it can give.  

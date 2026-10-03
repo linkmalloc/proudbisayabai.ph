@@ -13,7 +13,7 @@ tags:
   - Dubai
   - Middleeast
   - CancelledFlights
-views: '10'
+views: "40"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1227/34c4c71772361758-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1227/34c4c71772361758-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1227/34c4c71772361758-2.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1227
 ---
 
 Cebu Pacific has cancelled several Manila-Dubai flights as it monitors the ongoing security situation in parts of the Middle East, the airline announced as of 9 p.m. on February 28, 2026.

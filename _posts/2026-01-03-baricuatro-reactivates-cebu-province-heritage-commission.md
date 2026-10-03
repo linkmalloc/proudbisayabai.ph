@@ -12,7 +12,7 @@ categories:
 tags:
   - Baricuatro
   - CebuProvinceHeritageCommission
-views: '10'
+views: "52"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/893/5e29d61767515061-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/893/5e29d61767515061-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/893/5e29d61767515061-2.jpeg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-04T00:00:00
 published: true
+pbb_post_id: 893
 ---
 
 After years of dormancy, Cebu’s heritage protection body has been revived as the provincial government strengthens efforts to safeguard historic sites amid rapid urban development.

@@ -12,7 +12,7 @@ categories:
 tags:
   - PAWS
   - EmmanAtienza
-views: '10'
+views: "82"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/727/44a1491764574074-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/727/44a1491764574074-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/727/44a1491764574074-2.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-12-01T00:00:00
 published: true
+pbb_post_id: 727
 ---
 
 The Philippine Animal Welfare Society (PAWS) and the family of broadcaster Kim Atienza are remembering the gentle and compassionate spirit of his daughter, Emman Atienza, whose profound love for animals continues to inspire.

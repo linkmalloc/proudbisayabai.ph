@@ -9,7 +9,7 @@ categories:
 tags:
   - Alex Eala
   - WTA
-views: '0'
+views: "10"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2588/446b851785828622-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2588/446b851785828622-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2588/446b851785828622-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-04T07:30:25.615Z'
+pbb_post_id: 2588
 ---
 
 Alex Eala turned a rain-delayed final into a breakthrough moment, defeating world No. 3 Jessica Pegula in a dramatic comeback to win her first Women's Tennis Association (WTA) Tour championship at the Mubadala DC Open in Washington, D.C.

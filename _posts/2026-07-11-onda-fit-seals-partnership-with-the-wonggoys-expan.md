@@ -9,7 +9,7 @@ categories:
 tags:
   - pickleball
   - OndaFit
-views: '0'
+views: "52"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2380/f032011783778405-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2380/f032011783778405-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2380/f032011783778405-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-07-11T14:01:50.530Z'
+pbb_post_id: 2380
 ---
 
   

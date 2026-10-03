@@ -9,7 +9,7 @@ categories:
 tags:
   - Sinkhole
   - Bogo City
-views: '0'
+views: "89"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2740/2228d11787380853-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2740/2228d11787380853-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2740/2228d11787380853-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-22T06:40:56.562Z'
+pbb_post_id: 2740
 ---
 
 A large sinkhole discovered in Barangay Guadalupe has drawn widespread attention online, prompting authorities to restrict access to the area while they assess the ground’s stability and determine the cause of the collapse.

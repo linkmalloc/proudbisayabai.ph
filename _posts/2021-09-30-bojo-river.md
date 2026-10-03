@@ -13,7 +13,7 @@ tags:
   - bojo
   - river
   - ecotourism               
-views: "10"
+views: "1,261"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river2/7.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river2/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river2/7.jpg
@@ -25,6 +25,7 @@ img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river2/4.jpg
 photo_credit: "Michael Audrey Jacobe Sagonoy, Drone Pilot | Pobreng Laagan"
 photo_credit_link: ""
 read_time: "3 minutes" 
+pbb_post_id: 237
 ---
 ****
 ##### BOJO RIVER - ALOGUINSAN, CEBU

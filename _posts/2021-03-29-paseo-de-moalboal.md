@@ -20,6 +20,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617028632
 photo_credit: "Michael And Yull | Pbb Admin"
 photo_credit_link: ""
 published: false
+pbb_post_id: 124
 ---
 #### PASEO DE MOALBOAL
 TRENDING‼️ UNLI Pizza, Pasta and Fries for only P189 and UNLI chicken wings for only P199 😱🤩🤤  

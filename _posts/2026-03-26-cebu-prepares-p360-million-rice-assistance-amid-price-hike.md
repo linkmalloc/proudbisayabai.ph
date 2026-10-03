@@ -12,7 +12,7 @@ categories:
 tags:
   - RiceAssistance
   - PriceHike
-views: '10'
+views: "139"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1395/df5e021774511169-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1395/df5e021774511169-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1395/df5e021774511169-2.jpg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1395
 ---
 
 The Cebu Provincial Government is preparing a rice assistance program to cushion the impact of persistently rising rice prices on households across the province.

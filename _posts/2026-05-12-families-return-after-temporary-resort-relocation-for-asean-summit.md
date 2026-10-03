@@ -12,7 +12,7 @@ categories:
   - story
 tags:
   - ASEAN
-views: '10'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1752/9abbda1778564489-4.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1752/9abbda1778564489-4.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1752/9abbda1778564489-4.jpeg

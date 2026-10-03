@@ -12,7 +12,7 @@ categories:
   - story
 tags:
   - BarangayBinaliw
-views: '10'
+views: "62"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/935/e38bdf1768280274-3.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/935/e38bdf1768280274-3.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/935/e38bdf1768280274-3.jpeg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-13T00:00:00
 published: true
+pbb_post_id: 935
 ---
 
 

@@ -9,7 +9,7 @@ categories:
 tags:
   - Sagip CPR
   - CPR Training
-views: '0'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2424/882b581784199686-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2424/882b581784199686-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2424/882b581784199686-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-16T11:01:32.949Z'
+pbb_post_id: 2424
 ---
 
 More than 1,000 Coast Guard Auxiliary members, barangay health workers, local government personnel and Philippine Coast Guard (PCG) personnel joined a life-saving emergency response training in Cebu City on Tuesday, July 15, as part of an initiative to expand cardiopulmonary resuscitation (CPR) education across the country.

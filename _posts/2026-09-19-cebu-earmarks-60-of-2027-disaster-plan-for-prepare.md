@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Disaster preparedness
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2969/f047821789752770-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2969/f047821789752770-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2969/f047821789752770-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-18T17:32:56.857Z'
+pbb_post_id: 2969
 ---
 
 CEBU is putting a larger share of its proposed 2027 disaster spending into preparedness, with P168 million set aside for equipment and measures that can be deployed before emergencies strike.

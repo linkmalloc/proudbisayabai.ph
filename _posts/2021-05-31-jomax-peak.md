@@ -11,7 +11,7 @@ tags:
   - mountain
   - camping
   - stargazing
-views: "1,524"
+views: "891"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jomax_peak/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jomax_peak/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jomax_peak/1.jpg
@@ -22,6 +22,7 @@ read_time: "5 minutes"
 
 social_reach: "44,216"
 location: Don Salvador Benedicto Negros Occidental 
+pbb_post_id: 193
 ---
 #### JOMAX PEAK
 A great place for sightseeing, bonfire, and stargazing. Jomax Peak is a picnic and camping grounds and a flower sanctuary in Salvador, Benedicto, Negros Occidental. As its name entails, this place is elevated and offers an overseeing view of the surroundings. It is a perfect spot to encounter *sea of clouds* during habagat or monsoon season. They have a handful of amenities to offer. A public veranda, a veranda shade, pool area, and a camping ground!

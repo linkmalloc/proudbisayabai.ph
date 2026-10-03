@@ -14,7 +14,7 @@ tags:
   - catmon
   -  bahay kubo
   -  resort               
-views: "10"
+views: "3,927"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/areca/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/areca/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/areca/cover.jpg
@@ -27,6 +27,7 @@ photo_credit: "Klaudd Myrtle | @klauddmyrtle"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 326
 ---
 ****
 Are you looking for a relaxing place not that far away from Cebu City? Enjoy the rural atmosphere at Areca Palm Hut in Northern Cebu, which has a rustic, Bali-inspired ambiance!

@@ -13,7 +13,7 @@ categories:
 tags:
   - Sinulog2026
   - SinulogSaPasil
-views: '10'
+views: "162"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/971/f929471768655651-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/971/f929471768655651-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/971/f929471768655651-2.jpeg
@@ -28,6 +28,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-17T00:00:00
 published: true
+pbb_post_id: 971
 ---
 
 

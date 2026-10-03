@@ -20,6 +20,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618029911
 photo_credit: "Michael Audrey Jacobe Sagonoy | Drone Pilot"
 photo_credit_link: "www.instagram.com/michaelsagoo"
 published: false
+pbb_post_id: 149
 ---
 #### The Cuatro Islas
 LOOK: Visit the Beautiful group of islands located in Leyte!🏖🏝  

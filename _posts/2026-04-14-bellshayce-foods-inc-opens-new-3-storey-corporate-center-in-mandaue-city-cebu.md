@@ -16,7 +16,7 @@ tags:
   - BellshayceFoodsInc
   - CholoSepra
   - MandaueCity
-views: '10'
+views: "114"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1514/5eed181776146501-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1514/5eed181776146501-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1514/5eed181776146501-1.jpg
@@ -30,6 +30,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1514
 ---
 
 **MANDAUE CITY, CEBU** — Bellshayce Foods, Inc., a homegrown business founded in 2010, celebrated a major achievement with the blessing and ribbon-cutting ceremony of its newest corporate center on April 9, 2026, located at C. Batiller Brgy Umapad, Mandaue City.

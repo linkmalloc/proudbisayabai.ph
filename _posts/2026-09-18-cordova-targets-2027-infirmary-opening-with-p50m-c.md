@@ -10,7 +10,7 @@ tags:
   - Cordova
   - Provincial Government
   - Municipality Infirmary
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2957/3e4ff01789718829-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2957/3e4ff01789718829-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2957/3e4ff01789718829-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-18T08:07:11.793Z'
+pbb_post_id: 2957
 ---
 
 Cordova is targeting the opening of a new municipal infirmary in the second quarter of 2027, with the Cebu Provincial Government providing P50 million to help fund the health facility’s infrastructure.

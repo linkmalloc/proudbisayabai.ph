@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Oplan BanTal
-views: '0'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2730/f7888a1787302310-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2730/f7888a1787302310-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2730/f7888a1787302310-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-08-21T08:52:04.323Z'
+pbb_post_id: 2730
 ---
 
 More than 2,000 traffic citation tickets (TCTs) were issued by Cebu City traffic enforcers during the first two weeks of full implementation of Oplan BanTal, with the highest number recorded on its first day.

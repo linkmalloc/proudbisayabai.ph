@@ -10,7 +10,7 @@ tags:
   - Mandaue City
   - Pickleball
   - Pickleball Inclusion in Schools
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2386/5e0ad21783933023-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2386/5e0ad21783933023-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2386/5e0ad21783933023-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-13T08:57:05.543Z'
+pbb_post_id: 2386
 ---
 
 The Mandaue City Council has approved a resolution urging the Department of Education (DepEd) to include pickleball in its sports programs and asking the Mandaue City Sports Commission to integrate the sport into the city’s sports development initiatives.

@@ -10,7 +10,7 @@ tags:
   - cebuano
   -  bisaya
   -  cebuano pride               
-views: "10"
+views: "213"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dan_lopez/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dan_lopez/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dan_lopez/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 380
 ---
 ****
 Movie stars have existed since the advent of motion pictures. The key need for becoming regarded as one of the greatest actors in history is the capacity to embody multiple identities simultaneously. In order for the words on the page to come across as lived and felt, you must be able to act—to truly convey a character's deepest feelings and embrace the fabric of their being.  

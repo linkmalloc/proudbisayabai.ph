@@ -8,7 +8,7 @@ categories:
   - food
 tags:
   - Odong
-views: '0'
+views: "28"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2428/de5eb51784232494-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2428/de5eb51784232494-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2428/de5eb51784232494-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-16T20:09:27.070Z'
+pbb_post_id: 2428
 ---
 
 “Odong” A steaming bowl of odong soup continues to be one of the most affordable and comforting meals enjoyed by many Filipinos, especially during rainy evenings or late-night cravings.

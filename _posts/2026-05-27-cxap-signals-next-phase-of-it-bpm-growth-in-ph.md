@@ -13,7 +13,7 @@ categories:
   - story
 tags:
   - CXAP
-views: '10'
+views: "21"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1925/4851131779878543-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1925/4851131779878543-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1925/4851131779878543-1.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1925
 ---
 
 

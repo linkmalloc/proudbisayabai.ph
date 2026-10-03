@@ -9,7 +9,7 @@ categories:
 tags:
   - Air Quality
   - Talisay
-views: '0'
+views: "141"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2826/5192c11788325837-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2826/5192c11788325837-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2826/5192c11788325837-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-02T05:11:04.961Z'
+pbb_post_id: 2826
 ---
 
 Talisay City Mayor Samsam Gullas is asking the Environmental Management Bureau Central Visayas (EMB 7) to clarify what specific air-quality readings should trigger the suspension of activities as haze from Indonesian forest fires continues to affect Cebu.

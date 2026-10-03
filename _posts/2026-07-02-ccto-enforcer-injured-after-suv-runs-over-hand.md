@@ -9,7 +9,7 @@ categories:
   - story
 tags:
   - CCTO
-views: '0'
+views: "38"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2278/ea230a1782987503-1.JPEG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2278/ea230a1782987503-1.JPEG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2278/ea230a1782987503-1.JPEG
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-02T10:18:27.829Z'
+pbb_post_id: 2278
 ---
 
 A Cebu City Transportation Office (CCTO) traffic enforcer was injured after being hit and run over by a sport utility vehicle (SUV) while directing traffic at the Escario Street–Osmeña Boulevard intersection on Wednesday morning, July 1.

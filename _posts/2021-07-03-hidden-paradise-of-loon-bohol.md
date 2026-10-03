@@ -9,7 +9,7 @@ tags:
   - bohol
   - behold bohol
   - hidden paradise
-views: "204,438"
+views: "354"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hidden_paradise_of_loon_bohol/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hidden_paradise_of_loon_bohol/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hidden_paradise_of_loon_bohol/1.jpg
@@ -17,6 +17,7 @@ author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "3 minutes"
 photo_credit: "Win Concha"
 photo_credit_link: ""
+pbb_post_id: 208
 ---
 ###### NowinBohol: Starting the month of July  in the hidden paradise of Loon!  
 

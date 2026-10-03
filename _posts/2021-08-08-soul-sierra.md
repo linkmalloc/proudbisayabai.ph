@@ -10,12 +10,13 @@ tags:
   - busay
   - mountain
   - staycation
-views: "10"
+views: "1,982"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/soul_sierra/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/soul_sierra/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/soul_sierra/1.jpg
 photo_credit: "Soul Sierra Facebook Page"
 photo_credit_link: ""
+pbb_post_id: 224
 ---
 ##### Soul Sierra  
 

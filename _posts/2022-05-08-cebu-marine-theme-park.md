@@ -11,7 +11,7 @@ tags:
   - cebu
   - oceanarium
   - ocean park
-views: "10"
+views: "305"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cebu_ocean_park/9.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cebu_ocean_park/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cebu_ocean_park/9.jpg
@@ -24,6 +24,7 @@ photo_credit: "Juan Virtudazo, PBB Mindanao  "
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 286
 ---
 ****
 Visit the LARGEST Oceanarium in the Philippines, which is 7-meter deep with a 360-degree viewing tunnel that houses thousands of the world’s most incredible marine species. Cebu Ocean Park is the city's first and only marine-themed park, with a diverse collection of sea creatures!

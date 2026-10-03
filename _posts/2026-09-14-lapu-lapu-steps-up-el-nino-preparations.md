@@ -9,7 +9,7 @@ categories:
 tags:
   - Lapu-Lapu City
   - El Niño
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2923/3918f21789371170-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2923/3918f21789371170-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2923/3918f21789371170-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-14T07:32:54.176Z'
+pbb_post_id: 2923
 ---
 
 Lapu-Lapu City is stepping up preparations for potentially prolonged El Niño conditions, with the weather phenomenon possibly strengthening and persisting through the first half of 2027.

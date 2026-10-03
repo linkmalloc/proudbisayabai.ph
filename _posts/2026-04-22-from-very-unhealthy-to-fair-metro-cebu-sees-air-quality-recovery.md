@@ -12,7 +12,7 @@ categories:
 tags:
   - AirQuality
   - CebuCity
-views: '10'
+views: "30"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1582/109aa81776853345-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1582/109aa81776853345-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1582/109aa81776853345-1.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1582
 ---
 
 Skies over Metro Cebu cleared after days of haze as air quality levels improved, easing earlier health concerns that had prompted warnings across the region.

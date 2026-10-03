@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Lapu-Lapu City
-views: '0'
+views: "84"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2809/0987d81788167128-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2809/0987d81788167128-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2809/0987d81788167128-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-31T09:05:32.240Z'
+pbb_post_id: 2809
 ---
 
 Twenty-one families whose homes were destroyed in a fire in Upper Kagudoy, Barangay Basak, Lapu-Lapu City, received financial assistance from the city government to help them rebuild.

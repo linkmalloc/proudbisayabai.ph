@@ -11,7 +11,7 @@ tags:
   - moalboal
   -  best resort in cebu
   -  glamping               
-views: "10"
+views: "923"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bambusa_glamping_resort/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bambusa_glamping_resort/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bambusa_glamping_resort/1.jpg

@@ -26,6 +26,7 @@ published: false
 
 social_reach: "319,600"
 location: Samboan, South of Cebu 
+pbb_post_id: 128
 ---
 #### Fantasy Lodge
    

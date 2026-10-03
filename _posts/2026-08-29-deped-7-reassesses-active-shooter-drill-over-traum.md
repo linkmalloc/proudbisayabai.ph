@@ -10,7 +10,7 @@ categories:
 tags:
   - DepEd 7
   - Active Shooter Drill
-views: '0'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2798/c4faee1787946677-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2798/c4faee1787946677-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2798/c4faee1787946677-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-28T19:51:17.525Z'
+pbb_post_id: 2798
 ---
 
 Safety and trauma concerns have prompted the Department of Education Region 7 (DepEd 7) to defer the planned nationwide active shooter drill as the agency reviews how such exercises could affect learners.

@@ -22,6 +22,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615791879/g
 photo_credit: "Michael Audrey Jacobe Sagonoy | Pbb Drone Pilot"
 photo_credit_link: ""
 published: false
+pbb_post_id: 96
 ---
 #### Golden Sands Destination Resorts
   

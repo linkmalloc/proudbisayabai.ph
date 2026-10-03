@@ -11,7 +11,7 @@ tags:
   - fiesta
   - festival
   - sinulog
-views: "10"
+views: "103"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camella_homes_holidays_promo/cover.png
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camella_homes_holidays_promo/cover.png
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camella_homes_holidays_promo/cover.png
@@ -24,6 +24,7 @@ photo_credit: "PBB"
 photo_credit_link: ""
 editor: "Ariel Alegado - PBB Founder"
 read_time: "3 minutes"
+pbb_post_id: 431
 ---
 <p style="display: none">.</p>
 <small>The Freya Model Home. Camella offers not just comfortable homes, but everything families need to live fulfilling lives.</small>   

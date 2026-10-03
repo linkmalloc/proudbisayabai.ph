@@ -8,13 +8,14 @@ categories:
   - destination
 tags:
   - ProvinceLife
-views: "10"
+views: "144"
 read_time: "4 minutes"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/azienda_gracia_farm/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/azienda_gracia_farm/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/azienda_gracia_farm/1.jpg
 photo_credit: "Azienda Gracia FB Page"
 photo_credit_link: ""
+pbb_post_id: 181
 ---
 #### Azienda Gracia Farm  
 

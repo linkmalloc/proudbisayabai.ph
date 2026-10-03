@@ -11,7 +11,7 @@ tags:
   - Padayon
   - Croissant
   - Coffee
-views: '0'
+views: "86"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2900/a43ec01789108046-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2900/a43ec01789108046-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2900/a43ec01789108046-1.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-11T06:27:27.772Z'
+pbb_post_id: 2900
 ---
 
 Rooted in Cebuano culture, Padayon embodies the inherently Bisaya spirit to keep going despite hardships. At the heart of Padadyon Croissants and Coffee is the belief that every Cebuano deserves quality that matches their effort and that a cup of coffee and freshly baked croissant isn’t merely a simple indulgence but a steady source of motivation to keep moving forward.

@@ -9,7 +9,7 @@ categories:
 tags:
   - Pam Baricuatro
   - Aid'
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2314/4015691783334363-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2314/4015691783334363-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2314/4015691783334363-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-06T10:39:24.873Z'
+pbb_post_id: 2314
 ---
 
 Gov. Pamela Baricuatro has distributed P3 million in financial assistance to 22 barangays across Cebu to support community projects and other local government initiatives. 

@@ -12,7 +12,7 @@ categories:
 tags:
   - Larsian
   - CebuGovernment
-views: '10'
+views: "42"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1079/3d9ced1770278665-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1079/3d9ced1770278665-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1079/3d9ced1770278665-2.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1079
 ---
 
 

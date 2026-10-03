@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Waste Diversion Drive
-views: '0'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2316/6cd9b91783334715-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2316/6cd9b91783334715-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2316/6cd9b91783334715-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-06T10:45:20.361Z'
+pbb_post_id: 2316
 ---
 
 Cebu City has launched a waste diversion program that taps public school students to help reduce the volume of garbage sent to landfills, as the city continues to face rising waste disposal costs and limited landfill capacity.

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Safety Tips
-views: '0'
+views: "38"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2360/3589a91783670981-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2360/3589a91783670981-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2360/3589a91783670981-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-10T08:09:45.658Z'
+pbb_post_id: 2360
 ---
 
 As the rainy season continues to bring heavy downpours and risks of flood across the country, looking after electric appliances is something that each household should bear in mind. 

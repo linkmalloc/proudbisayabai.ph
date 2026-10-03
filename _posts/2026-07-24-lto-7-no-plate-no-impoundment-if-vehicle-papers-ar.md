@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - LTO 7
-views: '0'
+views: "85"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2496/c554101784893534-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2496/c554101784893534-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2496/c554101784893534-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-24T11:45:37.121Z'
+pbb_post_id: 2496
 ---
 
 Vehicles without physical license plates will not automatically be impounded as long as motorists can present valid registration documents and comply with existing regulations, the Land Transportation Office in Central Visayas (LTO 7) said.

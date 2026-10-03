@@ -11,7 +11,7 @@ tags:
   - cebu
   - beach
   - hangout spot
-views: "10"
+views: "419"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/brev-star/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/brev-star/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/brev-star/cover.jpg
@@ -24,6 +24,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 481
 ---
 *****    
 If you’re searching for the perfect beachside spot to unwind, enjoy great food, and soak up the sea breeze, look no further than BrevStar Tambayan sa Baybay in Catmon! This laid-back haven is not just any ordinary “tambayan” (hangout); it’s a place where you can experience the coastal beauty of Catmon while indulging in mouth-watering food, refreshing drinks, and a relaxed beach vibe.  

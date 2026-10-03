@@ -9,7 +9,7 @@ categories:
 tags:
   - Rice Program
   - Lapu-Lapu City
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2689/8c83131786950865-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2689/8c83131786950865-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2689/8c83131786950865-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-17T07:14:29.845Z'
+pbb_post_id: 2689
 ---
 
 More than 34,000 residents of Lapu-Lapu City have accessed subsidized rice since the city government launched its P20-per-kilo rice program in March.

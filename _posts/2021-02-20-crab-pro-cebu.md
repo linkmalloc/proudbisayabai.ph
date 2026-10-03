@@ -20,6 +20,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613808743/c
 photo_credit: "Crab Pro Cebu"
 photo_credit_link: "https://www.facebook.com/CrabProCebu/"
 published: false
+pbb_post_id: 28
 ---
 **TAN-AWA**👀 "Lobsters in a bag!" 🦞😍 A KILO of LOBSTERS per BAG 😱  
 Unsa pa inyong ge huwat mga bai?  

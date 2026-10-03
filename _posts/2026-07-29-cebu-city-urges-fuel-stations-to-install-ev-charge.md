@@ -10,7 +10,7 @@ tags:
   - EV
   - clean
   - energy
-views: '0'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2531/a16a061785310968-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2531/a16a061785310968-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2531/a16a061785310968-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-29T07:42:50.786Z'
+pbb_post_id: 2531
 ---
 
 Gasoline stations in Cebu City may soon become additional charging points for electric vehicles (EVs) as the City Council pushed for the expansion of clean energy infrastructure in compliance with national policy.

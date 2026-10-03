@@ -22,6 +22,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615738718/e
 photo_credit: "Tagum Tilapips"
 photo_credit_link: ""
 published: false
+pbb_post_id: 167
 ---
 #### EMMA'S VIEW POINT CAFE   
   

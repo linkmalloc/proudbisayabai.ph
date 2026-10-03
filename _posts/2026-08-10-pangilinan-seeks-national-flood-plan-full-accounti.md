@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Kiko Pangilinan
-views: '0'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2641/1600671786357863-1.png
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2641/1600671786357863-1.png
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2641/1600671786357863-1.png
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-10T10:31:16.804Z'
+pbb_post_id: 2641
 ---
 
 Senator Francis “Kiko” Pangilinan is calling for a comprehensive national flood management plan and a full accounting of government funds spent on flood-control projects as heavy monsoon rains continue to cause flooding in several parts of the country.

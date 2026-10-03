@@ -8,7 +8,7 @@ categories:
 tags:
   - tita bebs
   - dimsum               
-views: "10"
+views: "28"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/titabebsspecialty/6.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/titabebsspecialty/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/titabebsspecialty/6.jpg
@@ -21,6 +21,7 @@ photo_credit: "Pete Abellana, Official Photographer"
 photo_credit_link: ""
 editor: "Evner Negro"
 read_time: "4 minutes"
+pbb_post_id: 293
 ---
 ****
 #####  Tita Beb’s Specialty

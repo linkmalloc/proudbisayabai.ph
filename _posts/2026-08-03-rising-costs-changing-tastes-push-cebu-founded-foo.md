@@ -9,7 +9,7 @@ categories:
   - story
 tags:
   - Food Firm
-views: '0'
+views: "214"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2579/fd839b1785739663-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2579/fd839b1785739663-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2579/fd839b1785739663-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-03T06:47:44.894Z'
+pbb_post_id: 2579
 ---
 
 A Cebu-founded food service company is betting on stronger industry partnerships and localized solutions as restaurants, hotels, and bakeries continue to navigate rising costs and shifting consumer demands.

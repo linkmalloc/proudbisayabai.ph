@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Binaliw
-views: '0'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2765/4e57fe1787719333-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2765/4e57fe1787719333-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2765/4e57fe1787719333-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-26T04:42:31.610Z'
+pbb_post_id: 2765
 ---
 
 Families bringing loved ones to their final resting place at Golden Haven Cemetery in Barangay Binaliw are facing added difficulty as a damaged bridge inside the cemetery remains impassable to vehicles following Typhoon Tino.

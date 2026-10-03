@@ -9,13 +9,14 @@ categories:
 tags:
   - cebu
   - milktea
-views: "10"
+views: "24"
 read_time: "5 minutes"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/moringa_smoothies_and_tea/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/moringa_smoothies_and_tea/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/moringa_smoothies_and_tea/cover.jpg
 photo_credit: "Pbb Team"
 photo_credit_link: ""
+pbb_post_id: 183
 ---
 ****
 Looking for a diet Milk Tea without worrying about gaining too much calories? Never miss a quick sip when heading to Ayala Center Cebu at **Moringa Smoothies & Tea**. Satisfying your Milk Tea cravings without guilt. Plus a lot more healthy snacks offered. Sugod na ta ug diet bai! Summer na raba. 😍🍵🍪

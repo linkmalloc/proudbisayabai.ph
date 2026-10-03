@@ -10,7 +10,7 @@ categories:
   - story
 tags:
   - VisayasHorrorStory
-views: '10'
+views: "184"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/612/4ba7121761661702-13.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/612/4ba7121761661702-13.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/612/4ba7121761661702-13.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-10-28T00:00:00
 published: true
+pbb_post_id: 612
 ---
 
 The Visayas may be known for its beaches and beauty, but beneath the surface lies a chilling past — from cursed bridges to wartime mansions that still echo with screams. Discover the **Top 10 scariest places in the Visayas.**

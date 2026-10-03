@@ -9,7 +9,7 @@ categories:
 tags:
   - School Safety Act
   - Bam Aquino
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2366/b5f71b1783681155-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2366/b5f71b1783681155-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2366/b5f71b1783681155-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-10T10:59:17.714Z'
+pbb_post_id: 2366
 ---
 
 Senator Bam Aquino is pushing for the passage of a comprehensive School Safety Act within two months, as the Senate seeks stronger measures to protect students and school personnel following recent incidents of violence in educational institutions.

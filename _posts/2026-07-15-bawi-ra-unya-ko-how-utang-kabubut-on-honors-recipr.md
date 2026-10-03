@@ -10,7 +10,7 @@ categories:
 tags:
   - Lifestyle
   - Utang Kabubut-on
-views: '0'
+views: "52"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2411/7444911784102531-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2411/7444911784102531-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2411/7444911784102531-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-15T08:02:13.750Z'
+pbb_post_id: 2411
 ---
 
 _Utang Kabubut-on_, or _utang na loob_ is most often not about the favor being asked and granted. The moment someone helps without question, a bond is made unconsciously. Measured in the depth of the need and the sincerity behind the help, the _'utang'_ in question is based on morals. Unlike a loan or simple favors that ends when you do your end of the bargain, ‘_utang kabubut-on’_ does not have a clear end. It can be carried for life towards a person or their family, and sometimes even passed down to your children.

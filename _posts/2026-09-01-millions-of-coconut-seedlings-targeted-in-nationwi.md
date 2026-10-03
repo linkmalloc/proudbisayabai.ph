@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Coconut seedlings
-views: '0'
+views: "109"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2820/1663071788251940-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2820/1663071788251940-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2820/1663071788251940-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-01T08:39:15.777Z'
+pbb_post_id: 2820
 ---
 
 Millions of coconut seedlings are being planted nationwide as farmers, government agencies, local governments and industry partners join efforts to replace aging trees and strengthen the country’s coconut industry.

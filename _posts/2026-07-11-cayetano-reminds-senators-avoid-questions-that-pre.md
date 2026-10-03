@@ -9,7 +9,7 @@ categories:
 tags:
   - Alan Peter Cayetano
   - Sara Duterte Impeachment Trial
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2371/2be1681783756439-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2371/2be1681783756439-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2371/2be1681783756439-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-11T07:54:05.017Z'
+pbb_post_id: 2371
 ---
 
 Senator-judge Alan Peter Cayetano has urged his fellow senator-judges to exercise caution in asking questions during Vice President Sara Duterte’s impeachment trial, warning that even well-meaning inquiries could unintentionally affect the fairness of the proceedings.

@@ -11,7 +11,7 @@ categories:
 tags:
   - Binaliw
   - Landfill
-views: '10'
+views: "32"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/994/b73ec11769072643-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/994/b73ec11769072643-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/994/b73ec11769072643-2.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-22T00:00:00
 published: true
+pbb_post_id: 994
 ---
 
 In the aftermath of the deadly Binaliw landfill collapse, the Cebu City Council recognized a worker whose quick actions helped save lives.

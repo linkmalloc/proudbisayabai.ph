@@ -11,7 +11,7 @@ tags:
   - shipments
   - ASF
   - DVMF
-views: '0'
+views: "28"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2546/a2e0211785388436-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2546/a2e0211785388436-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2546/a2e0211785388436-1.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-30T05:13:58.305Z'
+pbb_post_id: 2546
 ---
 
 Hog traders and motorboat operators transporting live hogs, pork, and pork products into Cebu City are now required to secure additional documents as the city government strengthens measures to prevent the entry of African Swine Fever (ASF).

@@ -9,7 +9,7 @@ tags:
   - cebu
   -  coffee
   -  coffeeshop               
-views: "10"
+views: "15,734"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/don_machiattos/cover3.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/don_machiattos/cover3.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/don_machiattos/cover3.jpg
@@ -22,6 +22,7 @@ photo_credit: "PBB Admin"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 334
 ---
 ###### Don Macchiatos: Cebu’s 1st 39ers Coffee  
 It is undeniable that coffee has been part of most people’s daily lives. We enjoy a cup or more whether at home, whilst on move or at work. But not all coffees are created equal. Some people are paying much to enjoy some popular brands but Don Macchiatos’s Coffee is different. It will not hurt your budget. As low as 39 pesos, Cebuanos can now enjoy its popular Iced Caramel Macchiato.  

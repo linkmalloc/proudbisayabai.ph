@@ -11,7 +11,7 @@ tags:
   -  camping
   -  malubog lake
   -  hills               
-views: "10"
+views: "3,171"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mt_tagaytay/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mt_tagaytay/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mt_tagaytay/cover.jpg
@@ -24,6 +24,7 @@ photo_credit: "𝕎𝕒𝕟𝕕𝕖𝕣𝕃𝕦𝕤𝕥 PH via Sel Larios"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 379
 ---
 ****
 Looking for a scenic adventure with friends? Look no further than Mt. Tagaytay, also known as Tagaytay Hills, located in Brgy. General Climaco in Toledo City, Cebu.  

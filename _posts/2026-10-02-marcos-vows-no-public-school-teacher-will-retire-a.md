@@ -9,7 +9,7 @@ categories:
 tags:
   - Bongbong Marcos
   - Public school teachers
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3077/b561041790920486-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3077/b561041790920486-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3077/b561041790920486-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-10-02T05:54:58.271Z'
+pbb_post_id: 3077
 ---
 
 President Ferdinand R. Marcos Jr. renewed his commitment to giving public school teachers clearer opportunities for career advancement, saying no teacher should reach retirement while still holding the entry-level Teacher I position.

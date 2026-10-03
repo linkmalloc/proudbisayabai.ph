@@ -9,7 +9,7 @@ categories:
 tags:
   - restaurant
   -  cebu
-views: "4,419"
+views: "71"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_rustic_food_corner/11.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_rustic_food_corner/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_rustic_food_corner/11.jpg
@@ -21,6 +21,7 @@ img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_rustic_food_co
 photo_credit: "Rustic Food Corner, Pete Abellana, Official Photographer"
 photo_credit_link: "https://www.facebook.com/Rustic-Food-Corner-Toledo-103199858407303/"
 read_time: "5 minutes"
+pbb_post_id: 225
 ---
 ###### The Rustic Food Corner  
   

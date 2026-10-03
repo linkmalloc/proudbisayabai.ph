@@ -9,7 +9,7 @@ categories:
 tags:
   - Mandaue City
   - School Security
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2723/c182ab1787300021-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2723/c182ab1787300021-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2723/c182ab1787300021-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-21T08:13:43.829Z'
+pbb_post_id: 2723
 ---
 
 Mandaue City Mayor Thadeo Jovito “Jonkie” Ouano has called for stronger security measures in schools, including expanded police visibility and additional screening equipment, following recent school shootings in other parts of the country.

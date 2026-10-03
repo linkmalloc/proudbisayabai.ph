@@ -14,7 +14,7 @@ tags:
   - WasteSegregation
   - CebuCity
   - MayorArchival
-views: '10'
+views: "99"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/870/e379891766900609-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/870/e379891766900609-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/870/e379891766900609-2.jpeg
@@ -29,6 +29,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-12-28T00:00:00
 published: true
+pbb_post_id: 870
 ---
 
 Cebu City will begin strict enforcement of its long-standing waste segregation policy in mid-January 2026, following a two-week citywide information campaign aimed at ensuring residents, barangays, and schools fully understand the rules before penalties are imposed.

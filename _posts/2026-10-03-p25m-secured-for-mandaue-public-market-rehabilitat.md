@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-10-03T12:23:48.334Z'
+pbb_post_id: 3092
 ---
 
 Repairs to the Mandaue City Public Market are set to move forward with P25 million in funding secured for rehabilitation work following damage caused by the magnitude 6.9 earthquake that struck Cebu last year.

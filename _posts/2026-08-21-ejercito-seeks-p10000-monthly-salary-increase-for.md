@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Public School Teachers Salary Increase
-views: '0'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2729/a1bf711787302162-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2729/a1bf711787302162-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2729/a1bf711787302162-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-21T08:49:24.335Z'
+pbb_post_id: 2729
 ---
 
 Senator JV Ejercito is pushing for a bill that would give public school teachers an additional P10,000 in basic monthly salary regardless of their length of service.

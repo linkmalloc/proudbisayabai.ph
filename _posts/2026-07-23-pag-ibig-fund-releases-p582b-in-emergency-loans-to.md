@@ -9,7 +9,7 @@ categories:
 tags:
   - Pag-BIG Fund
   - Financial Assistance
-views: '0'
+views: "109"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2480/e5233d1784797045-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2480/e5233d1784797045-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2480/e5233d1784797045-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-23T08:57:39.326Z'
+pbb_post_id: 2480
 ---
 
 Pag IBIG Fund has released P5.82 billion in financial assistance to more than 800,000 members through its Special Assistance for Financial Emergencies (SAFE) Loan less than six weeks after the program was launched.

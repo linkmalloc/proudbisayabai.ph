@@ -10,7 +10,7 @@ tags:
   - SONA
   - Bongbong Marcos
   - PH Senate
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2508/1dd6c11785136903-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2508/1dd6c11785136903-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2508/1dd6c11785136903-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-27T07:22:18.073Z'
+pbb_post_id: 2508
 ---
 
 Malacañang on Monday said the decision of some Senate minority members to skip President Ferdinand R. Marcos Jr.’s fifth State of the Nation Address (SONA) does not indicate instability in the administration.

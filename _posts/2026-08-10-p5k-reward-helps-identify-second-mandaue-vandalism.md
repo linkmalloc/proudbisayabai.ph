@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Mandaue Vandalism
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2637/54153f1786357583-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2637/54153f1786357583-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2637/54153f1786357583-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-10T10:26:25.754Z'
+pbb_post_id: 2637
 ---
 
 A P5,000 reward offered by Mandaue Mayor Thadeo “Jonkie” Ouano helped authorities identify a second person allegedly responsible for graffiti incidents in the city.

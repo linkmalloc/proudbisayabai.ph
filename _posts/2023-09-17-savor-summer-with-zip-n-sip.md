@@ -10,7 +10,7 @@ tags:
   - food
   - summer
   - drinks
-views: "10"
+views: "156"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/zip_n_sip_summer_savor/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/zip_n_sip_summer_savor/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/zip_n_sip_summer_savor/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: "PBB"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 413
 ---
 ****
 As the scorching sun ushers in the summer season, there's no better way to beat the heat than with Zip 'N Sip's mouthwatering smoothies. Imagine a thirst-quenching drink that blends the creamy delight of ice cream with the natural sweetness of fresh fruits. Zip 'N Sip invites you to embark on a flavorful journey that extends beyond the borders of taste. Dili ka magmahay, Bai! It's time to indulge in a delectable assortment of fruit shakes and milk teas topped with ice cream, promising to keep you cool and satisfied all summer long.   

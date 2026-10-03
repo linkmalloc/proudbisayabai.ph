@@ -9,7 +9,7 @@ categories:
 tags:
   - Nestor Archival
   - CCMC
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2425/9824661784200019-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2425/9824661784200019-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2425/9824661784200019-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-07-16T11:07:00.806Z'
+pbb_post_id: 2425
 ---
 
 Cebu City Mayor Nestor Archival remained confident that the long-delayed Cebu City Medical Center (CCMC) will be completed by December 2026 despite new audit findings citing construction deficiencies, project delays, and over P1 billion in government spending.

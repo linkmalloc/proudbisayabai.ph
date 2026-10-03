@@ -11,7 +11,7 @@ tags:
   - NUJP
   - JournalistReports
   - PRRD
-views: '10'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1204/aa425b1772010339-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1204/aa425b1772010339-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1204/aa425b1772010339-2.jpg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1204
 ---
 
 The National Union of Journalists of the Philippines (NUJP) slammed lawyer Nicholas Kaufman for accusing the media of twisting and sensationalizing coverage of former President Rodrigo Duterte’s “war on drugs.” 

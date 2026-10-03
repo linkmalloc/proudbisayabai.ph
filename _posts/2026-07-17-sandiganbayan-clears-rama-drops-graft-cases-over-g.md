@@ -9,7 +9,7 @@ categories:
 tags:
   - Michael Rama
   - Sandiganbayan
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2434/16f2161784285250-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2434/16f2161784285250-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2434/16f2161784285250-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-17T10:47:43.880Z'
+pbb_post_id: 2434
 ---
 
 The Sandiganbayan has dismissed all graft charges against former Cebu City Mayor Michael Rama in connection with the city’s multi-million-peso garbage procurement contracts, extending its earlier dismissal ruling to him and rejecting the prosecution’s attempt to revive the cases.

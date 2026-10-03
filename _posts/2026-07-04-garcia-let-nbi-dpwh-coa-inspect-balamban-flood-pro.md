@@ -9,7 +9,7 @@ categories:
 tags:
   - Balamban
   - Ghost Projects
-views: '0'
+views: "24"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2305/9c74811783154708-1.JPG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2305/9c74811783154708-1.JPG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2305/9c74811783154708-1.JPG
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-04T08:45:08.921Z'
+pbb_post_id: 2305
 ---
 
 Former Cebu Third District congressman Pablo John “PJ” Garcia has called for a joint on-site inspection of two flood mitigation projects in Balamban, saying a coordinated verification by government agencies and stakeholders would help resolve allegations that the projects are “ghost projects.”

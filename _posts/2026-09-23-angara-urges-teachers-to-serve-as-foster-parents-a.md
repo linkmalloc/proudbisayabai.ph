@@ -10,7 +10,7 @@ tags:
   - DepEd
   - Mental Health Concerns
   - School shootings
-views: '0'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2992/a6bc6b1790131476-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2992/a6bc6b1790131476-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2992/a6bc6b1790131476-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-23T02:45:10.498Z'
+pbb_post_id: 2992
 ---
 
 Education Secretary Sonny Angara has urged teachers to take on a more supportive role in schools as the Department of Education (DepEd) responds to growing mental health concerns among Filipino youth following a recent school shooting in South Cotabato.

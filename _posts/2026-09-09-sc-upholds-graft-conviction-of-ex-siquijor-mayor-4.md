@@ -9,7 +9,7 @@ categories:
 tags:
   - Supreme Court
   - Siquijor
-views: '0'
+views: "549"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2881/610b661788938455-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2881/610b661788938455-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2881/610b661788938455-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-09T07:20:57.950Z'
+pbb_post_id: 2881
 ---
 
 Former Lazi, Siquijor mayor Orville Fua and four other public officers, along with a private individual, have been ordered to serve up to 10 years in prison after the Supreme Court (SC) affirmed their graft conviction over irregularities in the municipality’s P4.9 million fertilizer procurement.

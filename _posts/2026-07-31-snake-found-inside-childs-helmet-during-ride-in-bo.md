@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Snake
-views: '0'
+views: "57"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2550/1b695f1785481759-1.png
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2550/1b695f1785481759-1.png
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2550/1b695f1785481759-1.png
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-31T07:09:21.808Z'
+pbb_post_id: 2550
 ---
 
 A mother kept her composure after discovering a snake inside her child’s motorcycle helmet while they were traveling to Tagbilaran City, Bohol.

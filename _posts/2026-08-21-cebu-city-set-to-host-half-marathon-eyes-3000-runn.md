@@ -9,7 +9,7 @@ categories:
 tags:
   - Marathon
   - Running Community
-views: '0'
+views: "185"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2726/6e843a1787301551-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2726/6e843a1787301551-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2726/6e843a1787301551-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-21T08:39:20.054Z'
+pbb_post_id: 2726
 ---
 
 Cebu’s growing running community is set for another major road race as organizers expect about 3,000 runners to take part in a new half marathon on Sept. 27 at Robinsons Galleria Cebu.

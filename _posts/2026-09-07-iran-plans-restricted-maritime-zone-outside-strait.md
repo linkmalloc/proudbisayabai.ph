@@ -9,7 +9,7 @@ categories:
 tags:
   - Iran
   - Strait of Hormuz
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2862/4109aa1788763773-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2862/4109aa1788763773-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2862/4109aa1788763773-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-07T06:49:36.662Z'
+pbb_post_id: 2862
 ---
 
 Iran will establish a new restricted maritime zone outside the Strait of Hormuz in the coming days, its top national security official said Sunday, warning that vessels entering the area will face sanctions.

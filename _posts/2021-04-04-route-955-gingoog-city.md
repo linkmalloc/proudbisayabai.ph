@@ -22,6 +22,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617547923
 photo_credit: "Juan Virtudazo | Pbb Contributor"
 photo_credit_link: ""
 published: false
+pbb_post_id: 139
 ---
 #### Route 955 Gingoog City-Claveria
 LOOK: Baguio FEELS? Route 955 Gingoog City-Claveria, Misamis Oriental in a Day: The Little Baguio City of Mindanao.   

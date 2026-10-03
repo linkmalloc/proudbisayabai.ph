@@ -10,7 +10,7 @@ tags:
   - CADENA Act
   - Bam Aquino
   - NEDA
-views: '0'
+views: "31"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2851/4d55c61788599748-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2851/4d55c61788599748-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2851/4d55c61788599748-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-09-05T09:15:50.302Z'
+pbb_post_id: 2851
 ---
 
 Sen. Paolo Benigno “Bam” Aquino IV has called on the administration to restore the CADENA Act to its priority legislation list, questioning why the anti-corruption measure has been pushed down despite having already passed the Senate and amid renewed scrutiny of flood control spending.

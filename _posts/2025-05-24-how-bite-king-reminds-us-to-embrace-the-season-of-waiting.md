@@ -13,7 +13,7 @@ tags:
   - bite king
   - season of waiting
   - vlogger
-views: '10'
+views: "86"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/509/8990061748126316-9.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/509/8990061748126316-9.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/509/8990061748126316-9.jpg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-05-25T00:00:00
+pbb_post_id: 509
 ---
 
 

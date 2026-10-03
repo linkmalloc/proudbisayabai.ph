@@ -9,7 +9,7 @@ categories:
 tags:
   - Mandaue City
   - Ordinance
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2273/e376e01782893586-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2273/e376e01782893586-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2273/e376e01782893586-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-01T08:13:12.306Z'
+pbb_post_id: 2273
 ---
 
 Prank calls and false emergency reports may soon carry penalties in Mandaue City as the City Council moves to protect the integrity of its emergency response system.

@@ -9,7 +9,7 @@ categories:
 tags:
   - PNP
   - Gun safety campaign
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3033/8b25b41790580978-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3033/8b25b41790580978-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3033/8b25b41790580978-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-28T07:37:03.406Z'
+pbb_post_id: 3033
 ---
 
 The Philippine National Police is stepping up public safety campaigns on responsible firearm ownership and emergency preparedness following recent firearm-related incidents involving minors in school settings.

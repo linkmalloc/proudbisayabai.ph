@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Sara Duterte Impeachment
-views: '0'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2323/a740d31783420102-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2323/a740d31783420102-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2323/a740d31783420102-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-07T10:28:37.562Z'
+pbb_post_id: 2323
 ---
 
 House impeachment prosecutors have asked the Senate impeachment court to issue subpoenas requiring Vice President Sara Duterte’s chief of staff, lawyer Zuleika Lopez, and National Bureau of Investigation (NBI) Director Melvin Matibag to appear as witnesses in the ongoing impeachment proceedings.

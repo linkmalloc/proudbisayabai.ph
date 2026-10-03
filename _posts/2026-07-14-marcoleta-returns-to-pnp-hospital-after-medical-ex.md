@@ -12,7 +12,7 @@ tags:
   - Marcoleta
   - plunder
   - medicalexam
-views: '0'
+views: "6"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2400/de092d1784017133-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2400/de092d1784017133-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2400/de092d1784017133-1.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-14T08:19:03.900Z'
+pbb_post_id: 2400
 ---
 
 Senator Rodante Marcoleta returned to the Philippine National Police-General Hospital (PNPGH) on Tuesday afternoon after undergoing an independent medical examination at the University of the Philippines-Philippine General Hospital (UP-PGH) in Manila.

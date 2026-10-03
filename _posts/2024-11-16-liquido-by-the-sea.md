@@ -11,7 +11,7 @@ tags:
   - bantayan
   - island
   - resort
-views: "10"
+views: "591"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liquido-by-the-sea/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liquido-by-the-sea/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liquido-by-the-sea/cover.jpg
@@ -24,6 +24,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 485
 ---
 *****    
 Nestled in the charming village of Baigad, Bantayan Island, Liquido by the Sea is a slice of paradise that perfectly captures the island’s tranquil beauty. With white sands, crystal-clear waters, and a relaxed island vibe, it’s a must-visit for anyone craving a peaceful retreat. Here’s a glimpse of how a day at Liquido unfolds:  

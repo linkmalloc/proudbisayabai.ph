@@ -15,7 +15,7 @@ tags:
   - Senate
   - VPDuterte
   - Impeachment
-views: '10'
+views: "40"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1980/f1eb721780383191-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1980/f1eb721780383191-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1980/f1eb721780383191-1.jpeg
@@ -29,6 +29,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1980
 ---
 
 

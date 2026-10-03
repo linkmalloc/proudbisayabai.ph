@@ -20,6 +20,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615482669/b
 photo_credit: "Vivi Moore | Editor-in-chief"
 photo_credit_link: ""
 published: false
+pbb_post_id: 85
 ---
 #### TRENDING: Boy Lamaw Guadalupe!  
 <center><i>Naka ari naka Bai? Lami jud diri Bai, Abtik na diha!   🤤😍 </i></center> 

@@ -11,7 +11,7 @@ tags:
   - El Niño
   - Farming
   - Crop Insurance
-views: '0'
+views: "8"
 img_big_1000x600: ''
 img_big_3000x1144: ''
 img_500x500: ''
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-18T08:00:23.229Z'
+pbb_post_id: 2955
 ---
 
 Small farmers in Cebu may receive government-funded crop insurance as the province prepares for the expected effects of El Niño beginning late this year and extending into 2027.

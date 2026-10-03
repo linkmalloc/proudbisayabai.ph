@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - public-private partnership projects
-views: '0'
+views: "42"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2755/90d85a1787648128-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2755/90d85a1787648128-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2755/90d85a1787648128-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-25T08:55:34.606Z'
+pbb_post_id: 2755
 ---
 
 Local government units in Central Visayas were urged to strengthen their capacity to develop public-private partnership (PPP) projects as the government seeks to expand infrastructure investments across the region.

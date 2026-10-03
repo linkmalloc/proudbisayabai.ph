@@ -9,7 +9,7 @@ categories:
 tags:
   - AntiDynasty
   - Palace
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2533/8cf6d01785311191-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2533/8cf6d01785311191-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2533/8cf6d01785311191-2.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-29T07:46:57.689Z'
+pbb_post_id: 2533
 ---
 
 President Ferdinand R. Marcos Jr. remains committed to passing an anti-political dynasty law during his administration despite its absence from his fifth State of the Nation Address (SONA), Malacañang said on Wednesday.

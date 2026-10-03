@@ -9,7 +9,7 @@ categories:
 tags:
   - Balay Silangan Drug Reformation Center
   - Lapu-Lapu City
-views: '0'
+views: "10"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2454/e4c2f11784534526-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2454/e4c2f11784534526-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2454/e4c2f11784534526-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-20T08:00:57.637Z'
+pbb_post_id: 2454
 ---
 
 The Lapu-Lapu City Government has opened a Balay Silangan Drug Reformation Center on Olango Island to provide community-based rehabilitation services for qualified individuals recovering from illegal drug use.

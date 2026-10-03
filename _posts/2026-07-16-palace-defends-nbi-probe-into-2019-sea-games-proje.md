@@ -9,7 +9,7 @@ categories:
 tags:
   - NBI Probe
   - SEA Games 2019 Infra Projects
-views: '0'
+views: "9"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2423/9884c91784199557-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2423/9884c91784199557-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2423/9884c91784199557-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-16T11:00:13.760Z'
+pbb_post_id: 2423
 ---
 
 Malacañang on Thursday defended the planned National Bureau of Investigation (NBI) investigation into alleged irregularities involving infrastructure projects for the 2019 Southeast Asian (SEA) Games, saying the probe is part of the agency’s mandate and should not be viewed as an attempt to pressure senator-judges in the impeachment trial of Vice President Sara Duterte.

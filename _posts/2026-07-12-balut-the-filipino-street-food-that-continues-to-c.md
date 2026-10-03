@@ -8,7 +8,7 @@ categories:
   - food
 tags:
   - Balut
-views: '0'
+views: "46"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2383/a5e3501783844544-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2383/a5e3501783844544-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2383/a5e3501783844544-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-12T08:24:44.154Z'
+pbb_post_id: 2383
 ---
 
 For many Filipinos, the day does not always end after dinner. As the streets become quieter and food stalls begin to light up, one familiar delicacy continues to attract late-night food lovers—balut.

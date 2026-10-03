@@ -9,7 +9,7 @@ categories:
 tags:
   - AdZU
   - Shooting Incident
-views: '0'
+views: "113"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2791/a9d0601787892173-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2791/a9d0601787892173-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2791/a9d0601787892173-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-28T04:43:18.377Z'
+pbb_post_id: 2791
 ---
 
 Criminal charges have been filed against the father of the student who carried out the fatal shooting at the Ateneo de Zamboanga University (ADZU) Junior High School and a school security personnel over lapses linked to the Aug. 18 incident, the Philippine National Police (PNP) said Thursday.

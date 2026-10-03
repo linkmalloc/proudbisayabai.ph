@@ -9,7 +9,7 @@ tags:
   - areca palm hut
   -  resort
   -  nature               
-views: "10"
+views: "737"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/areca_palm/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/areca_palm/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/areca_palm/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: "Janus Vince Bas | Daryl David Thompson"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 370
 ---
 ****
 Catmon, a town in Cebu, Philippines, is well-known for its stunning waterfalls and picturesque natural settings. The Areca Palm Hut, a beautiful eco-resort tucked away in the middle of luxuriant foliage, is the most recent attraction to draw both tourists and residents alike.  

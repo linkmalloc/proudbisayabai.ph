@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Alegria
-views: '0'
+views: "81"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2403/cb03e21784099656-1.JPG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2403/cb03e21784099656-1.JPG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2403/cb03e21784099656-1.JPG
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-15T07:15:27.189Z'
+pbb_post_id: 2403
 ---
 
 An infant sustained cuts to the fingers during a baptism ceremony at Alegria Church after coming into contact with a glass candle holder reportedly required by the parish for the rite.

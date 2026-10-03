@@ -9,7 +9,7 @@ categories:
 tags:
   - Pageantry
   - Lifestyle
-views: '0'
+views: "24"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2412/f9f9311784102637-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2412/f9f9311784102637-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2412/f9f9311784102637-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-15T08:04:54.610Z'
+pbb_post_id: 2412
 ---
 
 Beauty pageants are more than entertainment in the Philippines. They're a national obsession, filling barangay fiestas, school events, and international watch parties with the same excitement reserved for boxing and basketball.

@@ -10,7 +10,7 @@ categories:
   - food
 tags:
   - Tuslob Buwa
-views: '10'
+views: "80"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1986/5928261780453254-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1986/5928261780453254-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1986/5928261780453254-1.jpeg
@@ -24,6 +24,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1986
 ---
 
 Ask a Cebuano to name a dish that truly represents the city's street food culture, and chances are Tuslob Buwa will be one of the first answers.

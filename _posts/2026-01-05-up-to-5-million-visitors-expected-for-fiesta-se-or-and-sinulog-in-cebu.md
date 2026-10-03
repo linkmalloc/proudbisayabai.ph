@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - Sinulog2026
-views: '10'
+views: "44"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/905/ae448d1767691856-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/905/ae448d1767691856-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/905/ae448d1767691856-2.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-06T00:00:00
 published: true
+pbb_post_id: 905
 ---
 
 The streets of Cebu are gearing up to pulse with millions of feet, colors, and music as the city prepares for the 461st Fiesta Señor and Sinulog Grand Parade.

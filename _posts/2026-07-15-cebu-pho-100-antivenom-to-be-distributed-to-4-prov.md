@@ -9,7 +9,7 @@ categories:
 tags:
   - Antivenom
   - Hospitals
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2409/85d8b11784101943-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2409/85d8b11784101943-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2409/85d8b11784101943-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-15T07:52:24.997Z'
+pbb_post_id: 2409
 ---
 
 The Cebu Provincial Government has secured around 100 vials of polyvalent antivenom to be distributed to four provincial hospitals for free.

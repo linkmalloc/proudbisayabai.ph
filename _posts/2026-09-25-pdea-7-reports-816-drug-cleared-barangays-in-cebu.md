@@ -9,7 +9,7 @@ categories:
 tags:
   - PDEA 7
   - Drug-cleared barangays
-views: '0'
+views: "113"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3017/3771571790321753-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3017/3771571790321753-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3017/3771571790321753-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-25T07:35:56.712Z'
+pbb_post_id: 3017
 ---
 
 More than three-fourths of Cebu Province’s barangays have been classified as drug-cleared, with 816 of the province’s 1,066 barangays now holding the status, according to the Philippine Drug Enforcement Agency in Central Visayas (PDEA 7).

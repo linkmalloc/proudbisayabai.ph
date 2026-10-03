@@ -9,7 +9,7 @@ categories:
 tags:
   - Survey
   - Confidential Funds
-views: '0'
+views: "53"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2898/2f83701789103923-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2898/2f83701789103923-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2898/2f83701789103923-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-11T05:19:14.597Z'
+pbb_post_id: 2898
 ---
 
 A majority of Filipino adults surveyed believe Vice President Sara Duterte should return P73 million in confidential funds disallowed by the Commission on Audit (COA), a new survey showed.

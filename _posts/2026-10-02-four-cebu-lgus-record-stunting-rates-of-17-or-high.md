@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Stunting rates
-views: '0'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3084/eeefd31790936855-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3084/eeefd31790936855-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3084/eeefd31790936855-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-10-02T10:38:13.158Z'
+pbb_post_id: 3084
 ---
 
 Four local government units (LGUs) in Cebu recorded child stunting prevalence rates of at least 17%, with Tuburan posting the highest rate at 20%, according to data from the Second Congressional Commission on Education (EDCOM 2).

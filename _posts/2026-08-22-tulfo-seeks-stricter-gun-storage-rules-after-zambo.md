@@ -10,7 +10,7 @@ tags:
   - Raffy Tulfo
   - AdZU
   - Zamboanga
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2733/e394fc1787377245-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2733/e394fc1787377245-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2733/e394fc1787377245-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-22T05:40:48.461Z'
+pbb_post_id: 2733
 ---
 
 Senator Raffy Tulfo is pushing for stricter firearm storage requirements and stronger accountability for gun owners following the fatal shooting at Ateneo de Zamboanga University on Aug. 18.

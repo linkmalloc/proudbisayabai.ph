@@ -14,7 +14,7 @@ categories:
 tags:
   - Religion
   - Catholics
-views: '10'
+views: "31"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1805/b2d6a01778971251-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1805/b2d6a01778971251-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1805/b2d6a01778971251-1.jpeg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1805
 ---
 
 Christians around the world observe Ascension Sunday as a significant event in the liturgical calendar, commemorating the ascension of Jesus Christ into heaven forty days after His resurrection. The occasion reminds believers of Christ’s victory over death and His promise to remain spiritually present with His followers.

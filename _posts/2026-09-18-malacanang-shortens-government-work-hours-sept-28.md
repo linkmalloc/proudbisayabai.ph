@@ -10,7 +10,7 @@ tags:
   - Family Day
   - government
   - shortened hours
-views: '0'
+views: "29"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2960/d581f11789719631-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2960/d581f11789719631-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2960/d581f11789719631-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-18T08:20:34.815Z'
+pbb_post_id: 2960
 ---
 
 Government employees in the executive branch will have a shortened workday on Sept. 28 as Malacañang gives them time to celebrate National Family Week and Kainang Pamilya Mahalaga Day with their families.

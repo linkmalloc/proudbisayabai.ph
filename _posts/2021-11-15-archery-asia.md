@@ -10,7 +10,7 @@ tags:
   - archery-asia
   - nipa huts
   - moalboal               
-views: "10"
+views: "811"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/archeryasia/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/archeryasia/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/archeryasia/1.jpg
@@ -23,6 +23,7 @@ photo_credit: "Jericah Alob Giganto"
 photo_credit_link: ""
 editor: "Evner Negro"
 read_time: "3 minutes"
+pbb_post_id: 257
 ---
 ****
 ##### Archery-Asia Nipa Huts Moalboal - Philippines

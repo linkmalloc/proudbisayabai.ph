@@ -14,7 +14,7 @@ categories:
 tags:
   - BadBoysWingz
   - AyalaCenterCebu
-views: '10'
+views: "215"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/548/ed9bb51756100135-12.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/548/ed9bb51756100135-12.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/548/ed9bb51756100135-12.jpg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-08-23T00:00:00
+pbb_post_id: 548
 ---
 
 As Cebu continues to thrive as a lifestyle and entertainment destination, more people are seeking fun, relaxing spots to unwind — especially with their closest friends. Whether you’re fresh from a shopping spree or planning a night out, Bad Boys Wingz at Ayala Center Cebu is the perfect barkada hangout you’ve been looking for.

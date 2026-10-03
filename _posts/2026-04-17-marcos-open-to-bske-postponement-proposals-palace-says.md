@@ -12,7 +12,7 @@ tags:
   - Election
   - BongbongMarcos
   - Malacañang
-views: '10'
+views: "59"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1544/51aabf1776426309-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1544/51aabf1776426309-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1544/51aabf1776426309-1.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1544
 ---
 
 A possible delay in barangay elections is back on the table as Malacañang signaled openness to proposals that could redirect billions in public funds.

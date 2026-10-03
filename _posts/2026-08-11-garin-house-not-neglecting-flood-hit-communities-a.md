@@ -9,7 +9,7 @@ categories:
 tags:
   - House of Representatives
   - VP Sara Duterte Impeachment Trial
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2642/bfa86d1786430104-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2642/bfa86d1786430104-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2642/bfa86d1786430104-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-11T06:35:07.999Z'
+pbb_post_id: 2642
 ---
 
 Deputy Speaker Janette Garin on Monday rejected claims that the House of Representatives is prioritizing the impeachment proceedings against Vice President Sara Duterte over the needs of communities affected by heavy rains and flooding.

@@ -10,7 +10,7 @@ tags:
   - cebu
   -  fashion show
   -  archdiocese               
-views: "10"
+views: "27"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/archdiocese_fashion_show/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/archdiocese_fashion_show/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/archdiocese_fashion_show/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: "Voile cover"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 377
 ---
 ****
 **Cebu City – Philippines**, The Archdiocese of Cebu is set to showcase a fashion event that combines modern fashion with traditional Sunday's best, and it's all for a good cause, in the name of "Le Voile". Led by the group, 5 Loaves and 2 Fishes Inc., the event aims to raise funds for their target beneficiary. This fusion of contemporary and traditional fashion promises to be a one-of-a-kind event that will take place on June 03, 2023, at the Waterfront Hotel and Casino. With tickets priced at P6,000 per seat, this event is sure to be a night to remember.  

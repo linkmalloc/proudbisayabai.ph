@@ -10,7 +10,7 @@ tags:
   - floodcontrol
   - review
   - MandaueCity
-views: '0'
+views: "26"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2619/632c121786089461-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2619/632c121786089461-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2619/632c121786089461-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-07T07:57:43.288Z'
+pbb_post_id: 2619
 ---
 
 Despite years of flood control and drainage investments, the Mandaue City Council is seeking a review of existing projects to determine whether current infrastructure is enough to address the city’s worsening flooding problem.

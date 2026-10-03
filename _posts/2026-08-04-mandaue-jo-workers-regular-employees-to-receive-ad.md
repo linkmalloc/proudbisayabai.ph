@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Mandaue
-views: '0'
+views: "218"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2582/e04e8f1785826101-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2582/e04e8f1785826101-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2582/e04e8f1785826101-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-04T06:49:03.591Z'
+pbb_post_id: 2582
 ---
 
 Mandaue City government employees are set to receive additional benefits as part of the city’s Charter Day activities, including incentives for Job Order (JO) workers and other non-regular personnel, as well as the implementation of the third tranche of salary increases for regular employees.

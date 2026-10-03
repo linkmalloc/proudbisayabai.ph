@@ -10,7 +10,7 @@ categories:
   - news
 tags:
   - vaccine
-views: "10"
+views: "235"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hpv_vaccines/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hpv_vaccines/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hpv_vaccines/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: "PBB"
 photo_credit_link: ""
 editor: "Ariel Alegado - PBB Founder"
 read_time: "4 minutes"
+pbb_post_id: 429
 ---
 ****
 Dr. Mitzi Maria Chua, Dr. Jonathan Lim, and Ms. Elizabeth Tan at the 24th Philippine National Immunization Conference held at Radisson Blu in Cebu City Healthcare experts during the 24th Philippine National Immunization Conference held at Radisson Blu in Cebu City pushed for an early vaccination for children as young as nine years old against human papillomavirus (HPV).  

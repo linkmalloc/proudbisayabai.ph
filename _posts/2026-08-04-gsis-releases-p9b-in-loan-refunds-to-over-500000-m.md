@@ -9,7 +9,7 @@ categories:
 tags:
   - GSIS
   - Loan
-views: '0'
+views: "198"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2587/0bb5641785828544-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2587/0bb5641785828544-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2587/0bb5641785828544-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-04T07:29:06.275Z'
+pbb_post_id: 2587
 ---
 
 The Government Service Insurance System (GSIS) has refunded P9.06 billion in loan amortizations to more than 500,000 members and pensioners in just 24 days under the expanded Balik Ginhawa 2 program, significantly speeding up the delivery of financial relief compared to the original rollout.

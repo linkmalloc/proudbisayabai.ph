@@ -9,7 +9,7 @@ categories:
 tags:
   - DSWD
   - AdZU
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2712/c33a861787205555-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2712/c33a861787205555-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2712/c33a861787205555-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-20T05:59:22.707Z'
+pbb_post_id: 2712
 ---
 
 Department of Social Welfare and Development (DSWD) Secretary Rex Gatchalian flew to Zamboanga City Wednesday to check on students wounded in the Aug. 18 shooting at the Ateneo de Zamboanga University (ADZU) Junior High School campus.

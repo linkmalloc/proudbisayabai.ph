@@ -9,7 +9,7 @@ categories:
 tags:
   - Nestor Archival
   - Ombudsman
-views: '0'
+views: "37"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2816/b67a4e1788251241-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2816/b67a4e1788251241-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2816/b67a4e1788251241-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-09-01T08:27:55.757Z'
+pbb_post_id: 2816
 ---
 
 Cebu City Mayor Nestor Archival Sr. said he was “sad” over a second complaint filed against him before the Ombudsman, as he defended his ownership of property inside Monterrazas de Cebu and his decision not to issue a cease-and-desist order against the development.

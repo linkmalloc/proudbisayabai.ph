@@ -9,7 +9,7 @@ categories:
 tags:
   - Seafarers
   - scarboroughshoal
-views: '10'
+views: "66"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1012/17bad61769230879-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1012/17bad61769230879-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1012/17bad61769230879-2.jpeg
@@ -23,6 +23,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1012
 ---
 
 &#x20;Two Filipino crew members aboard a Singaporean-flagged cargo vessel have died after their ship capsized near Scarborough Shoal, while search and rescue operations continue for the missing.

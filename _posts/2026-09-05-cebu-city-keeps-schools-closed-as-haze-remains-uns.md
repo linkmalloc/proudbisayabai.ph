@@ -8,7 +8,7 @@ categories:
   - news
 tags:
   - Haze
-views: '0'
+views: "317"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2857/f964f61788600358-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2857/f964f61788600358-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2857/f964f61788600358-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-05T09:26:04.061Z'
+pbb_post_id: 2857
 ---
 
 Cebu City students will remain out of face to face classes Saturday as authorities continue to treat the lingering haze as a health risk despite a gradual improvement in Metro Cebu’s air quality.

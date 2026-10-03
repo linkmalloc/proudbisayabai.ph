@@ -13,7 +13,7 @@ tags:
   - nature
   - pool
   - glamping
-views: "10"
+views: "1,254"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/guillen_plantaciones/cover1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/guillen_plantaciones/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/casa_guillen_plantacionesroca/cover1.jpg
@@ -26,6 +26,7 @@ photo_credit: "PBB"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 409
 ---
 ****
 \#EmbracingLokal: Embark on a journey to Guillen Plantaciones, an idyllic eco-farm and glamping destination designed for those yearning to escape the fast-paced rhythms of urban living. Perched at an elevation of 784 meters above sea level and a mere 40-minute drive from Cebu City, Guillen Plantaciones offers a warm welcome with its panoramic vistas. Here, you'll be treated to a 360-degree view of lush greenery, surrounded by the beauty of Negros Island, the serene Tanon Strait, and the rugged mountain ridges of Toledo. As you immerse yourself in the misty ambiance, don't miss the chance to witness the spectacular sunset that graces the tranquil haven.  

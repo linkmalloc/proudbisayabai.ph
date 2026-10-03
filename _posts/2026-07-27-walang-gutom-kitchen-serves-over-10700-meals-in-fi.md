@@ -9,7 +9,7 @@ categories:
 tags:
   - Walang Gutom Kitchen
   - DSWD 7
-views: '0'
+views: "10"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2511/b0a0831785138044-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2511/b0a0831785138044-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2511/b0a0831785138044-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-27T07:42:02.155Z'
+pbb_post_id: 2511
 ---
 
 More than 10,700 meals have reached vulnerable individuals and families through the Department of Social Welfare and Development’s (DSWD) Walang Gutom Kitchen (WGK) Cebu one month after its launch, while also connecting clients to social protection programs.

@@ -9,7 +9,7 @@ categories:
 tags:
   - Mandaue City
   - Incentives for Barangay Officials
-views: '0'
+views: "30"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2373/5deceb1783757110-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2373/5deceb1783757110-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2373/5deceb1783757110-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-11T08:05:15.681Z'
+pbb_post_id: 2373
 ---
 
 The Mandaue City Council is proposing a Service Recognition Incentive (SRI) for qualified barangay officials who have completed three consecutive terms, with eligible barangay captains set to receive up to P50,000 and barangay councilors up to P25,000.

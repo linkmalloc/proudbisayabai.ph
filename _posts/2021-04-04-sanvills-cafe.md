@@ -20,6 +20,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617546729
 photo_credit: "Juan Virtudazo | Pbb Contributor"
 photo_credit_link: ""
 published: false
+pbb_post_id: 140
 ---
 #### SanVills Cafe, Gingoog City 🍃☕️😯  
 

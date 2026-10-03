@@ -8,7 +8,7 @@ categories:
   - news
 tags:
   - PWD
-views: '0'
+views: "63"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2334/dff3d71783506500-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2334/dff3d71783506500-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2334/dff3d71783506500-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-08T10:28:24.736Z'
+pbb_post_id: 2334
 ---
 
 Qualified persons with disabilities (PWDs) in Cebu City will start receiving their quarterly financial assistance on Friday, July 10, as the city government resumes the release of cash aid under its annual support program.

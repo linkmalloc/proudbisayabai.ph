@@ -13,7 +13,7 @@ tags:
   - ZeroBalance
   - VSMMC
   - healthcare
-views: '10'
+views: "517"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1954/9cd76a1780128833-2.avif
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1954/9cd76a1780128833-2.avif
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1954/9cd76a1780128833-2.avif
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1954
 ---
 
 

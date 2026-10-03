@@ -9,7 +9,7 @@ categories:
 tags:
   - 2027 Budget
   - Free College Education
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2835/56b1c31788416380-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2835/56b1c31788416380-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2835/56b1c31788416380-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-03T06:19:41.609Z'
+pbb_post_id: 2835
 ---
 
 The Marcos administration is seeking P61.10 billion for the Universal Access to Quality Tertiary Education (UAQTE) Program in 2027, increasing funding for free higher education and technical-vocational training.

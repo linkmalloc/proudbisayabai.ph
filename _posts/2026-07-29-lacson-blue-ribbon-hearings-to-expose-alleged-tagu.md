@@ -9,7 +9,7 @@ categories:
 tags:
   - BlueRibbon
   - floodcontrol
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2534/bcb7ad1785311334-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2534/bcb7ad1785311334-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2534/bcb7ad1785311334-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-29T07:48:56.640Z'
+pbb_post_id: 2534
 ---
 
 Sen. Panfilo "Ping" Lacson on Wednesday said the Senate Blue Ribbon Committee's upcoming hearings on alleged anomalous infrastructure projects in Taguig City would lay out the details behind five case studies his team had submitted to the Office of the Ombudsman.

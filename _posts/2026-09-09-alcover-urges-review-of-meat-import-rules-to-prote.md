@@ -9,7 +9,7 @@ categories:
 tags:
   - Meat import
   - Jun Alcover
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2887/f3df881788947987-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2887/f3df881788947987-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2887/f3df881788947987-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-09T10:01:07.824Z'
+pbb_post_id: 2887
 ---
 
 Cebu City Councilor Jun Alcover is calling for a review of the country’s meat importation policies, saying local producers, processors and traders need a fair chance to compete with imported meat products.

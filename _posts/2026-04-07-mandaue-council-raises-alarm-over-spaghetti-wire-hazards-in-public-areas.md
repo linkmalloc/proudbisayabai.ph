@@ -12,7 +12,7 @@ categories:
   - story
 tags:
   - MandaueCity
-views: '10'
+views: "35"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1468/abc0bc1775535389-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1468/abc0bc1775535389-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1468/abc0bc1775535389-1.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1468
 ---
 
 The Mandaue City Council has approved a resolution expressing concern over the growing number of dangling and improperly installed telecommunication and cable wires, often referred to as “spaghetti wires,” along major roads and public spaces.

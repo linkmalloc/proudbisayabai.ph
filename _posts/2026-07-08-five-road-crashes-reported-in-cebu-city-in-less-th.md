@@ -9,7 +9,7 @@ categories:
 tags:
   - Traffic
   - CCTO
-views: '0'
+views: "28"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2330/3d5eb71783474883-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2330/3d5eb71783474883-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2330/3d5eb71783474883-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-08T01:41:25.301Z'
+pbb_post_id: 2330
 ---
 
   

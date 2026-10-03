@@ -14,7 +14,7 @@ tags:
   -  tops
   -  cebu
   -  city lights               
-views: "10"
+views: "1,136"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lavie_in_the_sky/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lavie_in_the_sky/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lavie_in_the_sky/cover.jpg
@@ -27,6 +27,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 388
 ---
 ****
 For the lovebirds and single people longing for self-reflection, La Vie in the Sky is the right place for you! The perfect city lights viewing spot is great for any of your occasions. You’ll surely fall in love with the food and wine, and of course the overlooking view of the hustle and bustle of the city. Not only that, their interior design fits any of your aesthetics perfect for your Instagram stories and reels. Feels like Paris but in Cebu!  

@@ -9,7 +9,7 @@ categories:
 tags:
   - 2019 SEA Games project charges
   - Ombudsman
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2445/5285f81784368430-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2445/5285f81784368430-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2445/5285f81784368430-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-18T09:53:52.646Z'
+pbb_post_id: 2445
 ---
 
 Ombudsman Jesus Crispin Remulla said the Office of the Ombudsman will review its previous ruling dismissing charges linked to infrastructure projects built for the Philippines’ hosting of the 2019 Southeast Asian Games (SEAG).

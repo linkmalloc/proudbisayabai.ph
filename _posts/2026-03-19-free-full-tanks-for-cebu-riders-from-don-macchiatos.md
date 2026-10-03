@@ -12,7 +12,7 @@ categories:
 tags:
   - DonMacchiatos
   - freefulltank
-views: '10'
+views: "57"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1337/24265f1773907688-3.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1337/24265f1773907688-3.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1337/24265f1773907688-3.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1337
 ---
 
 As fuel prices continue to climb, hundreds of motorcycle riders found relief on Thursday, March 19, after Don Macchiatos Philippines provided free full-tank refills during a fuel giveaway at Shell South Road Properties.

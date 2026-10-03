@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Martin Romualdez
-views: '0'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2942/81a9f01789540114-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2942/81a9f01789540114-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2942/81a9f01789540114-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-09-16T06:28:34.344Z'
+pbb_post_id: 2942
 ---
 
 MANILA — Former House Speaker Martin Romualdez should receive the same treatment as other detainees and be subject to established legal procedures following his transfer to the Quezon City Jail Male Dormitory in Payatas, Malacañang said Tuesday.

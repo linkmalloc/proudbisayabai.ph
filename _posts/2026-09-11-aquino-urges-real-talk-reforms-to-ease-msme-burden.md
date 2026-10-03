@@ -9,7 +9,7 @@ categories:
 tags:
   - Bam Aquino
   - MSMEs
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2905/3732701789120075-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2905/3732701789120075-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2905/3732701789120075-2.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-09-11T09:47:11.250Z'
+pbb_post_id: 2905
 ---
 
 Senator Bam Aquino urged government regulators to reduce unnecessary requirements and address corruption affecting micro, small and medium enterprises (MSMEs) as entrepreneurs face inflation, a weakening peso and recurring natural disasters.

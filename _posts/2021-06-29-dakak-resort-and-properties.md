@@ -9,7 +9,7 @@ tags:
   - beach
   - resort
   - mindanao
-views: "49,021"
+views: "252"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dakak_resort_and_properties/8.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dakak_resort_and_properties/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dakak_resort_and_properties/8.jpg
@@ -17,6 +17,7 @@ photo_credit: "Dakak Park And Beach Resort Via Mark Lester Oche"
 photo_credit_link: ""
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "5 minutes"
+pbb_post_id: 204
 ---
 ##### Dakak Park And Beach Resort
   

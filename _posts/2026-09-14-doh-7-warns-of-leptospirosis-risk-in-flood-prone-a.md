@@ -11,7 +11,7 @@ tags:
   - DOH
   - Department of Health
   - Leptospirosis
-views: '0'
+views: "37"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2917/51df551789370088-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2917/51df551789370088-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2917/51df551789370088-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-14T07:15:05.360Z'
+pbb_post_id: 2917
 ---
 
 The Department of Health Central Visayas (DOH 7) has warned residents in flood prone areas to avoid exposure to potentially contaminated water and mud after 273 leptospirosis cases, including 18 deaths, were recorded in the region from Jan. 1 to Sept. 8, 2026.

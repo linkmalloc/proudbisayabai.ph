@@ -9,7 +9,7 @@ categories:
 tags:
   - DOH
   - government medical assistance
-views: '0'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2990/37f41a1790131109-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2990/37f41a1790131109-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2990/37f41a1790131109-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-23T02:38:29.912Z'
+pbb_post_id: 2990
 ---
 
 Patients receiving treatment in participating private hospitals may qualify for government medical assistance under the expanded Medical Assistance to Indigent and Financially Incapacitated Patients (MAIFIP) program, the Department of Health (DOH) said Monday.

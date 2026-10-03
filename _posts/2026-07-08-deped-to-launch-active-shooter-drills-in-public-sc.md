@@ -11,7 +11,7 @@ categories:
 tags:
   - DepEd
   - SonnyAngara
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2338/ce05dc1783506795-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2338/ce05dc1783506795-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2338/ce05dc1783506795-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-08T10:33:41.532Z'
+pbb_post_id: 2338
 ---
 
 The Department of Education (DepEd) will introduce active shooter drills in public schools as part of heightened security measures following the deadly shooting at a public high school last month.

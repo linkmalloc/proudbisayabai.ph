@@ -11,7 +11,7 @@ tags:
   - billiards
   - drink
   - restobar
-views: "10"
+views: "928"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/aha_billiards/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/aha_billiards/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/aha_billiards/cover.jpg
@@ -24,6 +24,7 @@ photo_credit: "PBB"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 418
 ---
 ****
 A.H.A Billiards and Restobar offers a variety of billiards tables, as well as a full bar and restaurant. The menu features a wide variety of dishes, from Filipino classics to international favorites. There is something for everyone to enjoy at A.H.A Billiards and Restobar.  

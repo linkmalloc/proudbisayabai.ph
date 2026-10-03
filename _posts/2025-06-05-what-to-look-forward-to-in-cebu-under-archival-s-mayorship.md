@@ -16,7 +16,7 @@ tags:
   - archibal
   - cebu mayor
   - politics
-views: '10'
+views: "162"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/563/c266851749160967-6.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/563/c266851749160967-6.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/563/c266851749160967-6.jpg
@@ -30,6 +30,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-06-06T00:00:00
+pbb_post_id: 516
 ---
 
 In a historic turn of events during the recently concluded midterm elections, former city councilor and environmental advocate Nestor Archival Sr. clinched a resounding victory as the new mayor of Cebu City, besting both suspended Mayor Michael Rama and incumbent Mayor Raymond Garcia. The proclamation marks a significant political shift for the Queen City of the South, setting the stage for a leadership that promises a “Sustainable Cebu City”.

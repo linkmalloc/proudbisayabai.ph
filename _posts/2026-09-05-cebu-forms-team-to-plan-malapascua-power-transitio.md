@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Malapascua Power Transition
-views: '0'
+views: "161"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2850/c528c81788599616-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2850/c528c81788599616-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2850/c528c81788599616-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-05T09:13:42.103Z'
+pbb_post_id: 2850
 ---
 
 The Cebu Provincial Government is preparing for the eventual turnover of its interim power generation operations in Malapascua Island, Daanbantayan, nearly two years after it stepped in to keep the island supplied with electricity.

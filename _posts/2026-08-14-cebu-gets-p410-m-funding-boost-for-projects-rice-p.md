@@ -10,7 +10,7 @@ tags:
   - Special Allotment Release Order
   - Rice Assistance
   - Presidential Scholars Recognition
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2672/3e76381786689177-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2672/3e76381786689177-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2672/3e76381786689177-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-14T06:33:00.569Z'
+pbb_post_id: 2672
 ---
 
 The national government has released P410 million in funding for Cebu Province and Cebu City, with Executive Secretary Ralph Recto turning over a P265-million Special Allotment Release Order (SARO) to Gov. Pamela Baricuatro in Cordova on Thursday, Aug. 13.

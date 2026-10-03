@@ -12,7 +12,7 @@ tags:
   - KUKU Frozen Yogurt
   - Philippine Franchising
   - Franchising Opportunities
-views: '0'
+views: "75"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2384/b907dc1783922957-3.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2384/b907dc1783922957-3.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2384/b907dc1783922957-3.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 5 minutes
 published: true
 published_at: '2026-07-13T02:41:49.795Z'
+pbb_post_id: 2384
 ---
 
 The Philippine food and beverage industry continues to thrive, offering exciting opportunities for aspiring entrepreneurs looking to invest in trusted and fast-growing brands. Among the country’s emerging success stories are Don Macchiatos Philippines, Don Lemon Philippines, and KUKU Frozen Yogurt—three homegrown brands under the Don Macchiatos Group of Companies (DMGC) that have built a reputation for delivering quality products at affordable prices while empowering thousands of Filipinos through franchising. 

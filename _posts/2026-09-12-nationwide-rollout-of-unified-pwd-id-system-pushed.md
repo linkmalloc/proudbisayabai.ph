@@ -8,7 +8,7 @@ categories:
   - news
 tags:
   - PWD ID System
-views: '0'
+views: "768"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2911/813b501789202037-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2911/813b501789202037-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2911/813b501789202037-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-12T08:34:00.273Z'
+pbb_post_id: 2911
 ---
 
 The Department of Social Welfare and Development (DSWD) is backing the nationwide rollout of the Unified Persons with Disabilities ID System (UPWDIS), saying the system will help protect the rights of persons with disabilities while ensuring that government benefits reach qualified beneficiaries.

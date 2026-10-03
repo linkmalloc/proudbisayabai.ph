@@ -10,7 +10,7 @@ tags:
   - Redmi
   -  Xiaomi
   -  phone recommendation               
-views: "10"
+views: "65"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/redmi_note/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/redmi_note/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/redmi_note/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 381
 ---
 ****
 LOOK: Xiaomi recently unveiled its latest budget smartphone lineup, the Redmi Note 12 Series, at the Rocks Grill and Tavern.

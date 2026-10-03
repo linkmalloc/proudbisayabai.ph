@@ -9,7 +9,7 @@ categories:
 tags:
   - garden
   -  cebu               
-views: "10"
+views: "1,515"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/buwakan_ni_alejandra2/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/buwakan_ni_alejandra2/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/buwakan_ni_alejandra2/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: "Clynt Vincent Gentapa"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 374
 ---
 ****
 Discover the hidden greenery and take in the extraordinary succulents. This is it! The most relaxing thing you can do if you need a break from everything that's stressful in your life. Learn more about the vegetation while savoring a picnic on the grounds and strolling the adjacent trails. Buwakan ni Alejandra gives the impression that you are on another side of the world.  

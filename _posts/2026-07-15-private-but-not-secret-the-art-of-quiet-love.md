@@ -9,7 +9,7 @@ categories:
 tags:
   - Lifestyle
   - Relationships
-views: '0'
+views: "70"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2413/9932461784102798-1.png
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2413/9932461784102798-1.png
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2413/9932461784102798-1.png
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-15T08:06:39.760Z'
+pbb_post_id: 2413
 ---
 
 There’s a difference between keeping something to yourself and keeping something from someone. Somewhere along the way, a lot of couples in the age of Instagram stories and “soft launches” have started confusing the two terms.

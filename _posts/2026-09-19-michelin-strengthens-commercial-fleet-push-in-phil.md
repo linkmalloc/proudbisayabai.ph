@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Michelin
-views: '0'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2966/c327d41789751993-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2966/c327d41789751993-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2966/c327d41789751993-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-18T17:19:54.539Z'
+pbb_post_id: 2966
 ---
 
 Michelin has appointed BSB Junrose as one of its new importer-distributors for commercial transportation and fleet customers in the Philippines as the tire manufacturer expands its local distribution network.

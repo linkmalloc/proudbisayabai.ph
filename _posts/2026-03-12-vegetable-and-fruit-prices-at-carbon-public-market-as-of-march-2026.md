@@ -14,7 +14,7 @@ tags:
   - CarbonPublicMarket
   - fruits
   - vegetables
-views: '10'
+views: "384"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1293/48aafc1773317044-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1293/48aafc1773317044-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1293/48aafc1773317044-2.jpg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1293
 ---
 
 Cebu City, Philippines — Vendors at Carbon Public Market continue selling fresh produce despite price increases affecting several goods. The adjustments are reportedly linked to global supply concerns and rising costs associated with tensions in the Middle East.

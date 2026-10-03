@@ -10,7 +10,7 @@ tags:
   - BIR
   - taxrecords
   - VPDuterte
-views: '0'
+views: "24"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2538/3975e41785387507-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2538/3975e41785387507-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2538/3975e41785387507-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-30T04:58:43.240Z'
+pbb_post_id: 2538
 ---
 
 President Ferdinand R. Marcos Jr. authorized the Bureau of Internal Revenue (BIR) to turn over the tax records of Vice President Sara Duterte and her husband, lawyer Manases "Mans" Carpio, to the Senate Impeachment Court on Thursday.

@@ -10,7 +10,7 @@ tags:
   - PNP
   - Crime
   - Anti Drug Campaign
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2883/1ce9131788938608-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2883/1ce9131788938608-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2883/1ce9131788938608-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-09T07:23:32.091Z'
+pbb_post_id: 2883
 ---
 
 Nationwide incidents involving eight focus crimes fell by 41.77 percent in August compared with the same month last year, with the Philippine National Police (PNP) reporting 1,497 fewer cases.

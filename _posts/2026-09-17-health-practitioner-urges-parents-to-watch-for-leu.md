@@ -9,7 +9,7 @@ categories:
 tags:
   - Health
   - leukemia
-views: '0'
+views: "246"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2946/ab49f81789622369-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2946/ab49f81789622369-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2946/ab49f81789622369-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-17T05:19:33.646Z'
+pbb_post_id: 2946
 ---
 
 Parents can support their children’s health by providing nutritious food, ensuring adequate rest, and building healthy habits, while also staying alert for persistent symptoms that may signal leukemia, a physician from Baguio General Hospital and Medical Center (BGHMC) said.

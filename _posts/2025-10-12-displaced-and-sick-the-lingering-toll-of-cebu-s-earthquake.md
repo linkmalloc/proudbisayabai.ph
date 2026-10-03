@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - BogoCityEarthquake
-views: '10'
+views: "93"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/587/72cdd71760337983-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/587/72cdd71760337983-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/587/72cdd71760337983-2.jpg

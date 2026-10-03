@@ -9,7 +9,7 @@ categories:
 tags:
   - Mandaue City
   - National Heroes Day
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2810/2072121788167214-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2810/2072121788167214-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2810/2072121788167214-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-31T09:06:56.369Z'
+pbb_post_id: 2810
 ---
 
 Providing for a family can be an act of heroism, Mandaue City Vice Mayor Glenn Bercede said as the city marked National Heroes Day on Monday, Aug. 31.

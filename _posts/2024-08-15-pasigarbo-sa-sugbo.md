@@ -9,7 +9,7 @@ categories:
 tags:
   - pasigarbo
   -  cebu
-views: "10"
+views: "882"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pasigarbo-sa-sugbo/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pasigarbo-sa-sugbo/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pasigarbo-sa-sugbo/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: "エン バルドマン"
 photo_credit_link: "https://www.flickr.com/photos/enggul/"
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 466
 ---
 ****
 ###### Overview    

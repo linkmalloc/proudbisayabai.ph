@@ -10,7 +10,7 @@ tags:
   - Comelec
   - COC Filing
   - Elections
-views: '0'
+views: "43"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2834/384b791788416306-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2834/384b791788416306-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2834/384b791788416306-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-03T06:18:28.231Z'
+pbb_post_id: 2834
 ---
 
 The Commission on Elections (Comelec) is considering moving the filing of Certificates of Candidacy (COCs) for the May 2028 presidential and vice presidential elections to September 2027, ahead of the usual October schedule.

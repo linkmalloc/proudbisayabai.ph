@@ -12,7 +12,7 @@ categories:
 tags:
   - Lapu-LapuCity
   - MandaueCity
-views: '10'
+views: "29"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1486/cd80511775782393-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1486/cd80511775782393-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1486/cd80511775782393-1.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1486
 ---
 
 Both Mandaue City and Lapu-Lapu City will implement four-day workweek arrangements beginning next week, citing rising fuel prices and global energy strains linked to tensions in the Middle East.

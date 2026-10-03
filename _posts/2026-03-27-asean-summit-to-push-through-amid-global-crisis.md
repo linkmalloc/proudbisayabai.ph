@@ -12,7 +12,7 @@ categories:
   - story
 tags:
   - ASEANSummit
-views: '10'
+views: "24"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1403/766ffc1774595901-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1403/766ffc1774595901-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1403/766ffc1774595901-2.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1403
 ---
 
 President Ferdinand R. Marcos Jr. confirmed Friday that the 48th Association of Southeast Asian Nations (ASEAN) Leaders’ Summit and Related Summits in Cebu on May 8 to 9 will push through, following consultations with fellow Southeast Asian leaders.

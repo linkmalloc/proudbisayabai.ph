@@ -9,7 +9,7 @@ categories:
 tags:
   - Catmon
   - Castle Shore
-views: '0'
+views: "42"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2595/50309e1785885568-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2595/50309e1785885568-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2595/50309e1785885568-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-04T23:19:36.856Z'
+pbb_post_id: 2595
 ---
 
 Travelers planning a group getaway in northern Cebu can find both comfort and privacy at Castle Shore, a beachfront property designed to accommodate large families, corporate teams, and groups of friends looking for a relaxing seaside escape.

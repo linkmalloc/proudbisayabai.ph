@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Global retirement destinations
-views: '0'
+views: "35"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2947/742edd1789622608-1.JPG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2947/742edd1789622608-1.JPG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2947/742edd1789622608-1.JPG
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-17T05:23:36.211Z'
+pbb_post_id: 2947
 ---
 
 The Philippines placed eighth among the world’s top retirement destinations in the 2026 Rumavi Global Relocation Index, with the country scoring particularly high in affordability and housing costs.

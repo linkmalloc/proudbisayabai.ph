@@ -9,7 +9,7 @@ categories:
 tags:
   - '#AffordablePowerSupply #Cebu'
   - Business
-views: '0'
+views: "48"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2926/e12f371789446625-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2926/e12f371789446625-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2926/e12f371789446625-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-09-15T04:31:43.383Z'
+pbb_post_id: 2926
 ---
 
 The price and reliability of electricity are emerging as critical factors in Cebu’s ability to attract investments, expand businesses and sustain jobs, as the region faces tight power reserves and supply constraints.

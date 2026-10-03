@@ -9,7 +9,7 @@ categories:
 tags:
   - Cleft
   - World Health Organization
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2711/56d4441787205373-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2711/56d4441787205373-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2711/56d4441787205373-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-20T05:56:16.299Z'
+pbb_post_id: 2711
 ---
 
 Expanding access to comprehensive cleft care remains a priority as a child is born with a cleft every three minutes worldwide, according to the World Health Organization (WHO).

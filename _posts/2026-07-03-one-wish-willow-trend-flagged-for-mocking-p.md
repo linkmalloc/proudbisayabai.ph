@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - One Wish Willow
-views: '0'
+views: "37"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2295/a58bd81783070569-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2295/a58bd81783070569-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2295/a58bd81783070569-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-03T09:23:06.726Z'
+pbb_post_id: 2295
 ---
 
 The National Council on Disability Affairs (NCDA) has flagged a TikTok trend that it said mocks persons with disabilities, urging social media users and platforms to act against content that promotes ridicule and discrimination.

@@ -12,7 +12,7 @@ tags:
   - Wellness
   - Transformative leadership
   - Ascendra International
-views: '0'
+views: "47"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2933/4f43b51789465155-1.JPG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2933/4f43b51789465155-1.JPG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2933/4f43b51789465155-1.JPG
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-15T09:41:14.041Z'
+pbb_post_id: 2933
 ---
 
 Ascendra International Corporation has expanded its footprint in the Visayas, establishing a company-owned branch at City Times Square in Mandaue City on Monday, September 14, 2026. This launch highlights the firm's ongoing nationwide momentum.

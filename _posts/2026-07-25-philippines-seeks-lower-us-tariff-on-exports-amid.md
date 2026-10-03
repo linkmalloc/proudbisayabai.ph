@@ -9,7 +9,7 @@ categories:
 tags:
   - US Tariff
   - Exports
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2501/36ad8f1784961319-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2501/36ad8f1784961319-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2501/36ad8f1784961319-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-25T06:35:34.248Z'
+pbb_post_id: 2501
 ---
 
 The Philippines is seeking to negotiate a lower tariff imposed by the United States on Philippine exports following Washington’s concerns over the importation of goods allegedly produced using forced labor.

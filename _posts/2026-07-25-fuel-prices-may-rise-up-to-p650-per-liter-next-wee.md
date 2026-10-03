@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Fuel Prices
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2502/a7f0851784961480-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2502/a7f0851784961480-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2502/a7f0851784961480-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-25T06:38:43.114Z'
+pbb_post_id: 2502
 ---
 
 Fuel prices may increase by as much as P6.50 per liter next week as global oil markets respond to renewed supply disruption concerns linked to the closure of the Strait of Hormuz.

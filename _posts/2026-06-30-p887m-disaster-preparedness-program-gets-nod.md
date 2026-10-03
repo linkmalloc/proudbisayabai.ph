@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Disaster Preparedness
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2262/e2aee51782817553-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2262/e2aee51782817553-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2262/e2aee51782817553-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-06-30T11:06:32.129Z'
+pbb_post_id: 2262
 ---
 
 The Cebu Provincial Disaster Risk Reduction and Management Council (PDRRMC) approved the Provincial Disaster Risk Reduction and Management’s (PDRRM) P88.7-million trust fund program during a council meeting headed by the PDRRMC Chair Governor Pam Baricuatro on Monday, June 29, 2026, at the Capitol.

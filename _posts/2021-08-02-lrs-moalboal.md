@@ -10,7 +10,7 @@ tags:
   - staycation
   - resort
   - accommodation
-views: "10"
+views: "355"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lrs_moalboal_cebu/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lrs_moalboal_cebu/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lrs_moalboal_cebu/1.jpg
@@ -23,6 +23,7 @@ photo_credit: "LRS Moalboal Cebu via M'Angel"
 photo_credit_link: "https://m.facebook.com/LRS-Moalboal-Cebu-253288422035001"
 read_time: "3 minutes"
 location: "Tabuelan, Cebu"
+pbb_post_id: 221
 ---
 ****
 Moalboal is maybe a little town yet filled with numerous sights and activities in its bountiful waters. From patches of sand suitable for lazy afternoons to the colorful marine life down below, the municipality has it all for the beach and sea enthusiasts. But, at the end of the day, we need to find a place to stay that not only gets us closer to the adventures, but also serves as a home away from home.

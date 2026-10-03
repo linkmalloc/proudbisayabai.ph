@@ -12,7 +12,7 @@ categories:
 tags:
   - Accident
   - MandaueCity
-views: '10'
+views: "107"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1511/c847c61776137628-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1511/c847c61776137628-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1511/c847c61776137628-1.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1511
 ---
 
 A truck driver involved in a deadly road crash in Barangay Tingub, Mandaue City, has apologized to the victims’ families as authorities confirmed the death toll has risen to three.

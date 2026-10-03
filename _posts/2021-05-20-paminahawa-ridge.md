@@ -8,7 +8,7 @@ categories:
 tags:
   - mountain
   - mindanao
-views: "10"
+views: "902"
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "6 minutes"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paminahawa_ridge/1.jpg
@@ -16,6 +16,7 @@ img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paminahawa
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paminahawa_ridge/1.jpg
 photo_credit: "Marisol Pedregosa Alolino"
 photo_credit_link: ""
+pbb_post_id: 186
 ---
 #### Paminahawa Ridge  
 

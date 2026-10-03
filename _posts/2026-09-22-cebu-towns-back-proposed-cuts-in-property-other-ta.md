@@ -10,7 +10,7 @@ tags:
   - Cebu
   - proposed cuts
   - taxes
-views: '0'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2986/797b781790060985-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2986/797b781790060985-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2986/797b781790060985-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-22T07:09:46.503Z'
+pbb_post_id: 2986
 ---
 
 Years of economic shocks have pushed three Cebu municipalities to back a proposed rollback of provincial taxes, with local officials saying lower tax burdens could provide relief to households and businesses.

@@ -12,7 +12,7 @@ tags:
   - baligod
   - bodyguards
   - cyberlibel
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2541/3c58511785388063-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2541/3c58511785388063-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2541/3c58511785388063-1.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-30T05:07:46.070Z'
+pbb_post_id: 2541
 ---
 
 The Department of Justice (DOJ) has filed criminal complaints for perjury and cyber libel against the 18 former bodyguards of fugitive former lawmaker Zaldy Co and their lawyer before four Regional Trial Courts (RTCs) in Metro Manila.

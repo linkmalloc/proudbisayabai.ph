@@ -9,7 +9,7 @@ tags:
   - cebu
   -  restaurant
   -  food park               
-views: "10"
+views: "228"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tongdak/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tongdak/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tongdak/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: "Vivi Moore, Micheal Audrey Sagonoy"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "6 minutes"
+pbb_post_id: 331
 ---
 ****
 An invitation to a feast of some of the most mouthwatering and distinctive chicken recipes!  

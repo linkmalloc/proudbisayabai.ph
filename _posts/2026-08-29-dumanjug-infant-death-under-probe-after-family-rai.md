@@ -9,7 +9,7 @@ categories:
 tags:
   - Dumanjug
   - measles-rubella vaccine
-views: '0'
+views: "211"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2795/9e7e4f1787946393-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2795/9e7e4f1787946393-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2795/9e7e4f1787946393-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-28T19:46:38.039Z'
+pbb_post_id: 2795
 ---
 
 Health authorities are investigating the death of an infant in Dumanjug, Cebu, after the family raised concerns about a measles-rubella (MR) vaccine the child received two weeks before the death.

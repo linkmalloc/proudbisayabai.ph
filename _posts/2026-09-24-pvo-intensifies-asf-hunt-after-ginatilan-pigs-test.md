@@ -9,7 +9,7 @@ categories:
 tags:
   - Cebu Provincial Veterinary Office
   - African swine fever
-views: '0'
+views: "29"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3003/a3345f1790230308-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3003/a3345f1790230308-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3003/a3345f1790230308-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-24T06:11:50.200Z'
+pbb_post_id: 3003
 ---
 
 The Cebu Provincial Veterinary Office (PVO) has intensified its African swine fever (ASF) surveillance in Ginatilan after three pig samples tested positive for the virus, prompting the quarantine of two barangays and the establishment of six checkpoints.

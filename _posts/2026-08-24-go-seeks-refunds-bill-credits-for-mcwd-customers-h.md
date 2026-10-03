@@ -10,7 +10,7 @@ tags:
   - MCWD
   - refund
   - water
-views: '0'
+views: "32"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2750/0ae8f61787546817-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2750/0ae8f61787546817-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2750/0ae8f61787546817-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-24T04:46:58.607Z'
+pbb_post_id: 2750
 ---
 
 Some households paid for water they did not receive, prompting a city councilor to seek bill credits for consumers affected by prolonged Metropolitan Cebu Water District (MCWD) outages.

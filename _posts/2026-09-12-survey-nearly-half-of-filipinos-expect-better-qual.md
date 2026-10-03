@@ -9,7 +9,7 @@ categories:
 tags:
   - Survey
   - Quality of Life
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2910/952db21789201081-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2910/952db21789201081-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2910/952db21789201081-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-12T08:18:01.262Z'
+pbb_post_id: 2910
 ---
 
 Optimism among Filipinos about their quality of life climbed to its highest level in more than a year in June, with nearly half expecting their living conditions to improve over the next 12 months, according to the Social Weather Survey (SWS).

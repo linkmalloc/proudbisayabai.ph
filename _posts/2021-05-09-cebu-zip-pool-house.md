@@ -10,12 +10,13 @@ categories:
 tags:
   - staycation
   - cebu
-views: "10"
+views: "1,152"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cebu_zip_pool_house/13.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cebu_zip_pool_house/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cebu_zip_pool_house/13.jpg
 photo_credit: "Daniel Arquiola"
 photo_credit_link: ""
+pbb_post_id: 180
 ---
 #### Cebu Zip Pool House    
   

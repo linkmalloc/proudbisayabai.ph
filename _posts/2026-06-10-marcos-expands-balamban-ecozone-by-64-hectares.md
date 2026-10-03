@@ -12,7 +12,7 @@ categories:
 tags:
   - Balamban
   - Balamban Ecozone
-views: '10'
+views: "256"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2075/fd84961781087999-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2075/fd84961781087999-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2075/fd84961781087999-1.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 2075
 ---
 
 

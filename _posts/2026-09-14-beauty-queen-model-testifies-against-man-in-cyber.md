@@ -8,7 +8,7 @@ categories:
   - news
 tags:
   - Cyber-Extortion Case
-views: '0'
+views: "375"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2924/3856a11789371266-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2924/3856a11789371266-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2924/3856a11789371266-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-14T07:34:28.531Z'
+pbb_post_id: 2924
 ---
 
 A beauty queen-model testified before the Regional Trial Court Branch 76 in Naga City, Cebu, on Friday over an alleged online extortion scheme involving her private videos.

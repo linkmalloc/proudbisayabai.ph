@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-10-03T12:02:12.030Z'
+pbb_post_id: 3088
 ---
 
 Two Cebuanos secured the top two spots in the September 2026 Civil Engineers Licensure Examination, with a graduate of the Cebu Institute of Technology–University (CIT-U) emerging as the national topnotcher.

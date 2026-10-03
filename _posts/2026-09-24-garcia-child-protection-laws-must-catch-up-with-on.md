@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Child protection laws
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3001/b14fc81790230123-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3001/b14fc81790230123-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3001/b14fc81790230123-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-24T06:08:50.973Z'
+pbb_post_id: 3001
 ---
 
 Philippine laws protecting children from online sexual exploitation need to keep pace with a rapidly changing digital environment, Cebu 3rd District Rep. Karen Hope Garcia said.

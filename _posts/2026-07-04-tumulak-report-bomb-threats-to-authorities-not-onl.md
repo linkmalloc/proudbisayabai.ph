@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Bomb threat
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2304/3a04e71783154468-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2304/3a04e71783154468-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2304/3a04e71783154468-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-04T08:41:10.454Z'
+pbb_post_id: 2304
 ---
 
 Cebu City Disaster Risk Reduction and Management Council (CCDRRMC) head Councilor Dave Tumulak has urged the public to immediately report bomb threats to authorities instead of circulating them on social media, warning that online posts can trigger panic and disrupt emergency response operations.

@@ -9,7 +9,7 @@ categories:
 tags:
   - Urban Oasis
   - Talamban
-views: '0'
+views: "173"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2594/5a2da71785885346-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2594/5a2da71785885346-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2594/5a2da71785885346-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-04T23:15:49.088Z'
+pbb_post_id: 2594
 ---
 
 Amid the steady rhythm of urban life, D’ Family Park in Barangay Talamban continues to offer a rare sanctuary where towering trees, open green spaces, and fresh air provide a welcome respite from the city’s bustling streets.

@@ -9,7 +9,7 @@ categories:
 tags:
   - Tipsy
   - club
-views: '0'
+views: "68"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2381/776c2e1783817068-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2381/776c2e1783817068-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2381/776c2e1783817068-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-12T00:44:44.052Z'
+pbb_post_id: 2381
 ---
 
 Three years of unforgettable parties, world-class entertainment, and vibrant nightlife come together for one milestone celebration.

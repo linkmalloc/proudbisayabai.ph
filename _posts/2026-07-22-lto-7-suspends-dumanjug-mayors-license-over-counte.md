@@ -10,7 +10,7 @@ tags:
   - Suspension
   - LTO7
   - Dumanjug
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2477/2a3e591784706427-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2477/2a3e591784706427-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2477/2a3e591784706427-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-22T07:47:09.762Z'
+pbb_post_id: 2477
 ---
 
 The Land Transportation Office in Central Visayas (LTO 7) has suspended for 90 days the driver’s license of Dumanjug Mayor Efren “Gungun” Gica after a dashcam video showed him allegedly counterflowing before colliding with a van in Minglanilla.

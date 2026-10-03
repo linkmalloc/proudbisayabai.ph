@@ -10,7 +10,7 @@ tags:
 - featured
 author: PBB Admin
 read_time: 5 minutes
-views: 10k
+views: "139"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tops/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tops/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tops/1.jpg
@@ -22,6 +22,7 @@ published: true
 photo_credit: Proud Bisaya Bai, Photo Bloggers
 photo_credit_link: ''
 author_img: https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo-202601.jpg
+pbb_post_id: 5
 ---
 
 

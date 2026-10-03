@@ -9,7 +9,7 @@ categories:
 tags:
   - Peso
   - Economy
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3016/bc8ea91790312896-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3016/bc8ea91790312896-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3016/bc8ea91790312896-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-25T05:08:22.630Z'
+pbb_post_id: 3016
 ---
 
 Philippine stocks fell to their lowest level this year on Thursday while the peso weakened against the US dollar after the Asian Development Bank (ADB) and S&P Global Ratings cut their economic growth forecasts for the Philippines.

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - NCR Wage Increase
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2613/61c2311785997284-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2613/61c2311785997284-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2613/61c2311785997284-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-06T06:21:29.714Z'
+pbb_post_id: 2613
 ---
 
 The Senate on Wednesday called for the immediate lifting of the temporary restraining order (TRO) that stopped the implementation of the P85 daily minimum wage increase in the National Capital Region (NCR), saying the Labor Code prohibits courts from halting wage board proceedings.

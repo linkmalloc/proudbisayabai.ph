@@ -10,7 +10,7 @@ tags:
   - Tartanillas
   - Feature Story
   - Lifestyle
-views: '0'
+views: "44"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2556/0815271785483998-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2556/0815271785483998-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2556/0815271785483998-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-31T08:08:10.559Z'
+pbb_post_id: 2556
 ---
 
 When rain hits the flood-prone streets of Colon, everyone hurries to find a ride home. For _tartanilla_ horses and their owners, they withstand any weather to serve locals and tourists alike for their livelihood.

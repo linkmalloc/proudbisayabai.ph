@@ -9,7 +9,7 @@ categories:
 tags:
   - Supreme Court
   - Bar Review Coach
-views: '0'
+views: "40"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2907/6c64761789201971-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2907/6c64761789201971-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2907/6c64761789201971-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-12T08:16:10.093Z'
+pbb_post_id: 2907
 ---
 
 A Facebook post claiming that artificial intelligence would check the 2023 Bar Examinations prompted the Supreme Court to investigate, issue a clarification and eventually cite a Bar review coach for indirect contempt.

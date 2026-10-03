@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Tino Aid
-views: '0'
+views: "182"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2759/bc98df1787654209-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2759/bc98df1787654209-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2759/bc98df1787654209-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-25T10:38:36.165Z'
+pbb_post_id: 2759
 ---
 
 A total of 1,126 beneficiaries received the cash assistance, along with 10 kilos of rice provided by the national government.

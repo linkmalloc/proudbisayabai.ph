@@ -11,7 +11,7 @@ tags:
   - MCIA
   - Awards
   - Best Airports in Asia Pacific
-views: '0'
+views: "102"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2880/18ce8f1788936953-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2880/18ce8f1788936953-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2880/18ce8f1788936953-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-09T06:56:03.137Z'
+pbb_post_id: 2880
 ---
 
 Mactan Cebu International Airport (MCIA) has been recognized among the best airports in Asia Pacific for the second consecutive year while becoming the first and only Philippine airport to reach Level 3 of the Airports Council International (ACI) Airport Customer Experience Accreditation.

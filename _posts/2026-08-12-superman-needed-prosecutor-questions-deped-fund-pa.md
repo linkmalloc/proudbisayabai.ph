@@ -10,7 +10,7 @@ tags:
   - SaraDuterte
   - Impeachment
   - confidentialfunds
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2652/0aa7f71786515428-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2652/0aa7f71786515428-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2652/0aa7f71786515428-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-08-12T06:17:15.261Z'
+pbb_post_id: 2652
 ---
 
 Questions over how confidential funds were distributed across far-flung areas on the same dates took center stage in the impeachment trial on Tuesday, with a prosecutor invoking “Superman” to underscore the logistical concerns raised by the records.

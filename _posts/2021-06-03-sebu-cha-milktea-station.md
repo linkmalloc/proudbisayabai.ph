@@ -7,7 +7,7 @@ categories:
   - food
 tags:
   - milktea
-views: "10"
+views: "559"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sebu_cha_milktea_station/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sebu_cha_milktea_station/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sebu_cha_milktea_station/1.jpg
@@ -16,6 +16,7 @@ photo_credit: "SebuChaPhilippines"
 photo_credit_link: ""
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "3 minutes"
+pbb_post_id: 195
 ---
 ****
 TRENDING: Mga Bai you want to satisfy your Milktea cravings? Grab the chance to try some of their variety of Milktea Flavors and other menu at Sebu cha! 🥤😍  

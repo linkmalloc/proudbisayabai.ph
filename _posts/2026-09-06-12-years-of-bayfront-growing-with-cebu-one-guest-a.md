@@ -8,7 +8,7 @@ categories:
   - brand
 tags:
   - Bayfront
-views: '0'
+views: "46"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2859/953e261788704954-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2859/953e261788704954-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2859/953e261788704954-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-06T14:30:04.032Z'
+pbb_post_id: 2859
 ---
 
 For 12 years, Bayfront Hotel Cebu has welcomed travelers, families, business guests and residents, becoming part of countless visits, celebrations and everyday moments in Cebu.

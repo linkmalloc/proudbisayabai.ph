@@ -13,7 +13,7 @@ tags:
   - Tourism
   - CentralVisayas
   - Travel
-views: '10'
+views: "65"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1478/84f65e1775717963-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1478/84f65e1775717963-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1478/84f65e1775717963-1.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1478
 ---
 
 Central Visayas is starting to feel the effects of a slowdown in tourist spending, as bookings and revenues decline amid global uncertainties affecting travel demand.

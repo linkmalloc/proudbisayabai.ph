@@ -11,7 +11,7 @@ tags:
   - Matlex
   - Press Release
   - HaladSaPagtuoUpdates
-views: '0'
+views: "60"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2772/79b6091787724095-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2772/79b6091787724095-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2772/79b6091787724095-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-26T06:01:57.658Z'
+pbb_post_id: 2772
 ---
 
 Throughout its years of tenure, MATLEX has remained committed to bringing quality materials to its clientele’s needs. The brand actively searches, sources, develops and provides solutions that support client projects from start to finish.

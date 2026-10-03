@@ -11,7 +11,7 @@ tags:
   - cebu
   - shrimps
   - chicken
-views: "10"
+views: "313"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/indios_restobar/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/indios_restobar/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/indios_restobar/1.jpg
@@ -23,6 +23,7 @@ img_500_5:
 photo_credit: "Michael Sagonoy| Vivi Moore"
 photo_credit_link: ""
 read_time: "4 minutes"
+pbb_post_id: 228
 ---
 ****
 UNLI SUGBA IS REAL FOR ONLY PHP 299 😱 🦐🥩😍  

@@ -9,7 +9,7 @@ categories:
 tags:
   - Sports
   - PADS Adaptive Dragon Boat Racing
-views: '0'
+views: "35"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2841/c66d801788424947-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2841/c66d801788424947-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2841/c66d801788424947-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-03T08:42:28.823Z'
+pbb_post_id: 2841
 ---
 
 CEBU, PHILIPPINES — September 3, 2026 — The PADS Adaptive Dragon Boat Racing Team from Cebu is making a strong comeback on the international stage after securing back-to-back gold medals at the 15th IDBF Club Crew World Championships in Hualien, Taiwan.

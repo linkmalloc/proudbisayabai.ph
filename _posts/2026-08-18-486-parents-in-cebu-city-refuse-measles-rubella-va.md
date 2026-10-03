@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Measles-Rebulla Vaccination Drive
-views: '0'
+views: "106"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2697/957abf1787041990-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2697/957abf1787041990-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2697/957abf1787041990-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-18T08:33:13.308Z'
+pbb_post_id: 2697
 ---
 
 At least 486 parents in Cebu City have declined measles-rubella vaccination for their children during the first week of the city’s campaign, prompting authorities to step up efforts to address vaccine hesitancy.

@@ -9,7 +9,7 @@ tags:
   - falls
   - cebu
   - pinamungajan
-views: "2,773"
+views: "617"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinungkulan_falls/3.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinungkulan_falls/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinungkulan_falls/3.jpg
@@ -17,6 +17,7 @@ photo_credit: "Harjie G. Restauro"
 photo_credit_link: ""
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/logo/pbb-logo-202601.jpg"
 read_time: "3 minutes"
+pbb_post_id: 198
 ---
 #### Sinungkulan Falls     
 

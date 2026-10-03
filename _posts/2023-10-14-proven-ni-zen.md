@@ -10,7 +10,7 @@ tags:
   - proven
   - food
   - cebu
-views: "10"
+views: "195"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/proven_ni_zen/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/proven_ni_zen/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/proven_ni_zen/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: "Zheny Airen Dela Cerna"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 421
 ---
 ****
 In the vibrant heart of the Philippines, Cebu is a treasure trove of culinary wonders. Amidst the diversity of flavors that grace Cebu's culinary landscape, there's one street food that captures the essence of the region's love for gastronomy – "Flavored Chicken Proven," lovingly known as "Proben." Let's embark on a gastronomic journey to explore this delightful dish that takes the art of street food to new heights.  

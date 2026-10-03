@@ -10,7 +10,7 @@ tags:
   - Mandaue City
   - Traffic
   - Road Safety
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2515/29613a1785139326-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2515/29613a1785139326-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2515/29613a1785139326-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-27T08:02:22.824Z'
+pbb_post_id: 2515
 ---
 
 The Mandaue City Government has allocated more than P60 million for the gradual rehabilitation of aging traffic light systems across the city as part of efforts to improve traffic flow and road safety.

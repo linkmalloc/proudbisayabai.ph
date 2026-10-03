@@ -9,7 +9,7 @@ categories:
 tags:
   - Ferdinand Romualdez
   - Flood Control Issue
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2569/1c69a81785558421-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2569/1c69a81785558421-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2569/1c69a81785558421-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-01T04:27:03.537Z'
+pbb_post_id: 2569
 ---
 
 Former House Speaker Ferdinand Martin Romualdez on Friday questioned the Office of the Ombudsman’s continued reliance on witnesses who are facing cyber libel and perjury complaints in connection with the ongoing investigation into the flood control controversy.

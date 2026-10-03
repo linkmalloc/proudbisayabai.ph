@@ -9,7 +9,7 @@ categories:
 tags:
   - shell station
   -  gallery               
-views: "10"
+views: "917"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/shell/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/shell/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/shell/1.jpg
@@ -22,6 +22,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 354
 ---
 ****
 Try some fresh Mon Dough pastries and sip a coffee while unwinding and chatting with friends as you fall in love with the beautiful piece of art experience!  

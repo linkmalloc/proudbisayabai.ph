@@ -10,7 +10,7 @@ categories:
   - story
 tags:
   - PWD Rehab Center
-views: '0'
+views: "137"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2636/8d16f71786357508-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2636/8d16f71786357508-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2636/8d16f71786357508-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-10T10:25:10.081Z'
+pbb_post_id: 2636
 ---
 
 The Cebu Provincial Government is planning to establish a physiotherapy and rehabilitation center for persons with disabilities (PWDs) at the Provincial Capitol, which could become the first facility of its kind directly operated by a provincial government in the area.

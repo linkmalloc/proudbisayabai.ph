@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Illegal LPG Refilling
-views: '0'
+views: "173"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2342/c05b931783575969-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2342/c05b931783575969-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2342/c05b931783575969-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-09T05:46:09.202Z'
+pbb_post_id: 2342
 ---
 
   

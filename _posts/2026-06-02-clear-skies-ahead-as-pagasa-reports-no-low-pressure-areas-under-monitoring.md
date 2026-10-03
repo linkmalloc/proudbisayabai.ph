@@ -12,7 +12,7 @@ categories:
 tags:
   - PAGASA
   - Weather
-views: '10'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1978/6add421780380539-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1978/6add421780380539-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1978/6add421780380539-1.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1978
 ---
 
 Residents across the country may expect a more stable weather outlook following the departure of Severe Tropical Storm Jangmi, formerly known in the Philippines as “Domeng.”

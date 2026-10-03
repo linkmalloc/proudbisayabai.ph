@@ -9,7 +9,7 @@ tags:
   - cebuh
   -  omes
   -  camella homes               
-views: "10"
+views: "49"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camellahomes/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camellahomes/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camellahomes/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 355
 ---
 ****
 Cebu is undoubtedly a fantastic place to live in: it is vibrant, dynamic, and full of exciting activities and destinations. It is no surprise that many are looking for the perfect home in Cebu, especially one that best fits their family. One of the crucial considerations for homebuyers is the neighborhood’s suitability for raising and nurturing a household. Fortunately, there are many choices for families to thrive and grow, including Camella communities in Cebu.   

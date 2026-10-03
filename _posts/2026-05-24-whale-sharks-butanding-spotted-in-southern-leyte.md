@@ -16,7 +16,7 @@ tags:
   - Whale shark
   - Butanding
   - Leyte
-views: '10'
+views: "200"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1888/0c01381779671375-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1888/0c01381779671375-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1888/0c01381779671375-1.jpeg

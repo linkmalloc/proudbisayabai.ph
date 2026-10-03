@@ -10,7 +10,7 @@ tags:
   -  cebu
   -  temple
   -  taoism               
-views: "10"
+views: "1,050"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/taoist_temple/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/taoist_temple/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/taoist_temple/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: "Gracella Marie Cañete, Michael Audrey Jacobe Sagonoy, Mark Josep
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "6 minutes"
+pbb_post_id: 342
 ---
 ****
 Want to know a bit about Cebu's history and religion while getting a touch of the beauty of nature? The symbols of a story and its connection to the path through life!   

@@ -10,7 +10,7 @@ tags:
   - bohol
   - panglao
   - restaurant
-views: "10"
+views: "246"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mist/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mist/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mist/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 494
 ---
 <br>  
 Imagine dining in a restaurant that feels like a hidden forest paradise—a serene escape where world-class dining meets breathtaking nature. Welcome to MIST, a unique 3-tier treehouse restaurant nestled in the island paradise of Panglao, Bohol!  

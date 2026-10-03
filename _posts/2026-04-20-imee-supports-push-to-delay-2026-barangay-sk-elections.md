@@ -13,7 +13,7 @@ categories:
 tags:
   - SenatorImeeMarcos
   - BSKE
-views: '10'
+views: "32"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1562/c1d39a1776667548-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1562/c1d39a1776667548-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1562/c1d39a1776667548-1.jpg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1562
 ---
 
 A proposal to move the 2026 village and youth elections gained renewed political support after a senator backed postponement, while Malacañang said it remains open to reviewing legislative proposals linked to possible multibillion-peso savings.

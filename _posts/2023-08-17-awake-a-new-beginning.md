@@ -7,7 +7,7 @@ categories:
   - event
 tags:
   - kpop
-views: "10"
+views: "43"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/awake_sandara_concert_cebu/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/awake_sandara_concert_cebu/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/awake_sandara_concert_cebu/cover.jpg
@@ -22,6 +22,7 @@ editor: "PBB Admin"
 read_time: "4 minutes"
 event_date: 2023-09-23
 published: false
+pbb_post_id: 402
 ---
 ****
 CEBU, Philippines — One of the popular singer-actresses, Sandara Park, is among the lined-up Korean stars to perform at the concert that will take place in the City of Cebu, particularly at the City di Mare Events Grounds on September 23.

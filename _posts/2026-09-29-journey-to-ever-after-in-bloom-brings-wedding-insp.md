@@ -11,7 +11,7 @@ tags:
   - Savoy Hotel Mactan
   - Mercure Mactan
   - Megaworld Global Hotels and Resorts
-views: '0'
+views: "25"
 img_big_1000x600: ''
 img_big_3000x1144: ''
 img_500x500: ''
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-09-29T03:19:56.051Z'
+pbb_post_id: 3042
 ---
 
 Before the walk down the aisle comes a thousand little decisions—the dress, the flowers, the menu, the venue, the music, and the people who help bring a couple’s vision to life, all of which came together at Journey to Ever After: In Bloom, a two-day bridal fair held at Mactan Newtown Beach, and jointly hosted by Mercure Mactan Cebu and Savoy Hotel Mactan Newtown.

@@ -14,7 +14,7 @@ categories:
 tags:
   - iPhone
   - Apple
-views: '10'
+views: "82"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/563/ea1ebb1758268882-3.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/563/ea1ebb1758268882-3.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/563/ea1ebb1758268882-3.jpeg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-09-19T00:00:00
+pbb_post_id: 563
 ---
 
 Apple just unveiled its newest toys last September 9, 2025 — the **iPhone 17 lineup**, plus fresh Apple Watches, new AirPods Pro, and the release date for iOS 26. As always, the big question is: what’s new and is it worth your cash?

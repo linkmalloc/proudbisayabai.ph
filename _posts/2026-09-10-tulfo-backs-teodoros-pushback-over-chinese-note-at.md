@@ -10,7 +10,7 @@ tags:
   - Erwin Tulfo
   - Gilberto Teodoro Jr
   - Chinese note
-views: '0'
+views: "32"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2894/5655151789026147-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2894/5655151789026147-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2894/5655151789026147-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-10T07:42:29.835Z'
+pbb_post_id: 2894
 ---
 
 Sen. Erwin Tulfo on Wednesday backed Defense Secretary Gilberto Teodoro Jr.’s rejection of a Chinese note handed to him during a defense forum in Seoul, calling the move improper and deserving of a firm response.

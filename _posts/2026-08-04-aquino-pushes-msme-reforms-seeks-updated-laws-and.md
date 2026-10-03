@@ -9,7 +9,7 @@ categories:
 tags:
   - MSME
   - Bam Aquino
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2590/ed2a3a1785840002-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2590/ed2a3a1785840002-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2590/ed2a3a1785840002-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-04T10:40:05.182Z'
+pbb_post_id: 2590
 ---
 
 Sen. Bam Aquino is pushing for sweeping reforms to strengthen micro, small and medium enterprises (MSMEs), calling for updated laws, wider access to financing, and fewer regulatory hurdles that continue to burden small businesses.

@@ -9,7 +9,7 @@ categories:
 tags:
   - Mandaue City
   - Mandaue City Government Center
-views: '0'
+views: "50"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2451/8e4d9d1784534105-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2451/8e4d9d1784534105-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2451/8e4d9d1784534105-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-20T07:55:19.373Z'
+pbb_post_id: 2451
 ---
 
 The construction of the new Mandaue City Government Center in Barangay Tipolo has reached 31 percent completion, with city officials saying the project is progressing steadily despite delays that affected its earlier timeline.

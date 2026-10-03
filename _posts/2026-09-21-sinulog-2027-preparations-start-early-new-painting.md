@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Sinulog2027
-views: '0'
+views: "66"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2977/549ce61789980779-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2977/549ce61789980779-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2977/549ce61789980779-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-21T08:53:00.680Z'
+pbb_post_id: 2977
 ---
 
 Sinulog 2027 is taking shape months ahead of the festival, with organizers already working on its program and coordinating activities across different clusters.

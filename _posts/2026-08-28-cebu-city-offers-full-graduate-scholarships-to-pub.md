@@ -11,7 +11,7 @@ tags:
   - Public school teachers
   - School head
   - Cebu City
-views: '0'
+views: "243"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2784/063d951787891511-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2784/063d951787891511-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2784/063d951787891511-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-28T04:31:56.767Z'
+pbb_post_id: 2784
 ---
 
 Public school teachers and school heads in Cebu City can pursue master’s or doctoral degrees without paying tuition and other authorized school fees under a new city scholarship program.

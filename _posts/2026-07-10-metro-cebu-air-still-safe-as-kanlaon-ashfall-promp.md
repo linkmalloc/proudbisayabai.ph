@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Kanlaon Ashfall
-views: '0'
+views: "34"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2364/00dfe91783681011-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2364/00dfe91783681011-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2364/00dfe91783681011-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-10T10:56:52.233Z'
+pbb_post_id: 2364
 ---
 
 Air quality across Metro Cebu remained within the “good” category on Friday despite volcanic emissions from Mt. Kanlaon’s recent eruption, according to the Department of Environment and Natural Resources–Environmental Management Bureau (DENR-EMB) in Central Visayas.

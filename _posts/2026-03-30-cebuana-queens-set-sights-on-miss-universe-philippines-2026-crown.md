@@ -13,7 +13,7 @@ tags:
   - MissUniverse2026
   - AprielSmith
   - NicoleBorromeo
-views: '10'
+views: "60"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1423/0a56361775832336-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1423/0a56361775832336-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1423/0a56361775832336-2.jpg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1423
 ---
 
 Pride runs high in Cebu as two homegrown beauty queens, Apriel Smith of Cebu City and Nicole Borromeo of Cebu Province, take the national stage in the upcoming Miss Universe Philippines 2026 pageant.

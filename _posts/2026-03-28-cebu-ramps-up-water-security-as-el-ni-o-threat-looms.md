@@ -11,7 +11,7 @@ categories:
 tags:
   - WaterSecurity
   - ElNiño
-views: '10'
+views: "59"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1405/e5175f1774688570-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1405/e5175f1774688570-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1405/e5175f1774688570-2.jpeg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1405
 ---
 
 Cebu City is preparing for potential water shortages as the El Niño weather phenomenon approaches, Mayor Nestor Archival said.

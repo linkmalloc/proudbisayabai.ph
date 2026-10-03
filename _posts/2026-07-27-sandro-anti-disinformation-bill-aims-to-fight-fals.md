@@ -9,7 +9,7 @@ categories:
 tags:
   - Sandro Marcos
   - Anti-disinformation bill
-views: '0'
+views: "9"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2510/5891511785137355-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2510/5891511785137355-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2510/5891511785137355-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-27T07:29:20.677Z'
+pbb_post_id: 2510
 ---
 
 House Majority Leader Ferdinand Alexander “Sandro” Marcos said journalists and legitimate media organizations will have a role in strengthening safeguards under the proposed Digital Media Anti-False Information Act to ensure the measure will not be used to restrict press freedom.

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - HaladSaPagtuoUpdates
-views: '0'
+views: "74"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2805/5f4ad51788011049-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2805/5f4ad51788011049-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2805/5f4ad51788011049-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-29T13:44:20.488Z'
+pbb_post_id: 2805
 ---
 
 About 7,000 people gathered at the Cebu City Sports Center (CCSC) on Saturday, Aug. 29, for the inaugural Halad sa Pagtuo, a provincial festival that brought together Cebu’s religious and cultural traditions in one celebration.

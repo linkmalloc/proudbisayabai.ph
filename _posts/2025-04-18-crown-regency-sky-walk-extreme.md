@@ -12,7 +12,7 @@ tags:
   - sky walk extreme
   - heights
   - sky walk
-views: "10"
+views: "255"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/crown-regency/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/crown-regency/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/crown-regency/cover.jpg
@@ -25,6 +25,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 507
 ---
 <br>  
 Cebu’s skyline just got more exciting as Sky Experience Adventure’s Sky Walk Extreme, the country’s first and only sky walk experience, officially reopens to the public. Located at the Crown Regency Hotel & Towers, this one-of-a-kind attraction returns with upgraded safety features and an even more breathtaking view of the Queen City of the South.  

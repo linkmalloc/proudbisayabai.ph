@@ -9,7 +9,7 @@ categories:
   - story
 tags:
   - Capitol Anniversary
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2490/e726651784892488-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2490/e726651784892488-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2490/e726651784892488-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-24T11:28:37.671Z'
+pbb_post_id: 2490
 ---
 
 The Cebu Provincial Government will hold a leaner month-long celebration for its founding anniversary this August, focusing on public service activities, community outreach programs, and a new cultural showcase.

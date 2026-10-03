@@ -9,7 +9,7 @@ categories:
 tags:
   - Balamban
   - Feeding Program
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2430/6de7431784280785-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2430/6de7431784280785-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2430/6de7431784280785-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-17T09:33:11.459Z'
+pbb_post_id: 2430
 ---
 
 BALAMBAN became the starting point of Cebu’s P140-million provincewide feeding program aimed at improving the health and school performance of public school learners through regular breakfast meals.

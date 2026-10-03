@@ -9,7 +9,7 @@ categories:
 tags:
   - Sara Impeachment
   - Verdict
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2895/3af2a41789026208-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2895/3af2a41789026208-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2895/3af2a41789026208-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-10T07:43:34.158Z'
+pbb_post_id: 2895
 ---
 
 The Senate impeachment court is tightening its schedule for the impeachment trial of Vice President Sara Duterte, with Senate President Win Gatchalian saying Wednesday that a verdict could be reached before December.

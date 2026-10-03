@@ -10,7 +10,7 @@ tags:
   - PJ Garcia
   - province-wide campaign
   - 2028 elections
-views: '0'
+views: "42"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3055/b556af1790743349-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3055/b556af1790743349-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3055/b556af1790743349-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-30T04:42:29.763Z'
+pbb_post_id: 3055
 ---
 
 Former Cebu 3rd District Rep. Pablo John “PJ” Garcia is consulting political leaders and supporters across the province as he considers a run for Cebu governor in 2028.

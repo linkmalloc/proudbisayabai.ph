@@ -8,7 +8,7 @@ categories:
 tags:
   - food list
   -  cebu               
-views: "10"
+views: "492"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mgalami/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mgalami/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mgalami/cover.jpg
@@ -21,6 +21,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 368
 ---
 ****
 Cebuanos are ultimate food lovers and you are not a certified Cebuano if you haven’t tasted these Local Foods that we can call our own. Here’s our take on DA BEST BISDAK FOOD LIST na maka ingon jod ka ug “Lami kaayo”.

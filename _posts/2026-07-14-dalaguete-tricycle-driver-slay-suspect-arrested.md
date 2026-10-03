@@ -10,7 +10,7 @@ tags:
   - Dalaguete
   - CCPO
   - shooting
-views: '0'
+views: "2"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2395/7bf9ed1784016453-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2395/7bf9ed1784016453-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2395/7bf9ed1784016453-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-14T08:07:33.832Z'
+pbb_post_id: 2395
 ---
 
 The Cebu Police Provincial Office (CPPO) has arrested one of the suspects in the fatal shooting of a tricycle driver in Dalaguete, Cebu, less than 36 hours after the crime was committed.

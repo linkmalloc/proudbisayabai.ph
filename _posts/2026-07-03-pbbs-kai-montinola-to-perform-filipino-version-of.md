@@ -10,7 +10,7 @@ categories:
 tags:
   - Entertainment
   - Kai Montinola
-views: '0'
+views: "46"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2292/db04441783070078-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2292/db04441783070078-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2292/db04441783070078-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-03T09:14:57.896Z'
+pbb_post_id: 2292
 ---
 
 Cebuana Pinoy Big Brother alumna Kai Montinola is set to sing the Filipino rendition of the Disney hit song "How Far I'll Go" for the upcoming live-action adaptation of Moana this July 8.

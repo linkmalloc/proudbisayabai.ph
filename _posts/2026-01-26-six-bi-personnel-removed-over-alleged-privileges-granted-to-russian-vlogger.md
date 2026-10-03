@@ -12,7 +12,7 @@ categories:
 tags:
   - Vitaly
   - BureauImmigration
-views: '10'
+views: "39"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1019/d2f99d1769418380-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1019/d2f99d1769418380-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1019/d2f99d1769418380-2.jpg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1019
 ---
 
 

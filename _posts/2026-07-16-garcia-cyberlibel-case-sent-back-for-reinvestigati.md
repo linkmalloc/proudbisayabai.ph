@@ -10,7 +10,7 @@ categories:
 tags:
   - Byron Garcia
   - Cyberlibel Case
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2419/125d3c1784195045-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2419/125d3c1784195045-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2419/125d3c1784195045-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-16T09:44:15.446Z'
+pbb_post_id: 2419
 ---
 
 The cyberlibel case filed against former Cebu Provincial Government security consultant Byron Garcia will undergo reinvestigation after a Mandaue court deferred his arraignment and returned the complaint to the prosecutor’s office.

@@ -9,7 +9,7 @@ categories:
 tags:
   - restaurant
   - silog
-views: "10"
+views: "563"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paksilog/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paksilog/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paksilog/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 461
 ---
 ****
 Looking for a place that serves delicious, budget-friendly meals at any time of the day? Look no further than Pak’s Silogan in Guadalupe, Cebu City! Now open 24/7, this popular eatery is perfect for satisfying your cravings, whether it’s breakfast, lunch, dinner, or even a late-night snack. Located conveniently on J. Labra Street, right in front of the Our Lady of Guadalupe Parish Church, Pak's Silogan has quickly become a go-to spot for locals and visitors alike.  

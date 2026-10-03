@@ -22,6 +22,7 @@ img_500_5:
 photo_credit: "Micheal Sagonoy | Vivi Moore"
 photo_credit_link: ""
 published: false
+pbb_post_id: 62
 ---
 #### BettyCup Milktea Shop
 

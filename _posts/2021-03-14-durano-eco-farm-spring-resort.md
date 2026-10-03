@@ -19,6 +19,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615693576/d
 photo_credit: "Michael Audrey Jacobe Sagonoy"
 photo_credit_link: "www.instagram.com/michaelsagoo"
 published: false
+pbb_post_id: 90
 ---
 #### DURANO ECO FARM &amp; SPRING RESORT  
 Planning to escape from City life and have a break in awhile? Kanindot diri 😍  

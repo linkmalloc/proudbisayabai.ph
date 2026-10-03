@@ -9,7 +9,7 @@ categories:
 tags:
   - DOLE
   - Weather Conditions
-views: '0'
+views: "31"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2714/a5bade1787205725-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2714/a5bade1787205725-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2714/a5bade1787205725-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-20T06:02:08.329Z'
+pbb_post_id: 2714
 ---
 
 Private sector employers may suspend work during typhoons, heavy rains and other weather disturbances to protect the safety and health of their workers, the Department of Labor and Employment (DOLE) said Wednesday.

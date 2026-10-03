@@ -12,7 +12,7 @@ tags:
   - SenatorAquinoIV
   - NewClarkCity
   - IPs
-views: '0'
+views: "24"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2707/a4593b1787129618-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2707/a4593b1787129618-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2707/a4593b1787129618-1.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-19T08:53:44.258Z'
+pbb_post_id: 2707
 ---
 
 The Senate has opened an inquiry into the proposed 1,600-hectare Pax Silica development in New Clark City, Capas, Tarlac, amid concerns over the possible displacement of Indigenous Peoples (IPs) and farmers.

@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - BongbongMarcos
-views: '10'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1496/5e00521775888336-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1496/5e00521775888336-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1496/5e00521775888336-1.jpeg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1496
 ---
 
 Authorities escalated their campaign against online misinformation as the government moved to strengthen accountability measures for individuals spreading fake news on social media.

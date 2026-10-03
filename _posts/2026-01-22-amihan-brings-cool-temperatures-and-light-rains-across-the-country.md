@@ -13,7 +13,7 @@ categories:
 tags:
   - Amihan
   - PAGASA
-views: '10'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1003/d6ba8f1769154084-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1003/d6ba8f1769154084-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1003/d6ba8f1769154084-2.jpeg
@@ -28,6 +28,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-23T00:00:00
 published: true
+pbb_post_id: 1003
 ---
 
 Most parts of the Philippines continue to feel the effects of the northeast monsoon, or “amihan,” as it brings light rains across the country, the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA) reported on Friday.

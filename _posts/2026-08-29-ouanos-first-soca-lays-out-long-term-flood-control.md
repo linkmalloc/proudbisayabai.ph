@@ -9,7 +9,7 @@ categories:
 tags:
   - Mandaue City
   - State of the City Address
-views: '0'
+views: "21"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2803/389f911788001917-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2803/389f911788001917-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2803/389f911788001917-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-29T11:12:00.967Z'
+pbb_post_id: 2803
 ---
 
 Mandaue Mayor Thadeo Jovito “Jonkie” Ouano delivered his first State of the City Address (SOCA) on Friday, Aug. 28, acknowledging that Mandaue’s long-standing flooding problem will take time to solve while outlining projects aimed at improving the city’s resilience, basic services and investment climate.

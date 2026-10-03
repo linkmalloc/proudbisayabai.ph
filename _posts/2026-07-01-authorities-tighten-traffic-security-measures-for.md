@@ -9,7 +9,7 @@ categories:
 tags:
   - Rally
   - INC
-views: '0'
+views: "9"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2268/5fb9d81782893038-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2268/5fb9d81782893038-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2268/5fb9d81782893038-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-01T08:04:06.641Z'
+pbb_post_id: 2268
 ---
 
 The Philippine National Police (PNP) has recalibrated its operational strategy for the second day of the Iglesia ni Cristo (INC) protest on Wednesday, aiming to prevent a repeat of the heavy traffic congestion that affected major routes during the initial day of the assembly.

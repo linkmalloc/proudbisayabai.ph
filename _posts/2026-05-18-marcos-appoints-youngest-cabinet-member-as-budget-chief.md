@@ -12,7 +12,7 @@ categories:
 tags:
   - NationalGovernment
   - DBM
-views: '10'
+views: "202"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1816/2e2b4f1779084877-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1816/2e2b4f1779084877-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1816/2e2b4f1779084877-1.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1816
 ---
 
 President Ferdinand Marcos Jr. has appointed Department of Budget and Management (DBM) Undersecretary Kim Robert De Leon as the new Budget Secretary and the youngest Cabinet member, Malacañang announced on Monday.

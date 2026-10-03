@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-10-03T11:50:25.556Z'
+pbb_post_id: 3086
 ---
 
 Fuel costs will get a P3 billion cushion this month as the government rolls out subsidies for about 300,000 farmers, fisherfolk and drivers transporting agricultural products.

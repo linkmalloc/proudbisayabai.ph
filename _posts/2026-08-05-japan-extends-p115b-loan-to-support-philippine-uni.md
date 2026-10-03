@@ -9,7 +9,7 @@ categories:
 tags:
   - Japan
   - Philippine Universal Health Care program
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2606/e78fe31785914043-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2606/e78fe31785914043-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2606/e78fe31785914043-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-05T07:14:20.648Z'
+pbb_post_id: 2606
 ---
 
 Japan is providing a USD187.82 million (around P11.53 billion) loan to help strengthen the Philippines’ implementation of the Universal Health Care (UHC) program, the Department of Foreign Affairs (DFA) said.

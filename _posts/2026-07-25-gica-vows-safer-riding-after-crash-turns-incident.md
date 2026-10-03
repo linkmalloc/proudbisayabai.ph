@@ -9,7 +9,7 @@ categories:
 tags:
   - Gungun Gica
   - Dumanjug mayor
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2505/23266a1784962009-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2505/23266a1784962009-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2505/23266a1784962009-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-25T06:46:55.205Z'
+pbb_post_id: 2505
 ---
 
 Dumanjug Mayor Efren “Gungun” Gica said he is committed to changing his riding habits after a motorcycle crash in Minglanilla placed him under investigation for alleged traffic violations.

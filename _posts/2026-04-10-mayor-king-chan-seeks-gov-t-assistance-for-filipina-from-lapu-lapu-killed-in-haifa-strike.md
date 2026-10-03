@@ -14,7 +14,7 @@ categories:
 tags:
   - MayorAhongChan
   - LapuLapuCity
-views: '10'
+views: "21"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1490/27ee9d1775803540-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1490/27ee9d1775803540-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1490/27ee9d1775803540-1.jpg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1490
 ---
 
 Lapu-Lapu City Mayor Ma. Cynthia “Cindi” King-Chan has expressed deep sorrow over the death of Lucille Jean Olasiman-Gershovich, a Filipina killed in a missile attack in Haifa, Israel on April 5.

@@ -12,7 +12,7 @@ categories:
 tags:
   - Binignit
   - HolyWeek2026
-views: '10'
+views: "89"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1442/6225e81775134479-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1442/6225e81775134479-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1442/6225e81775134479-2.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1442
 ---
 
 In many parts of the Visayas, especially in Cebu and nearby provinces, binignit is more than just a dessert—it is a meaningful tradition rooted in faith, culture, and family life during Holy Week.

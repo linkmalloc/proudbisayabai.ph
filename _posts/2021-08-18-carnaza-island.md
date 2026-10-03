@@ -9,7 +9,7 @@ tags:
   - island
   - beach
   - cebu
-views: "19,001"
+views: "952"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carnaza_island/4.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carnaza_island/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carnaza_island/4.jpg
@@ -22,6 +22,7 @@ photo_credit: "Michael Audrey Jacobe Sagonoy, Digital Creator | Pobreng Laagan"
 photo_credit_link: ""
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/michael.jpg"
 read_time: "4 minutes"
+pbb_post_id: 226
 ---
 ###### Carnaza Island  
   

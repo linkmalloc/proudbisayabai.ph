@@ -18,7 +18,7 @@ tags:
   - MARSTEK Technologies
   - SOROTEC Philippines
   - HaladSaPagtuoUpdates
-views: '0'
+views: "29"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2792/3ef3961787897256-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2792/3ef3961787897256-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2792/3ef3961787897256-1.jpeg
@@ -33,6 +33,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-28T06:07:39.938Z'
+pbb_post_id: 2792
 ---
 
 What started as a passion project in 2022, led by Nickie San Juan and Ariel Alegado, Don Macchiatos has reshaped the coffee industry in an unprecedented capacity. Now it stands as a franchising titan in the country, with over 1,000 branches nationwide and counting. 

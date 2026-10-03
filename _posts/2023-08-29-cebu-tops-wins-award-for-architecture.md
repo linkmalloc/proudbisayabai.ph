@@ -10,7 +10,7 @@ tags:
   - award
   - cebu
   - tops
-views: "10"
+views: "1,053"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tops_international_award/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tops_international_award/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tops_international_award/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: "Tops Management"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 406
 ---
 ****
 Tops Cebu, a popular tourist destination in the city, has won a prestigious international award for its outstanding architecture. The award was given by the Asia Architecture Design Awards (AADA), which is a leading competition that recognizes excellence in architectural design in Asia.  

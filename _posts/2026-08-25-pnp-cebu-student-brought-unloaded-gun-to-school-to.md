@@ -10,7 +10,7 @@ categories:
 tags:
   - PNP
   - School Safety
-views: '0'
+views: "412"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2761/01b2991787654540-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2761/01b2991787654540-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2761/01b2991787654540-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-25T10:42:21.923Z'
+pbb_post_id: 2761
 ---
 
 A 14-year-old student in Cebu brought an unloaded revolver to school to intimidate students who allegedly bullied his friend, the Philippine National Police (PNP) said Monday.

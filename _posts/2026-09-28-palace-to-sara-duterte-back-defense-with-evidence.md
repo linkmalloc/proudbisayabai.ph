@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Impeachment trial
-views: '0'
+views: "7"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3032/7ea9001790580888-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3032/7ea9001790580888-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3032/7ea9001790580888-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-28T07:34:53.387Z'
+pbb_post_id: 3032
 ---
 
 Malacañang urged Vice President Sara Duterte to support her responses to allegations with evidence after she accused the Marcos administration of using political maneuvering and other tactics to undermine her.

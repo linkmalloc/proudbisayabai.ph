@@ -9,7 +9,7 @@ categories:
 tags:
   - OnlineThreats
   - police
-views: '0'
+views: "33"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2618/f55bde1786089392-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2618/f55bde1786089392-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2618/f55bde1786089392-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-07T07:56:35.365Z'
+pbb_post_id: 2618
 ---
 
 Additional police personnel have been deployed to three public schools in Mandaue City following online threats targeting students, as authorities strengthened campus security while investigating the posts.

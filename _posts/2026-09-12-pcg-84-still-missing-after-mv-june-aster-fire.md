@@ -9,7 +9,7 @@ categories:
 tags:
   - MV June Aster
   - Fire
-views: '0'
+views: "41"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2912/264ded1789202117-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2912/264ded1789202117-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2912/264ded1789202117-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-12T08:35:20.365Z'
+pbb_post_id: 2912
 ---
 
 The Philippine Coast Guard (PCG) has revised the number of people still unaccounted for after the fire aboard the passenger roll-on/roll-off (Ro-Ro) cargo vessel MV June Aster off Coron, Palawan, to 84 from the previously reported 86.

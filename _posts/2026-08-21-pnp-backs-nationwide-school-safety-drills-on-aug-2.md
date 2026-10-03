@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - School Safety Drills
-views: '0'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2727/ba79a11787301849-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2727/ba79a11787301849-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2727/ba79a11787301849-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-21T08:44:11.161Z'
+pbb_post_id: 2727
 ---
 
 The Philippine National Police (PNP) will provide personnel and resources for nationwide school safety drills led by the Department of Education (DepEd) on Aug. 25 as authorities strengthen measures against security threats on school campuses.

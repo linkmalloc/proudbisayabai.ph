@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - fatalroad
-views: '10'
+views: "1,836"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1516/0c84831776151171-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1516/0c84831776151171-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1516/0c84831776151171-1.jpg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1516
 ---
 
 

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Fisheries
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2329/8f55c11783421592-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2329/8f55c11783421592-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2329/8f55c11783421592-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-07T10:53:12.315Z'
+pbb_post_id: 2329
 ---
 
 Cebu Province is stepping up efforts to strengthen local food production and reduce its dependence on food supplies from neighboring provinces through a P22-million aquaculture program benefiting coastal communities in southern Cebu.

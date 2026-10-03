@@ -10,7 +10,7 @@ tags:
   - Balamban
   - Mountain
   - Buwakan ni Alejandra
-views: '0'
+views: "80"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2439/fc776c1784357007-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2439/fc776c1784357007-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2439/fc776c1784357007-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-18T06:43:32.634Z'
+pbb_post_id: 2439
 ---
 
 BALAMBAN, Cebu — Perched in the cool highlands of Barangay Gaas along the scenic Transcentral Highway, Buwakan ni Alejandra has become one of Cebu’s most photographed nature destinations. Known for its vibrant flower gardens and panoramic mountain views, the attraction offers visitors a refreshing escape from the city’s hustle and bustle.

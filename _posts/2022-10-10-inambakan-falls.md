@@ -9,7 +9,7 @@ tags:
   - waterfalls
   -  cebu
   -  southern cebu               
-views: "10"
+views: "265"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/inambakan_falls/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/inambakan_falls/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/inambakan_falls/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: "Yans Baroy"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: ""
+pbb_post_id: 329
 ---
 ****
 ##### Inambakan Falls  

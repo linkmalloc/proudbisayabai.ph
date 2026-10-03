@@ -10,7 +10,7 @@ tags:
   - cebu
   - cafe
   - coffee
-views: "10"
+views: "1,174"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/zero_x_cafe/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/zero_x_cafe/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/zero_x_cafe/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: Adrian Parami
 photo_credit_link:
 editor: "Ariel Alegado - PBB Founder"
 read_time: "3 minutes"
+pbb_post_id: 425
 ---
 ****
 In the vibrant and bustling streets of Cebu, a hidden gem awaits coffee enthusiasts, foodies, and those seeking an Instagram-worthy escape. Zero-X Café, the first-ever crypto-themed café in the city, has opened its doors, offering a unique fusion of craft coffee, delectable comfort food, and a cozy Japandi ambiance. 

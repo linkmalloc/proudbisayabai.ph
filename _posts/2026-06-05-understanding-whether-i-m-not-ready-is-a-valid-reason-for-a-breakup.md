@@ -14,7 +14,7 @@ tags:
   - Relationship
   - Breakup
   - Lifestyle
-views: '10'
+views: "63"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2021/832f981780670292-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2021/832f981780670292-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2021/832f981780670292-1.jpeg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 2021
 ---
 
 Entering a relationship is one of the most significant decisions a person can make. It is not something that should be taken lightly or entered into simply because of emotions in the moment. Relationships involve commitment, responsibility, and the willingness to become part of another person’s life.

@@ -12,7 +12,7 @@ categories:
   - story
 tags:
   - WeatherUpdate
-views: '10'
+views: "26"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/871/ffc87a1766900688-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/871/ffc87a1766900688-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/871/ffc87a1766900688-2.jpeg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-12-28T00:00:00
 published: true
+pbb_post_id: 871
 ---
 
 Cebuanos can expect generally fair but occasionally rainy weather through the final days of 2025, as easterlies continue to affect the Visayas, bringing partly cloudy skies with isolated rainshowers and thunderstorms, the state weather bureau said.

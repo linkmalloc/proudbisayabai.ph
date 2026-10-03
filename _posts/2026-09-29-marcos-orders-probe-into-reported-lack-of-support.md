@@ -10,7 +10,7 @@ tags:
   - PH
   - Athletes
   - Lack of support
-views: '0'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3052/021a4f1790660173-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3052/021a4f1790660173-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3052/021a4f1790660173-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-29T05:36:17.402Z'
+pbb_post_id: 3052
 ---
 
 President Ferdinand R. Marcos Jr. has ordered a review of the financial support provided to Filipino athletes competing in the 20th Asian Games in Aichi-Nagoya, Japan, following complaints from members of the Alas Pilipinas men’s volleyball team.

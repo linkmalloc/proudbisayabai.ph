@@ -14,7 +14,7 @@ categories:
 tags:
   - MarcoPoloPlazaCebu
   - CafeMarco
-views: '10'
+views: "139"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/991/25240f1769058698-3.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/991/25240f1769058698-3.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/991/25240f1769058698-3.jpg
@@ -29,6 +29,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-22T00:00:00
 published: true
+pbb_post_id: 991
 ---
 
 Marco Polo Plaza Cebu is redefining the weekday lunch break, proving that a premium hotel dining experience doesn't have to break the bank. Cafe Marco has officially launched its **Semi-Buffet Weekday Lunch**, a culinary offering designed for the modern Cebuano lifestyle—whether you are rushing for a quick bite, hosting a casual business meeting, or simply catching up with friends.

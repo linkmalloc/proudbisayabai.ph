@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - West Philippine Sea
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2272/9c0d1b1782893522-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2272/9c0d1b1782893522-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2272/9c0d1b1782893522-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-01T08:12:19.463Z'
+pbb_post_id: 2272
 ---
 
 Cebu City’s move to institutionalize the commemoration of the Philippines’ arbitral victory in the West Philippine Sea (WPS) has received support from the Department of National Defense (DND), placing the local initiative at the center of a renewed diplomatic tension with China.

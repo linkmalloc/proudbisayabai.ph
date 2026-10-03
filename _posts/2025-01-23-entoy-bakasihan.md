@@ -10,7 +10,7 @@ tags:
   - cebu
   - restaurant
   - cordova
-views: "10"
+views: "744"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/entoys/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/entoys/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/entoys/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 496
 ---
 <br>
 If you’re in Cebu and looking for an authentic culinary adventure, Entoy’s Bakasihan in Cordova should be at the top of your list. Located along Buagsong Barangay Road, this unassuming eatery is a favorite among locals and food enthusiasts. Known for its signature “bakasi” (eel stew), Entoy’s Bakasihan offers a unique dining experience steeped in tradition, flavor, and community pride.  

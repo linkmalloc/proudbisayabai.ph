@@ -10,7 +10,7 @@ tags:
   - PaxSilica
   - AI
   - datacenter
-views: '0'
+views: "28"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2775/0fc2841787796393-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2775/0fc2841787796393-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2775/0fc2841787796393-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-27T02:06:36.507Z'
+pbb_post_id: 2775
 ---
 
 Malacañang on Wednesday assured that transactions under the proposed Pax Silica initiative will protect Philippine interests and will not come at the expense of Filipinos’ welfare and rights.

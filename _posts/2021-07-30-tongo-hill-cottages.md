@@ -9,7 +9,7 @@ tags:
   - cottages
   - hills
   - nature
-views: "447"
+views: "170"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tongo_hill_cottages/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tongo_hill_cottages/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tongo_hill_cottages/1.jpg
@@ -23,6 +23,7 @@ photo_credit_link: ""
 read_time: "3 minutes"
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 location: "Tongo Hill, Moalboal, Southern Cebu"
+pbb_post_id: 219
 ---
 ###### Tongo Hill Cottages
 

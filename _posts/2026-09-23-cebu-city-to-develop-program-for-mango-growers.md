@@ -12,7 +12,7 @@ tags:
   - Mango growers
   - Cebu City
   - Comprehensive program
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2999/3316921790153205-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2999/3316921790153205-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2999/3316921790153205-1.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-23T08:46:45.976Z'
+pbb_post_id: 2999
 ---
 
 Cebu City is moving to develop a comprehensive program for its mango growers.

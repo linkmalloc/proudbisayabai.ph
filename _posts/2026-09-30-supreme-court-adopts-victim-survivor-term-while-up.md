@@ -10,7 +10,7 @@ tags:
   - victim-survivor
   - Supreme Court
   - rape conviction
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3063/01897e1790767111-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3063/01897e1790767111-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3063/01897e1790767111-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-30T11:18:32.224Z'
+pbb_post_id: 3063
 ---
 
 The Supreme Court has directed courts to use the term “victim-survivor” for people who have experienced sexual violence, emphasizing their dignity and resilience while recognizing the harm caused by such crimes.

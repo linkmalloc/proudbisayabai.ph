@@ -17,6 +17,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabai/image/upload/w_3000,h_1144,
 photo_credit: Monique Tanya Tirambulo Javier | The Fog House Facebook Page
 photo_credit_link: https://www.facebook.com/thefoghouse/
 published: false
+pbb_post_id: 18
 ---
 Experience The Fog House - a taste of how home feels like while being away from home  
 

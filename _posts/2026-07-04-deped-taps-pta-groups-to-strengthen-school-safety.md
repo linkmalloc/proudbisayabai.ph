@@ -9,7 +9,7 @@ categories:
 tags:
   - DepEd
   - PTA
-views: '0'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2303/82a5b81783154240-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2303/82a5b81783154240-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2303/82a5b81783154240-2.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-04T08:37:32.231Z'
+pbb_post_id: 2303
 ---
 
 The Department of Education (DepEd) on Friday called on parent-teacher associations (PTAs) to serve as key partners in strengthening safety measures in public schools nationwide, amid recent reports of violence involving learners and school personnel.

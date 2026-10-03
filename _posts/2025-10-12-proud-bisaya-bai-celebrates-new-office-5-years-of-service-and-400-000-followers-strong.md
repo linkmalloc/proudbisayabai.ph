@@ -14,7 +14,7 @@ categories:
 tags:
   - ProudBisayaBaiNewOffice
   - ProudBisayaBai5thYearAnniversary
-views: '10'
+views: "118"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/584/4706c31760331765-15.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/584/4706c31760331765-15.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/584/4706c31760331765-15.jpg
@@ -29,6 +29,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-10-13T00:00:00
 published: true
+pbb_post_id: 584
 ---
 
 Proud Bisaya Bai (PBB) marks an exciting new chapter as it officially opens its new, spacious, and modern office, a symbol of growth, collaboration, and the vibrant spirit that continues to drive the team forward.

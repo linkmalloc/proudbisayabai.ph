@@ -9,7 +9,7 @@ categories:
 tags:
   - Lapu-Lapu
   - PPP Center
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3045/504ca01790658916-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3045/504ca01790658916-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3045/504ca01790658916-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-29T05:15:23.523Z'
+pbb_post_id: 3045
 ---
 
 Lapu-Lapu City has become the first city in Region 7 to establish a formal partnership with the Public-Private Partnership (PPP) Center of the Philippines as it explores potential projects with private sector participation.

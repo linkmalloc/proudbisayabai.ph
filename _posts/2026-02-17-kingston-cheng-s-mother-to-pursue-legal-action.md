@@ -13,7 +13,7 @@ tags:
   - KingstonCheng
   - CCPO
   - BarangayBanilad
-views: '10'
+views: "2,041"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1153/b039e41771321849-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1153/b039e41771321849-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1153/b039e41771321849-2.jpg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1153
 ---
 
 The family of 23-year-old businessman Kingston Ralph Ko Cheng will file a case against the driver implicated in the hit-and-run incident that claimed his life, his mother announced on Tuesday, February 17.

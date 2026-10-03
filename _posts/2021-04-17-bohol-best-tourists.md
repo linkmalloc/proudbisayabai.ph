@@ -21,6 +21,7 @@ img_500_5: https://res.cloudinary.com/pbb1/image/upload/v1618668143/bohol_best_t
 photo_credit: "Caong Pequero"
 photo_credit_link: ""
 published: false
+pbb_post_id: 161
 ---
 #### Bohol BEST TOURISTS attractions. 🌴🌞🌊  
 

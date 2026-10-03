@@ -9,7 +9,7 @@ categories:
 tags:
   - PNP
   - '911'
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3035/b8cc581790581152-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3035/b8cc581790581152-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3035/b8cc581790581152-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-28T07:39:20.341Z'
+pbb_post_id: 3035
 ---
 
 The Philippine National Police (PNP) is aiming to raise its efficiency rate in handling Unified 911 emergency calls to 100 percent after recording a 96.15 percent rate from January to August.

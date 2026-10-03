@@ -9,7 +9,7 @@ categories:
 tags:
   - cebu
   -  caribbean cuisine               
-views: "10"
+views: "120"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bakoo/cover1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bakoo/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bakoo/cover1.jpg
@@ -22,6 +22,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 399
 ---
 ****
 Bakoo Caribbean RestoBar offers Cebu a taste of the Caribbean. Located in the heart of the city, Bakoo is the perfect place to escape the hustle and bustle of everyday life. The menu at Bakoo is full of delicious Caribbean dishes, such as jerk chicken, curry goat, and fried plantains. They also have a wide selection of drinks, including rum punch, mojitos, and pina coladas.  

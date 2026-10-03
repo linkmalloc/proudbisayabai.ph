@@ -17,7 +17,7 @@ tags:
   - ICC
   - PRRD
   - extrajudicialkillings
-views: '10'
+views: "43"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1218/45c0521772268414-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1218/45c0521772268414-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1218/45c0521772268414-2.jpg
@@ -31,6 +31,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1218
 ---
 
 Families of drug war victims, together with support groups and human rights advocates, gathered in Cebu City on Friday night, February 27, for a solemn justice watch event honoring those killed during the administration’s anti illegal drugs campaign under former president Rodrigo Duterte.

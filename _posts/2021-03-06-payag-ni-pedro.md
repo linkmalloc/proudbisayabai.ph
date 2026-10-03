@@ -22,6 +22,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615046446/p
 photo_credit: "Solo Traveler"
 photo_credit_link: "Https://www.facebook.com/solotravelernegros/"
 published: false
+pbb_post_id: 76
 ---
 #### PAYAG NI PEDRO
   

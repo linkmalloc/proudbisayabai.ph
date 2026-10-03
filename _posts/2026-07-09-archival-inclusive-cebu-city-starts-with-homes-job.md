@@ -9,7 +9,7 @@ categories:
 tags:
   - SOCA
   - Nestor Archival
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2351/83c3e01783595605-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2351/83c3e01783595605-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2351/83c3e01783595605-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-09T11:13:43.286Z'
+pbb_post_id: 2351
 ---
 
 Cebu City Mayor Nestor Archival highlighted the city’s housing, social welfare, employment, and education initiatives as part of the “Inclusive” component of his administration’s long-term development agenda during his first State of the City Address (SOCA).

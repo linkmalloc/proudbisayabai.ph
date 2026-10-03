@@ -9,7 +9,7 @@ categories:
   - news
 tags:
   - Arrest
-views: '0'
+views: "2,949"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2831/de04701788411879-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2831/de04701788411879-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2831/de04701788411879-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-03T05:04:41.619Z'
+pbb_post_id: 2831
 ---
 
 CEBU CITY — A man was arrested on August 28, 2026, following an alleged attempted rape incident in Sitio Ubos Pundoc, Barangay Basak Pardo, Cebu City.

@@ -9,7 +9,7 @@ tags:
   - cebu
   -  dalaguete
   -  father's day               
-views: "10"
+views: "78"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/fathers_day_di_tika_ika_ulaw_pa/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/fathers_day_di_tika_ika_ulaw_pa/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/fathers_day_di_tika_ika_ulaw_pa/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: "Guillerma Idea"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 309
 ---
 ****
 <div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div>

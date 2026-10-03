@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Fake News
-views: '0'
+views: "24"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2846/236a721788502226-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2846/236a721788502226-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2846/236a721788502226-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-04T06:10:42.001Z'
+pbb_post_id: 2846
 ---
 
 The Department of the Interior and Local Government (DILG) urged the public Thursday to verify information before sharing it, particularly during emergencies when unverified reports can quickly cause fear and confusion.

@@ -9,7 +9,7 @@ categories:
 tags:
   - Hit and Run
   - LTO
-views: '0'
+views: "38"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2287/cfb04b1783063716-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2287/cfb04b1783063716-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2287/cfb04b1783063716-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-03T07:28:47.723Z'
+pbb_post_id: 2287
 ---
 
 The Land Transportation Office in Central Visayas (LTO 7) has imposed a 90-day preventive suspension on the driver’s license of a 62-year-old motorist involved in a collision that left a Cebu City traffic enforcer seriously injured.

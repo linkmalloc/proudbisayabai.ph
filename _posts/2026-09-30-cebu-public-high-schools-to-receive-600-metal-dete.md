@@ -10,7 +10,7 @@ tags:
   - Metal dectors
   - DepEd
   - equipment turnover
-views: '0'
+views: "9"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3054/a51f6c1790742229-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3054/a51f6c1790742229-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3054/a51f6c1790742229-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-30T04:26:21.349Z'
+pbb_post_id: 3054
 ---
 
 Public high schools across Cebu Province will receive 600 metal detectors as the provincial government expands a multi-agency campaign against school violence and other threats.

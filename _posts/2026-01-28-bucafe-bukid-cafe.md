@@ -13,7 +13,7 @@ categories:
 tags:
   - Bucafe
   - Siquijor
-views: '10'
+views: "187"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1028/47e12f1769596991-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1028/47e12f1769596991-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1028/47e12f1769596991-2.jpg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1028
 ---
 
 Coffee will never be separate from travel it is part of the journey, the pause between destinations, and the moment you slow down to take it all in. In Siquijor, that pause leads you to [BuCafe “Bukid Cafe” Siquijor](https://www.facebook.com/profile.php?id=100083483195179&__cft__[0]=AZYAJinLTI78tIuMyJ3oAkOxP6i7Yhi9_Rr4DUnf1vq4BqQ6c53cDSWP4l5W48uLS_scS-6gPHdQ2I3yoSt3HGMEH1F4p2YBTb2-TMigmlYxQh5WZenH7Z1cwmfAkDMj3_0JEYXChXKV8batmyGNP1jdgIopYhdaJjzjxBRQujjZmg&__tn__=-]K-R), also known as Bukid Cafe, located in Cansayang, San Juan.

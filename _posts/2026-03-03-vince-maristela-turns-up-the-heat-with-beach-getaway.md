@@ -12,7 +12,7 @@ categories:
 tags:
   - VinceMaristela
   - PinoyBigBrother
-views: '10'
+views: "41"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1241/e8d3ff1772521760-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1241/e8d3ff1772521760-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1241/e8d3ff1772521760-2.jpg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1241
 ---
 
 

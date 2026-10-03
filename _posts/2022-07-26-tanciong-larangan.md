@@ -8,7 +8,7 @@ categories:
 tags:
   - larangan
   - nilarang               
-views: "10"
+views: "177"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tancionglarangan/5.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tancionglarangan/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tancionglarangan/5.jpg
@@ -21,6 +21,7 @@ photo_credit: "Ariel Alegado, Team Leader "
 photo_credit_link: ""
 editor: "Evner Negro"
 read_time: "8 minutes"
+pbb_post_id: 316
 ---
 ****
 ##### Tanciong Larangan  

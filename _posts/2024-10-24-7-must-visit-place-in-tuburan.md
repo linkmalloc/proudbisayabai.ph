@@ -11,7 +11,7 @@ tags:
   - tuburan
   - nature
   - explore
-views: "10"
+views: "1,573"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/7-tuburan/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/7-tuburan/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/7-tuburan/cover.jpg
@@ -24,6 +24,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 476
 ---
 *****
 Tuburan, Cebu, offers an array of natural attractions, local flavors, and unforgettable views. This laid-back town is ideal for nature lovers, adventure seekers, and anyone wanting to enjoy serene moments away from the bustling city. Here’s a detailed guide to seven must-try experiences in Tuburan!  

@@ -10,7 +10,7 @@ tags:
   - vaccination
   - measles
   - rubella
-views: '0'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2657/7e9c7f1786515860-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2657/7e9c7f1786515860-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2657/7e9c7f1786515860-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-12T06:24:22.510Z'
+pbb_post_id: 2657
 ---
 
 More than 630,000 young children in Cebu and Bohol are being targeted in a three-week vaccination campaign aimed at strengthening protection against measles and rubella.

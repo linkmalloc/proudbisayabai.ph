@@ -14,7 +14,7 @@ categories:
 tags:
   - IliganCity
   - BasyangPH
-views: '10'
+views: "86"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1088/3e0c871770347634-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1088/3e0c871770347634-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1088/3e0c871770347634-2.jpeg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1088
 ---
 
 Iligan City, Lanao del Norte, February 6, 2026 – Iligan is facing widespread flooding and significant damage following continuous heavy rains brought by Tropical Storm Basyang from the night of February 5 through February 6. Rivers have overflowed, and several communities remain inundated as a result of the prolonged downpour.

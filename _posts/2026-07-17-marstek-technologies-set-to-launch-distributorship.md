@@ -8,7 +8,7 @@ categories:
   - brand
 tags:
   - Marstek Technologies
-views: '0'
+views: "63"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2429/a3e9a81784268851-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2429/a3e9a81784268851-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2429/a3e9a81784268851-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-17T06:14:13.859Z'
+pbb_post_id: 2429
 ---
 
 In a cutting-edge undertaking meant to inspire Cebuano growth, Don Macchiatos Group of Companies (DMGC) is set to introduce European power brand MARSTEK to the masses as part of its evolving goal of driving innovation in the region.

@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - KingChan
-views: '10'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/883/b6c40e1767107216-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/883/b6c40e1767107216-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/883/b6c40e1767107216-2.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-12-30T00:00:00
 published: true
+pbb_post_id: 883
 ---
 
 The Lapu-Lapu City government has ordered stricter enforcement against indiscriminate firing of firearms during New Year celebrations after a reported stray bullet incident last Christmas.

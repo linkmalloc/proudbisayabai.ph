@@ -21,6 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617809420
 photo_credit: "Michael Niño Tanilon"
 photo_credit_link: ""
 published: false
+pbb_post_id: 146
 ---
 #### Bluewater Sumilon Island Resort   
   

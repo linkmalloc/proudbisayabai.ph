@@ -9,7 +9,7 @@ categories:
 tags:
   - SpacoolTyres
   - Lorega
-views: '0'
+views: "29"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2547/8fbf731785388706-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2547/8fbf731785388706-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2547/8fbf731785388706-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-30T05:18:28.963Z'
+pbb_post_id: 2547
 ---
 
 Spacool Tyres and Auto Supplies officially reopened its Lorega branch in Cebu City on Wednesday, July 29, further strengthening its commitment in providing premium automotive products and services to motorists and car owners in Cebu. Car enthusiasts can now avail updated and top-of-the-line automotive solutions with the shop’s refurbished services.

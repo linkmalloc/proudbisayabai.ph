@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Travel
-views: '10'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2246/2863721782730820-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2246/2863721782730820-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2246/2863721782730820-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-06-30T04:32:13.798Z'
+pbb_post_id: 2246
 ---
 
 Air travelers may soon benefit from lower fares after the Civil Aeronautics Board (CAB) ordered a reduction in the fuel surcharge, bringing it down to its lowest level in three months starting July 1 to 15.

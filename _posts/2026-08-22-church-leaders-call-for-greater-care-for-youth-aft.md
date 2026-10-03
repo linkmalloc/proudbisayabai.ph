@@ -9,7 +9,7 @@ categories:
 tags:
   - Church Leaders
   - AdZU
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2732/1db2fd1787376793-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2732/1db2fd1787376793-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2732/1db2fd1787376793-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-22T05:34:31.685Z'
+pbb_post_id: 2732
 ---
 
 Manila Archbishop Jose Cardinal Advincula urged families, schools and communities to pay closer attention to young people who may be silently struggling with emotional and personal problems following the fatal shooting at Ateneo de Zamboanga University.

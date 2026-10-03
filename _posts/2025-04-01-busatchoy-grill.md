@@ -10,7 +10,7 @@ tags:
   - cebu
   - busay
   - batchoy
-views: "10"
+views: "619"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busatchoy/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busatchoy/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busatchoy/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 503
 ---
 <br>  
 If you're looking for a perfect place to enjoy great food while basking in the breathtaking views of Busay, look no further than Busatchoy Grill—the first-ever Batchoy spot in the area! Combining the rich flavors of Batchoy with the cool mountain breeze, this newly opened eatery is a must-visit for both locals and tourists alike.

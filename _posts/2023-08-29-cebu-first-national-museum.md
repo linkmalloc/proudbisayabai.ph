@@ -9,7 +9,7 @@ categories:
 tags:
   - cebu
   - national museum
-views: "10"
+views: "1,000"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cebu_national_museum/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cebu_national_museum/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cebu_national_museum/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: "PBB"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 405
 ---
 ****
 The National Museum of the Philippines - Cebu (NMP-Cebu) officially opened its doors to the public on August 1, 2023. The museum is located in the historic Plaza Independencia in Cebu City, and is housed in the former Aduana building, which was built in 1910. The building was designed by American architect William Parsons, and it survived bombings during World War II. However, in 2013, the building was severely damaged by a 7.1-magnitude earthquake, and it took several years to restore.  

@@ -11,7 +11,7 @@ tags:
   - cabin
   - campsite
   - retreat               
-views: "10"
+views: "1,678"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/antonioscabin/3.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/antonioscabin/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/antonioscabin/3.jpg
@@ -24,6 +24,7 @@ photo_credit: "Tresha Mae Escala"
 photo_credit_link: ""
 editor: "Evner Negro"
 read_time: "4 minutes"
+pbb_post_id: 292
 ---
 ****
 ##### Antonio's Cabin Retreat and Campsite  

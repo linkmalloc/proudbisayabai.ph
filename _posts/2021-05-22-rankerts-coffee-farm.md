@@ -9,7 +9,7 @@ tags:
   - farm
   - ecotourism
   - mindanao
-views: "10"
+views: "35"
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/hannahly.jpg"
 read_time: "6 minutes"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/rankerts_coffee_farm/cover.jpg
@@ -17,6 +17,7 @@ img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/rankerts_c
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/rankerts_coffee_farm/1.jpg
 photo_credit: "Juan Virtudazo"
 photo_credit_link: ""
+pbb_post_id: 187
 ---
 #### Rankert’s Coffee Farm  
   

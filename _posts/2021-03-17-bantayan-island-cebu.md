@@ -21,6 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616004179/b
 photo_credit: "Michael Audrey Jacobe Sagonoy | Pbb Drone Pilot"
 photo_credit_link: ""
 published: false
+pbb_post_id: 101
 ---
 #### YES to Bantayan na ba this SUMMER? 😯💦🏖  
 

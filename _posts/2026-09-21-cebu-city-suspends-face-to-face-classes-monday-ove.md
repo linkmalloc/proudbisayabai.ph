@@ -8,7 +8,7 @@ categories:
   - news
 tags:
   - Air Quality Index
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2974/1389241789980429-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2974/1389241789980429-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2974/1389241789980429-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-21T08:47:11.245Z'
+pbb_post_id: 2974
 ---
 
 Cebu City suspended face-to-face classes in all levels in public and private schools on Monday, Sept. 21, after air pollution in Metro Cebu reached an “Acutely Unhealthy” level amid transboundary haze from wildfires in Indonesia.

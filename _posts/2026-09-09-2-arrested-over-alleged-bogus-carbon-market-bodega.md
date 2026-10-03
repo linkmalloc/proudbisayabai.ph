@@ -10,7 +10,7 @@ tags:
   - Carbon Market
   - Bodega Slots
   - Bogus
-views: '0'
+views: "31"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2888/92f0ed1788950071-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2888/92f0ed1788950071-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2888/92f0ed1788950071-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-09T10:34:35.161Z'
+pbb_post_id: 2888
 ---
 
 Two men were arrested after allegedly offering bodega slots at Cebu City’s Carbon Public Market despite lacking authority to award or guarantee market spaces, the National Bureau of Investigation Cebu Division Office (NBI CEBDO) said.

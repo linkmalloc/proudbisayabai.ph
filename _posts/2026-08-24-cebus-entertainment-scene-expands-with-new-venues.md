@@ -10,7 +10,7 @@ tags:
   - entertainment
   - tourism
   - concert
-views: '0'
+views: "66"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2746/edbbcc1787546520-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2746/edbbcc1787546520-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2746/edbbcc1787546520-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-24T04:42:01.728Z'
+pbb_post_id: 2746
 ---
 
 Cebu’s entertainment landscape is gaining momentum as more concerts, sporting events and large-scale productions are finding a home in the city, giving audiences in the Visayas and Mindanao greater access to major events.

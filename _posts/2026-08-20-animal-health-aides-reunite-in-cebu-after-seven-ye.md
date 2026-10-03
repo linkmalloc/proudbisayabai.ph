@@ -9,7 +9,7 @@ categories:
 tags:
   - Barangay Animal Health Aides
   - BAHA Congress 2026
-views: '0'
+views: "29"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2719/48511d1787206143-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2719/48511d1787206143-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2719/48511d1787206143-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-20T06:09:05.043Z'
+pbb_post_id: 2719
 ---
 
 More than 800 Barangay Animal Health Aides (BAHAs) from across Cebu gathered Tuesday for the province-wide BAHA Congress 2026, marking the return of the event after a seven-year hiatus.

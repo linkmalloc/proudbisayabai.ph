@@ -10,7 +10,7 @@ tags:
   - kota beach
   - bantayan
   - cebu               
-views: "10"
+views: "381"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kotabeach/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kotabeach/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kotabeach/1.jpg
@@ -23,6 +23,7 @@ photo_credit: "Criznose"
 photo_credit_link: "https://www.instagram.com/criznose/"
 editor: "Evner Negro"
 read_time: "4 minutes"
+pbb_post_id: 251
 ---
 ****
 ##### Kota Beach

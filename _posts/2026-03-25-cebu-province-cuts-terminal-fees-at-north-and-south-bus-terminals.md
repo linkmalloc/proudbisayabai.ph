@@ -13,7 +13,7 @@ tags:
   - SouthBusTerminal
   - NorthBusTerminal
   - TerminalFee
-views: '10'
+views: "36"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1390/4b8bab1774433362-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1390/4b8bab1774433362-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1390/4b8bab1774433362-2.jpg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1390
 ---
 
 The Cebu Provincial Government has temporarily reduced terminal fees at the North and South Bus Terminals to ease the financial burden on transport operators amid rising fuel costs and to improve commuter experience.

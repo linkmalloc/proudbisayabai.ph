@@ -9,7 +9,7 @@ categories:
 tags:
   - Bureau of Fire Protection
   - Racket Probe
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2801/94e8fd1787946965-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2801/94e8fd1787946965-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2801/94e8fd1787946965-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-28T19:56:07.669Z'
+pbb_post_id: 2801
 ---
 
 The investigation into alleged payments for positions in the Bureau of Fire Protection (BFP) has expanded to more than 200 personnel, with all regional directors now among those being scrutinized, Interior Secretary Jonvic Remulla said Friday.

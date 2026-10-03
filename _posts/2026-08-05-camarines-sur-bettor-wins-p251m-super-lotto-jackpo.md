@@ -9,7 +9,7 @@ categories:
 tags:
   - Lotto
   - Camarines Sur
-views: '0'
+views: "30"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2603/672a391785913677-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2603/672a391785913677-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2603/672a391785913677-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-05T07:08:08.726Z'
+pbb_post_id: 2603
 ---
 
 A lone bettor from Camarines Sur won the P25.1 million jackpot in Tuesday’s Super Lotto 6/49 draw, marking the second consecutive day that a player from the province claimed a major lottery prize.

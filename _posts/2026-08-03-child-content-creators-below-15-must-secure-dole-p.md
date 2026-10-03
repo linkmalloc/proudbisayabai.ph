@@ -9,7 +9,7 @@ categories:
   - story
 tags:
   - Child Content Creators
-views: '0'
+views: "33"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2577/1097b81785739520-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2577/1097b81785739520-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2577/1097b81785739520-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-03T06:45:23.001Z'
+pbb_post_id: 2577
 ---
 
 The Department of Labor and Employment (DOLE) has reminded parents and guardians to ensure the protection of children below 15 years old who participate in public entertainment or information activities, including work involving film, theater, radio, television, and digital media platforms.

@@ -11,7 +11,7 @@ tags:
   - threat
   - university
   - Cebu
-views: '0'
+views: "45"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3020/0eaa601790326467-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3020/0eaa601790326467-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3020/0eaa601790326467-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-25T08:55:17.688Z'
+pbb_post_id: 3020
 ---
 
 Cebu Institute of Technology–University (CIT-U) announced on Friday, September 25, 2026, that all classes will shift to online learning effective immediately, while employees will transition to remote work amid an ongoing Philippine National Police (PNP) investigation.

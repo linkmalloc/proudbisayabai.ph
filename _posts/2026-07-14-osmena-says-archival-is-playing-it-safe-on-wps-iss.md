@@ -12,7 +12,7 @@ tags:
   - ViceMayorOsmeña
   - MayorArchival
   - WPS
-views: '0'
+views: "10"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2396/b4a04a1784016653-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2396/b4a04a1784016653-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2396/b4a04a1784016653-1.jpeg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-14T08:10:53.866Z'
+pbb_post_id: 2396
 ---
 
 Vice Mayor Tomas Osmeña questioned Mayor Nestor Archival’s handling of the West Philippine Sea issue after the Chinese Consulate General in Cebu protested the city’s declaration of July 12 as “West Philippine Sea Victory Day.”

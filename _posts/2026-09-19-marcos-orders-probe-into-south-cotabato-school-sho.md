@@ -11,7 +11,7 @@ tags:
   - South Cotabato school shooting
   - Ferdinand R. Marcos Jr.
   - PBBM
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2968/babe2b1789752616-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2968/babe2b1789752616-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2968/babe2b1789752616-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-18T17:30:18.559Z'
+pbb_post_id: 2968
 ---
 
 President Ferdinand R. Marcos Jr. on Friday ordered a thorough investigation into the shooting at Banga National High School in South Cotabato that left three students dead, including the gunman, and six others wounded.

@@ -16,7 +16,7 @@ categories:
 tags:
   - Eel
   - China
-views: '10'
+views: "56"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1890/0f458c1779602920-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1890/0f458c1779602920-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1890/0f458c1779602920-2.jpeg
@@ -30,6 +30,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1890
 ---
 
 The Philippines continues to make waves in the international aquaculture industry after successfully completing its second export shipment of Philippine eel, locally known as “igat,” to China — a milestone seen as a major boost for the country’s fisheries sector and local livelihood opportunities.

@@ -12,7 +12,7 @@ categories:
 tags:
   - SRP
   - CityDiMare
-views: '10'
+views: "75"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1319/7f46631773745134-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1319/7f46631773745134-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1319/7f46631773745134-2.jpg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1319
 ---
 
 Pedestrians now have a safer way to cross the busy South Road Properties (SRP) highway after the elevated footbridge connecting Il Corso partially opened to the public this week.

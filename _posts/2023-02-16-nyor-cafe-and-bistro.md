@@ -10,7 +10,7 @@ tags:
   - cafe
   -  cebu
   -  chill coffee               
-views: "10"
+views: "352"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/nyor_cafe/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/nyor_cafe/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/nyor_cafe/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: "Jefte Stephen Monreal, PBB Photographer "
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 365
 ---
 ****
 Are you looking for a cozy conversation over a cuppa and perhaps some cuisine to accompany it? The Nyor Cafe + Bistro is officially open for business!  

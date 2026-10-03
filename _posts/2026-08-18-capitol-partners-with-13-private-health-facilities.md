@@ -9,7 +9,7 @@ categories:
 tags:
   - Health
   - Health Facilities
-views: '0'
+views: "167"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2701/fb61ca1787052916-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2701/fb61ca1787052916-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2701/fb61ca1787052916-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-18T11:35:18.739Z'
+pbb_post_id: 2701
 ---
 
 The Cebu Provincial Government has partnered with 11 private hospitals and two pharmacies to help qualified residents access Assistance to Individuals in Crisis Situations (AICS) aid more quickly for medical needs.

@@ -9,13 +9,14 @@ tags:
   - mountain resort
   - garden
   - cebu
-views: "10,924"
+views: "1,268"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dr_emilio_v_osmena_botanical_garden/12.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dr_emilio_v_osmena_botanical_garden/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dr_emilio_v_osmena_botanical_garden/12.jpg
 photo_credit: "Pete Abellana, Official Photographer"
 photo_credit_link: ""
 read_time: "7 minutes"
+pbb_post_id: 215
 ---
 ##### Dr. Emilio V. Osmeña Botanical Garden   
   

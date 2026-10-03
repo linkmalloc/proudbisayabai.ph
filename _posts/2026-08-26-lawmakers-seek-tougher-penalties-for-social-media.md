@@ -10,7 +10,7 @@ tags:
   - Social Media
   - Penalties
   - Violence
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2769/8d80c91787719807-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2769/8d80c91787719807-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2769/8d80c91787719807-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-26T04:50:18.668Z'
+pbb_post_id: 2769
 ---
 
 Senators are pushing for stronger safeguards against violent and graphic online content involving children, with Sen. Erwin Tulfo calling for the possible imposition of heavy penalties on social media platforms that repeatedly fail to remove prohibited material.

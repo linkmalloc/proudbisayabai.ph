@@ -20,6 +20,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614609930/c
 photo_credit: "Beardsama"
 photo_credit_link: "https://www.facebook.com/beardsamaph/ "
 published: false
+pbb_post_id: 56
 ---
 Basin imong gipangita nga tambal paras imong gipamati mga bai is Camping! Try daw ug google 😂🏕️🌄  
   

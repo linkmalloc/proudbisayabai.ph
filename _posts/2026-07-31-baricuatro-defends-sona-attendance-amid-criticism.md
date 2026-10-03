@@ -9,7 +9,7 @@ categories:
 tags:
   - Pam Baricuatro
   - SONA
-views: '0'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2555/194b4e1785482744-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2555/194b4e1785482744-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2555/194b4e1785482744-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-31T07:25:45.622Z'
+pbb_post_id: 2555
 ---
 
 Cebu Governor Pamela Baricuatro defended her decision to attend President Ferdinand Marcos Jr.’s fifth State of the Nation Address (SONA), saying her presence at the annual event was part of her responsibilities as a leader in the Regional Development Council (RDC).

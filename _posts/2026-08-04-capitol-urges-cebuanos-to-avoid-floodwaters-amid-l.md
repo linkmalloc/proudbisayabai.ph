@@ -10,7 +10,7 @@ categories:
 tags:
   - Flooding
   - leptospirosis
-views: '0'
+views: "36"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2584/6020c01785827909-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2584/6020c01785827909-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2584/6020c01785827909-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-04T07:18:32.016Z'
+pbb_post_id: 2584
 ---
 
 The Cebu Provincial Government has reminded residents to avoid unnecessary contact with floodwaters as continuous rains increase the risk of leptospirosis infection.

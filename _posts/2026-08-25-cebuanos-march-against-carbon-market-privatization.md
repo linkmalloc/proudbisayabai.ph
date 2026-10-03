@@ -8,7 +8,7 @@ categories:
   - news
 tags:
   - Carbon Market Privatization
-views: '0'
+views: "38"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2762/2ada151787656744-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2762/2ada151787656744-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2762/2ada151787656744-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-25T11:19:45.069Z'
+pbb_post_id: 2762
 ---
 
 Carbon Market vendors, workers, consumers and other concerned Cebuanos marched from Carbon Market to Cebu City Hall on Tuesday, August 25, in a mobilization led by the **Save Carbon Public Market Movement (SCPMM)**.

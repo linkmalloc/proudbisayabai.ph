@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - National Security
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2408/49237d1784101730-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2408/49237d1784101730-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2408/49237d1784101730-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-15T07:49:10.060Z'
+pbb_post_id: 2408
 ---
 
 Malacañang on Wednesday maintained that Vice President Sara Duterte’s alleged plot to have President Ferdinand R. Marcos Jr. assassinated should be treated as a national security concern and not merely as a case of grave threats.

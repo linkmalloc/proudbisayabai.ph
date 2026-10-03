@@ -9,7 +9,7 @@ categories:
 tags:
   - Tourism and Hospitality Awards
   - Cebu
-views: '0'
+views: "115"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2976/7cfd871789980705-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2976/7cfd871789980705-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2976/7cfd871789980705-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 5 minutes
 published: true
 published_at: '2026-09-21T08:51:47.355Z'
+pbb_post_id: 2976
 ---
 
 More than 60 tourism and hospitality workers, educators and industry initiatives have made the cut for the 2026 Cebu Tourism and Hospitality Awards (CTHA), with this year’s finalists reflecting the people and programs shaping Cebu’s tourism industry.

@@ -12,7 +12,7 @@ tags:
   - EJ Obiena
   - Carlos Yulo
   - Sports
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2376/6d09681783771158-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2376/6d09681783771158-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2376/6d09681783771158-1.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-11T11:59:29.751Z'
+pbb_post_id: 2376
 ---
 
 Senator Christopher “Bong” Go has filed separate Senate resolutions commending Filipino athletes Alexandra “Alex” Eala, Ernest John “EJ” Obiena, and Carlos Yulo for their recent achievements in international sports competitions.

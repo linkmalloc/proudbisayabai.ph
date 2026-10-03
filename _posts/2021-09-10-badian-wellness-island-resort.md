@@ -9,7 +9,7 @@ tags:
   - getaway
   - resort
   - cebu
-views: "10"
+views: "1,065"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/badian_wellness/17.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/badian_wellness/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/badian_wellness/17.jpg
@@ -22,6 +22,7 @@ photo_credit: "Yoko Sato Li | yoko_travelbook (No copyright infringement)"
 photo_credit_link: "https://www.instagram.com/yoko_travelbook/"
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "4 minutes"
+pbb_post_id: 230
 ---
 ****
 ##### Badian Island Wellness Resort  

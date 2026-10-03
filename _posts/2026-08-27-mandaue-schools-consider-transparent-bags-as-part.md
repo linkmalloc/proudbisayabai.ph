@@ -10,7 +10,7 @@ tags:
   - transparentBags
   - schoolsafety
   - MandaueCity
-views: '0'
+views: "30"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2781/b93b201787796913-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2781/b93b201787796913-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2781/b93b201787796913-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-27T02:15:15.394Z'
+pbb_post_id: 2781
 ---
 
 The use of transparent bags is being considered in some Mandaue City schools as part of a broader approach to strengthening campus security and preventing violence, the Department of Education (DepEd) Mandaue City Division said.

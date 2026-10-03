@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-10-03T13:41:33.318Z'
+pbb_post_id: 3094
 ---
 
 Bayfront CoLive+ celebrates its first anniversary this October, marking one year since it opened its doors on October 3, 2025, and offering Cebu residents and visitors a new approach to modern, flexible living.

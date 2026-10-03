@@ -9,7 +9,7 @@ categories:
 tags:
   - Alan Peter Cayetano
   - child stunting
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2800/e82aab1787946871-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2800/e82aab1787946871-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2800/e82aab1787946871-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-28T19:54:43.770Z'
+pbb_post_id: 2800
 ---
 
 Senate Minority Leader Alan Peter Cayetano is pushing for more targeted government interventions to address child stunting, saying existing monitoring methods may not be enough to identify children and families who urgently need assistance.

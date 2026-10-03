@@ -10,7 +10,7 @@ tags:
   - Project NOAH
   - University of the Philippines Resilience Institute
   - Budget Allocation
-views: '0'
+views: "43"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2788/058dbc1787891905-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2788/058dbc1787891905-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2788/058dbc1787891905-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-28T04:38:27.772Z'
+pbb_post_id: 2788
 ---
 
 The new P1 billion allocation for Project NOAH (Nationwide Operational Assessment of Hazards) will help identify undocumented waterways and other flood pathways that could guide local governments in preventing and responding to flooding, according to the University of the Philippines Resilience Institute (UPRI).

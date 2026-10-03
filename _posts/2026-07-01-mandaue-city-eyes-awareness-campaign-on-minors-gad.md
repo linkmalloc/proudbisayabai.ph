@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Mandaue City
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2274/c2b1451782893637-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2274/c2b1451782893637-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2274/c2b1451782893637-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-01T08:14:08.277Z'
+pbb_post_id: 2274
 ---
 
 The Mandaue City Council is pushing for a citywide awareness and monitoring campaign to help parents and guardians regulate minors’ access to gadgets, online games, and digital content following growing concerns over the possible influence of violent online material on children.

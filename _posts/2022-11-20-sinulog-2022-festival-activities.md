@@ -12,7 +12,7 @@ tags:
   - festival
   - sinulog festival
   - sinulog festival activities               
-views: "10"
+views: "337"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinulog_2022/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinulog_2022/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sinulog_2022/cover.jpg
@@ -25,6 +25,7 @@ photo_credit: "official page of Basilica Minore del Sto Nino"
 photo_credit_link: "https://santoninodecebubasilica.org/events/fiesta-senor-2023"
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 339
 ---
 ****
 ###### Viva Pit Señor! Viva! Viva!  

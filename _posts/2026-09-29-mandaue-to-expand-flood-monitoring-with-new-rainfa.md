@@ -10,7 +10,7 @@ tags:
   - FEWS Project
   - Mandaue City
   - CDRRMC
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3046/d3ba451790659070-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3046/d3ba451790659070-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3046/d3ba451790659070-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-29T05:18:59.433Z'
+pbb_post_id: 3046
 ---
 
 More areas in Mandaue City will soon be covered by flood monitoring equipment as the city government moves to install additional rainfall and water-level stations in flood-prone locations.

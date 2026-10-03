@@ -8,7 +8,7 @@ categories:
   - news
 tags:
   - Visayas Grid
-views: '0'
+views: "46"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2902/d597cb1789108521-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2902/d597cb1789108521-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2902/d597cb1789108521-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-11T06:35:25.754Z'
+pbb_post_id: 2902
 ---
 
 The Visayas power grid will be placed under red alert for six hours on Friday as several power plants remain unavailable or operating at reduced capacity, the National Grid Corporation of the Philippines (NGCP) said.

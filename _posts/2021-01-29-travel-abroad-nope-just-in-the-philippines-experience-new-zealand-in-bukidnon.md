@@ -15,6 +15,7 @@ img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1611889251/3000x1144/batch2.post7.4_ds3zrc.jpg
 photo_credit: MARK RAYMUND T. DEGALA
 published: false
+pbb_post_id: 12
 ---
 Dahilayan Gardens and Resort
 

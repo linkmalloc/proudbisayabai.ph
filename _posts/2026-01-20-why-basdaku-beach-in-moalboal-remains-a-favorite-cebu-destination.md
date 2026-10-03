@@ -13,7 +13,7 @@ categories:
 tags:
   - BasdakuBeach
   - Moalboal
-views: '10'
+views: "662"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/981/83d34c1768988219-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/981/83d34c1768988219-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/981/83d34c1768988219-2.jpg
@@ -28,6 +28,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-21T00:00:00
 published: true
+pbb_post_id: 981
 ---
 
 A breathtaking aerial view of Basdaku Beach in Moalboal captures the vibrant energy of one of Cebu’s most loved coastal destinations. On a sunny weekend, the shoreline comes alive as visitors spread across the powdery white sand, soaking up the tropical sun while enjoying the relaxed island vibe.

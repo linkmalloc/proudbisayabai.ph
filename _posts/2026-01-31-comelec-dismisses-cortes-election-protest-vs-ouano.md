@@ -14,7 +14,7 @@ tags:
   - COMELEC
   - ElectionProtest
   - Cortes
-views: '10'
+views: "66"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1050/95b4bf1769873649-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1050/95b4bf1769873649-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1050/95b4bf1769873649-2.jpeg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1050
 ---
 
 The Commission on Elections (Comelec) First Division has dismissed the election protest filed by former Mandaue City mayor Jonas Cortes against incumbent Mayor Thadeo Jovito “Jonkie” Ouano, citing failure to meet mandatory form and content requirements.

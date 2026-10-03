@@ -24,6 +24,7 @@ published: false
 
 social_reach: "915"
 location: Moalboal, Cebu 
+pbb_post_id: 135
 ---
 #### Moalboal Tropics Hotel Resort
   

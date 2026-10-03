@@ -13,7 +13,7 @@ categories:
 tags:
   - Cebu Province
   - Education
-views: '10'
+views: "32"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2152/2b843b1781844199-1.webp
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2152/2b843b1781844199-1.webp
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2152/2b843b1781844199-1.webp
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 2152
 ---
 
 

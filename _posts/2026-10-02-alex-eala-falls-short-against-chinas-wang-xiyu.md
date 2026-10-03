@@ -9,7 +9,7 @@ categories:
 tags:
   - Sports
   - Alex Eala
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3073/4018491790874287-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3073/4018491790874287-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3073/4018491790874287-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-10-01T17:04:50.287Z'
+pbb_post_id: 3073
 ---
 
 Alex Eala’s bid for the women’s singles gold medal at the 2026 Asian Games came to an end after a hard-fought three-set semifinal loss to China’s Wang Xiyu.

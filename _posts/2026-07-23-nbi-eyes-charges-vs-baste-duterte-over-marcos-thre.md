@@ -10,7 +10,7 @@ tags:
   - NBI
   - Baste Duterte
   - Marcos Threats
-views: '0'
+views: "29"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2482/9153c91784797429-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2482/9153c91784797429-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2482/9153c91784797429-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-23T09:03:51.738Z'
+pbb_post_id: 2482
 ---
 
 The National Bureau of Investigation (NBI) said it is considering filing criminal charges against Davao City Mayor Sebastian “Baste” Duterte over his remarks calling for President Ferdinand Marcos Jr.’s ouster, as the agency investigates alleged threats against the President.

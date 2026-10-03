@@ -9,7 +9,7 @@ categories:
 tags:
   - café-lounge
   - real estate
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3027/13cc521790396911-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3027/13cc521790396911-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3027/13cc521790396911-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-26T04:28:38.298Z'
+pbb_post_id: 3027
 ---
 
 Branded real estate could expand from residential developments into hotels, dining establishments, private clubs, wellness facilities, entertainment venues and other lifestyle spaces.

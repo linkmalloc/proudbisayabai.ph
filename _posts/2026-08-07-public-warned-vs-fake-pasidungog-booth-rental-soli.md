@@ -9,7 +9,7 @@ categories:
 tags:
   - Pasidungog
   - Fake
-views: '0'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2617/b1b28d1786089314-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2617/b1b28d1786089314-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2617/b1b28d1786089314-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-07T07:55:22.646Z'
+pbb_post_id: 2617
 ---
 
 The Cebu Provincial Government has warned the public against unauthorized online solicitations involving booth rentals for the upcoming Pasidungog sa Sugbo celebration, saying no concessionaire applications or payment collections have been officially opened.

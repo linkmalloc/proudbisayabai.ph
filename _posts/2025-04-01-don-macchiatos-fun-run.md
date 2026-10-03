@@ -10,7 +10,7 @@ tags:
   - fun run
   - cebu
   - don macchiatos
-views: "10"
+views: "88"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/don-mac-fun-run/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/don-mac-fun-run/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/don-mac-fun-run/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 504
 ---
 <br>  
 Cebu has emerged as a hub for fun runs in the post-pandemic era, with health and wellness taking center stage. Among these events, the Don Macchiatos Fun Run, held on March 15, 2025, at Cebu Business Park, stood out—not just as a race but as a symbol of hope and solidarity for cancer patients. Organized by Don Macchiatos, Cebu’s first 39-peso coffee brand, the event benefited the Cebu Cancer Warriors Foundation Inc. (CCWFI), a nonprofit supporting children and adolescents battling cancer.

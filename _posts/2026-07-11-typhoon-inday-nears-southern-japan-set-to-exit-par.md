@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - IndayPH
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2367/20c8e91783739464-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2367/20c8e91783739464-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2367/20c8e91783739464-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-11T03:11:16.705Z'
+pbb_post_id: 2367
 ---
 
 Typhoon Inday (international name: Bavi) is now approaching the Sakishima Islands in southern Japan and is expected to exit the Philippine Area of Responsibility (PAR) on Saturday morning, July 11, according to the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA).

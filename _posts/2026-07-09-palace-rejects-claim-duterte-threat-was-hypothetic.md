@@ -9,7 +9,7 @@ categories:
 tags:
   - Malacañang
   - Sara Duterte
-views: '0'
+views: "9"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2348/8f85381783592703-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2348/8f85381783592703-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2348/8f85381783592703-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-09T10:26:25.632Z'
+pbb_post_id: 2348
 ---
 
 Malacañang on Thursday rejected claims that Vice President Sara Duterte’s alleged threat against President Ferdinand R. Marcos Jr. was only hypothetical, saying the statement was publicly made and should be treated as a serious matter.

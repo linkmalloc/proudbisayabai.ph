@@ -11,7 +11,7 @@ tags:
   - Martial Law
   - Anniversary
   - Remembering
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2981/dbaff81790060158-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2981/dbaff81790060158-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2981/dbaff81790060158-1.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-22T06:56:11.989Z'
+pbb_post_id: 2981
 ---
 
 Protesters filled portions of Colon Street in Cebu City on Monday, Sept. 21, as progressive groups marked the 54th anniversary of the declaration of Martial Law and called for action on what they described as worsening economic, political and social problems.

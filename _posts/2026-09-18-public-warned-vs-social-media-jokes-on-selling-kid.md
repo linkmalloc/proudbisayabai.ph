@@ -12,7 +12,7 @@ tags:
   - social media
   - misleading
   - jokes
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2962/835bfd1789720666-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2962/835bfd1789720666-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2962/835bfd1789720666-1.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-18T08:38:11.591Z'
+pbb_post_id: 2962
 ---
 
 Jokes about selling or trading kidneys for gadgets are drawing a warning from the National Kidney and Transplant Institute (NKTI), which said Wednesday that such social media content could mislead the public about organ trading.

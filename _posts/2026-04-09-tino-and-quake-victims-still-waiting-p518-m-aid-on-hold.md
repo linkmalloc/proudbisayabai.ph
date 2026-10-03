@@ -13,7 +13,7 @@ categories:
 tags:
   - Aid
   - DRRM
-views: '10'
+views: "56"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1481/bfc4531775729208-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1481/bfc4531775729208-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1481/bfc4531775729208-1.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1481
 ---
 
 Months after calamities struck, disaster-hit communities in Cebu are still waiting for much-needed aid as the proposed P518.2-million Disaster Risk Reduction and Management (DRRM) Trust Fund remains pending at the Sangguniang Panlalawigan.

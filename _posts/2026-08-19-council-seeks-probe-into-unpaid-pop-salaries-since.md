@@ -12,7 +12,7 @@ tags:
   - CouncilorAlcover
   - Peace
   - Order
-views: '0'
+views: "33"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2705/1777381787129418-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2705/1777381787129418-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2705/1777381787129418-1.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-19T08:50:40.942Z'
+pbb_post_id: 2705
 ---
 
 The Cebu City Council is seeking an executive session to determine why around 100 personnel under the city’s Peace and Order Program (POP) have yet to receive their salaries for November and December 2025.

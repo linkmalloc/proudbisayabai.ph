@@ -9,7 +9,7 @@ categories:
 tags:
   - Hamptons Luxury Housing Market
   - Robbie Antonio
-views: '0'
+views: "78"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2670/66aa741786688830-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2670/66aa741786688830-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2670/66aa741786688830-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-14T06:27:12.825Z'
+pbb_post_id: 2670
 ---
 
 Filipino developer Robbie Antonio is setting his sights on a larger share of the Hamptons luxury housing market, where home prices remain resilient despite a slowdown in sales.

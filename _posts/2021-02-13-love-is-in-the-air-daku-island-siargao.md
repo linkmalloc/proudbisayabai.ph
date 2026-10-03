@@ -19,6 +19,7 @@ img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613229700/l
 photo_credit: Jude Rico | Day See
 photo_credit_link: https://www.facebook.com/proudbisayabai/posts/292419479220394
 published: false
+pbb_post_id: 23
 ---
 LOVE IS IN THE AIR in Daku Island, Siargao! ❤️💕
 The BIGGEST island among the 3 islands in Tri-island tour where you can have a mouth-watering Boodle Fight lunch and see the beautiful white sand beach. 🌴🇵🇭  

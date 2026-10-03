@@ -22,6 +22,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614953955/w
 photo_credit: "Sofia Cairo - Photo Blogger"
 photo_credit_link: ""
 published: false
+pbb_post_id: 64
 ---
 #### Wendears Cake
 **TRENDING**: Craving for some delightful and mouthwatering  sweet treats? Wendears Cake is just right for you! 👌❤️  

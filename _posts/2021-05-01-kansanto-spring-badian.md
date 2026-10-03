@@ -9,13 +9,14 @@ categories:
 tags:
   - spring
   -  south-cebu
-views: "10"
+views: "420"
 read_time: "3 minutes"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kansanto_spring_badian/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kansanto_spring_badian/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kansanto_spring_badian/1.jpg
 photo_credit: "Ganados Photography"
 photo_credit_link: ""
+pbb_post_id: 172
 ---
 #### Kansanto Spring Badian  
 

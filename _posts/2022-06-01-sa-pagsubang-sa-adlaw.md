@@ -9,7 +9,7 @@ categories:
 tags:
   - sunset
   - balak        
-views: "10"
+views: "343"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sa_pagsubang_sa_adlaw/2.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sa_pagsubang_sa_adlaw/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sa_pagsubang_sa_adlaw/2.jpg
@@ -22,6 +22,7 @@ photo_credit: "Kevin David"
 photo_credit_link: "https://www.facebook.com/kevindavid.ph"
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 295
 ---
 ****
 ##### SA PAGSUBANG SA ADLAW 

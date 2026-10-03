@@ -11,7 +11,7 @@ tags:
   - road roblems
   - Cebu City
   - Road Task Force
-views: '0'
+views: "33"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2983/27cae91790060436-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2983/27cae91790060436-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2983/27cae91790060436-1.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-22T07:01:09.135Z'
+pbb_post_id: 2983
 ---
 
 Cebuanos can now report damaged, flooded, obstructed or hazardous roads through a new provincial reporting system as the Cebu Provincial Government strengthens monitoring and response to road concerns.

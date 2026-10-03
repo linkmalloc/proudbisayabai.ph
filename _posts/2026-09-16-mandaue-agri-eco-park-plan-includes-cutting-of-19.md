@@ -9,7 +9,7 @@ categories:
 tags:
   - Agri-eco park
   - Mandaue
-views: '0'
+views: "65"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2937/7e77311789538128-1.png
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2937/7e77311789538128-1.png
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2937/7e77311789538128-1.png
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-16T05:55:28.771Z'
+pbb_post_id: 2937
 ---
 
 Nineteen trees have been proposed for cutting as part of the development of a 3,600-square-meter Agri-Eco Park in Barangay Ibabao-Estancia, although the Mandaue City Council said the trees cannot be removed without the required permits and clearances.

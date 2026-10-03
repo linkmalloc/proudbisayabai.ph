@@ -12,7 +12,7 @@ categories:
 tags:
   - EidlFitr
   - Bangsamoro
-views: '10'
+views: "26"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1338/7f782c1773930442-3.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1338/7f782c1773930442-3.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1338/7f782c1773930442-3.jpg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1338
 ---
 
 The Bangsamoro Darul-Ifta’ has officially announced that the Shawwal crescent moon was not sighted during the latest moon sighting, paving the way for the completion of 30 days of Ramadan in the Philippines.

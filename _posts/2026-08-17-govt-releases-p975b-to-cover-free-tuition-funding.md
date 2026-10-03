@@ -9,7 +9,7 @@ categories:
 tags:
   - Free Higher Education Program
   - State Universities and Colleges
-views: '0'
+views: "24"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2691/d882901786951340-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2691/d882901786951340-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2691/d882901786951340-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-17T07:22:31.589Z'
+pbb_post_id: 2691
 ---
 
 The government has released P9.753 billion to cover funding deficiencies incurred by 108 state universities and colleges (SUCs) under the Free Higher Education (FHE) Program.

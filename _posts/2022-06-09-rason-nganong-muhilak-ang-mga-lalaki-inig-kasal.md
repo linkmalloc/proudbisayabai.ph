@@ -8,7 +8,7 @@ categories:
 tags:
   - fashion
   - yokosato               
-views: "10"
+views: "531"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/rason_sa_lalaki_muhilak_inig_kasal/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/rason_sa_lalaki_muhilak_inig_kasal/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/rason_sa_lalaki_muhilak_inig_kasal/1.jpg
@@ -16,6 +16,7 @@ photo_credit: "Carl Dave Black Ang"
 photo_credit_link: "Carl Dave Black Ang"
 editor: "PBB Admin"
 read_time: "8 minutes"
+pbb_post_id: 299
 ---
 ***
 ##### RASON NGANONG MOHILAK ANG LAKI INIG KASAL

@@ -23,6 +23,7 @@ published: false
 
 social_reach: "117,392"
 location: Oslob, Cebu 
+pbb_post_id: 118
 ---
 #### Tumalog Falls
 

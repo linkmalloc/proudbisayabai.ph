@@ -19,7 +19,7 @@ tags:
   - Marco Polo Plaza Cebu
   - Hotel
   - Lamb
-views: '10'
+views: "38"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2086/e326811781240633-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2086/e326811781240633-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2086/e326811781240633-1.jpeg
@@ -33,6 +33,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 2086
 ---
 
 Cebu City, Philippines, 10 June 2026 — Marco Polo Plaza Cebu invites guests to indulge in The Lamb Affair, a bold and elevated culinary showcase created exclusively for Cebu Food & Wine Festival 2026. Available from June 6 to 27, 2026, the limited-time offering celebrates premium lamb through contemporary Filipino-inspired flavors masterfully crafted by Chef Juanito Abangan and Chef Jan Jacob.

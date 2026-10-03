@@ -10,7 +10,7 @@ tags:
   - VPSara
   - PresidentMarcos
   - ClaireCastro
-views: '0'
+views: "9"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2535/9844a11785313056-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2535/9844a11785313056-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2535/9844a11785313056-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-29T08:17:45.683Z'
+pbb_post_id: 2535
 ---
 
 Malacañang on Wednesday brushed aside Vice President Sara Duterte’s latest criticisms of President Ferdinand R. Marcos Jr., saying her statements against the administration were unfounded and not worth responding to.

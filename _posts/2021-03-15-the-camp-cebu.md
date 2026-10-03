@@ -21,6 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615796353/t
 photo_credit: "Joel Legazpi | Ryan Artis And Josell Bondoc | Jm Tura"
 photo_credit_link: ""
 published: false
+pbb_post_id: 98
 ---
 #### THE CAMP, Cebu  
   

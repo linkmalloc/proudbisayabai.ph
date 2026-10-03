@@ -12,7 +12,7 @@ categories:
   - food
 tags:
   - Tambis
-views: '10'
+views: "387"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/556/f505871756736648-4.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/556/f505871756736648-4.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/556/f505871756736648-4.jpg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-09-01T00:00:00
+pbb_post_id: 556
 ---
 
 It’s that time of the year again—tingbunga na sa tambis! The branches are heavy with fruit, and the air smells faintly of crisp, watery sweetness. But what exactly is this fruit we’ve all grown up with in the Visayas and parts of Mindanao?

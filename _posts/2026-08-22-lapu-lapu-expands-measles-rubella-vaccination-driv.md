@@ -9,7 +9,7 @@ categories:
 tags:
   - measles-rubella vaccination
   - Lapu-Lapu City
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2739/bc68ac1787380748-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2739/bc68ac1787380748-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2739/bc68ac1787380748-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-22T06:39:10.214Z'
+pbb_post_id: 2739
 ---
 
 Lapu-Lapu City has expanded its measles-rubella vaccination campaign to the island communities of Olango as health workers work to increase coverage among eligible children.

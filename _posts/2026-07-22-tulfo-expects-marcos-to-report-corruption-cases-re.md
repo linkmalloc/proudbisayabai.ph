@@ -10,7 +10,7 @@ tags:
   - SenatorTulfo
   - SONA
   - PresidentMarcosJr
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2471/3fbf011784705292-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2471/3fbf011784705292-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2471/3fbf011784705292-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-22T07:28:26.725Z'
+pbb_post_id: 2471
 ---
 
 Senator Erwin Tulfo said he expects President Ferdinand R. Marcos Jr. to provide updates on corruption cases filed by the government and funds recovered through restitution during his upcoming State of the Nation Address (SONA).

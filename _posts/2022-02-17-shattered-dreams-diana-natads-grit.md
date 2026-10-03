@@ -9,7 +9,7 @@ tags:
   - cebu
   - cnu
   - student
-views: "10"
+views: "179"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/shattered_dreams/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/shattered_dreams/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/shattered_dreams/1.jpg
@@ -22,6 +22,7 @@ photo_credit: "Therese Pacaña"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 272
 ---
 ****
 ##### Shattered Dreams: Diana Natad’s Grit 

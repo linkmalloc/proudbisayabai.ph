@@ -9,7 +9,7 @@ categories:
 tags:
   - Babag 1 Elementary School
   - Lapu-Lapu City
-views: '0'
+views: "274"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2682/6de0e41786777259-1.JPG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2682/6de0e41786777259-1.JPG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2682/6de0e41786777259-1.JPG
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-15T07:01:06.207Z'
+pbb_post_id: 2682
 ---
 
 A four-storey building at Babag 1 Elementary School has been restricted from use after pupils and teachers reported vibrations on the second floor, prompting the Cebu City Government to seek a more thorough structural assessment.

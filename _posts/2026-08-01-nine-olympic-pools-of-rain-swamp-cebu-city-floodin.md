@@ -9,7 +9,7 @@ categories:
 tags:
   - Metro Cebu
   - Flooding
-views: '0'
+views: "40"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2566/5358f31785558002-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2566/5358f31785558002-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2566/5358f31785558002-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-01T04:20:05.041Z'
+pbb_post_id: 2566
 ---
 
 Floodwaters returned to several parts of Metro Cebu on Friday, July 31, a day after intense rains submerged communities, disrupted transport, and forced authorities to strengthen disaster response measures.

@@ -12,7 +12,7 @@ categories:
 tags:
   - ToledoCity
   - SeniorCitizen
-views: '10'
+views: "36"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1957/7459251780141672-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1957/7459251780141672-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1957/7459251780141672-1.jpeg

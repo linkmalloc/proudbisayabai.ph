@@ -9,7 +9,7 @@ tags:
   - cebu
   - beach
   - resort
-views: "6,469"
+views: "1,484"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/durhan_white_beach_resort/intro.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/durhan_white_beach_resort/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/durhan_white_beach_resort/intro.jpg
@@ -22,6 +22,7 @@ photo_credit: "https://www.instagram.com/hellothisispete/"
 photo_credit_link: "Pete Abellana | PBB Official Photographer"
 read_time: "3 minutes"
 location: "Tabuelan, Cebu"
+pbb_post_id: 220
 ---
 ###### Durhan White Beach Resort: A Pristine Beach Every Traveller Shouldn’t Miss
 

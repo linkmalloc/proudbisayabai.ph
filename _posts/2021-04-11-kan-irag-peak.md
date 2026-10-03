@@ -26,6 +26,7 @@ read_time: "4 minutes"
 
 social_reach: "29,829"
 location: Sirao, Cebu City
+pbb_post_id: 155
 ---
 #### Kan-Irag Peak  
   

@@ -12,7 +12,7 @@ tags:
   - KawasanFalls
   - Badian
   - cobra
-views: '0'
+views: "130"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2394/6d3bc11784015271-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2394/6d3bc11784015271-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2394/6d3bc11784015271-1.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-14T08:04:51.188Z'
+pbb_post_id: 2394
 ---
 
 Visitors to Kawasan Falls in Badian, Cebu will soon see warning signages reminding them to stay alert following reports of cobra sightings in the popular tourist destination.

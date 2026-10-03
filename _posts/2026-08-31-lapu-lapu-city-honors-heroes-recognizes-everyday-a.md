@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Lapu-Lapu City
-views: '0'
+views: "9"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2811/1426201788167355-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2811/1426201788167355-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2811/1426201788167355-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-31T09:09:17.417Z'
+pbb_post_id: 2811
 ---
 
 The ground where Datu Lapulapu and his men once defended their homeland became the setting for Lapu-Lapu City’s tribute to heroes on National Heroes Day on Monday, Aug. 31.

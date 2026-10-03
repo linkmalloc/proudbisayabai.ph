@@ -11,7 +11,7 @@ categories:
   - bahay kubo
 tags:
   - destination               
-views: "10"
+views: "141"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/arecapalmhut/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/arecapalmhut/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/arecapalmhut/1.jpg
@@ -24,6 +24,7 @@ photo_credit: "Klaudd Myrtle | @klauddmyrtle (No copyright infringement intended
 photo_credit_link: ""
 editor: "Evner Negro, Editor"
 read_time: "4 minutes"
+pbb_post_id: 244
 ---
 ****
 ##### Areca Palm Hut 

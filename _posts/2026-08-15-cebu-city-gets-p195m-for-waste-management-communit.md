@@ -9,7 +9,7 @@ categories:
 tags:
   - Waste Management
   - Barangay Kalunasan
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2683/2d88341786777377-1.JPEG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2683/2d88341786777377-1.JPEG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2683/2d88341786777377-1.JPEG
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-15T07:03:19.385Z'
+pbb_post_id: 2683
 ---
 
 The Cebu City Government has secured P195 million in national funding for a materials recovery facility in Barangay Mambaling and a multipurpose building in Barangay Kalunasan.

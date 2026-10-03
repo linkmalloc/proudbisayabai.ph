@@ -13,7 +13,7 @@ categories:
 tags:
   - DOTr
   - BRT
-views: '10'
+views: "10"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1635/a9186b1777372968-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1635/a9186b1777372968-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1635/a9186b1777372968-1.jpg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1635
 ---
 
 

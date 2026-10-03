@@ -22,6 +22,7 @@ photo_credit_link: "https://www.facebook.com/ParrotResortMoalboal/"
 published: false
 social_reach: "39,977"
 location: Basdiot, Molboal Cebu 
+pbb_post_id: 92
 ---
 #### Parrot Resort Moalboal
   

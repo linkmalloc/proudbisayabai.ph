@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Rodante Marcoleta
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2410/5ecbfc1784102146-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2410/5ecbfc1784102146-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2410/5ecbfc1784102146-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-15T07:56:16.642Z'
+pbb_post_id: 2410
 ---
 
 Senator Rodante Marcoleta has been transferred to the custody of the Bureau of Jail Management and Penology (BJMP) and committed to the Quezon City Jail-Male Dormitory following a Sandiganbayan order.

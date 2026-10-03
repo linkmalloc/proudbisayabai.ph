@@ -9,7 +9,7 @@ categories:
 tags:
   - Medical Waste
   - Cordova
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2627/69f78f1786170626-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2627/69f78f1786170626-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2627/69f78f1786170626-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-08T06:30:29.650Z'
+pbb_post_id: 2627
 ---
 
 The Cordova Municipal Government has launched an investigation after hazardous medical waste was discovered dumped on a vacant lot in Barangay Alegria, raising concerns over possible risks to public health and the environment.

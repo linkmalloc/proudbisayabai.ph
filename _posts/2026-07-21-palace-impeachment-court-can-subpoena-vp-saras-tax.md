@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Sara Duterte Impeachment Trial
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2463/86f4d31784621418-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2463/86f4d31784621418-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2463/86f4d31784621418-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-21T08:10:29.200Z'
+pbb_post_id: 2463
 ---
 
 Malacañang on Tuesday said the Senate, acting as an impeachment court, has the authority to issue subpoenas for Vice President Sara Duterte’s tax and bank records if these are found necessary in the ongoing impeachment proceedings.

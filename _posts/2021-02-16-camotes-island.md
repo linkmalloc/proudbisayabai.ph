@@ -19,6 +19,7 @@ img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613485528/c
 img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613485526/camotes/149038157_294534699008872_1152671824645323420_o_pdohi9.jpg
 photo_credit: "Nelson Judaya"
 published: false
+pbb_post_id: 26
 ---
 #### Camotes Island
 

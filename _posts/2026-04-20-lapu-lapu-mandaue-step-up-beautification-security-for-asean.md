@@ -13,7 +13,7 @@ categories:
 tags:
   - LapuLapu
   - ASEAN
-views: '10'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1560/f61e181776666513-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1560/f61e181776666513-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1560/f61e181776666513-1.jpg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1560
 ---
 
 The countdown to ASEAN-related activities in May has triggered parallel citywide preparations in Lapu-Lapu and Mandaue, with both local governments tightening security coordination and accelerating infrastructure and cleanliness efforts along key routes.

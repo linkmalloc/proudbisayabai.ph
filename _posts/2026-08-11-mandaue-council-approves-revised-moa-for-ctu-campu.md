@@ -9,7 +9,7 @@ categories:
 tags:
   - Mandaue City
   - Cebu Technological University
-views: '0'
+views: "86"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2647/f28d4f1786432199-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2647/f28d4f1786432199-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2647/f28d4f1786432199-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-11T07:10:02.637Z'
+pbb_post_id: 2647
 ---
 
 The Mandaue City Council has approved a revised Memorandum of Agreement (MOA) between the city government and Cebu Technological University (CTU) for the establishment of a CTU campus in the city.

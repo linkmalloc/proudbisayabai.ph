@@ -9,7 +9,7 @@ categories:
   - story
 tags:
   - Road accident
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2417/a997941784172879-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2417/a997941784172879-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2417/a997941784172879-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-16T03:34:46.849Z'
+pbb_post_id: 2417
 ---
 
 CEBU CITY — Two motorcycles collided at the intersection of M.J. Cuenco Avenue and T. Padilla Street at around 7:00 p.m. on July 15, 2026, prompting a response from traffic authorities.

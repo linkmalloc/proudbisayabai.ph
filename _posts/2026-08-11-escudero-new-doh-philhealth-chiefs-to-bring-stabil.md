@@ -11,7 +11,7 @@ tags:
   - DOH Secretary
   - PhilHealth President and CEI
   - Universal Health Care
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2643/6911871786431564-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2643/6911871786431564-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2643/6911871786431564-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-11T06:59:33.430Z'
+pbb_post_id: 2643
 ---
 
 Sen. Francis “Chiz” Escudero on Monday welcomed the appointment of Dr. Edwin Mercado as Department of Health (DOH) secretary and Dr. Beverly Lorraine C. Ho as PhilHealth president and CEO, saying the leadership changes could help stabilize the implementation of Universal Health Care (UHC).

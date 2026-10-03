@@ -9,7 +9,7 @@ categories:
 tags:
   - Green Samar Project
   - DENR
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2890/5755741789023591-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2890/5755741789023591-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2890/5755741789023591-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-10T06:59:54.602Z'
+pbb_post_id: 2890
 ---
 
 A privately backed forest restoration project is targeting the rehabilitation and protection of 120,000 hectares of degraded rainforest within the Samar Island Natural Park (SINP), with about P80 million in annual investments expected to support the effort.

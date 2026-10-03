@@ -9,7 +9,7 @@ categories:
 tags:
   - Lapu-Lapu City
   - Natural resources
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3028/9a40c81790397130-1.png
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3028/9a40c81790397130-1.png
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3028/9a40c81790397130-1.png
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-26T04:32:12.527Z'
+pbb_post_id: 3028
 ---
 
 Lapu-Lapu City will incorporate biodiversity conservation into its urban planning as the city government works with the Department of Environment and Natural Resources 7 (DENR 7) to identify and protect its remaining natural resources.

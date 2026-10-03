@@ -12,7 +12,7 @@ categories:
   - story
 tags:
   - August Go
-views: '10'
+views: "212"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2043/a6bc7d1780902094-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2043/a6bc7d1780902094-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2043/a6bc7d1780902094-1.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 2043
 ---
 
 

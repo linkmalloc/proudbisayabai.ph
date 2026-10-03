@@ -12,7 +12,7 @@ categories:
   - story
 tags:
   - PAGASA
-views: '10'
+views: "106"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/762/8fd7c31765190126-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/762/8fd7c31765190126-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/762/8fd7c31765190126-2.jpeg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-12-08T00:00:00
 published: true
+pbb_post_id: 762
 ---
 
 

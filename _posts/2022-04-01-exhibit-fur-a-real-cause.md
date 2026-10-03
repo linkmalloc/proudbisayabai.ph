@@ -12,7 +12,7 @@ tags:
   - cat
   - furbabies               
   - exhibit               
-views: "10"
+views: "15"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/exhibit_for_a_real_cause/23.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/exhibit_for_a_real_cause/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/exhibit_for_a_real_cause/23.jpg
@@ -25,6 +25,7 @@ photo_credit: "Jason Rabaya"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 278
 ---
 ****
 ##### Exhibit FUR A Real Cause

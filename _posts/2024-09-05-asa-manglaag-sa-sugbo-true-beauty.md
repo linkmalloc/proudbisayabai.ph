@@ -8,7 +8,7 @@ categories:
   - destination
 tags:
   
-views: "10"
+views: "355"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/asa-maglaag-sa-sugbo-3/cover1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/asa-maglaag-sa-sugbo-3/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/asa-maglaag-sa-sugbo-3/cover1.jpg
@@ -22,6 +22,7 @@ photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
+pbb_post_id: 470
 ---
 ****
 

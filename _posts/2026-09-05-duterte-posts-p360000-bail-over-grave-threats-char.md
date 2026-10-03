@@ -10,7 +10,7 @@ tags:
   - Sara Duterte
   - Bail
   - Grave Threats Charge
-views: '0'
+views: "39"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2855/e770701788600097-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2855/e770701788600097-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2855/e770701788600097-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-05T09:21:38.915Z'
+pbb_post_id: 2855
 ---
 
 Vice President Sara Duterte posted P360,000 bail on Saturday after a Quezon City court issued a warrant for her arrest over three counts of grave threats.

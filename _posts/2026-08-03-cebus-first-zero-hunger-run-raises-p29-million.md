@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Governor’s Zero Hunger Run
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2571/57da8a1785734506-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2571/57da8a1785734506-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2571/57da8a1785734506-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-03T05:22:15.020Z'
+pbb_post_id: 2571
 ---
 
 The inaugural Governor’s Zero Hunger Run generated P2.9 million for Cebu’s food security and nutrition programs, with organizers eyeing a bigger and more expanded edition next year after the charity race drew around 3,500 participants on Sunday, Aug. 2.

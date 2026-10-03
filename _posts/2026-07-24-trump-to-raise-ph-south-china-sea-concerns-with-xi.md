@@ -10,7 +10,7 @@ tags:
   - Trump
   - Donald Trump
   - Bongbong Marcos
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2494/4386ee1784896653-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2494/4386ee1784896653-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2494/4386ee1784896653-2.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-24T11:40:36.546Z'
+pbb_post_id: 2494
 ---
 
 US President Donald Trump has assured President Ferdinand R. Marcos Jr. that he will raise the Philippines’ concerns over recent developments in the South China Sea (SCS) during his next meeting with Chinese President Xi Jinping.

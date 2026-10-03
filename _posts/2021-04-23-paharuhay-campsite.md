@@ -22,6 +22,7 @@ img_500_5:
 photo_credit: "Kodakeros De Cebu"
 photo_credit_link: ""
 published: false
+pbb_post_id: 166
 ---
 #### Paharuhay Campsite  
   

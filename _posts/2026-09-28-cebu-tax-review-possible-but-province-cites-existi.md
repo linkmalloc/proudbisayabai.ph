@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Tax review
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3041/9279dd1790581858-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3041/9279dd1790581858-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3041/9279dd1790581858-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-09-28T07:51:01.233Z'
+pbb_post_id: 3041
 ---
 
 Calls to reduce provincial taxes are prompting the Cebu Provincial Government to revisit its revenue measures, even as Capitol officials point to property reassessments and lower quarry valuations as relief already provided to taxpayers.

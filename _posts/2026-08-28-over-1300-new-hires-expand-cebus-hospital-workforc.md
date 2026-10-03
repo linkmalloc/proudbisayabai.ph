@@ -10,7 +10,7 @@ tags:
   - Cebu Provincial Government
   - Hospital
   - Workforce
-views: '0'
+views: "49"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2786/ac709f1787891708-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2786/ac709f1787891708-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2786/ac709f1787891708-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-28T04:35:10.870Z'
+pbb_post_id: 2786
 ---
 
 The Cebu Provincial Government has added 1,364 healthcare personnel to its workforce since July 2025 as it continues to address staffing needs across its 16 provincial hospitals.

@@ -14,7 +14,7 @@ categories:
   - story
 tags:
   - Tech
-views: '10'
+views: "164"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/557/2fe3f61757446988-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/557/2fe3f61757446988-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/557/2fe3f61757446988-2.jpg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-09-09T00:00:00
+pbb_post_id: 557
 ---
 
 The Philippine tech ecosystem has seen rapid expansion over the past decade. According to Endeavor Philippines (2025), the number of tech companies has tripled between 2014 and 2024, which is a clear sign of how much the industry has matured. With the country’s digital economy projected to reach $35 billion by 2025 (Olivo, 2025), the Philippines is emerging as one of Southeast Asia’s fastest-growing tech hubs.

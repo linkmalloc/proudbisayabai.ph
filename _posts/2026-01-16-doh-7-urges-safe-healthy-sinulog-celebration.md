@@ -12,7 +12,7 @@ categories:
 tags:
   - DOH7
   - Sinulog2026
-views: '10'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/963/1f6d7a1768629869-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/963/1f6d7a1768629869-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/963/1f6d7a1768629869-2.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-17T00:00:00
 published: true
+pbb_post_id: 963
 ---
 
 

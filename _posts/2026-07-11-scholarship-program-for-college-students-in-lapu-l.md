@@ -10,7 +10,7 @@ tags:
   - Education
   - Lapu-Lapu City
   - Scholarship Program
-views: '0'
+views: "38"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2372/c720931783756838-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2372/c720931783756838-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2372/c720931783756838-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-11T08:00:41.248Z'
+pbb_post_id: 2372
 ---
 
 The Lapu-Lapu City Government has launched a scholarship program that will provide financial assistance to qualified Oponganon students pursuing college education in state universities and colleges.

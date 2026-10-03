@@ -11,7 +11,7 @@ tags:
   - Lapu-Lapu City
   - School Safety
   - School Security
-views: '0'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2767/3a7bc31787719535-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2767/3a7bc31787719535-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2767/3a7bc31787719535-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-26T04:45:49.732Z'
+pbb_post_id: 2767
 ---
 
 The Lapu-Lapu City Government is strengthening security and emergency preparedness in schools following recent active attack incidents in educational institutions across the country.

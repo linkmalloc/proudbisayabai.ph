@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Air quality
-views: '0'
+views: "240"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3078/ae2d671790920839-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3078/ae2d671790920839-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3078/ae2d671790920839-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-10-02T06:01:33.993Z'
+pbb_post_id: 3078
 ---
 
 Metro Cebu began October with air pollution still at a level that could affect people sensitive to poor air quality, although readings improved throughout the day on Thursday.

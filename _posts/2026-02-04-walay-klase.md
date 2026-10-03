@@ -13,7 +13,7 @@ categories:
 tags:
   - WayKlase
   - BagyongBasyang
-views: '10'
+views: "135"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1075/a17c971770212022-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1075/a17c971770212022-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1075/a17c971770212022-2.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1075
 ---
 
 Several local government units have announced the suspension of face-to-face classes as heavy rainfall continues to affect parts of the Visayas due to Bagyong Basyang. The precautionary measure aims to ensure the safety of students, teachers, and school personnel.

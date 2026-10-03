@@ -9,7 +9,7 @@ categories:
 tags:
   - Electricity
   - Power Grid
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2289/cc86361783063819-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2289/cc86361783063819-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2289/cc86361783063819-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-07-03T07:30:25.106Z'
+pbb_post_id: 2289
 ---
 
 Power supply conditions in the Visayas have temporarily eased, with grid alerts lifted after a major generating unit resumed operations, reducing the risk of interruptions that had affected households and businesses in recent weeks.

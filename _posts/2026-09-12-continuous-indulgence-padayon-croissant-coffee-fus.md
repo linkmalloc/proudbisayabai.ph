@@ -9,7 +9,7 @@ categories:
   - brand
 tags:
   - Padayon Croissant and Coffee
-views: '0'
+views: "8"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2913/6f526a1789220977-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2913/6f526a1789220977-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2913/6f526a1789220977-2.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-12T09:54:58.953Z'
+pbb_post_id: 2913
 ---
 
 Cebu’s booming café scene just got a whole lot sweeter with a meaningful twist. 

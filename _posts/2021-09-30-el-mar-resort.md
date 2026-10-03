@@ -13,7 +13,7 @@ tags:
   - chill
   - sogod
   - philippines               
-views: "10"
+views: "4,165"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/el_mar_resort/6.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/el_mar_resort/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/el_mar_resort/6.jpg
@@ -25,6 +25,7 @@ img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/el_mar_resort/12.j
 photo_credit: "Yoko Sato Li  (No copyright infringement intended) "
 photo_credit_link: ""
 editor: "PBB Admin"
+pbb_post_id: 238
 ---
 ****  
 ##### El Mar Resort  

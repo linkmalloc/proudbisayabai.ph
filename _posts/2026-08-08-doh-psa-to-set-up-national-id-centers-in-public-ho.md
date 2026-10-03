@@ -10,7 +10,7 @@ tags:
   - DOH
   - PSA
   - National ID Centers
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2631/df98b21786171037-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2631/df98b21786171037-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2631/df98b21786171037-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-08T06:37:29.767Z'
+pbb_post_id: 2631
 ---
 
 The Department of Health (DOH) and the Philippine Statistics Authority (PSA) will establish National ID registration centers inside DOH hospitals to make government identification services more accessible to patients, visitors and healthcare workers.

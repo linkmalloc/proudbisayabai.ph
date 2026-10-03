@@ -21,6 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616258196/e
 photo_credit: "Chasing James"
 photo_credit_link: ""
 published: false
+pbb_post_id: 107
 ---
 #### Ermi Beach Resort
 Who’s excited for the next weekend? Isa’ng kamot! 🙋🏻‍♀️   

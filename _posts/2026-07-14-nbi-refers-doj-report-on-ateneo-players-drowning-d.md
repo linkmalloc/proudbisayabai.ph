@@ -13,7 +13,7 @@ tags:
   - Adili
   - DOJ
   - Baldwin
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2398/54a6891784016863-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2398/54a6891784016863-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2398/54a6891784016863-2.jpg
@@ -28,6 +28,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-14T08:14:27.435Z'
+pbb_post_id: 2398
 ---
 
 The National Bureau of Investigation (NBI) has endorsed to the Department of Justice (DOJ) its findings on the deaths of two Ateneo de Manila University basketball players during a team-building activity in Aurora.

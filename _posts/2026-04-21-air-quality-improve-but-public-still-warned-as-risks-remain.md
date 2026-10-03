@@ -13,7 +13,7 @@ categories:
 tags:
   - AirQuality
   - CebuCity
-views: '10'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1571/df6df21776764256-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1571/df6df21776764256-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1571/df6df21776764256-1.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1571
 ---
 
 The air over Metro Cebu started to loosen its grip on Tuesday, April 21, as pollution levels eased following days of stagnant haze, with the Air Quality Index dropping to 139 and signaling a shift away from “Very Unhealthy” conditions.

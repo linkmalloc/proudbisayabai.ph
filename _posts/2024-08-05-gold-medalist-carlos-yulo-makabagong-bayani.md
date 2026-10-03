@@ -11,7 +11,7 @@ tags:
   - olympic gold medalist
   - olympic
   - gold medalist
-views: "10"
+views: "57"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carlosyulo/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carlosyulo/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carlosyulo/cover.jpg
@@ -24,6 +24,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 458
 ---
 ****
 Carlos Edriel Yulo has once again etched his name in the annals of Philippine sports history by achieving a monumental feat at the Paris 2024 Olympic Games. Yulo, the nation’s gymnastics prodigy, captured not one but two gold medals—first in the floor exercise and then in the vault final—making him the first Filipino athlete to secure back-to-back Olympic golds in gymnastics. This remarkable accomplishment has not only solidified Yulo's status as one of the greatest gymnasts in the world but also as a modern-day hero for the Philippines, inspiring countless Filipinos with his perseverance, dedication, and indomitable spirit.  

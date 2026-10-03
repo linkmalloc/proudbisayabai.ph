@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Riding-in-tandem
-views: '0'
+views: "62"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2415/8f4d501784172375-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2415/8f4d501784172375-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2415/8f4d501784172375-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-16T03:26:16.433Z'
+pbb_post_id: 2415
 ---
 
 CEBU CITY — A 50-year-old woman was shot dead by unidentified riding-in-tandem gunmen in the early hours of Thursday, July 16, along B. Aranas Street in Barangay San Nicolas Proper, Cebu City.

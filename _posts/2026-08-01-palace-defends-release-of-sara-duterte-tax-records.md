@@ -9,7 +9,7 @@ categories:
 tags:
   - Bongbong Marcos
   - Sara Duterte Tax Records
-views: '0'
+views: "34"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2567/3e62311785558107-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2567/3e62311785558107-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2567/3e62311785558107-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-01T04:22:00.037Z'
+pbb_post_id: 2567
 ---
 
 Malacañang on Friday defended President Ferdinand R. Marcos Jr.’s approval of the disclosure of Vice President Sara Duterte’s tax records, saying the move followed due process and complied with existing laws.

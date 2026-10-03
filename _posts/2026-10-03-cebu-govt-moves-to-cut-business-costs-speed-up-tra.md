@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-10-03T12:05:32.397Z'
+pbb_post_id: 3089
 ---
 
 Businesses dealing with the Cebu Provincial Government could see lower costs and faster transactions as the Capitol rolls out reforms aimed at making its services more accessible to micro, small and medium enterprises (MSMEs).

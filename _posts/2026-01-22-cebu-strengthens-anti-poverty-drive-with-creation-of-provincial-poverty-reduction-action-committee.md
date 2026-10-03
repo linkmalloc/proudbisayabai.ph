@@ -14,7 +14,7 @@ categories:
 tags:
   - AntiPoverty
   - GovernorBaricuatro
-views: '10'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1000/945fab1769153825-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1000/945fab1769153825-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1000/945fab1769153825-2.jpeg
@@ -29,6 +29,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-23T00:00:00
 published: true
+pbb_post_id: 1000
 ---
 
 The provincial government has launched a new mechanism to boost its anti-poverty efforts with the creation of the Provincial Poverty Reduction Action Committee (PRAC).

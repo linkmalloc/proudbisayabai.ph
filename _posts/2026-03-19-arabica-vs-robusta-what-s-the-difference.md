@@ -12,7 +12,7 @@ categories:
 tags:
   - Arabica
   - Robusta
-views: '10'
+views: "101"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1340/bffe5a1773931187-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1340/bffe5a1773931187-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1340/bffe5a1773931187-2.jpg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1340
 ---
 
 Coffee lovers often encounter two main types of beans, Arabica and Robusta. While both come from the coffee plant, they differ in taste, appearance, and caffeine content, offering distinct experiences in every cup.

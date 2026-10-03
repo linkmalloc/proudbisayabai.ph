@@ -24,6 +24,7 @@ photo_credit: "Yoko Sato Li |  yoko_travelbook (No copyright infringement intend
 photo_credit_link: "https://www.instagram.com/yoko_travelbook/?hl=en"
 read_time: "3 minutes"
 editor: "PBB Admin"
+pbb_post_id: 264
 ---
 ****
 ###### A Seaside of Valor and Beauty: Voda Krasna Beach Resort

@@ -9,7 +9,7 @@ tags:
   - cebu
   -  dalaguete
   -  beach               
-views: "10"
+views: "2,025"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/casay_beach_club/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/casay_beach_club/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/casay_beach_club/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: "TRIP NI JODAN"
 photo_credit_link: "https://www.facebook.com/profile.php?id=100085694911928"
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 383
 ---
 ****
 Summer is still just within reach, and it's time to seize the opportunity! Don't let it slip away, my friend! Make your way to Casay Beach Club, where for just ₱50 pesos, you can embark on an incredible summer getaway. Pack your bags, bring your most stylish summer outfits, and get ready to bask in the warmth of the sun at this idyllic beach haven.  

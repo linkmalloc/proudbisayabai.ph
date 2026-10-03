@@ -9,7 +9,7 @@ categories:
 tags:
   - Mandaue
   - Metal Detector
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2431/d704441784280870-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2431/d704441784280870-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2431/d704441784280870-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-17T09:34:41.350Z'
+pbb_post_id: 2431
 ---
 
 The Mandaue City Government is looking for available funds to purchase metal detectors for public schools as part of efforts to strengthen campus security and protect students.

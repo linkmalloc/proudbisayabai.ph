@@ -9,7 +9,7 @@ categories:
 tags:
   - Lifestyle
   - Well-being
-views: '0'
+views: "65"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2369/1131df1783753743-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2369/1131df1783753743-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2369/1131df1783753743-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-11T07:09:02.736Z'
+pbb_post_id: 2369
 ---
 
 You answer every call, say yes to every request, and show up for everyone—until one day, you realize you’re exhausted, overwhelmed, and barely holding yourself together. Giving too much doesn’t always feel like a problem at first. It often feels like love, responsibility, or simply doing what’s right. But over time, constantly putting others first can quietly drain your energy, leaving you feeling empty and disconnected from yourself.

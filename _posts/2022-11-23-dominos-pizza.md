@@ -10,7 +10,7 @@ tags:
   -  cebu
   -  best pizza of cebu
   -  the world's favorite pizza               
-views: "10"
+views: "371"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dominos_pizza/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dominos_pizza/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dominos_pizza/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "8 minutes"
+pbb_post_id: 340
 ---
 ****
 “You can’t buy happiness but you can buy Pizza and that’s kind of the same thing.”  

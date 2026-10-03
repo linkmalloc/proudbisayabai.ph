@@ -9,7 +9,7 @@ categories:
 tags:
   - DOLE Pay Rules
   - August 21
-views: '0'
+views: "44"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2692/e1c13b1786951574-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2692/e1c13b1786951574-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2692/e1c13b1786951574-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-17T07:26:23.298Z'
+pbb_post_id: 2692
 ---
 
 The Department of Labor and Employment (DOLE) reminded private-sector employers to observe the proper pay rules for workers who report for duty during Ninoy Aquino Day on Aug. 21 and National Heroes Day on Aug. 31.

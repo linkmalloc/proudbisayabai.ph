@@ -13,7 +13,7 @@ tags:
   - USJRgraduate
   - USJRLaw
   - RigilSevilleno
-views: '10'
+views: "335"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1111/7f47fe1770700877-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1111/7f47fe1770700877-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1111/7f47fe1770700877-2.jpg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1111
 ---
 
 For Atty. Rigil Kent E. Sevilleno, becoming a lawyer was a dream planted early on.

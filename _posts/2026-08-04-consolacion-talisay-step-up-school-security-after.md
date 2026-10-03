@@ -10,7 +10,7 @@ tags:
   - Consolacion
   - Talisay
   - School Security
-views: '0'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2585/3c4e211785827971-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2585/3c4e211785827971-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2585/3c4e211785827971-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-04T07:19:33.274Z'
+pbb_post_id: 2585
 ---
 
 Consolacion and Talisay City officials heightened security in schools on Monday after screenshots of an online threat circulated on social media, prompting investigations by local police and cybercrime authorities.

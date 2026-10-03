@@ -13,7 +13,7 @@ categories:
 tags:
   - Alcohol
   - SugaryDrinks
-views: '10'
+views: "43"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1605/a0ddc21777189461-4.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1605/a0ddc21777189461-4.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1605/a0ddc21777189461-4.jpg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1605
 ---
 
 According to the World Health Organization, most countries have shown no reduction in the affordability of alcoholic beverages and sugary drinks since 2022. This trend raises concerns because when unhealthy products become easier to afford, people are more likely to buy and consume them more often.

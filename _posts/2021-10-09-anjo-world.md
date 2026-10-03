@@ -12,7 +12,7 @@ tags:
   - rides
   - attractions
   - snow world               
-views: "10"
+views: "242"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/anjo_world2/3.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/anjo_world2/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/anjo_world2/3.jpg
@@ -25,6 +25,7 @@ photo_credit: "Michael Audrey Jacobe Sagonoy, Drone Pilot | Pobreng Laagan"
 photo_credit_link: ""
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/michael.jpg"
 editor: "Evner Negro, Editor"
+pbb_post_id: 243
 ---
 ****
 ##### Anjo World Theme Park

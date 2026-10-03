@@ -9,7 +9,7 @@ tags:
   - beach
   - getaway
   - resort
-views: "34,145"
+views: "412"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panagsama_beach/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panagsama_beach/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/panagsama_beach/1.jpg
@@ -19,6 +19,7 @@ social_reach: "10,218"
 location: Moalboal, Cebu
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/twin.jpg"
 read_time: "5 minutes"
+pbb_post_id: 213
 ---
 ###### PANAGSAMA BEACH  
 

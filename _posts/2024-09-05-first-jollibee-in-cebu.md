@@ -11,7 +11,7 @@ tags:
   - cebu
   - jollibee
   - mango
-views: "10"
+views: "5,639"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/first-jollibee-in-cebu/cover1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/first-jollibee-in-cebu/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/first-jollibee-in-cebu/cover1.jpg
@@ -24,6 +24,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 471
 ---
 ****
 

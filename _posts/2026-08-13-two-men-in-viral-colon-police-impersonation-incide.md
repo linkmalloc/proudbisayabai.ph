@@ -9,7 +9,7 @@ categories:
 tags:
   - Colon
   - Police Impersonation
-views: '0'
+views: "28"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2658/a1cb341786595500-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2658/a1cb341786595500-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2658/a1cb341786595500-2.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-13T04:31:45.666Z'
+pbb_post_id: 2658
 ---
 
 Two men accused of posing as police officers during a confrontation near the University of Cebu were later nabbed in separate police operations in Cebu City, the Cebu City Police Office (CCPO) said.

@@ -11,7 +11,7 @@ tags:
   - cebu
   - catmon
   - bingka
-views: "10"
+views: "1,670"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bingka_de_catmon/cover1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bingka_de_catmon/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bingka_de_catmon/cover1.jpg
@@ -24,6 +24,7 @@ photo_credit: "PBB"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 410
 ---
 ****
 The town of Catmon, Cebu, is known for many things: its beautiful beaches, its lush mountains, and its friendly people. But one thing that Catmon is most famous for is its bingka.  

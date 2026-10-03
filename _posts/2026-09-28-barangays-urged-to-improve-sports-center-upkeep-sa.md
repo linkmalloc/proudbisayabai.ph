@@ -10,7 +10,7 @@ tags:
   - Sports center
   - Upkeep
   - Sanitation
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3038/e06e671790581396-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3038/e06e671790581396-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3038/e06e671790581396-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-28T07:43:17.713Z'
+pbb_post_id: 3038
 ---
 
 Cebu City barangays are being urged to improve the maintenance and sanitation of their sports centers and multipurpose facilities, following concerns over unhygienic comfort rooms and foul odors in some facilities.

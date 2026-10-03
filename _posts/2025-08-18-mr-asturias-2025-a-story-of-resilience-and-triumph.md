@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - MrAsturias
-views: '10'
+views: "142"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/545/196d551755630750-9.png
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/545/196d551755630750-9.png
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/545/196d551755630750-9.png
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-08-19T00:00:00
+pbb_post_id: 545
 ---
 
 

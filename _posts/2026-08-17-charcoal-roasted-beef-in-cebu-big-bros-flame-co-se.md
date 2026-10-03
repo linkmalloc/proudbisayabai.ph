@@ -10,7 +10,7 @@ categories:
 tags:
   - ChickenInasal
   - BigBrosFlameCo
-views: '0'
+views: "40"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2693/a9a6481786974179-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2693/a9a6481786974179-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2693/a9a6481786974179-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-17T13:43:01.843Z'
+pbb_post_id: 2693
 ---
 
 Looking for a hearty meal with that unmistakable smoky flavor of food cooked over charcoal? Big Bros Flame Co. is bringing charcoal-roasted goodness to the table in Sambag 1, Cebu City, with its tender and flavorful Lechon Baka that is made for sharing.

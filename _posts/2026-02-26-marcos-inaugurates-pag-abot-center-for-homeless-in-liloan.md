@@ -15,7 +15,7 @@ tags:
   - PagAbotProcessingCenter
   - Liloan
   - DSWD
-views: '10'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1209/64d1a21772101583-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1209/64d1a21772101583-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1209/64d1a21772101583-2.jpg
@@ -29,6 +29,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1209
 ---
 
 President Ferdinand R. Marcos Jr. on Thursday inaugurated the Pag-Abot Processing Center in Liloan, Cebu, a facility designed to assist people living on the streets through health services, temporary shelter, and social support programs.

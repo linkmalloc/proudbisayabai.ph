@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Philip Lo
-views: '0'
+views: "41"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2357/5d673a1783670574-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2357/5d673a1783670574-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2357/5d673a1783670574-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-10T08:03:22.271Z'
+pbb_post_id: 2357
 ---
 
 Cebuano businessman Philip Lo officially began his duties as Presidential Assistant for the Visayas after taking his oath before President Ferdinand “Bongbong” Marcos Jr. in Malacañang on Wednesday, July 9.

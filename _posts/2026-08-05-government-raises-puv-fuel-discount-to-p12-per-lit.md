@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - PUV Fuel Discount
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2604/f77cf91785913761-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2604/f77cf91785913761-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2604/f77cf91785913761-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-05T07:09:25.676Z'
+pbb_post_id: 2604
 ---
 
 The government will increase the fuel discount for public utility jeepney and UV Express drivers to P12 per liter starting Aug. 15 as part of measures to provide additional support to the transport sector amid rising economic pressures linked to tensions in the Middle East.

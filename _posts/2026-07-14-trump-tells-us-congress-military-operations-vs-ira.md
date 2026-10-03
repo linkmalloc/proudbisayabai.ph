@@ -12,7 +12,7 @@ tags:
   - PresidentTrump
   - military
   - Iran
-views: '0'
+views: "9"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2397/b225df1784016761-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2397/b225df1784016761-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2397/b225df1784016761-1.jpeg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-14T08:12:43.769Z'
+pbb_post_id: 2397
 ---
 
 US President Donald Trump formally notified Congress last week that the United States had resumed military operations against Iran, according to a July 10 letter cited by several US media outlets on Monday.

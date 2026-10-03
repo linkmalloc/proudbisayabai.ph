@@ -12,7 +12,7 @@ categories:
   - destination
 tags:
   - CarbonMarket
-views: '10'
+views: "247"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/662/3555db1762683340-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/662/3555db1762683340-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/662/3555db1762683340-2.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-11-09T00:00:00
 published: true
+pbb_post_id: 662
 ---
 
 PRESYO SA MGA UTANON UG PRUTAS SA CARBON!

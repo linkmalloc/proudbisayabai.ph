@@ -10,7 +10,7 @@ categories:
 tags:
   - DOE
   - Eastern Visayas
-views: '0'
+views: "28"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2867/3ab51a1788773893-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2867/3ab51a1788773893-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2867/3ab51a1788773893-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-07T09:38:26.455Z'
+pbb_post_id: 2867
 ---
 
 The Department of Energy (DOE) is working to bring two power barges from Luzon to Cebu and Panay within September as the Visayas grid struggles with a widening gap between available supply and demand.

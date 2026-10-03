@@ -9,7 +9,7 @@ categories:
 tags:
   - Cyber extortion
   - Regional Anti-Cybercrime Unit
-views: '0'
+views: "49"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2516/1466031785143233-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2516/1466031785143233-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2516/1466031785143233-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-27T09:07:20.863Z'
+pbb_post_id: 2516
 ---
 
 What began as an offer for a supposed clothing collaboration ended with a woman losing money and her private photos falling into the hands of an alleged cyber extortionist.

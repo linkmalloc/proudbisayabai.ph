@@ -12,7 +12,7 @@ categories:
 tags:
   - CebuCity
   - Capitol
-views: '10'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1440/2ba0711775032746-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1440/2ba0711775032746-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1440/2ba0711775032746-2.jpg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1440
 ---
 
 Cebu City visitors entering the Provincial Capitol may find the Governor’s lobby temporarily off-limits as it undergoes a major facelift aimed at improving both security and visitor experience.

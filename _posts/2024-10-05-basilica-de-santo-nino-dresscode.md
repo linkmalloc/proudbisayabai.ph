@@ -10,7 +10,7 @@ tags:
   - cebu
   - Santo Niño
   - dresscode
-views: "10"
+views: "2,452"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/santonino-attire/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/santonino-attire/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/santonino-attire/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 474
 ---
 *****    
 Cebu City, Philippines – In a move to reinforce the sanctity and reverence of the Basilica Minore del Santo Niño de Cebu, the Augustinian Fathers of the Basilica have announced the implementation of a strict Dress Code Policy beginning October 1, 2024. This new measure aims to ensure that visitors to this sacred space are dressed appropriately, reflecting the respect and decorum expected in a place of worship.       

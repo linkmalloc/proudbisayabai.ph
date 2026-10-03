@@ -13,7 +13,7 @@ categories:
 tags:
   - PHIVOLCS
   - Linog
-views: '10'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1681/cdf6431777876050-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1681/cdf6431777876050-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1681/cdf6431777876050-1.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1681
 ---
 
 A magnitude 6.0 earthquake struck near San Julian, Eastern Samar at 2:09 PM on Monday, May 4, 2026, according to the PHIVOLCS. The tremor had a shallow depth of 10 kilometers and was located approximately 9 kilometers north 85° west of the municipality.

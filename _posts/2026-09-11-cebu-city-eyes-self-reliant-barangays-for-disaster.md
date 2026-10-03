@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Disaster Response
-views: '0'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2901/8a673c1789108361-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2901/8a673c1789108361-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2901/8a673c1789108361-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-11T06:32:43.476Z'
+pbb_post_id: 2901
 ---
 
 Cebu City wants every barangay to be capable of mounting an immediate disaster response, particularly during the critical hours after a major earthquake or calamity disrupts power, water, roads and communications.

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Flood control investigations
-views: '0'
+views: "8"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3081/4a87e51790924161-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3081/4a87e51790924161-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3081/4a87e51790924161-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-10-02T06:56:06.390Z'
+pbb_post_id: 3081
 ---
 
 The dispute between Senators Alan Peter Cayetano and Panfilo “Ping” Lacson over the investigation of alleged irregularities in flood control projects escalated Tuesday, with Cayetano accusing Lacson of acting as though he had authority over several agencies and investigative bodies.

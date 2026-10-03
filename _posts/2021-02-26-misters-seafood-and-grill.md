@@ -22,6 +22,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614349093/m
 photo_credit: "Michael Sagonoy | Vivi Moore"
 photo_credit_link: ""
 published: false
+pbb_post_id: 48
 ---
 #### Mister's Seafood and Grill
   

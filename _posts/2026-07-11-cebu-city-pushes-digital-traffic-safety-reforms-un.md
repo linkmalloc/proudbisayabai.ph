@@ -9,7 +9,7 @@ categories:
 tags:
   - Nestor Archival
   - Digitalization
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2377/8c5a911783771232-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2377/8c5a911783771232-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2377/8c5a911783771232-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-11T12:00:37.327Z'
+pbb_post_id: 2377
 ---
 
 Digital transformation, traffic management, and public safety upgrades are among the priorities highlighted under the “Smart” pillar of Cebu City Mayor Nestor Archival’s development agenda presented during his State of the City Address (SOCA).

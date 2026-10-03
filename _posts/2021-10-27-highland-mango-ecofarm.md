@@ -12,7 +12,7 @@ tags:
   - farm
   - ecofarm
   - mango               
-views: "10"
+views: "201"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/highland_mango_ecofarm/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/highland_mango_ecofarm/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/highland_mango_ecofarm/1.jpg
@@ -25,6 +25,7 @@ photo_credit: "Albert Chan Paran IFFM NYC Best Actor  Best Actor "
 photo_credit_link: " https://www.facebook.com/albert.paran"
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 252
 ---
 ###### Highland Mango Ecofarm
 

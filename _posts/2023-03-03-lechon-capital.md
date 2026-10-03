@@ -9,7 +9,7 @@ tags:
   - lechon
   -  cebu
   -  best lechon               
-views: "10"
+views: "2,013"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lechon_capital/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lechon_capital/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lechon_capital/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 371
 ---
 ****
 Lechon, or roast pig, is a widely popular meal throughout the world, but Cebu, stands out as the lechon capital of the world. Cebu is known for its delicious and crispy lechon, which is so good that it has earned the city the title of "Lechon Capital of the World."  
