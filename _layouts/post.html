@@ -2,7 +2,7 @@
 layout: default
 ---
     {% include post.data.html %}
-    <script src="/assets/js/post-views.js" data-post-id="{{ page.pbb_post_id }}" data-slug="{{ page.path }}" defer></script>
+    <script src="/assets/js/post-views.js" data-post-id="{{ page.pbb_post_id }}" data-path="{{ page.path }}" defer></script>
     <!-- Start Main content -->
     <main class="bg-grey pt-20 pb-20 mb-10">
         <section class="ad-banner-section py-10">
@@ -41,6 +41,7 @@ layout: default
                                             </p>
                                             <span class="mr-10"> {{ page.published_date | default: page.date | date: '%B %d, %Y' }}</span>
                                             <span class="has-dot"> {{ page.read_time }} read</span>
+                                            <span class="has-dot" id="post-view-count"{% if page.views == blank or page.views == '0' %} hidden{% endif %}> {{ page.views }} views</span>
                                             <div class="mt-2">
                                                 {% if page.editor %}
                                                     <span class="text-muted font-small">Edited by: {{ page.editor}}</span>
