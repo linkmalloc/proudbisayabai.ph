@@ -9,7 +9,7 @@ tags:
   - mountain
   - cebu
   - getaway
-views: "2,547"
+views: "749"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/13.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/cover2.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/busay_mountain_getaway/13.jpg
@@ -19,6 +19,7 @@ social_reach: "2,547"
 location: Tops, Busay, Cebu
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/bench.jpg"
 read_time: "5 minutes"
+pbb_post_id: 212
 ---
 ##### Busay Mountain Getaway
 Need a quick weekend getaway that isn't too far from the city? Busay Mountain Getaway offers a space where you can disconnect from all the hustle and bustle of your daily busy life and reconnect with your loved ones, nature, and yourself.  Getting a quick recharge is all we need! 

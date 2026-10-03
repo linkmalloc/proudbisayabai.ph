@@ -20,6 +20,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615697772/a
 photo_credit: "Twin De Los Reyes | Jharm Cabatas"
 photo_credit_link: ""
 published: false
+pbb_post_id: 89
 ---
 AFFORDABLE ug lami na Unli Tuslob buwa naa na sa TUYAN NAGA mga Bai!!! Tara sa Alfajardo Food Station. 🍱🥘🍜🤤❤️  
 

@@ -9,7 +9,7 @@ categories:
 tags:
   - Hai Shin Lou
   - Marco Polo
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3059/e534d91790746248-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3059/e534d91790746248-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3059/e534d91790746248-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-30T05:30:54.693Z'
+pbb_post_id: 3059
 ---
 
 One basket of dim sum is never quite enough. At Hai Shin Lou, guests can keep the favorites coming with The Original Yum Cha Feast, an unlimited dining experience at Marco Polo Plaza Cebu.

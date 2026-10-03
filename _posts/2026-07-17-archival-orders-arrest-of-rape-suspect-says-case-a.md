@@ -9,7 +9,7 @@ categories:
 tags:
   - Archival
   - Rape Case
-views: '0'
+views: "185"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2433/08fc4f1784281098-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2433/08fc4f1784281098-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2433/08fc4f1784281098-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-17T09:38:25.091Z'
+pbb_post_id: 2433
 ---
 
 Cebu City Mayor Nestor Archival has directed police to immediately arrest the suspect in the alleged rape of a female store employee in Barangay Basak-San Nicolas, saying the incident appears to be an isolated case and does not reflect a worsening peace and order situation in the city.

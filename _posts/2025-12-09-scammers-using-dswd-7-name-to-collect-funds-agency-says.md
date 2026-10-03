@@ -12,7 +12,7 @@ categories:
 tags:
   - DSWD
   - Scammers
-views: '10'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/773/31d6491765346213-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/773/31d6491765346213-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/773/31d6491765346213-2.jpeg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-12-10T00:00:00
 published: true
+pbb_post_id: 773
 ---
 
 

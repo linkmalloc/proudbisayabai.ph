@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - SugBohol Sisterhood Agreement
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2564/42bafc1785557778-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2564/42bafc1785557778-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2564/42bafc1785557778-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-01T04:16:21.405Z'
+pbb_post_id: 2564
 ---
 
 A bond shaped by shared history, culture, and close ties between neighboring islands entered a new phase as Cebu and Bohol formally established the SugBohol Sisterhood Agreement to strengthen cooperation in governance and development.

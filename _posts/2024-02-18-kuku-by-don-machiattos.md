@@ -16,7 +16,7 @@ tags:
   - yogurt
   - don machiattos
   - macha
-views: '10'
+views: "1,101"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/437/194dab1754579700-3.png
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/437/194dab1754579700-3.png
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/437/194dab1754579700-3.png
@@ -29,6 +29,7 @@ photo_credit: PBB, Sunstar News
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 3 minutes
+pbb_post_id: 437
 ---
 
 

@@ -11,7 +11,7 @@ tags:
   - Night market
   - Ermita
   - Ordinance
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2470/5d69571784630576-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2470/5d69571784630576-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2470/5d69571784630576-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-07-21T10:43:02.188Z'
+pbb_post_id: 2470
 ---
 
 A traditional produce trading area in Barangay Ermita that has operated for more than five decades may soon receive official recognition under a proposed Cebu City ordinance.

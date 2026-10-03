@@ -13,7 +13,7 @@ categories:
   - destination
 tags:
   - Samboan
-views: '10'
+views: "457"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1619/bae1cd1777190685-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1619/bae1cd1777190685-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1619/bae1cd1777190685-1.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1619
 ---
 
 Nestled in the highlands of Samboan, Cebu, Lantaw de Samboan offers visitors a peaceful retreat surrounded by breathtaking natural scenery. This emerging destination has become a favored spot for those seeking relaxation away from the busy city life, where fresh mountain air, lush greenery, and panoramic views take center stage.

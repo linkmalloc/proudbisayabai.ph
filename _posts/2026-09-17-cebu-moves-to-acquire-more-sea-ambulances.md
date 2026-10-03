@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Sea ambulance
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2954/b708231789640605-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2954/b708231789640605-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2954/b708231789640605-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-17T10:23:30.660Z'
+pbb_post_id: 2954
 ---
 
 Cebu Province is moving to acquire two additional sea ambulances within the year after the Department of the Interior and Local Government (DILG) cleared the provincial government to proceed with the procurement.

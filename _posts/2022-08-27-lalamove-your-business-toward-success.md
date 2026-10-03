@@ -8,7 +8,7 @@ categories:
   - product
 tags:
   - lalamove               
-views: "10"
+views: "46"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lalamove_your_business/lalamove.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lalamove_your_business/lalamove.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lalamove_your_business/lalamove.jpg
@@ -21,6 +21,7 @@ photo_credit: "Lalamove"
 photo_credit_link: ""
 editor: "Evner Negro"
 read_time: "8 minutes"
+pbb_post_id: 324
 ---
 ##### Move your business toward success with Lalamove
 Lalamove Expands in the South, Offers Winning Moves for Local Biz  

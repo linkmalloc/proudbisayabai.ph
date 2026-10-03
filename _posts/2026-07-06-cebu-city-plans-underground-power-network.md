@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Underground Power
-views: '0'
+views: "46"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2315/e6713e1783334574-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2315/e6713e1783334574-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2315/e6713e1783334574-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-06T10:43:22.773Z'
+pbb_post_id: 2315
 ---
 
 Cebu City is exploring the installation of underground power distribution lines in key areas as part of a long-term effort to modernize utility infrastructure, improve public safety, and strengthen the city's resilience to natural disasters.

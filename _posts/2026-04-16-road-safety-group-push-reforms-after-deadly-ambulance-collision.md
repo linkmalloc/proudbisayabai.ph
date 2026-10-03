@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - RoadSafety
-views: '10'
+views: "37"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1530/ac76d41776335847-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1530/ac76d41776335847-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1530/ac76d41776335847-1.jpeg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1530
 ---
 
 A fatal crash on a busy Cebu flyover has triggered renewed calls for accountability, with a road safety group pressing for a full public accounting of what went wrong.

@@ -8,7 +8,7 @@ categories:
 tags:
   - cebu
   - restaurant        
-views: "10"
+views: "340"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cucina_lucas/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cucina_lucas/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cucina_lucas/1.jpg
@@ -21,6 +21,7 @@ photo_credit: "PBB Admins"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 290
 ---
 ****  
 The business started when the pandemic happened last June 2020. I used to be a seafarer but left my dream job (around September 2019) to help my mother in handling our little Karenderia in Tingub, Mandaue. Karenderia may sound “cheap” to some, but never for me. It has found a special place in my heart, not just because it was our only source of income, back then, but it also represented my mother’s achievement while raising her two children alone.  

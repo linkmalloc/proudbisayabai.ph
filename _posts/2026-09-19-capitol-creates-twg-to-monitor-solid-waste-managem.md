@@ -9,7 +9,7 @@ categories:
 tags:
   - Cebu Provincial Solid Waste Management Board
   - Solid Waste Management
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2964/7f05a21789751843-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2964/7f05a21789751843-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2964/7f05a21789751843-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-18T17:17:41.599Z'
+pbb_post_id: 2964
 ---
 
 The Cebu Provincial Solid Waste Management Board (CPSWMB) has created a Technical Working Group (TWG) to provide technical support in planning, evaluating and monitoring solid-waste management programs across the province.

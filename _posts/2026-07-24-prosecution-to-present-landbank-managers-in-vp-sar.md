@@ -9,7 +9,7 @@ categories:
 tags:
   - Landbank Managers
   - VP Sara Duterte Impeachment Trial
-views: '0'
+views: "26"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2495/db83ca1784893429-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2495/db83ca1784893429-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2495/db83ca1784893429-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-24T11:43:50.520Z'
+pbb_post_id: 2495
 ---
 
 The House prosecution panel will present two former Land Bank of the Philippines (LandBank) branch managers as its initial witnesses when the impeachment trial of Vice President Sara Duterte resumes, focusing on allegations involving the use and disbursement of confidential funds.

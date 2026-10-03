@@ -11,7 +11,7 @@ tags:
   - Direct Flights
   - Davao to Hong Kong
   - Davao to Bangkok
-views: '0'
+views: "205"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2675/9172cf1786689456-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2675/9172cf1786689456-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2675/9172cf1786689456-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-14T06:37:55.493Z'
+pbb_post_id: 2675
 ---
 
 Cebu Pacific will restore direct flights from Davao to Hong Kong and Bangkok, while adding more flights to Siargao and Iloilo, expanding travel options for passengers from Mindanao.

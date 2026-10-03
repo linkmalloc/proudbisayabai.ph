@@ -9,7 +9,7 @@ categories:
 tags:
   - Cockfight
   - Matag-ob
-views: '0'
+views: "47"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2313/32a5531783334196-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2313/32a5531783334196-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2313/32a5531783334196-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-06T10:36:39.258Z'
+pbb_post_id: 2313
 ---
 
 The legality of a cockfighting event held during the recent fiesta celebration in Matag-ob, Leyte has come under scrutiny after former mayor Michael Torrevillas requested official documents to determine whether the activity was properly authorized.

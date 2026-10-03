@@ -11,7 +11,7 @@ tags:
   - House of Represenatives
   - NEP
   - Sonny Angara
-views: '0'
+views: "32"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2994/3fa9241790132138-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2994/3fa9241790132138-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2994/3fa9241790132138-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-23T02:56:39.745Z'
+pbb_post_id: 2994
 ---
 
 The House of Representatives has approved the Department of Education’s proposed P975.96-billion budget for 2027, with additional support sought for programs covering school security, mental health, learning recovery, teachers and classrooms.

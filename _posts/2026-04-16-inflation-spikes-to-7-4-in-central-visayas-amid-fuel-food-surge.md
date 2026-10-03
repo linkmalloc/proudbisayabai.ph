@@ -12,7 +12,7 @@ categories:
 tags:
   - Inflation
   - CentralVisayas
-views: '10'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1531/c4b7ae1776335942-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1531/c4b7ae1776335942-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1531/c4b7ae1776335942-1.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1531
 ---
 
 Inflation in Central Visayas surged to 7.4 percent in March 2026, its highest level in a year, as rising transport and food costs tightened pressure on households.

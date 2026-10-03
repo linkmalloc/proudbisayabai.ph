@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - Sineguelas
-views: '10'
+views: "56"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1494/b1008d1775870639-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1494/b1008d1775870639-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1494/b1008d1775870639-1.jpeg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1494
 ---
 
 When the small fruits start turning bright red on the trees, you already know it’s sineguelas season. Also known as seriguelas or Spanish plum, this beloved fruit is a familiar sign of summer and childhood memories in the Philippines.

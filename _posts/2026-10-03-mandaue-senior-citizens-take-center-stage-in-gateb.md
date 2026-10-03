@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-10-03T12:28:38.181Z'
+pbb_post_id: 3093
 ---
 
 Mallets replaced walking canes as Mandaue’s lolos and lolas took to the playing field for a three-day gateball tournament featuring senior citizens from the city’s 27 barangays.

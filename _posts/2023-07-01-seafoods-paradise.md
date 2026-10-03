@@ -10,7 +10,7 @@ tags:
   - sea food
   -  best seafood
   -  cebu               
-views: "10"
+views: "1,685"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/seafood_paradise/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/seafood_paradise/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/seafood_paradise/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 397
 ---
 ****
 Seafood Paradise SM City Cebu is an all-you-can seafood buffet restaurant located in the heart of Cebu City. It offers a wide variety of fresh seafood dishes, as well as other Filipino and international favorites. The restaurant has a large dining area with a modern and stylish interior. In addition to seafood, the buffet also offers a variety of other Filipino and international dishes. This includes salads, soups, noodles, rice dishes, meat dishes, and desserts. Definitely, there is something for everyone at Seafood Paradise SM City Cebu.  

@@ -13,7 +13,7 @@ tags:
   - BloodMoon
   - March3
   - PAGASA
-views: '10'
+views: "72"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1229/5c97691772452011-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1229/5c97691772452011-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1229/5c97691772452011-2.jpg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1229
 ---
 
 The Philippine Atmospheric, Geophysical and Astronomical Services Administration (Pagasa) will hold a free public viewing of the March 3 total lunar eclipse at its Mactan station, weather permitting.

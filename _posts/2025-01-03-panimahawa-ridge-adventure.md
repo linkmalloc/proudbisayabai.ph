@@ -10,7 +10,7 @@ tags:
   - ridge
   - mindanao
   - mountain
-views: "10"
+views: "369"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paminahawa-ridge/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paminahawa-ridge/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paminahawa-ridge/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 489
 ---
 <br>
 When was the last time you felt completely connected to nature? If you’re craving an escape that blends serenity and adventure, Panimahawa Ridge in Brgy. Impasug-ong, Bukidnon, is the perfect place to set your sights on.  

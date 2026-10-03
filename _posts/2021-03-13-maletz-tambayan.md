@@ -22,6 +22,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615621978/m
 photo_credit: "Amor Rellon"
 photo_credit_link: ""
 published: false
+pbb_post_id: 88
 ---
 #### MALETZ TAMBAYAN
 Looking for a place to chill and dine with family and friends?  

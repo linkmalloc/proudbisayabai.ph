@@ -20,6 +20,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615047128/l
 photo_credit: "Via Fb Page Little Santorini Mountain Resort"
 photo_credit_link: "https://www.facebook.com/littlesantorinimountainresort"
 published: false
+pbb_post_id: 79
 ---
 Santorini Greece? Nope! It's Little Santorini Mountain Resort in Liloan.  If you're looking for affordable place and instagrammable view then, mao nani ang tubag 😍  
 

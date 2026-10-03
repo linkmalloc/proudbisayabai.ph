@@ -21,6 +21,7 @@ img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613055031/e
 photo_credit: "ARAT Travel"
 photo_credit_link: https://www.facebook.com/arattravel/
 published: false
+pbb_post_id: 20
 ---
 You might be looking ahead to plan your next laag trip. Might as well try this new place with perfect ambiance and accommodation only here in Bukidnon. Are you excited? Arat na!
 

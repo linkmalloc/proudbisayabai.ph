@@ -8,7 +8,7 @@ categories:
   - news
 tags:
   - Panfilo Lacson
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2821/98c1d11788252183-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2821/98c1d11788252183-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2821/98c1d11788252183-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-01T08:43:10.338Z'
+pbb_post_id: 2821
 ---
 
 At least P3.713 billion in government projects have been completed, are ongoing or have been suspended along portions of the Laguna Lake shoreline in Taguig City that are now under scrutiny over alleged illegal reclamation, Sen. Panfilo Lacson said Monday.

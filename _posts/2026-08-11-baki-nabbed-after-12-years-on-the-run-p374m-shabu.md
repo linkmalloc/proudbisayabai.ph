@@ -9,7 +9,7 @@ categories:
 tags:
   - Shabu
   - Arrest
-views: '0'
+views: "92"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2646/d9bf951786432147-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2646/d9bf951786432147-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2646/d9bf951786432147-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-11T07:09:10.789Z'
+pbb_post_id: 2646
 ---
 
 A 43-year-old man who had eluded arrest in a previous drug case was arrested in a buy-bust operation in Cebu City that yielded around 550 grams of suspected shabu worth P3.74 million.

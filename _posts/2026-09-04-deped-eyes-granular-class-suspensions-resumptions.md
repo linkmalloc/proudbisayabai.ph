@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Department of Education
-views: '0'
+views: "37"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2847/40305b1788502357-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2847/40305b1788502357-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2847/40305b1788502357-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-04T06:12:42.726Z'
+pbb_post_id: 2847
 ---
 
 The Department of Education (DepEd) is preparing to submit a proposed executive order that would overhaul how basic education classes are suspended and resumed during disasters and other hazards.

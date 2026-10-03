@@ -10,7 +10,7 @@ categories:
 tags:
   - BINI Concert Cebu
   - SM Seaside Arena
-views: '0'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2375/3c7f371783760156-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2375/3c7f371783760156-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2375/3c7f371783760156-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 5 minutes
 published: true
 published_at: '2026-07-11T08:56:19.569Z'
+pbb_post_id: 2375
 ---
 
 Thousands of fans heading to the South Road Properties (SRP) for a major P-pop concert on Saturday, July 11, will face temporary traffic adjustments as the Cebu City Government implements a truck ban and adds public transportation services to manage expected congestion.

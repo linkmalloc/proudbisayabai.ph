@@ -10,7 +10,7 @@ tags:
   - falls
   -  bislig city
   -  surigao               
-views: "10"
+views: "660"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tinuy_an_falls/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tinuy_an_falls/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tinuy_an_falls/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 398
 ---
 ****
 The wildest waterfall in the Philippines hails in Surigao Del Sur Borboanan, Bislig City. The history behind this waterfall came from the Madgiwala Mountain Settlers who were enslaved by the cruel tribesmen coming from the hinterlands of Agusan that later escaped by pushing their bamboo raft over the falls. It is referenced from its name Tinuy-an which comes from the Cebuano word "tinuyo-an," which means "an intentional act or performance to attain an objective or goal."

@@ -9,7 +9,7 @@ categories:
 tags:
   - Chiz Escudero
   - Indigency Standards
-views: '0'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2882/1beb151788938526-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2882/1beb151788938526-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2882/1beb151788938526-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-09T07:22:11.026Z'
+pbb_post_id: 2882
 ---
 
 Presiding Officer Francis “Chiz” Escudero is pushing for a broader and uniform definition of indigency to allow more Filipinos to qualify for government assistance, saying existing standards can overlook families unable to afford major medical or legal expenses.

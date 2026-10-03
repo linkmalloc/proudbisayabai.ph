@@ -11,7 +11,7 @@ categories:
 tags:
   - MinimumWage
   - PCO
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2341/c696681783507018-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2341/c696681783507018-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2341/c696681783507018-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-08T10:36:59.905Z'
+pbb_post_id: 2341
 ---
 
 The government expects more wage increases for Filipino workers as regional wage boards continue reviewing possible salary adjustments following the approval of an P85 daily wage hike in the National Capital Region (NCR), the Palace said Wednesday.

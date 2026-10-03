@@ -10,7 +10,7 @@ tags:
   - cebu
   - bantayan
   - sunset
-views: "10"
+views: "1,025"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sunsetwithu/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sunsetwithu/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sunsetwithu/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 498
 ---
 <br>  
 There’s something undeniably enchanting about sunsets, especially when viewed from the serene shores of Bantayan Island. As the day fades away, the sky transforms into a canvas of colors, and the gentle breeze sweeps across the beach—creating a moment that feels both timeless and magical.  

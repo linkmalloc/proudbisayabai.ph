@@ -10,7 +10,7 @@ categories:
   - story
 tags:
   - Sinulog2026
-views: '10'
+views: "81"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/891/e6b0001767514857-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/891/e6b0001767514857-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/891/e6b0001767514857-2.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-04T00:00:00
 published: true
+pbb_post_id: 891
 ---
 
 Cebu City has been placed under Blue Alert as the city ramps up preparations for Sinulog 2026.

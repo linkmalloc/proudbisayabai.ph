@@ -16,7 +16,7 @@ tags:
   - culinary
   - ambiance
   - 360 views
-views: '10'
+views: "550"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/510/53dae41748210337-13.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/510/53dae41748210337-13.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/510/53dae41748210337-13.jpg
@@ -30,6 +30,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-05-26T00:00:00
+pbb_post_id: 511
 ---
 
 <br />

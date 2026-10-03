@@ -13,7 +13,7 @@ tags:
 - mgs
 - security product
 - smart locks
-views: '10'
+views: "6"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/505/33fdba1760333451-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/505/33fdba1760333451-2.jpg
 img_500_1: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mgs/p1.jpg

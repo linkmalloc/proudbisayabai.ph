@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Philippine Eagle Conservation
-views: '0'
+views: "44"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2833/3986481788416180-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2833/3986481788416180-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2833/3986481788416180-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-03T06:16:23.082Z'
+pbb_post_id: 2833
 ---
 
 Efforts to protect the critically endangered Philippine eagle are expanding beyond the Philippine Eagle Center as the government, conservation groups and Indigenous Peoples communities begin planning conservation work within ancestral domains and key biodiversity areas in Eastern Mindanao.

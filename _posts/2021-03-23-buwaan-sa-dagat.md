@@ -20,6 +20,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616476628/b
 photo_credit: "Rubino Singson"
 photo_credit_link: ""
 published: false
+pbb_post_id: 113
 ---
 #### BUWAAN SA DAGAT  
   

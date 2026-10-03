@@ -9,7 +9,7 @@ categories:
 tags:
   - CumLaude
   - ProudBisaya
-views: '10'
+views: "432"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/523/b8831c1749738135-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/523/b8831c1749738135-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/523/b8831c1749738135-2.jpg

@@ -9,7 +9,7 @@ categories:
 tags:
   - Bida sa Arena
   - SM Seaside Arena
-views: '0'
+views: "50"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2863/97e66f1788763932-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2863/97e66f1788763932-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2863/97e66f1788763932-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-07T06:52:14.610Z'
+pbb_post_id: 2863
 ---
 
 The SM Seaside Arena in Cebu will host its first sporting event since opening in July when celebrities from Sparkle and Th3rd Floor face off in “Bida sa Arena: The Rematch” on Sept. 26.

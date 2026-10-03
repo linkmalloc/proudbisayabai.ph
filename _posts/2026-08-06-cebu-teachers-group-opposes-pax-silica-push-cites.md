@@ -9,7 +9,7 @@ categories:
 tags:
   - Alliance of Concerned Teachers Cebu
   - Pax Silica
-views: '0'
+views: "35"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2611/160eaa1785997107-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2611/160eaa1785997107-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2611/160eaa1785997107-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-06T06:18:30.391Z'
+pbb_post_id: 2611
 ---
 
 The Alliance of Concerned Teachers (ACT) Cebu opposed efforts to position Cebu City as part of the Pax Silica initiative, warning that artificial intelligence (AI)-driven developments could place additional pressure on public resources and affect workers.

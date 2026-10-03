@@ -9,7 +9,7 @@ tags:
   - colon night market
   -  cebu
   -  colon               
-views: "10"
+views: "11,646"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/colon_night_market/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/colon_night_market/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/colon_night_market/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: "Vivi Moore, Twin Delos Reyes, Ariel Alegado"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 347
 ---
 ****
 Gimingaw na ba mo sa Colon Night Market? You no longer need to worry, bai because it has reopened following a virus outbreak closure. Ari nasad ta mag wara-wara!  

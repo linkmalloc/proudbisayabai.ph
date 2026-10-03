@@ -10,7 +10,7 @@ categories:
 tags:
   - Balamban
   - Nikki Catalan
-views: '0'
+views: "26"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2432/a78e891784281002-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2432/a78e891784281002-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2432/a78e891784281002-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-17T09:36:48.875Z'
+pbb_post_id: 2432
 ---
 
 Balamban Mayor Edwin “Amos” Cabahug has publicly expressed support for the possibility of Cebu Provincial Government public health consultant Dr. Elisse Nicole “Nikki” Catalan running for the congressional seat of Cebu’s 3rd District, though Catalan said she has no plans to enter politics.

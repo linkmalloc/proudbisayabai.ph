@@ -9,7 +9,7 @@ categories:
 tags:
   - Alex Eala
   - Sports
-views: '0'
+views: "24"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2312/5b9b751783325903-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2312/5b9b751783325903-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2312/5b9b751783325903-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-06T08:18:26.617Z'
+pbb_post_id: 2312
 ---
 
 Historically, organized sports were largely male-dominated, where men receive more opportunities and support than women in showing off their athletic capabilities. Over time, female athletes emerged, championing in various sports and in different stages. This growing number of female athletes is globally evident, including in the Philippines, where a Filipina tennis athlete, Alex Eala, has paved the way for women in Philippine sports.

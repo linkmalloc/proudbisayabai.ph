@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Sara Duterte
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2558/c7bda51785488251-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2558/c7bda51785488251-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2558/c7bda51785488251-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-31T08:58:04.028Z'
+pbb_post_id: 2558
 ---
 
 House trial spokesperson and impeachment adviser Robert “Ace” Barbers on Friday said Vice President Sara Duterte’s recent remarks about hiring assassins could damage the country’s image and weaken efforts to attract foreign investors and tourists.

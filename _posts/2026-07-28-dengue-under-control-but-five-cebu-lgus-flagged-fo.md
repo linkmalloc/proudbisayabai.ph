@@ -9,7 +9,7 @@ categories:
 tags:
   - Dengue
   - Cebu Provincial Health Office (PHO)
-views: '0'
+views: "77"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2524/a402c21785217090-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2524/a402c21785217090-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2524/a402c21785217090-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-28T05:38:27.361Z'
+pbb_post_id: 2524
 ---
 
 The Cebu Provincial Health Office (PHO) is urging residents and local government units (LGUs) to strengthen dengue prevention efforts after five areas in the province recorded the highest number of cases in the past four weeks.

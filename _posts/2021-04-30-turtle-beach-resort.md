@@ -9,13 +9,14 @@ categories:
 tags:
   - resort
   - north-cebu
-views: "10"
+views: "836"
 read_time: "3 minutes"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/4.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/4.jpg
 photo_credit: "Turtle Beach Resort Facebook Page"
 photo_credit_link: ""
+pbb_post_id: 171
 ---
 #### Turtle Beach Resort  
 

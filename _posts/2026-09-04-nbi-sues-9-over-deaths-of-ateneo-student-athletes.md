@@ -10,7 +10,7 @@ categories:
 tags:
   - NBI
   - Ateneo
-views: '0'
+views: "174"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2842/a24abe1788500587-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2842/a24abe1788500587-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2842/a24abe1788500587-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-04T05:43:32.623Z'
+pbb_post_id: 2842
 ---
 
 The National Bureau of Investigation (NBI) has filed a complaint for reckless imprudence resulting in homicide against nine individuals over the deaths of Ateneo student-athletes Rene Baterbonia and Divine Adili, the Department of Justice (DOJ) said Thursday.

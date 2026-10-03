@@ -24,6 +24,7 @@ photo_credit: "Ian Jusoy Photography"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: ""
+pbb_post_id: 366
 ---
 ****
 Trying to achieve that sleek minimalistic vibe on your Instagram feed? Cebu R Resort’s vibes and ambience got you!  

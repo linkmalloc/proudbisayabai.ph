@@ -10,7 +10,7 @@ tags:
   -  best dress
   -  cebu
   -  twinning               
-views: "10"
+views: "182"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/alexandria_wears_it/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/alexandria_wears_it/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/alexandria_wears_it/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "6 minutes"
+pbb_post_id: 391
 ---
 ****
 Shoutout to all the incredible moms out there!  From the sleepless nights to the endless sacrifices, you consistently go above and beyond for your children. Your boundless love and nurturing spirit create a safe haven in which your kids can flourish and grow. You juggle countless responsibilities with grace, often multitasking like a pro. You're the chef, the chauffeur, the nurse, the teacher, and the counselor all rolled into one. Your ability to wear so many hats is awe-inspiring. It’s time to achieve that mommy and baby cute matchy outfits with Alexandria Wears It. We believe that motherhood is a journey best enjoyed in style.    

@@ -10,7 +10,7 @@ categories:
 tags:
   - PDEA
   - narcotics
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2337/78373c1783506712-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2337/78373c1783506712-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2337/78373c1783506712-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-08T10:32:14.265Z'
+pbb_post_id: 2337
 ---
 
 The Philippine Drug Enforcement Agency (PDEA) on Wednesday destroyed P1.91 billion worth of illegal drugs in Quezon City, reaffirming the government's commitment to ensuring that seized narcotics are permanently removed from circulation after the courts authorize their disposal.

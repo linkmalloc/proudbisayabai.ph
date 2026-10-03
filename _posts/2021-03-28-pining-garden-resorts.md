@@ -24,6 +24,7 @@ published: false
 
 social_reach: "115,166"
 location: Dungga, Danao City  
+pbb_post_id: 120
 ---
 #### Pining Garden Resorts  
   

@@ -9,7 +9,7 @@ categories:
 tags:
   - School Threat
   - Arrest
-views: '0'
+views: "125"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2721/2e53751787299861-1.png
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2721/2e53751787299861-1.png
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2721/2e53751787299861-1.png
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-21T08:11:05.079Z'
+pbb_post_id: 2721
 ---
 
 Cebu City police arrested a 20-year-old culinary arts graduate after he allegedly posted a TikTok threat to carry out a school shooting at a private university in Cebu City.

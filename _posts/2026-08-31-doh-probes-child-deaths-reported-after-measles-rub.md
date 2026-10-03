@@ -9,7 +9,7 @@ categories:
 tags:
   - Measles-Rubella Vaccination
   - Department of Health
-views: '0'
+views: "297"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2813/c52e4e1788168407-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2813/c52e4e1788168407-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2813/c52e4e1788168407-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-31T09:26:50.139Z'
+pbb_post_id: 2813
 ---
 
 The Department of Health (DOH) has opened an investigation into reported child deaths following the Phase 3 rollout of its Measles-Rubella Supplemental Immunization Activity (MR-SIA).

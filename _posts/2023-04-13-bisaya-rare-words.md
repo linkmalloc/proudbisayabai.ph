@@ -11,7 +11,7 @@ tags:
   -  words
   -  cebu
   -  language               
-views: "10"
+views: "2,331"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/rare_words/cover1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/rare_words/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/rare_words/cover1.jpg
@@ -24,6 +24,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 378
 ---
 ****
 Bai, I am sure that you have visited locations with amazing marvels. You meet fascinating people with unique stories when you travel, and occasionally we can't help but fall in love with a local, another traveler, or even an afam! 

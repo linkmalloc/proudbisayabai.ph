@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - Accident
-views: '10'
+views: "24"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1374/9ddd511774313794-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1374/9ddd511774313794-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1374/9ddd511774313794-2.jpeg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1374
 ---
 
 Guadalupe, Cebu City – Just after midnight on March 23, 2026, a minor traffic incident involving three motorcycles occurred at the V-Rama corner Bacayo, in front of Villa Fatima Subdivision.

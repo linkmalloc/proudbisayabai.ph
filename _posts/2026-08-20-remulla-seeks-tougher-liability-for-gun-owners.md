@@ -9,7 +9,7 @@ categories:
 tags:
   - Jonvic Remulla
   - Gun Owners
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2713/daf9af1787205637-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2713/daf9af1787205637-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2713/daf9af1787205637-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-20T06:00:40.728Z'
+pbb_post_id: 2713
 ---
 
 Interior Secretary Jonvic Remulla is calling for amendments to the country’s firearms law to hold registered gun owners criminally liable when their weapons are negligently made accessible to minors and later used in crimes.

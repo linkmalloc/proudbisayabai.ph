@@ -9,7 +9,7 @@ categories:
 tags:
   - Comelec
   - BSKE
-views: '0'
+views: "26"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3024/ef89621790396637-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3024/ef89621790396637-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3024/ef89621790396637-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-26T04:24:10.288Z'
+pbb_post_id: 3024
 ---
 
 The Commission on Elections (COMELEC) has stopped preparations for the Nov. 2, 2026 Barangay and Sangguniang Kabataan Elections (BSKE), including the filing of certificates of candidacy and campaign activities, following the enactment of a law moving the next polls to 2028.

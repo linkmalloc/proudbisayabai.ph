@@ -16,6 +16,7 @@ img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1611887283/3000x1144/batch2.post5.1_bdetwk.jpg
 photo_credit: Ariel Alegado | Team Leader
 published: false
+pbb_post_id: 9
 ---
 Looking for unli Chicken wings and shrimps with chillin drinks? **Fortune6 Bistro** is here! VERY AFFORDABLE Unlimited Chicken Wings & Fresh Shrimps Restaurant in Cebu!  
 

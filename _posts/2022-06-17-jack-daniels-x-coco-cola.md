@@ -9,7 +9,7 @@ categories:
 tags:
   - jack daniels
   - coca-cola               
-views: "10"
+views: "39"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/JackDanielsXCocacola/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/JackDanielsXCocacola/1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/JackDanielsXCocacola/1.jpg
@@ -22,6 +22,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "Evner Negro"
 read_time: "5 minutes"
+pbb_post_id: 303
 ---
 ****
 ##### Collaboration with Jack Daniel's and Coca-Cola: Bringing the New Iconic Cocktail to Cans

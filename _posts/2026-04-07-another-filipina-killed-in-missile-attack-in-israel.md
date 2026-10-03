@@ -13,7 +13,7 @@ tags:
   - MiddleEast
   - War
   - Israel
-views: '10'
+views: "33"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1466/3cef8f1775535192-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1466/3cef8f1775535192-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1466/3cef8f1775535192-1.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1466
 ---
 
 A Filipino national was killed in a missile attack in Israel on April 5 as tensions in the Middle East continue, the Department of Foreign Affairs (DFA) confirmed Tuesday.

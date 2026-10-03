@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - LTO 7
-views: '0'
+views: "30"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2306/385ea31783157478-1.JPG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2306/385ea31783157478-1.JPG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2306/385ea31783157478-1.JPG
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-04T09:31:19.808Z'
+pbb_post_id: 2306
 ---
 
 The Land Transportation Office in Central Visayas (LTO 7) on Friday clarified that the 90-day preventive suspension imposed on the driver involved in the incident that left a Cebu City traffic enforcer seriously injured is not a final penalty.

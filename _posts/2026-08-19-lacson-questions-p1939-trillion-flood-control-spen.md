@@ -11,7 +11,7 @@ tags:
   - SenatorLacson
   - floodcontrol
   - dpwh
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2706/d4d90e1787129525-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2706/d4d90e1787129525-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2706/d4d90e1787129525-1.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-19T08:52:37.106Z'
+pbb_post_id: 2706
 ---
 
 Senator Panfilo “Ping” Lacson has questioned the effectiveness of the government’s flood control program after the Department of Public Works and Highways (DPWH) spent a total of P1.939 trillion from 2011 to 2025 while flooding continues to affect communities across the country.

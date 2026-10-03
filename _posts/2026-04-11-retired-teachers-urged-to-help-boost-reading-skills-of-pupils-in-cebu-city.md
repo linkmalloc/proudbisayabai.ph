@@ -13,7 +13,7 @@ tags:
   - Teachers
   - ReadingSkills
   - CebuCity
-views: '10'
+views: "28"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1500/a61c351775891980-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1500/a61c351775891980-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1500/a61c351775891980-1.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1500
 ---
 
 A growing concern over reading proficiency among early-grade learners has prompted the Cebu City Council to approve a measure encouraging retired teachers to conduct free weekend reading classes in barangays.

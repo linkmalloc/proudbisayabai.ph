@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Workplace Sexual Harassment Complaints
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2574/a597061785739167-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2574/a597061785739167-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2574/a597061785739167-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-03T06:39:39.571Z'
+pbb_post_id: 2574
 ---
 
 The Cebu City Government has established a dedicated body that will receive, investigate, and recommend action on sexual harassment complaints involving city officials and employees.

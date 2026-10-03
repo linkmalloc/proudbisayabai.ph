@@ -9,7 +9,7 @@ categories:
 tags:
   - East Asia Regions
   - EATOF
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2838/affc831788416848-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2838/affc831788416848-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2838/affc831788416848-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-03T06:27:32.919Z'
+pbb_post_id: 2838
 ---
 
 Cebu is bringing tourism leaders from across East Asia to one table as the province hosts the 19th General Assembly of the East Asia Inter-Regional Tourism Federation (EATOF), opening discussions on cooperation in tourism and other areas.

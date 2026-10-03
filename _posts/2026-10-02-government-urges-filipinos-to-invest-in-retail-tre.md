@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Retail Treasury Bonds
-views: '0'
+views: "28"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3074/5988ca1790874428-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3074/5988ca1790874428-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3074/5988ca1790874428-2.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-10-01T17:07:14.359Z'
+pbb_post_id: 3074
 ---
 
 Filipinos can invest in government securities for as little as P5,000 as the government encourages the public to consider Retail Treasury Bonds (RTBs) as an investment option while helping fund public programs and projects.

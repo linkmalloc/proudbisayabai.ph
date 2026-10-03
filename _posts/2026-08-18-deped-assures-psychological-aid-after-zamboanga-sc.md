@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Zamboanga School Shooting
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2699/28a1fc1787052700-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2699/28a1fc1787052700-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2699/28a1fc1787052700-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-18T11:31:45.747Z'
+pbb_post_id: 2699
 ---
 
 The Department of Education (DepEd) on Tuesday assured psychological first aid and psychosocial support to learners and school personnel affected by a shooting incident at the Ateneo de Zamboanga University in Zamboanga City.

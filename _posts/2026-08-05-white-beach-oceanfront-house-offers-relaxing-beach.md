@@ -8,7 +8,7 @@ categories:
   - destination
 tags:
   - Moalboal
-views: '0'
+views: "93"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2596/0938091785885614-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2596/0938091785885614-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2596/0938091785885614-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-04T23:20:16.963Z'
+pbb_post_id: 2596
 ---
 
 Travelers seeking a private beachfront getaway in southern Cebu can find a relaxing retreat at White Beach Oceanfront House, located along the pristine shoreline of White Beach in Barangay Saavedra, Moalboal.

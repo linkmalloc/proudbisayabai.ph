@@ -11,7 +11,7 @@ tags:
   - PBBM
   - Chief Justice selection
   - cases
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2991/d445b51790131347-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2991/d445b51790131347-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2991/d445b51790131347-1.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-23T02:42:33.588Z'
+pbb_post_id: 2991
 ---
 
 President Ferdinand R. Marcos Jr. will not interfere in the judiciary’s affairs as the selection process for the next chief justice begins, Malacañang said Tuesday.

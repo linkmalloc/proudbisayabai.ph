@@ -9,7 +9,7 @@ categories:
 tags:
   - Risa Hontiveros
   - 2028 Bid
-views: '0'
+views: "36"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2299/e88b8d1783152884-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2299/e88b8d1783152884-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2299/e88b8d1783152884-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-04T08:14:46.518Z'
+pbb_post_id: 2299
 ---
 
 A multi-sectoral movement supporting Senator Risa Hontiveros has formally expanded to Cebu, marking an early grassroots push for her possible presidential bid in the 2028 national elections.

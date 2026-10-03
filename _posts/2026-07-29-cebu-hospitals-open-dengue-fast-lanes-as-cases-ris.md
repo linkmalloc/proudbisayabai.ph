@@ -9,7 +9,7 @@ categories:
 tags:
   - dengue
   - health
-views: '0'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2532/e6f2911785311233-3.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2532/e6f2911785311233-3.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2532/e6f2911785311233-3.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-29T07:43:45.726Z'
+pbb_post_id: 2532
 ---
 
 The Cebu Provincial Government has activated Dengue Fast Lanes in all 16 Capitol-run provincial and district hospitals to speed up treatment for suspected dengue patients as health authorities continue monitoring areas with increasing infections.

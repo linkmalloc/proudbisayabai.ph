@@ -11,7 +11,7 @@ tags:
   - Department of Budget and Management
   - Medical Aid
   - indigent patients
-views: '0'
+views: "34"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2734/6481e01787377367-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2734/6481e01787377367-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2734/6481e01787377367-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-22T05:43:05.091Z'
+pbb_post_id: 2734
 ---
 
 The Department of Health (DOH) welcomed the release of P27.41 billion by the Department of Budget and Management (DBM) for medical assistance to indigent and financially incapacitated patients nationwide.

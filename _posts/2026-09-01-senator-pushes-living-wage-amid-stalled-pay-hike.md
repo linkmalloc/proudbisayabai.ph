@@ -9,7 +9,7 @@ categories:
 tags:
   - Living Wage
   - Pay Hike
-views: '0'
+views: "28"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2822/4c27b91788252273-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2822/4c27b91788252273-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2822/4c27b91788252273-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-01T08:44:34.903Z'
+pbb_post_id: 2822
 ---
 
 A court order blocking a wage increase in Metro Manila has renewed Sen. Joel Villanueva’s call for the government to shift from minimum wage-setting toward a living wage standard for Filipino workers.

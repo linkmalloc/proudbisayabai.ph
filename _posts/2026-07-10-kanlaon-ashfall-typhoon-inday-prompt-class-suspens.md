@@ -9,7 +9,7 @@ categories:
   - story
 tags:
   - Kanlaon Ashfall
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2358/c9841e1783670730-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2358/c9841e1783670730-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2358/c9841e1783670730-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-10T08:05:37.479Z'
+pbb_post_id: 2358
 ---
 
 Several local government units in Cebu suspended classes on Friday, July 10, due to ashfall from Kanlaon Volcano’s recent eruption and the effects of unfavorable weather conditions linked to Typhoon Inday.

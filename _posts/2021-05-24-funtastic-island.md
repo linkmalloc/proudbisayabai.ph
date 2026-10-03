@@ -11,7 +11,7 @@ tags:
   - beach
   - zipline
   - clip jumping
-views: "10"
+views: "1,523"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/funtastic_island/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/funtastic_island/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/funtastic_island/1.jpg
@@ -19,6 +19,7 @@ photo_credit: "Jack Ponpon / Jak73"
 photo_credit_link: ""
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/daisy.jpg"
 read_time: "6 minutes"
+pbb_post_id: 190
 ---
 #### Funtastic Island   
 

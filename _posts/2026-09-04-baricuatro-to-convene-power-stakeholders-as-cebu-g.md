@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Pam Baricuatro
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2849/ecc6dc1788502949-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2849/ecc6dc1788502949-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2849/ecc6dc1788502949-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-04T06:22:31.027Z'
+pbb_post_id: 2849
 ---
 
 Cebu Gov. Pamela Baricuatro is set to convene power-sector officials and other key stakeholders as the province continues to face power supply problems that could affect households, businesses and future investments.

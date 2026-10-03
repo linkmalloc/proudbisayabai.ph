@@ -11,7 +11,7 @@ categories:
 tags:
   - Mandaue
   - GarbageDumping
-views: '10'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1509/ba730f1776137260-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1509/ba730f1776137260-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1509/ba730f1776137260-1.jpeg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1509
 ---
 
 A garbage dump caught on camera in a clean stretch of Casuntingan has triggered a formal investigation order from the Mandaue City Council.

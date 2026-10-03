@@ -13,7 +13,7 @@ tags:
   -  camping
   -  trail near me
   -  camping near me               
-views: "10"
+views: "629"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lake_bensis3/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lake_bensis3/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lake_bensis3/cover.jpg
@@ -26,6 +26,7 @@ photo_credit: "Chinito Rider"
 photo_credit_link: "https://www.facebook.com/ChinitoRider"
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 389
 ---
 ****
 Sign na ba ni to go camping? Enjoy the water adventure and experience the panoramic view of Lake Bensis in Toledo City, Cebu!   

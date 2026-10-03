@@ -9,7 +9,7 @@ categories:
 tags:
   - BIEN Cebu
   - AI
-views: '0'
+views: "48"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2610/5b37af1785997014-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2610/5b37af1785997014-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2610/5b37af1785997014-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-06T06:16:56.342Z'
+pbb_post_id: 2610
 ---
 
 The BPO Industry Employees Network (BIEN)-Cebu warned that artificial intelligence (AI)-driven investments could increase job insecurity among workers if companies prioritize automation over protecting employment.

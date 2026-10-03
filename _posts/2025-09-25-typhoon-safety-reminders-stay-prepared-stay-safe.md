@@ -15,7 +15,7 @@ categories:
 tags:
   - TyphoonReminders
   - EmergencyHotlines
-views: '10'
+views: "870"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/566/d659981758874502-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/566/d659981758874502-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/566/d659981758874502-2.jpg

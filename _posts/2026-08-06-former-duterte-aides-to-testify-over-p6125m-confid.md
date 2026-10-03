@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Sara Duterte Impeachment Trial
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2612/3149821785997192-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2612/3149821785997192-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2612/3149821785997192-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-06T06:19:56.289Z'
+pbb_post_id: 2612
 ---
 
 The impeachment trial of Vice President Sara Duterte is set to examine further the use of P612.5 million in confidential funds next week, with two former aides who handled the disbursement of the funds expected to testify before the Senate impeachment court.

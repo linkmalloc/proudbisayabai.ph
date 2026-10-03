@@ -9,7 +9,7 @@ categories:
 tags:
   - Garbage Violation
   - Winston Pepito
-views: '0'
+views: "268"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2754/56d6011787643211-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2754/56d6011787643211-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2754/56d6011787643211-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-25T07:34:04.122Z'
+pbb_post_id: 2754
 ---
 
 Garbage violators in Cebu City could face fines of up to P5,000 and as much as one year in jail under a proposed ordinance seeking to update penalties that have remained largely unchanged for more than three decades.

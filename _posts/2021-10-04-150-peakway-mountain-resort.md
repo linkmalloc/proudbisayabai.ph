@@ -10,7 +10,7 @@ tags:
   - mountain
   - cebu
   - staycation               
-views: "10"
+views: "757"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/150_peakway/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/150_peakway/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/150_peakway/1.jpg
@@ -21,6 +21,7 @@ img_500_4: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/150_peakway/13.jpg
 img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/150_peakway/17.jpg
 photo_credit: "Nova Souley Auxtero (No copyright infringement intended)"
 photo_credit_link: ""
+pbb_post_id: 240
 ---
 ****
 ###### 150 Peakway Mountain Resort  

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Sara Duterte Impeachment
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2387/18c15c1783933101-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2387/18c15c1783933101-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2387/18c15c1783933101-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-13T08:58:26.362Z'
+pbb_post_id: 2387
 ---
 
 Earlier remarks made by Vice President Sara Duterte against President Ferdinand “Bongbong” Marcos Jr. were considered by investigators as they assessed her alleged threats against the country’s top officials, a prosecution witness told the Senate impeachment court on Monday.

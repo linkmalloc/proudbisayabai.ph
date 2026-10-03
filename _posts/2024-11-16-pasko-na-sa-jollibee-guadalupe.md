@@ -10,7 +10,7 @@ tags:
   - cebu
   - jollibee
   - guadalupe
-views: "10"
+views: "112"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pasko-sa-jollibee/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pasko-sa-jollibee/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pasko-sa-jollibee/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 486
 ---
 *****    
 The holiday spirit has officially arrived, and there’s no better place to feel the magic than at Jollibee Guadalupe! Who needs the North Pole when you’ve got twinkling lights, festive vibes, and a warm Filipino welcome right here in Cebu?  

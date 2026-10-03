@@ -11,7 +11,7 @@ tags:
   - cebu
   - oceanarium
   - ocean park
-views: "10"
+views: "336"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/colon_vintage_love/4.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/colon_vintage_love/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/colon_vintage_love/4.jpg
@@ -24,6 +24,7 @@ photo_credit: "Idolwanderer Photography"
 photo_credit_link: "https://www.instagram.com/idolwandererphotography/"
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 287
 ---
 ****
 ###### Colon Vintage Love  

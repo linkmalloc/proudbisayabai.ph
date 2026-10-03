@@ -9,7 +9,7 @@ categories:
 tags:
   - IT Park
   - Bomb threat
-views: '0'
+views: "69"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2296/f692f51783079490-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2296/f692f51783079490-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2296/f692f51783079490-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-03T11:51:55.000Z'
+pbb_post_id: 2296
 ---
 
 A reported bomb threat triggered a large-scale security response at a mall in Cebu IT Park on Friday afternoon, July 3, a day after authorities responded to an alleged online shooting threat targeting a private school in Cebu City.

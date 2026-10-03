@@ -9,7 +9,7 @@ categories:
 tags:
   - Travel
   - Lifestyle
-views: '0'
+views: "9"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2459/2696371784535618-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2459/2696371784535618-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2459/2696371784535618-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-20T08:20:29.425Z'
+pbb_post_id: 2459
 ---
 
 Traveling does not have to be expensive to be memorable. With careful planning, smart budgeting, and practical decisions, anyone can enjoy new destinations while keeping expenses under control (Doody, 2025).

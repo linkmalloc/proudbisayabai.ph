@@ -11,7 +11,7 @@ tags:
   - best blogger
   - cebu
   - travel blog
-views: "10"
+views: "36"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bestcebublogawards/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bestcebublogawards/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bestcebublogawards/cover.jpg
@@ -24,6 +24,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 482
 ---
 *****    
 Vote for Ariel A Alegado in the Travel category: [https://www.bestcebublogsawards.com/2024/10/blog-best-cebu-travel-blogger-of-2024.html](https://www.bestcebublogsawards.com/2024/10/blog-best-cebu-travel-blogger-of-2024.html)

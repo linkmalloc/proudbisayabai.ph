@@ -9,13 +9,14 @@ categories:
 tags:
   - falls
   - cebu-south
-views: "10"
+views: "78"
 read_time: "5 minutes"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tayong_falls/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tayong_falls/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tayong_falls/1.jpg
 photo_credit: "Ganados Photography"
 photo_credit_link: ""
+pbb_post_id: 177
 ---
 #### Tay-ong Falls
 <center>Tay-ong Falls is now officially accepting guests and visitors! 💦☀️🍃</center>

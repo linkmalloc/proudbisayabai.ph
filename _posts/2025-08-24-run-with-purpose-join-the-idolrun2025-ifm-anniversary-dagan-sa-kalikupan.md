@@ -17,7 +17,7 @@ tags:
   - DYHP62ndAnniversary
   - ProudBisayaBai
   - PBBLifestyle
-views: '10'
+views: "138"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/549/08563c1756100617-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/549/08563c1756100617-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/549/08563c1756100617-2.jpg
@@ -31,6 +31,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-08-25T00:00:00
+pbb_post_id: 549
 ---
 
 Cebu is gearing up for another exciting and meaningful celebration as **iFM Cebu marks its 47th Anniversary** with the **#IDOLRun2025 – Dagan sa Kalikupan**, happening on **September 14, 2025 (Sunday)** at **Cebu I.T. Park (near Ayala Central Bloc)**.

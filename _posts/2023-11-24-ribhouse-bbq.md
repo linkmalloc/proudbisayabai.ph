@@ -9,7 +9,7 @@ categories:
 tags:
   - cebu
   - bbq
-views: "10"
+views: "612"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ribhouse_bbq/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ribhouse_bbq/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ribhouse_bbq/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: "PBB"
 photo_credit_link: ""
 editor: "Ariel Alegado - PBB Founder"
 read_time: "4 minutes"
+pbb_post_id: 430
 ---
 ****
 Ribhouse Barbecue is a must-try for anyone looking for delicious and affordable barbecue in Cebu City. Located in Gaisano Country Mall, Ribhouse offers a variety of grilled meats, including pork belly, back ribs, chorizo, and chicken. All of their dishes are served with unlimited rice, making it the perfect spot for a hearty meal.  

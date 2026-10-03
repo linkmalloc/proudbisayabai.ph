@@ -10,7 +10,7 @@ tags:
   - LTO 7
   - Corruption Complaints
   - Personnel Removal
-views: '0'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2404/b4f5741784100051-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2404/b4f5741784100051-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2404/b4f5741784100051-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-15T07:20:56.952Z'
+pbb_post_id: 2404
 ---
 
 The Land Transportation Office in Central Visayas (LTO 7) has removed around 40 personnel following complaints of alleged corruption, while the agency continues its enforcement campaign against unauthorized public transport operations.

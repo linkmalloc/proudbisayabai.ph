@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Public Skatepark
-views: '0'
+views: "35"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2763/13b47e1787719097-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2763/13b47e1787719097-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2763/13b47e1787719097-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-08-26T04:38:38.780Z'
+pbb_post_id: 2763
 ---
 
 Cebu City skateboarders may soon have a dedicated public skatepark as the city government begins identifying a possible site and consulting the local skateboarding and action-sports community.

@@ -9,7 +9,7 @@ categories:
 tags:
   - National Budget
   - National Expenditure Program
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2638/2d55821786357657-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2638/2d55821786357657-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2638/2d55821786357657-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-10T10:27:42.746Z'
+pbb_post_id: 2638
 ---
 
 The Department of Budget and Management (DBM) has submitted to President Ferdinand R. Marcos Jr. the proposed P7.2-trillion National Expenditure Program (NEP) for fiscal year 2027, setting the stage for the next phase of the government’s annual budget process.

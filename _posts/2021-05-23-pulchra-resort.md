@@ -7,7 +7,7 @@ categories:
   - destination
 tags:
   - resort
-views: "10"
+views: "388"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pulcha_resort/5.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pulcha_resort/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pulcha_resort/5.jpg
@@ -15,6 +15,7 @@ photo_credit: "Edz Go , Pulchra Resort, Cebu Facebook Page"
 photo_credit_link: ""
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/thirdy.jpg"
 read_time: "6 minutes"
+pbb_post_id: 189
 ---
 #### Pulchra Resort  
   

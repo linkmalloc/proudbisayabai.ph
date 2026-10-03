@@ -9,7 +9,7 @@ categories:
 tags:
   - Dengue
   - Cebu City
-views: '0'
+views: "30"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2553/0cd1311785482546-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2553/0cd1311785482546-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2553/0cd1311785482546-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-31T07:22:28.612Z'
+pbb_post_id: 2553
 ---
 
 Dengue cases in Cebu City have climbed past 1,200 this year, with 10 deaths recorded as health authorities continue monitoring the increase in infections.

@@ -21,6 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1616223553/a
 photo_credit: "Yuyitz Soyti (tisayteo)"
 photo_credit_link: ""
 published: false
+pbb_post_id: 104
 ---
 #### ARANAS FAMILY BEACH RESORT  
   

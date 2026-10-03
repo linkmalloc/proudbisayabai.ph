@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - Sinulog2026
-views: '10'
+views: "73"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/730/e4987a1764579798-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/730/e4987a1764579798-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/730/e4987a1764579798-2.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-12-01T00:00:00
 published: true
+pbb_post_id: 730
 ---
 
 The much-awaited Sinulog Festival continues to bring together vibrant contingents from across the country, including provincial, school, and cultural groups.&#x20;

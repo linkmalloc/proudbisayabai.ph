@@ -9,7 +9,7 @@ categories:
 tags:
   - HaladSaPagtuoUpdates
   - Chase Printing
-views: '0'
+views: "28"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2771/a179d71787723557-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2771/a179d71787723557-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2771/a179d71787723557-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-26T05:53:06.420Z'
+pbb_post_id: 2771
 ---
 
 What started as a simple undertaking to build a business that would provide people with dependable printing services, Chase Printing has grown into a one-stop shop for every printing need, be it for business or personal projects. You can count on Chase Printing to get your colorful ideas out into the world.

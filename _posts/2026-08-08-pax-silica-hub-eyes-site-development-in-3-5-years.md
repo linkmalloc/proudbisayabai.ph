@@ -9,7 +9,7 @@ categories:
 tags:
   - Pax Silica
   - Pax Silica Hub
-views: '0'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2632/982d911786171191-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2632/982d911786171191-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2632/982d911786171191-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-08T06:39:54.082Z'
+pbb_post_id: 2632
 ---
 
 The planned US-led Pax Silica artificial intelligence (AI) hub in Central Luzon could begin site development within three to five years, with an initial phase covering about 500 hectares of the 1,620-hectare site.

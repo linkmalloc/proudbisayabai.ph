@@ -9,7 +9,7 @@ categories:
 tags:
   - Maritime
   - Shipping Reforms
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2575/f46be01785739282-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2575/f46be01785739282-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2575/f46be01785739282-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-08-03T06:41:26.957Z'
+pbb_post_id: 2575
 ---
 
 Domestic shipping stakeholders are calling for major policy reforms to improve the efficiency of the country’s maritime sector, citing outdated regulations, limited manpower, and high port costs as challenges affecting vessel operations and the movement of goods and passengers.

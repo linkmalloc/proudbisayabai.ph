@@ -22,6 +22,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615305016/b
 photo_credit: "Badian Island Wellness Resort Page Admin"
 photo_credit_link: "https://www.facebook.com/BadianIsla/"
 published: false
+pbb_post_id: 81
 ---
 #### Badian Island Wellness  Resort
 

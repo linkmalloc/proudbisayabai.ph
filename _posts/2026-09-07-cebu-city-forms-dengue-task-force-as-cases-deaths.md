@@ -10,7 +10,7 @@ tags:
   - Cebu City
   - Dengue
   - Dengue Task Force
-views: '0'
+views: "40"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2864/5a2ffd1788764049-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2864/5a2ffd1788764049-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2864/5a2ffd1788764049-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-07T06:54:41.425Z'
+pbb_post_id: 2864
 ---
 
 Cebu City has recorded 1,228 dengue cases and 10 deaths from Jan. 1 to July 18, prompting the city government to create a task force to strengthen its response to the disease.

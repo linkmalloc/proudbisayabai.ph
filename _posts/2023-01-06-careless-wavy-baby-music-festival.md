@@ -12,7 +12,7 @@ tags:
   -  sinulog
   -  careless
   -  music festival               
-views: "10"
+views: "26"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/careless/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/careless/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/careless/cover.jpg
@@ -25,6 +25,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 356
 ---
 ****
 Less than 10 days left before the biggest and much-awaited concert this Sinulog commences! Don’t miss out Wavy Baby Music Festival happening this January 13-14 in the North Reclamation Area of Mandaue City. The Waviest performers on the local and international scene will bring out the mix of art and music for this year’s comeback of Sinulog 2023.  

@@ -11,7 +11,7 @@ categories:
 tags:
   - Kingston
   - roadsafety
-views: '10'
+views: "236"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1563/66eeb11776672063-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1563/66eeb11776672063-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1563/66eeb11776672063-1.jpg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1563
 ---
 
 What should have been Kingston Ralph Cheng’s 24th birthday instead coincides with the start of court proceedings in the case linked to his death.

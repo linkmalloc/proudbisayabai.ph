@@ -19,6 +19,7 @@ img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613227782/A
 photo_credit: "AllureBadianBeachVilla Page (Admin)"
 photo_credit_link: https://m.facebook.com/allurebadianbeach/
 published: false
+pbb_post_id: 22
 ---
 **TAN-AWA**: Mag relax and unwind with family and friends at Allure Badian Beach in Badian, Cebu 💦⛱🧘 Allure Badian Beach Villa is a private beachfront property for #EXCLUSIVE overnight rental. It's popular with big groups — perfect for #TeamBuilding and #FamilyReunions.  
 

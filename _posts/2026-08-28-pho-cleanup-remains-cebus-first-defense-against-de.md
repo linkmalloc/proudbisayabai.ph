@@ -10,7 +10,7 @@ tags:
   - Cebu Provincial Health Office
   - Dengue
   - Dengue Defense
-views: '0'
+views: "38"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2785/53e3391787891622-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2785/53e3391787891622-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2785/53e3391787891622-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-28T04:33:45.309Z'
+pbb_post_id: 2785
 ---
 
 The Cebu Provincial Health Office (PHO) is urging local government units (LGUs) and communities to intensify cleanup efforts as dengue cases in the province continue to rise, stressing that removing stagnant water should come before fogging operations.

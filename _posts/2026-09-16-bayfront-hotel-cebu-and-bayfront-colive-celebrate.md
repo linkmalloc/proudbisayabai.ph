@@ -15,7 +15,7 @@ tags:
 - Bayfront
 - Anniversary
 - Exclusive offers
-views: '0'
+views: "12"
 img_big_1000x600: ''
 img_big_3000x1144: ''
 img_500x500: ''

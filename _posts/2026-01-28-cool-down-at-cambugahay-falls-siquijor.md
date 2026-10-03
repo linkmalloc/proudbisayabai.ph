@@ -13,7 +13,7 @@ categories:
 tags:
   - CambugahayFalls
   - Siquijor
-views: '10'
+views: "109"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1035/d1cea21769600266-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1035/d1cea21769600266-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1035/d1cea21769600266-2.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1035
 ---
 
 Located in the town of Lazi, Cambugahay Falls is one of Siquijor’s most enchanting natural attractions. This stunning three-tiered waterfall is known for its crystal-clear turquoise waters flowing into cool, inviting pools, surrounded by lush tropical greenery.

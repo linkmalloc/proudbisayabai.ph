@@ -9,7 +9,7 @@ categories:
 tags:
   - Minor
   - Law
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2418/2c6bca1784194931-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2418/2c6bca1784194931-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2418/2c6bca1784194931-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-16T09:42:21.953Z'
+pbb_post_id: 2418
 ---
 
 The number of children in conflict with the law (CICL) cases in Cebu province slightly decreased in the first half of 2026, with police recording fewer incidents compared with the same period last year.

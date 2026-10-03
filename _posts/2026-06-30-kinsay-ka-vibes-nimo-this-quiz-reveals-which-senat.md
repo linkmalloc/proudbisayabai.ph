@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Voting
-views: '0'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2265/b77f511782823134-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2265/b77f511782823134-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2265/b77f511782823134-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-06-30T12:39:13.674Z'
+pbb_post_id: 2265
 ---
 
 Ever wondered which senatorial candidate shares your views the most? Instead of guessing based on campaign promises or social media posts, this online quiz lets your answers do the work.

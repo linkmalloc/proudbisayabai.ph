@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Health Committee Doctor Removal
-views: '0'
+views: "46"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2365/7f8c001783681073-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2365/7f8c001783681073-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2365/7f8c001783681073-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-10T10:57:54.382Z'
+pbb_post_id: 2365
 ---
 
 The removal of Councilor Michelle Abella-Cellona as chairperson of the Cebu City Council’s Committee on Health drew criticism from Vice Mayor Tomas Osmeña, who questioned the decision to replace the council’s only physician at a time when health-related concerns remain a priority.

@@ -9,7 +9,7 @@ categories:
 tags:
   - Department of Public Works and Highways
   - Flood control structures
-views: '0'
+views: "10"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3007/13aef71790240997-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3007/13aef71790240997-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3007/13aef71790240997-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-24T09:10:01.377Z'
+pbb_post_id: 3007
 ---
 
 The Department of Public Works and Highways (DPWH) is studying the use of hybrid flood control structures that combine concrete components with nature-based solutions in flood-prone areas of northern Luzon.

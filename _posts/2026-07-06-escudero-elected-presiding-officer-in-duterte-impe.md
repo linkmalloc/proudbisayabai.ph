@@ -9,7 +9,7 @@ categories:
 tags:
   - Chiz Escudero
   - Sara Duterte Impeachment Case
-views: '0'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2320/71d80e1783335147-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2320/71d80e1783335147-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2320/71d80e1783335147-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-06T10:52:29.136Z'
+pbb_post_id: 2320
 ---
 
 The Senate impeachment court on Monday elected Sen. Francis “Chiz” Escudero as presiding officer in the impeachment trial of Vice President Sara Duterte, following a 12–8 vote after senators debated constitutional questions on who should lead the proceedings.

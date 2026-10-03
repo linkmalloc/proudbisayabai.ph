@@ -10,7 +10,7 @@ tags:
   - Medical
   - scholarship
   - GovernorBaricuatro
-views: '0'
+views: "65"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2620/979cb81786089530-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2620/979cb81786089530-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2620/979cb81786089530-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-07T07:58:52.054Z'
+pbb_post_id: 2620
 ---
 
 The Cebu Provincial Government has expanded its medical scholarship program to support 72 aspiring doctors as part of efforts to address the shortage of physicians in the province.

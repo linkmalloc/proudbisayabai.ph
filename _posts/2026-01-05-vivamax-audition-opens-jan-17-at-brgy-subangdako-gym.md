@@ -12,7 +12,7 @@ categories:
 tags:
   - Vivamax
   - Audition
-views: '10'
+views: "126"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/907/f324c21767694165-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/907/f324c21767694165-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/907/f324c21767694165-2.jpeg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-06T00:00:00
 published: true
+pbb_post_id: 907
 ---
 
 Stop practicing your acting skills in the shower—it’s time for the real deal! Vivamax is headed to Mandaue City to scour for the next generation of artists.

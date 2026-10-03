@@ -13,7 +13,7 @@ tags:
   - biodiversity
   - cotabato
   - nature              
-views: "10"
+views: "441"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/alamada_cotabato/4.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/alamada_cotabato/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/alamada_cotabato/4.jpg
@@ -26,6 +26,7 @@ photo_credit: "Reymund Mejica Requina | Idolwanderer Photography"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 284
 ---
 ****
 ##### A Switzerland of Wonder: The Hidden Gem of Alamada Cotobato

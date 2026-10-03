@@ -12,7 +12,7 @@ tags:
   - beach
   - oslob
   - cebu               
-views: "10"
+views: "691"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paraisotropicale/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paraisotropicale/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paraisotropicale/1.jpg
@@ -25,6 +25,7 @@ photo_credit: "Julie Ann June Madrigal"
 photo_credit_link: ""
 editor: "Evner Negro"
 read_time: "4 minutes"
+pbb_post_id: 270
 ---
 ****
 ##### Paraiso Tropicale - Cabin Beach

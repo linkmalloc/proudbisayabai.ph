@@ -14,7 +14,7 @@ categories:
   - destination
 tags:
   - LimasawaIsland
-views: '10'
+views: "258"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1411/7aa8751774772414-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1411/7aa8751774772414-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1411/7aa8751774772414-2.jpeg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1411
 ---
 
 Tucked away in the province of Southern Leyte, Limasawa Island is one of those rare destinations where history and natural beauty blend effortlessly. This small yet captivating island is widely recognized as the site of the First Catholic Mass in the Philippines, held in 1521 by Portuguese explorer Ferdinand Magellan—a milestone that shaped the country’s religious and cultural identity.

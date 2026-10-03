@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - FuelTax
-views: '10'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1576/16bda11776770647-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1576/16bda11776770647-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1576/16bda11776770647-1.jpeg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1576
 ---
 
 A proposal to suspend fuel excise taxes is drawing caution from the Senate as policymakers weigh immediate relief against the government’s need to protect revenue for public services.

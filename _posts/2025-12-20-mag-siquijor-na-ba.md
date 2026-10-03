@@ -13,7 +13,7 @@ categories:
   - destination
 tags:
   - Siquijor
-views: '10'
+views: "116"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/844/7a5c651766286802-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/844/7a5c651766286802-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/844/7a5c651766286802-2.jpeg
@@ -28,6 +28,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-12-21T00:00:00
 published: true
+pbb_post_id: 844
 ---
 
 Siquijor continues to draw travelers with its pristine white-sand beaches, hidden waterfalls, lush forests, and a long-standing air of mystique. Known for its calm atmosphere and natural beauty, the island offers a balance of relaxation and adventure perfect for those seeking healing, discovery, or quiet time with nature. Truly, deserve ka diri.

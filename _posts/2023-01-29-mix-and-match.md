@@ -12,7 +12,7 @@ tags:
   -  chicken
   -  chowking
   -  mang inasal               
-views: "10"
+views: "770"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mix_n_match/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mix_n_match/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mix_n_match/cover.jpg
@@ -25,6 +25,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 361
 ---
 ****
 Jollibee, Greenwich Barkada, Mang Inasal, and Chowking PH are now in ONE place for you to dine in with your friends and family. Hassle-free and assured busog when you visit CityMall N. Bacalso. This is the first JFC Multi-Brand Concept Store in Cebu and the third in the country.  

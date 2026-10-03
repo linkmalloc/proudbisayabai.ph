@@ -9,7 +9,7 @@ categories:
 tags:
   - NUJP
   - Marchel Espina
-views: '0'
+views: "35"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2435/238bc41784286096-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2435/238bc41784286096-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2435/238bc41784286096-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-17T11:01:51.017Z'
+pbb_post_id: 2435
 ---
 
 A criminal complaint filed against veteran journalist Marchel Espina over an opinion article has drawn condemnation from the National Union of Journalists of the Philippines (NUJP), which warned that the case could intimidate journalists and undermine press freedom.

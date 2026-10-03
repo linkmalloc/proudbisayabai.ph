@@ -9,7 +9,7 @@ categories:
 tags:
   - Senate
   - Pay Rule
-views: '0'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2916/260ad21789367151-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2916/260ad21789367151-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2916/260ad21789367151-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-14T06:25:56.264Z'
+pbb_post_id: 2916
 ---
 
 The Senate may formally impose a “no-work-no-pay” policy on members who incur unauthorized absences as lawmakers consider changes to the chamber’s rules, Sen. Panfilo “Ping” Lacson said Sunday.

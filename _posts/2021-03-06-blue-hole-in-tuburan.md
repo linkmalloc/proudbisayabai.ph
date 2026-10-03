@@ -20,6 +20,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617268166
 photo_credit: "Bankerong Laagan"
 photo_credit_link: "www.instagram.com/bankerongLaagan"
 published: false
+pbb_post_id: 68
 ---
 #### Blue Hole Spring 
 <center><i>A place where you can hear the voice of the earth.😍🍃💦</i></center>

@@ -10,7 +10,7 @@ tags:
   -  cclex
   -  cebu
   -  longest bridge in the philippines               
-views: "10"
+views: "187"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cclex_bridge/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cclex_bridge/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cclex_bridge/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "6 minutes"
+pbb_post_id: 345
 ---
 ****
 The increasing connectivity amongst the 24,000 islands that make up archipelagic Southeast Asia is the main development challenge. The success of the Strong Republic Nautical Highway in the Philippines, which efficiently moves people and freight using an integrated system of roll-on/roll-off vessels, has shown to be a source of optimism for the millions of underprivileged people in the area.   

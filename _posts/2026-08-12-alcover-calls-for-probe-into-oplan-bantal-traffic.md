@@ -10,7 +10,7 @@ tags:
   - CouncilorAlcover
   - traffic
   - Banilad
-views: '0'
+views: "26"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2654/bf3e831786515591-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2654/bf3e831786515591-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2654/bf3e831786515591-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 5 minutes
 published: true
 published_at: '2026-08-12T06:19:55.130Z'
+pbb_post_id: 2654
 ---
 
 A one-day traffic scheme that was scrapped after causing congestion and complaints has prompted Cebu City Councilor Jun Alcover to call for a closer review of how major traffic changes are planned and implemented.

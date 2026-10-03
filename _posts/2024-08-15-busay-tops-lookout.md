@@ -11,7 +11,7 @@ tags:
   - pbb
   - pinoy big brother
   -  philippines
-views: "10"
+views: "1,453"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kai-enters-pinoy-big-brother/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kai-enters-pinoy-big-brother/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kai-enters-pinoy-big-brother/cover.jpg
@@ -24,6 +24,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 463
 ---
 ****
 In an exciting new twist for Pinoy Big Brother (PBB), Kai, the celebrated "Singing Gwapa ng Cebu," has officially joined the PBB house. Known for her captivating voice, Kai is not just a singer but also a model with B&B Models Cebu and an ambassador for Don Macchiatos, bringing a unique blend of talent and charisma to the show.  

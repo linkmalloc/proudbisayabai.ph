@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Lifestyle
-views: '0'
+views: "72"
 img_big_1000x600: https://www.bonobology.com/wp-content/uploads/2018/03/couple-with-cute-dog.jpg
 img_big_3000x1144: https://www.bonobology.com/wp-content/uploads/2018/03/couple-with-cute-dog.jpg
 img_500x500: https://www.bonobology.com/wp-content/uploads/2018/03/couple-with-cute-dog.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-01T05:46:52.348Z'
+pbb_post_id: 2267
 ---
 
   

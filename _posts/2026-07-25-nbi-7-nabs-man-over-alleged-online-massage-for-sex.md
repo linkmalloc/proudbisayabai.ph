@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - NBI 7
-views: '0'
+views: "230"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2503/278a6c1784961664-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2503/278a6c1784961664-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2503/278a6c1784961664-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-25T06:41:06.508Z'
+pbb_post_id: 2503
 ---
 
 The National Bureau of Investigation Central Visayas Regional Office (NBI 7) arrested a 36-year-old nursing aide after he allegedly used social media to offer sexual services disguised as massage therapy.

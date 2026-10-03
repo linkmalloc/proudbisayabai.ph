@@ -9,7 +9,7 @@ categories:
 tags:
   - KrisAquino
   - LizaMarcos
-views: '0'
+views: "29"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2650/886c271786515264-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2650/886c271786515264-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2650/886c271786515264-2.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-12T06:14:29.013Z'
+pbb_post_id: 2650
 ---
 
 A birthday visit brought together two families long associated with Philippine politics, with Malacañang saying the recent meeting between First Lady Liza Araneta-Marcos and actress Kris Aquino showed that the two have a good relationship.

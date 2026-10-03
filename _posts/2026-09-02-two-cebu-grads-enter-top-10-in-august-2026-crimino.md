@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - PRC
-views: '0'
+views: "84"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2827/1dde8b1788326031-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2827/1dde8b1788326031-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2827/1dde8b1788326031-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-02T05:13:54.628Z'
+pbb_post_id: 2827
 ---
 
 Two graduates of the University of Cebu (UC) landed in the Top 10 of the August 2026 Licensure Examination for Criminologists, according to the Professional Regulation Commission (PRC).

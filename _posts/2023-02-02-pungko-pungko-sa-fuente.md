@@ -9,7 +9,7 @@ categories:
 tags:
   - street foods
   -  cebu               
-views: "10"
+views: "1,574"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pungkopungko_sa_fuente/cover2.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pungkopungko_sa_fuente/cover2.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pungkopungko_sa_fuente/cover2.jpg

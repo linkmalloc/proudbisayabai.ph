@@ -12,7 +12,7 @@ tags:
   -  best car of cebu
   -  cebu best cars
   -  car dealers  
-views: "10"
+views: "72"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/peugeot/2.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/peugeot/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/peugeot/2.jpg
@@ -25,6 +25,7 @@ photo_credit: "PBB Admins"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 348
 ---
 ****
 Peugeot Philippines recently opened its doors in Gorordo, Lahug on December 7, 2022. Ensuring a trouble-free transaction while enhancing the entire ownership experience by creating a flagship location, they offer top-notch technical support and customer care. To ensure the finest experience with an electric vehicle, you will touch and see the range numbers closest to your actual use, leaving you astounded by their features.   

@@ -11,7 +11,7 @@ tags:
   - Lapu-lapu City
   - Livestock
   - Cindi King–Chan
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2512/6515381785138205-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2512/6515381785138205-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2512/6515381785138205-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-27T07:43:44.924Z'
+pbb_post_id: 2512
 ---
 
 Livestock owners in Lapu-Lapu City were reminded to keep their animals properly secured after city authorities conducted a stray animal operation in Barangay Bankal following complaints that roaming livestock were damaging crops and creating safety risks.

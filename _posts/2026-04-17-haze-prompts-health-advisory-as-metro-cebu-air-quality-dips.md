@@ -13,7 +13,7 @@ tags:
   - CebuCity
   - Health
   - AirQuality
-views: '10'
+views: "132"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1545/8fc7911776426439-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1545/8fc7911776426439-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1545/8fc7911776426439-1.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1545
 ---
 
 

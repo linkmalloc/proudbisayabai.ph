@@ -10,7 +10,7 @@ tags:
   - legal
   - gambling
   - AdBan
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2545/c089b91785388366-1.webp
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2545/c089b91785388366-1.webp
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2545/c089b91785388366-1.webp
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-30T05:12:48.769Z'
+pbb_post_id: 2545
 ---
 
 The Cebu City Legal Office (CLO) has backed the proposed ordinance prohibiting gambling advertisements in the city but recommended changes to ensure the measure complies with constitutional provisions and national laws.

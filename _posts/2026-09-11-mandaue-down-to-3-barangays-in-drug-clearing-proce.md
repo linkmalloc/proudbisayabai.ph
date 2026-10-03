@@ -10,7 +10,7 @@ categories:
 tags:
   - Mandaue
   - Drug-clearing
-views: '0'
+views: "364"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2904/985cef1789119750-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2904/985cef1789119750-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2904/985cef1789119750-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-11T09:43:02.259Z'
+pbb_post_id: 2904
 ---
 
 Mandaue City has three barangays left to complete the requirements for drug-clearing, bringing the city closer to seeking a drug-cleared designation for all 27 barangays.

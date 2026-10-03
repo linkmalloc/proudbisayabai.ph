@@ -9,7 +9,7 @@ categories:
 tags:
   - NBI probe
   - Pia Cayetano
-views: '0'
+views: "33"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2971/a510781789752922-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2971/a510781789752922-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2971/a510781789752922-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-18T17:36:03.768Z'
+pbb_post_id: 2971
 ---
 
 Malacañang on Friday said Sen. Pia Cayetano has no reason to fear an investigation if she has done nothing wrong, following her concern that the National Bureau of Investigation (NBI) had tracked her travel movements.

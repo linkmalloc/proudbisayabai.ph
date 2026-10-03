@@ -10,7 +10,7 @@ tags:
   - Cebuano
   - Grocer
   - Prutasan ni Adan
-views: '0'
+views: "191"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2493/06ec6b1784893022-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2493/06ec6b1784893022-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2493/06ec6b1784893022-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-24T11:37:03.911Z'
+pbb_post_id: 2493
 ---
 
 A Cebuano grocer is turning business growth into opportunities for local producers, giving farmers and small food entrepreneurs a space to bring their products closer to consumers — a mission that grew from a venture that started with selling bananas to company canteens.

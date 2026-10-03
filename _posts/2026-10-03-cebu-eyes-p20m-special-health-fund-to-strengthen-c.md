@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-10-03T12:20:56.551Z'
+pbb_post_id: 3091
 ---
 
 Cebu is looking to put more resources into community-level health care, with the provincial government preparing P20 million in seed funding for a proposed special health fund.

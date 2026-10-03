@@ -9,7 +9,7 @@ categories:
 tags:
   - E-wallets
   - Transfer fees
-views: '0'
+views: "34"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2311/e5bfb11783325697-1.JPG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2311/e5bfb11783325697-1.JPG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2311/e5bfb11783325697-1.JPG
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-06T08:15:01.019Z'
+pbb_post_id: 2311
 ---
 
 E-wallets have been used by Filipinos as a payment method due to their convenience. However, transferring funds from e-wallets to banks usually require transfer fees. But with the newly enforced transfer fee decrease and removal, transactions are now more affordable. 

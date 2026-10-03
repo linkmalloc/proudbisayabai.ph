@@ -8,7 +8,7 @@ categories:
 tags:
   - waterfall
   - south-cebu
-views: "570,180"
+views: "2,367"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ka_treasure_water_terraces/3.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ka_treasure_water_terraces/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ka_treasure_water_terraces/3.jpg
@@ -16,6 +16,7 @@ photo_credit: "Twin De Los Reyes"
 photo_credit_link: ""
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/twin.jpg"
 read_time: "5 minutes"
+pbb_post_id: 207
 ---
 #### Water Terraces Falls  
 Naka ari na ba ka bai?  

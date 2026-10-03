@@ -13,7 +13,7 @@ tags:
   - measles
   - rubella
   - MCHO
-views: '0'
+views: "70"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2704/e1bc951787129327-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2704/e1bc951787129327-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2704/e1bc951787129327-1.jpg
@@ -28,6 +28,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-08-19T08:48:48.167Z'
+pbb_post_id: 2704
 ---
 
 The Mandaue City Council is seeking an investigation into social media posts allegedly discouraging parents from having their children vaccinated, as the city continues to record low turnout in its measles-rubella vaccination campaign.

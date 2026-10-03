@@ -20,6 +20,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618328270
 photo_credit: "Juan Virtudazo | Proud Bisaya Bai Contributor"
 photo_credit_link: ""
 published: false
+pbb_post_id: 156
 ---
 #### Hobbit House of Mt. Kitanglad Agro-Eco Farm
 <center>Nature | Our kind of luxury. 🍄😯🍃</center>  

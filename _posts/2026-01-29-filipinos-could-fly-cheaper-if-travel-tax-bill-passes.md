@@ -12,7 +12,7 @@ categories:
 tags:
   - TravelTax
   - EduRama
-views: '10'
+views: "31"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1039/9f92ed1769670040-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1039/9f92ed1769670040-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1039/9f92ed1769670040-2.jpg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1039
 ---
 
 A bill seeking to remove travel taxes imposed on Filipinos departing the country has been filed in the House of Representatives, a move its author says could ease costs for travelers and support freer mobility.

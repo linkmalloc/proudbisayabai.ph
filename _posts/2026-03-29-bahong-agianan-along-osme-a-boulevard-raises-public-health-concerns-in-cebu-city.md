@@ -14,7 +14,7 @@ categories:
 tags:
   - OsmeñaBoulevard
   - Health
-views: '10'
+views: "134"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1412/661ef31774772589-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1412/661ef31774772589-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1412/661ef31774772589-2.jpeg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1412
 ---
 
 Cebu City, Philippines — A foul-smelling and visibly unsanitary footbridge along Osmeña Boulevard, near the Social Security System office, has drawn concern from commuters and pedestrians after reports surfaced on March 27.

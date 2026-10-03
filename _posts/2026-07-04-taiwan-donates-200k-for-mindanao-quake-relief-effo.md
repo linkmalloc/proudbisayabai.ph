@@ -9,7 +9,7 @@ categories:
 tags:
   - Taiwan
   - Quake Relief
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2302/22cb441783153818-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2302/22cb441783153818-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2302/22cb441783153818-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-04T08:30:20.954Z'
+pbb_post_id: 2302
 ---
 
 The Taipei Economic and Cultural Office (TECO) on Friday turned over USD200,000, or about P12.2 million, in cash assistance to support relief and recovery operations in Mindanao following the magnitude earthquake that struck the region on June 8.

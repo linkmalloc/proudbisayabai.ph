@@ -10,7 +10,7 @@ tags:
   - Visayas
   - Food Bussiness
   - economy
-views: '0'
+views: "30"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2998/fc19651790153006-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2998/fc19651790153006-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2998/fc19651790153006-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-23T08:43:26.463Z'
+pbb_post_id: 2998
 ---
 
 Food businesses across the Visayas are increasingly turning to digital tools to reach customers, manage demand and expand beyond their physical storefronts as the region’s services economy continues to grow.

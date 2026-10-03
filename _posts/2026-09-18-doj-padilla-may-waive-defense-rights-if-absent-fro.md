@@ -11,7 +11,7 @@ tags:
   - Robin PAdilla
   - DOJ
   - obstruction of justice
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2959/8feaae1789719185-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2959/8feaae1789719185-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2959/8feaae1789719185-1.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-18T08:15:29.829Z'
+pbb_post_id: 2959
 ---
 
 Sen. Robinhood “Robin” Padilla could lose his opportunity to present a defense in the preliminary investigation into an obstruction of justice complaint if he fails to attend the proceedings next week, the Department of Justice (DOJ) said Thursday.

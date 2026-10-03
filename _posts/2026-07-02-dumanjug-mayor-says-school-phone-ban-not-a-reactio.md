@@ -9,7 +9,7 @@ categories:
 tags:
   - Phone ban
   - Dumanjug
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2281/2144d91782988277-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2281/2144d91782988277-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2281/2144d91782988277-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-02T10:31:18.623Z'
+pbb_post_id: 2281
 ---
 
 Dumanjug Mayor Guntrano "Gungun" Gica clarified that the municipality's cellphone restriction in public schools was not adopted in response to the recent school shooting in Tacloban City but is part of a broader education reform program aimed at improving student learning outcomes.

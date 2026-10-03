@@ -11,7 +11,7 @@ categories:
   - food
 tags:
   - Piyaya
-views: '10'
+views: "93"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1519/e1565d1776170374-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1519/e1565d1776170374-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1519/e1565d1776170374-1.jpg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1519
 ---
 
 For four decades, a humble delicacy has quietly built a legacy in Lapu-Lapu City—all thanks to the dedication and perseverance of Sir Victor, a longtime piyaya maker whose craft has stood the test of time.

@@ -9,7 +9,7 @@ tags:
   - jollibee
   - robot
   - fast foods               
-views: "10"
+views: "1,991"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibot/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibot/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibot/1.jpg
@@ -22,6 +22,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "8 minutes"
+pbb_post_id: 318
 ---
 ****
 The country’s number one fast food chain is leveling up the joy by launching a number of exciting store innovations that allow customers to transact faster and enjoy their Jollibee favorites more conveniently.  

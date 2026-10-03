@@ -12,7 +12,7 @@ tags:
   - Bantal
   - Anti-poor
   - Oplan
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2929/fc1d481789451671-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2929/fc1d481789451671-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2929/fc1d481789451671-1.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-15T05:54:41.153Z'
+pbb_post_id: 2929
 ---
 
 Fewer motorcycle-related crashes and shorter travel times are among the results Cebu City officials are citing in defending Oplan BanTal against criticism that the traffic program is “anti-poor.”

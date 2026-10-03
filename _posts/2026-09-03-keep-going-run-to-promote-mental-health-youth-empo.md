@@ -11,7 +11,7 @@ tags:
   - Keep Going Race
   - Tabogon
   - Run for a cause
-views: '0'
+views: "57"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2836/58f8521788416543-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2836/58f8521788416543-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2836/58f8521788416543-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-03T06:22:25.708Z'
+pbb_post_id: 2836
 ---
 
 For runners joining Tabogon’s first “KEEP GOING” race, the finish line will also mark a cause as the town puts mental health, youth empowerment and drug-free communities at the heart of the Oct. 18 event.

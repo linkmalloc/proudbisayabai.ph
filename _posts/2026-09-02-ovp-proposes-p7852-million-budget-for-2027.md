@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - OVP Budget
-views: '0'
+views: "35"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2825/a3b4181788325743-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2825/a3b4181788325743-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2825/a3b4181788325743-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-02T05:09:06.096Z'
+pbb_post_id: 2825
 ---
 
 The Office of the Vice President (OVP) is seeking P785.204 million for 2027, with more than two-thirds of the proposed allocation set for operating expenses that include direct assistance programs.

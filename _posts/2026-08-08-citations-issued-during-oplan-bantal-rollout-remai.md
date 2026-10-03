@@ -9,7 +9,7 @@ categories:
 tags:
   - Oplan BanTal
   - Cebu City Traffic Office
-views: '0'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2629/ef5a4e1786170853-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2629/ef5a4e1786170853-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2629/ef5a4e1786170853-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-08T06:34:15.306Z'
+pbb_post_id: 2629
 ---
 
 Motorists cannot have traffic citation tickets issued during the rollout of Oplan BanTal: Discipline Zone voided simply because the Banilad flyover had not yet opened, the Cebu City Traffic Office (CCTO) said.

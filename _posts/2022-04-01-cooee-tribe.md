@@ -12,7 +12,7 @@ tags:
   - diet
   - summer
   - healthy      
-views: "10"
+views: "77"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cooe_tribe/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cooe_tribe/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cooe_tribe/1.jpg
@@ -25,6 +25,7 @@ photo_credit: "cooeetribe"
 photo_credit_link: "https://instagram.com/cooeetribe?utm_medium=copy_link"
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 277
 ---
 ****
 Are you craving a delicious meal but are on a strict diet and are weight and health-conscious? Or do you

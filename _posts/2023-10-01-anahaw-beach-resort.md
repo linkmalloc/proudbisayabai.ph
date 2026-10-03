@@ -11,7 +11,7 @@ tags:
   - resort
   - barili
   - cebu
-views: "10"
+views: "3,437"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/anahaw_beach_resort/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/anahaw_beach_resort/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/anahaw_beach_resort/cover.jpg
@@ -24,6 +24,7 @@ photo_credit: "PBB"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 415
 ---
 ****
 Anahaw Beach Resort is a newly-opened private beach resort located in the South of Cebu, specifically in the town of Barili. It is the perfect destination for family gatherings, team buildings, retreats, and reunions.  

@@ -12,7 +12,7 @@ tags:
   -  kang-irag peak
   -  cebu
   -  sirao               
-views: "10"
+views: "657"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kang-irag/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kang-irag/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/kang-irag/cover.jpg
@@ -25,6 +25,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 385
 ---
 ****
 When was the last time you allowed yourself to let go of thoughts centered around emails and work or the “things” you want or “tasks” that must get done? Tara mangatkat ‘ta!  

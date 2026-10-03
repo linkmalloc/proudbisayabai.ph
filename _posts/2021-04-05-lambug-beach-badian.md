@@ -20,6 +20,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617631133
 photo_credit: "Kathlyn Flores"
 photo_credit_link: ""
 published: false
+pbb_post_id: 143
 ---
 #### Lambug Beach Badian
 

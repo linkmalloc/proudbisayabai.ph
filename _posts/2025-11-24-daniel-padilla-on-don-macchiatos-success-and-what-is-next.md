@@ -15,7 +15,7 @@ categories:
 tags:
   - DonMacchiatos
   - DanielPadilla
-views: '10'
+views: "143"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/699/8d17751764070691-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/699/8d17751764070691-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/699/8d17751764070691-2.jpeg
@@ -30,6 +30,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-11-25T00:00:00
 published: true
+pbb_post_id: 699
 ---
 
 During the Don Macchiatos press conference at NUSTAR today, November 25, 2025, brand ambassador Daniel Padilla reflected on his contract with the brand and its fast-growing community, calling the journey nothing short of a success. He also commended Don Macchiatos for its swift response to Cebu communities affected by recent disasters, expressing full support for the brand’s ongoing relief efforts.

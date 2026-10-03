@@ -10,7 +10,7 @@ tags:
   - Anniversary deals
   - Bayfront Hotel
   - 12 years
-views: '0'
+views: "46"
 img_big_1000x600: ''
 img_big_3000x1144: ''
 img_500x500: ''
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-16T03:56:46.969Z'
+pbb_post_id: 2935
 ---
 
 For 12 years, Bayfront Hotel Cebu has been part of countless Cebu stories—from family getaways and business trips to celebrations and quiet moments of rest. This year, it marks its 12th anniversary alongside the first anniversary of Bayfront CoLive+, its modern co-living concept for travelers, remote workers, students, and long-stay guests.

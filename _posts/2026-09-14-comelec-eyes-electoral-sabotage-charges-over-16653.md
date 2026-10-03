@@ -9,7 +9,7 @@ categories:
 tags:
   - Ballots
   - Comelec
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2918/1e65701789370370-1.JPG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2918/1e65701789370370-1.JPG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2918/1e65701789370370-1.JPG
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-14T07:19:36.531Z'
+pbb_post_id: 2918
 ---
 
 The Commission on Elections (Comelec) is looking into possible electoral sabotage charges over the pre shading of 16,653 official ballots in 36 polling precincts in Maluso, Basilan, during Monday’s parliamentary elections in the Bangsamoro Autonomous Region in Muslim Mindanao (BARMM).

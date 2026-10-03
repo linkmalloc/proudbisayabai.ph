@@ -10,7 +10,7 @@ tags:
   - Cebu
   - Bohol
   - Sugbohol
-views: '0'
+views: "10"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2474/f6f8a41784706064-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2474/f6f8a41784706064-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2474/f6f8a41784706064-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-22T07:41:06.780Z'
+pbb_post_id: 2474
 ---
 
 The Cebu Provincial Government is moving closer to formalizing its partnership with Bohol after the Sangguniang Panlalawigan authorized Governor Pamela S. Baricuatro to sign the long-awaited SugBohol Sisterhood Agreement.

@@ -14,7 +14,7 @@ tags:
   - NUJP
   - Newsroom
   - Rape Jokes
-views: '10'
+views: "10"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1879/cba6931779518759-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1879/cba6931779518759-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1879/cba6931779518759-1.jpeg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1879
 ---
 
 

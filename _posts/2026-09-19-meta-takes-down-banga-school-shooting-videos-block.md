@@ -9,7 +9,7 @@ categories:
 tags:
   - Banga school shooting videos
   - Meta
-views: '0'
+views: "46"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2970/7d42791789752849-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2970/7d42791789752849-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2970/7d42791789752849-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-18T17:34:31.252Z'
+pbb_post_id: 2970
 ---
 
 Meta immediately removed videos of the Banga National High School shooting from its social media platforms and blocked accounts that shared the material, according to the Cybercrime Investigation and Coordinating Center (CICC) on Friday.

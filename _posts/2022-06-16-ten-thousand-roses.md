@@ -9,7 +9,7 @@ tags:
   - cebu
   - roses
   - cordova               
-views: "10"
+views: "348"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ten_thousand_roses/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ten_thousand_roses/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ten_thousand_roses/1.jpg
@@ -22,6 +22,7 @@ photo_credit: "Jewirlson Currylson"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 302
 ---
 ***
 ###### 10,000 ROSES IS BACK!

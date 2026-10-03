@@ -9,7 +9,7 @@ tags:
   - hills
   - bohol
   - sight-seeing
-views: "64,906"
+views: "2,056"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_alicia_panoramic_park/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_alicia_panoramic_park/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/the_alicia_panoramic_park/1.jpg
@@ -20,6 +20,7 @@ read_time: "3 minutes"
 
 social_reach: "64,906"
 location: Alicia, Bohol
+pbb_post_id: 209
 ---
 ##### THE ALICIA PANORAMIC PARK  
   

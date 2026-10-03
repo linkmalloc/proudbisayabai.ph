@@ -17,6 +17,7 @@ img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_1000,h_600,c
 img_500_4: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1611885738/3000x1144/batch2.post4.1_j2l9b1.jpg
 photo_credit: Michael Audrey Sagonoy | PBB Drone Pilot
 published: false
+pbb_post_id: 11
 ---
 Want to experience an island food trip yet don’t know where to go? Mister’s Seafood and Grill has it all for you! An UNLI-SEAFOOD AND GRILL restaurant serving you fresh and the best of quality, mouthwatering seafoods and smokey grill buffet that would take your breath away with its oozing yumminess variety of foods.
 

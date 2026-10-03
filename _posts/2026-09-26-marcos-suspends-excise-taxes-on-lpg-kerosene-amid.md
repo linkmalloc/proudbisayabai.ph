@@ -10,7 +10,7 @@ tags:
   - Kerosene
   - Excise Tax
   - Bongbong Marcos
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3021/4e404d1790396223-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3021/4e404d1790396223-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3021/4e404d1790396223-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-26T04:17:14.504Z'
+pbb_post_id: 3021
 ---
 
 Rising global oil prices have prompted President Ferdinand R. Marcos Jr. to suspend excise taxes on liquefied petroleum gas (LPG) and kerosene for up to three months.

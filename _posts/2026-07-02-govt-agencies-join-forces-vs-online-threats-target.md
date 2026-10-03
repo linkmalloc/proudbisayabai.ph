@@ -9,7 +9,7 @@ categories:
 tags:
   - DepEd
   - School Security
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2283/d304731782992763-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2283/d304731782992763-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2283/d304731782992763-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-02T11:46:05.404Z'
+pbb_post_id: 2283
 ---
 
 The Department of Education (DepEd) on Thursday said it is working with the Philippine National Police (PNP) and the Department of Information and Communications Technology (DICT) to strengthen protection measures for learners against possible schemes of online terrorist groomers, amid a series of reported violence in public schools.

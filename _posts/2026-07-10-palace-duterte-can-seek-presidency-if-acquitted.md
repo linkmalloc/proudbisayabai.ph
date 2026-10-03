@@ -9,7 +9,7 @@ categories:
 tags:
   - Sara Duterte
   - 2028 Presidential Bid
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2362/d274e81783680433-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2362/d274e81783680433-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2362/d274e81783680433-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-10T10:47:17.945Z'
+pbb_post_id: 2362
 ---
 
 Malacañang said Vice President Sara Duterte may still run for president in the 2028 elections if she is cleared of any impeachable offense in the ongoing Senate impeachment trial.

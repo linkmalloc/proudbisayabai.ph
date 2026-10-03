@@ -9,7 +9,7 @@ categories:
 tags:
   - power charges
   - electricity
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3034/e284a81790581090-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3034/e284a81790581090-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3034/e284a81790581090-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-28T07:38:15.072Z'
+pbb_post_id: 3034
 ---
 
 Consumers should not end up paying the same system loss costs under a different item on their electricity bills, Senate Committee on Energy Chairperson Erwin Tulfo said as he pushed for the passage of a measure removing the charge.

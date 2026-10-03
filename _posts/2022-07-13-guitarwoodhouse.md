@@ -9,7 +9,7 @@ tags:
   - guitar wood house
   - bohol
   - music               
-views: "10"
+views: "170"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/guitarwoodhouse/15.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/guitarwoodhouse/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/guitarwoodhouse/15.jpg
@@ -22,6 +22,7 @@ photo_credit: "Rowell Clenuar | Travel 29"
 photo_credit_link: ""
 editor: "Evner Negro"
 read_time: "7 minutes"
+pbb_post_id: 313
 ---
 ****
 ##### Guitar Wood House

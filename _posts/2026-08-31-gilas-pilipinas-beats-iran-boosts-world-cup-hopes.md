@@ -10,7 +10,7 @@ tags:
   - Gilas Pilipinas
   - FIBA Basketball World Cup
   - Sports
-views: '0'
+views: "42"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2815/8a46181788168610-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2815/8a46181788168610-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2815/8a46181788168610-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-31T09:30:12.236Z'
+pbb_post_id: 2815
 ---
 
 Gilas Pilipinas saved its best for the final minutes, turning a tight game into a 68-56 victory over Iran on Sunday night to strengthen its bid for a fourth consecutive FIBA Basketball World Cup appearance.

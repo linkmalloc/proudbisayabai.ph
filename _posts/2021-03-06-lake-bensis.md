@@ -21,6 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615009052/l
 photo_credit: "Genro"
 photo_credit_link: ""
 published: false
+pbb_post_id: 72
 ---
 #### Lake Bensis
   

@@ -10,7 +10,7 @@ tags:
   - Mandaue City
   - Lapu-lapu City
   - Flooding
-views: '0'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2563/5bc7d61785557700-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2563/5bc7d61785557700-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2563/5bc7d61785557700-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-01T04:15:02.628Z'
+pbb_post_id: 2563
 ---
 
 Schools in Mandaue City and Lapu-Lapu City strengthened their safety measures after heavy rains and flooding affected several areas, prompting school officials and local authorities to prioritize the protection of students and personnel.

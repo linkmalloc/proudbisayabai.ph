@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Lifestyle
-views: '0'
+views: "52"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2290/1921b01783063910-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2290/1921b01783063910-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2290/1921b01783063910-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-03T07:32:49.319Z'
+pbb_post_id: 2290
 ---
 
 For years, FOMO, or the Fear of Missing Out, influenced how people socialized, spent their weekends, and even planned their careers. Every invitation felt like an opportunity impossible to pass up. But a quieter, more deliberate mindset has been gaining traction: JOMO, or the Joy of Missing Out.

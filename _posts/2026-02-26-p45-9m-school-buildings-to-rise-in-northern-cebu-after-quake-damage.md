@@ -12,7 +12,7 @@ tags:
   - CebuProvince
   - GovernorBaricuatro
   - 4thDistrict
-views: '10'
+views: "29"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1211/00633c1772101840-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1211/00633c1772101840-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1211/00633c1772101840-2.jpg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1211
 ---
 
 Four new school buildings worth P45.9 million will soon be constructed in northern Cebu to replace facilities damaged by the October 2025 earthquake.

@@ -12,7 +12,7 @@ categories:
 tags:
   - YombigBurger
   - SMCity
-views: '10'
+views: "263"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/529/4a5d411751290417-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/529/4a5d411751290417-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/529/4a5d411751290417-2.jpg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-07-01T00:00:00
+pbb_post_id: 529
 ---
 
 Yombig Burger has officially opened its doors at SM City Cebu to serve foodies with bold flavors, big bites, and budget-friendly prices that will make you say, "Hay, ka-sulit!"

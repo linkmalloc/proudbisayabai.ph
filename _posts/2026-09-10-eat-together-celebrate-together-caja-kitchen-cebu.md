@@ -10,7 +10,7 @@ tags:
   - Caja Kitchen Cebu
   - Weekend Buffet
   - Bayfront Hotel Cebu
-views: '0'
+views: "21"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2893/128ab31789026040-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2893/128ab31789026040-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2893/128ab31789026040-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-10T07:40:42.924Z'
+pbb_post_id: 2893
 ---
 
 Some of the best celebrations don't need grand occasions—they simply need good food and great company.

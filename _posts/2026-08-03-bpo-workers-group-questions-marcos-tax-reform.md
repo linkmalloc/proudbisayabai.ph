@@ -9,7 +9,7 @@ categories:
 tags:
   - BPO
   - BIEN-Cebu
-views: '0'
+views: "21"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2580/7179ad1785739800-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2580/7179ad1785739800-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2580/7179ad1785739800-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-03T06:49:56.529Z'
+pbb_post_id: 2580
 ---
 
 Cebu BPO workers’ group BIEN-Cebu has criticized President Ferdinand Marcos Jr.’s proposed tax reform measures, saying the planned increase in income tax exemptions could be offset by higher taxes on consumer goods.

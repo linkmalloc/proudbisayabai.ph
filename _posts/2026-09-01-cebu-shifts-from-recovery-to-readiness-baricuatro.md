@@ -9,7 +9,7 @@ categories:
 tags:
   - SOPA
   - Pam Baricuatro
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2817/b6c87b1788251588-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2817/b6c87b1788251588-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2817/b6c87b1788251588-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-09-01T08:33:15.501Z'
+pbb_post_id: 2817
 ---
 
 Cebu is moving beyond rebuilding from past setbacks and preparing for challenges ahead, Gov. Pamela Baricuatro said as she delivered her second State of the Province Address (SOPA) on Monday, Aug. 31.

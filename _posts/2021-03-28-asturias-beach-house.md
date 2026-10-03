@@ -21,6 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617027013
 photo_credit: "Asturias Beach House By Blissful Creations."
 photo_credit_link: ""
 published: false
+pbb_post_id: 119
 ---
 #### Asturias Beach House
   

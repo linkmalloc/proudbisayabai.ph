@@ -11,12 +11,13 @@ tags:
   - ship
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "8 minutes"
-views: "10"
+views: "89"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mv_2go_maligaya/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mv_2go_maligaya/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mv_2go_maligaya/1.jpg
 photo_credit: "2GO"
 photo_credit_link: ""
+pbb_post_id: 184
 ---
 #### MV 2GO Maligaya
   

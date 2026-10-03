@@ -15,7 +15,7 @@ tags:
   - KielsCafe
   - ProudBisayaBai
   - EatsTravelCebuPH
-views: '10'
+views: "671"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/541/f740401754934377-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/541/f740401754934377-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/541/f740401754934377-2.jpg
@@ -29,6 +29,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-08-11T00:00:00
+pbb_post_id: 541
 ---
 
 If you’re searching for a quiet escape where you can enjoy great food, fresh air, and stunning ocean views, Kiels Café might just be your next favorite spot.

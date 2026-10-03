@@ -20,6 +20,7 @@ img_500_5: https://res.cloudinary.com/pbb1/image/upload/v1618749670/waterworld_c
 photo_credit: "Jude Rico &amp; Day See"
 photo_credit_link: ""
 published: false
+pbb_post_id: 162
 ---
 TRENDING: Looking for a place to have fun with your family and friends? Visit Waterworld Cebu! 💦😱   
   

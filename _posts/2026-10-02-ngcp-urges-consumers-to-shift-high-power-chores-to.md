@@ -10,7 +10,7 @@ categories:
 tags:
   - NGCP
   - Electricity
-views: '0'
+views: "9"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3082/05d0181790924261-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3082/05d0181790924261-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3082/05d0181790924261-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-10-02T06:57:45.352Z'
+pbb_post_id: 3082
 ---
 
 The time households choose to iron clothes or run a vacuum cleaner could help ease pressure on the Visayas power grid, particularly during evening hours when solar generation is no longer available.

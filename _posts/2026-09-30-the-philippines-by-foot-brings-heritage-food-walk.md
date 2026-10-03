@@ -10,7 +10,7 @@ tags:
   - Philippine heritage
   - cultural sites
   - Downtown Cebu
-views: '0'
+views: "91"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3060/660f9f1790766561-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3060/660f9f1790766561-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3060/660f9f1790766561-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-30T11:09:22.854Z'
+pbb_post_id: 3060
 ---
 
 Cebu’s historic downtown is being promoted as a walkable destination through a new food and heritage tour that brings visitors to landmarks, cultural sites and local food establishments.

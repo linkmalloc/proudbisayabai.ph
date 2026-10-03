@@ -13,7 +13,7 @@ tags:
   - 2025NocheBuena
   - PriceGuide
   - DTI
-views: '10'
+views: "187"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/667/d7086c1762839427-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/667/d7086c1762839427-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/667/d7086c1762839427-2.jpg
@@ -28,6 +28,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-11-11T00:00:00
 published: true
+pbb_post_id: 667
 ---
 
 The Department of Trade and Industry (DTI) has officially released the 2025 Noche Buena Price Guide, aimed at assisting consumers in planning their holiday purchases amid fluctuating market prices.

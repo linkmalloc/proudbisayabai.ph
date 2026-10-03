@@ -9,7 +9,7 @@ categories:
 tags:
   - PNP
   - Marcoleta
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2324/9cb0771783420175-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2324/9cb0771783420175-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2324/9cb0771783420175-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-07T10:29:42.510Z'
+pbb_post_id: 2324
 ---
 
 THE Philippine National Police (PNP) on Tuesday said all respondents in the plunder case filed against Sen. Rodante Marcoleta by the Office of the Ombudsman have been arrested after the final accused was taken into custody in Quezon City.

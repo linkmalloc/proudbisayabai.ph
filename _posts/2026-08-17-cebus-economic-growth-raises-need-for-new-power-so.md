@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Cebu Economic Growth
-views: '0'
+views: "55"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2685/19fceb1786950191-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2685/19fceb1786950191-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2685/19fceb1786950191-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-17T07:03:14.361Z'
+pbb_post_id: 2685
 ---
 
 Cebu’s expanding economy is increasing the demand for a power system that can provide dependable electricity to households, businesses and essential services, Gov. Pamela Baricuatro said.

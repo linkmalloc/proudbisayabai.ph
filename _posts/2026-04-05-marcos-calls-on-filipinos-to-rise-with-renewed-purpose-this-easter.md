@@ -12,7 +12,7 @@ tags:
   - BongbongMarcos
   - Easter
   - HolyWeek2026
-views: '10'
+views: "10"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1447/ef741e1775351458-3.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1447/ef741e1775351458-3.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1447/ef741e1775351458-3.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1447
 ---
 
 A message of unity and compassion marked Easter Sunday as President Ferdinand R. Marcos Jr. urged Filipinos to draw hope from the Resurrection of Christ.

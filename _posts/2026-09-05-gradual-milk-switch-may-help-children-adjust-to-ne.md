@@ -10,7 +10,7 @@ tags:
   - Milk
   - Children
   - Milk Switch
-views: '0'
+views: "41"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2852/4e4e1e1788599833-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2852/4e4e1e1788599833-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2852/4e4e1e1788599833-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-05T09:17:14.309Z'
+pbb_post_id: 2852
 ---
 
 Parents can make it easier for children aged 3 and above to switch to a new milk by gradually mixing it with their usual drink over a week instead of making an abrupt change.

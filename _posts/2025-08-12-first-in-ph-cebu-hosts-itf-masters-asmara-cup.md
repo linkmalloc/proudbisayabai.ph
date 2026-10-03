@@ -9,7 +9,7 @@ categories:
 tags:
   - Asmara
   - ITF
-views: '10'
+views: "114"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/543/b167b11755078836-3.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/543/b167b11755078836-3.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/543/b167b11755078836-3.jpg
@@ -23,6 +23,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-08-13T00:00:00
+pbb_post_id: 543
 ---
 
 Cebu is set to showcase its growing stature in the international sports scene as it hosts the Philippines' first International Tennis Federation (ITF) Masters Tour, the MT200 Asmara Cup. 

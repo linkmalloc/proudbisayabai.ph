@@ -9,7 +9,7 @@ categories:
 tags:
   - BaguioCity
   - landslide
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2651/bc52b21786515335-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2651/bc52b21786515335-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2651/bc52b21786515335-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-12T06:15:46.567Z'
+pbb_post_id: 2651
 ---
 
 Five learners died in a landslide in Baguio City as continuous rains affected parts of the country, prompting the Department of Education (DepEd) to step up assessments of school facilities and safety risks.

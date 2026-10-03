@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - African Swine Fever
-views: '0'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2565/a005621785557915-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2565/a005621785557915-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2565/a005621785557915-2.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-01T04:18:45.784Z'
+pbb_post_id: 2565
 ---
 
 Nineteen pigs were culled in Barangay Quiot, Cebu City after nine hogs tested positive for African Swine Fever (ASF), prompting the city government to strengthen monitoring and movement controls to prevent further transmission.

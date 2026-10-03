@@ -8,7 +8,7 @@ categories:
 tags:
   - cebu
   -  jollibee               
-views: "10"
+views: "601"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee_usc/3.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee_usc/3.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee_usc/3.jpg
@@ -21,6 +21,7 @@ photo_credit: "Christine Monteclar"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "2 minutes"
+pbb_post_id: 308
 ---
 ****
 A place where so many memories have been created is like golden poetry full of diverse emotions that may fill the void of yearning and even build a home out of heartache where tears can yield great bliss.  

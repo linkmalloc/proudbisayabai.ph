@@ -9,7 +9,7 @@ categories:
 tags:
   - Ombudsman
   - Cebu Flood Control Projects
-views: '0'
+views: "29"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2634/08198e1786357305-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2634/08198e1786357305-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2634/08198e1786357305-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-10T10:21:48.131Z'
+pbb_post_id: 2634
 ---
 
 The Office of the Ombudsman will investigate around P60 billion worth of flood control projects implemented in Cebu over the past six years following heavy flooding in several parts of the province in recent weeks.

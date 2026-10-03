@@ -10,7 +10,7 @@ tags:
   - Sports
   - Gilas
   - AsianGames
-views: '0'
+views: "32"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2873/5c61081788850766-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2873/5c61081788850766-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2873/5c61081788850766-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-08T06:59:27.190Z'
+pbb_post_id: 2873
 ---
 
 Gilas Pilipinas has four days to regroup in Japan before beginning its title defense in the men’s basketball competition of the 20th Nagoya Asian Games.

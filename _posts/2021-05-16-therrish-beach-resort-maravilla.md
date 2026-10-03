@@ -11,12 +11,13 @@ tags:
   - beach
   - resort
   - north-cebu
-views: "10"
+views: "618"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/therrish_beach_resort_maravilla/1.jpg
 photo_credit: "Twin De Los Reyes / Pbb Content Editor"
 photo_credit_link: ""
+pbb_post_id: 182
 ---
 #### Therrish Beach Resort
 Are you looking for a place na makarelax and chill? Tara na mga Bai sa Therrish Beach Resort of Maravilla! 🌴🌊🌞🏀  

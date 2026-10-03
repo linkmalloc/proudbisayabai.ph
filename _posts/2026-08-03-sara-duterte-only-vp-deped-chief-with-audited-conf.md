@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Sara Duterte Impeachment Trial
-views: '0'
+views: "33"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2578/0ad8431785739593-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2578/0ad8431785739593-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2578/0ad8431785739593-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-03T06:46:34.453Z'
+pbb_post_id: 2578
 ---
 
 A Commission on Audit (COA) auditor told the Senate impeachment court on Monday that Vice President Sara Duterte was the only vice president and Department of Education (DepEd) secretary whose confidential funds he audited during his assignment with the commission’s Intelligence and Confidential Funds Audit Office (ICFAO).

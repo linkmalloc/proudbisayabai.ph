@@ -11,7 +11,7 @@ tags:
   - Eumir Marcial
   - Olympian
   - Withdraw
-views: '0'
+views: "28"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2988/e154f21790070874-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2988/e154f21790070874-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2988/e154f21790070874-1.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-22T09:54:37.133Z'
+pbb_post_id: 2988
 ---
 
 Olympic bronze medalist Eumir Marcial will not compete in the 20th Asian Games in Japan despite scoring a third-round knockout in his professional comeback fight in San Diego, California, on Sunday.

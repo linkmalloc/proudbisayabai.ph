@@ -12,7 +12,7 @@ categories:
 tags:
   - school
   - safety
-views: '10'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2190/d0a9a11782210390-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2190/d0a9a11782210390-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2190/d0a9a11782210390-1.jpg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 2190
 ---
 
 

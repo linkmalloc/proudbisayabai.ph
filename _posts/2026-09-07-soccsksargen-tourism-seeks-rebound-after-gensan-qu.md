@@ -9,7 +9,7 @@ categories:
 tags:
   - Soccsksargen
   - tourism
-views: '0'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2868/1786ff1788776073-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2868/1786ff1788776073-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2868/1786ff1788776073-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-07T10:14:35.020Z'
+pbb_post_id: 2868
 ---
 
 Soccsksargen is encouraging local and foreign travelers to return to the region as tourism officials work to restore visitor activity after a magnitude 7.8 earthquake disrupted travel in June.

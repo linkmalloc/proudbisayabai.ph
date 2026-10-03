@@ -9,7 +9,7 @@ categories:
 tags:
   - Chiz Escudero
   - FDA Overhaul
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2407/d0f82d1784101443-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2407/d0f82d1784101443-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2407/d0f82d1784101443-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-15T07:44:06.337Z'
+pbb_post_id: 2407
 ---
 
 Senator Francis “Chiz” Escudero has filed a measure seeking to overhaul the country’s product regulatory system by transferring some functions of the Food and Drug Administration (FDA) to government agencies with more specialized expertise.

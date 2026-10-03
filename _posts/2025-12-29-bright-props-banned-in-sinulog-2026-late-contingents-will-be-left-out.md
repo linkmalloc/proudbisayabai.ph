@@ -10,7 +10,7 @@ categories:
   - story
 tags:
   - Sinulog2026
-views: '10'
+views: "239"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/880/d8e1361767089442-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/880/d8e1361767089442-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/880/d8e1361767089442-2.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-12-30T00:00:00
 published: true
+pbb_post_id: 880
 ---
 
 Cebu City has imposed stricter rules for Sinulog 2026 to ensure a safer, more organized, and faith-centered celebration.

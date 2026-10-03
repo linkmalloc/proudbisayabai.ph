@@ -11,7 +11,7 @@ tags:
   - Bongbong Marcos
   - Electricity
   - Electric Power Industry Reform Act (EPIRA) of 2001
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2519/25c4cb1785216356-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2519/25c4cb1785216356-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2519/25c4cb1785216356-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-07-28T05:26:14.554Z'
+pbb_post_id: 2519
 ---
 
 President Ferdinand R. Marcos Jr. called on Congress to immediately amend the Electric Power Industry Reform Act (EPIRA) of 2001 to remove system loss charges passed on to electricity consumers, saying households should not shoulder costs caused by inefficiencies in the power system.

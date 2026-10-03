@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Youth Fair
-views: '0'
+views: "24"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2797/5d9bee1787946565-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2797/5d9bee1787946565-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2797/5d9bee1787946565-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-28T19:49:29.575Z'
+pbb_post_id: 2797
 ---
 
 A province-wide youth fair returned to the Cebu Provincial Capitol on Wednesday, Aug. 26, bringing together youth organizations to showcase programs, activities and opportunities for young Cebuanos.

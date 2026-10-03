@@ -8,7 +8,7 @@ categories:
   - food
 tags:
   - Lechon
-views: '0'
+views: "43"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2266/8fb6651782884521-1.webp
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2266/8fb6651782884521-1.webp
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2266/8fb6651782884521-1.webp
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-01T05:42:38.667Z'
+pbb_post_id: 2266
 ---
 
 During holidays, plenty of delicious leftovers are inevitable — from spaghetti, to nilagang baboy, to menudo, and of course, to the most favorite holiday dish, lechon. There is always something left to eat the day after the celebration.While leftovers can bring joy, a question remains: how can leftover recipes be elevated and more exciting?

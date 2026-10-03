@@ -12,7 +12,7 @@ categories:
 tags:
   - DogBite
   - HealthProtocol
-views: '10'
+views: "103"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1393/f296161774510936-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1393/f296161774510936-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1393/f296161774510936-2.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1393
 ---
 
 As March is observed as Rabies Awareness Month, a Cebu-based veterinarian reminded the public to remain calm and follow proper health protocols after dog bites.

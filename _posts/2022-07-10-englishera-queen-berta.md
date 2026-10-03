@@ -9,7 +9,7 @@ categories:
 tags:
   - cebu
   - inspiring               
-views: "10"
+views: "513"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/berta/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/berta/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/berta/1.jpg
@@ -22,6 +22,7 @@ photo_credit: "Arnold VIllanueva | Marlon Yap"
 photo_credit_link: "Marlon Yap "
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 311
 ---
 ****
 Berta, also known as the "Englishera Queen" in Cebu, has gained encouragement from others by sharing his experience using illicit drugs as a guest speaker.  

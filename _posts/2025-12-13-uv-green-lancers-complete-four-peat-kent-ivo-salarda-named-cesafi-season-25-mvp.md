@@ -16,7 +16,7 @@ categories:
 tags:
   - CESAFI
   - UniversityOfVisayas
-views: '10'
+views: "49"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/802/d3e8271765711635-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/802/d3e8271765711635-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/802/d3e8271765711635-2.jpeg
@@ -31,6 +31,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-12-14T00:00:00
 published: true
+pbb_post_id: 802
 ---
 
 The UV Green Lancers continued their dominance in Cebu collegiate basketball by defeating the UC Webmasters, 85–77, in a thrilling do-or-die Game 3 of the CESAFI Season 25 men’s basketball finals on Saturday, December 13, at the Cebu Coliseum along Sanciangko Street, Cebu City. With this win, UV secured their fourth consecutive championship and 17th CESAFI title overall.

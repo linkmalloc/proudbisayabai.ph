@@ -9,7 +9,7 @@ categories:
 tags:
   - Diesel Scam
   - Arrest
-views: '0'
+views: "573"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2645/6e95ef1786432048-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2645/6e95ef1786432048-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2645/6e95ef1786432048-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-11T07:07:30.720Z'
+pbb_post_id: 2645
 ---
 
 A businessman who allegedly paid P5.3 million for 100,000 liters of discounted diesel fuel but received none of the promised shipment sought the help of the National Bureau of Investigation-Central Visayas Regional Office (NBI-CEVRO), leading to the arrest of a Liloan resident in a sting operation in Mandaue City.

@@ -11,7 +11,7 @@ categories:
 tags:
   - Solo Parent ID
   - Lifestyle
-views: '0'
+views: "628"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2458/ed84e31784535381-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2458/ed84e31784535381-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2458/ed84e31784535381-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-07-20T08:16:24.042Z'
+pbb_post_id: 2458
 ---
 
 The Department of Social Welfare and Development (DSWD) and Local Government Units (LGU) continue to issue the Solo Parent Identification Card (SPIC), the official document that offers solo parents raising children alone access to government assistance under the Expanded Solo Parents Welfare Act (RA 11861) of 2022.

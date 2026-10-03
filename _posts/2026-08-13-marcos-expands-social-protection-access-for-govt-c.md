@@ -9,7 +9,7 @@ categories:
 tags:
   - Contract of Service Workers
   - Job Order Workers
-views: '0'
+views: "30"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2664/a0dd271786596397-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2664/a0dd271786596397-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2664/a0dd271786596397-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-13T04:46:42.102Z'
+pbb_post_id: 2664
 ---
 
 Contract of service (COS) and job order (JO) workers in government may now voluntarily have their contributions to key social protection programs deducted from their compensation under an administrative order issued by President Ferdinand Marcos Jr.

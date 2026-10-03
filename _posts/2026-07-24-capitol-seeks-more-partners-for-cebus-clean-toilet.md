@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Capitol
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2491/08c2421784892660-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2491/08c2421784892660-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2491/08c2421784892660-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-24T11:31:06.267Z'
+pbb_post_id: 2491
 ---
 
 The Cebu Provincial Government is seeking more local government units and private establishments to join its Clean Toilet Stops Partnership Program as it expands efforts to provide accessible and sanitary restrooms for travelers across the province.

@@ -11,7 +11,7 @@ categories:
 tags:
 - Shot
 - Argao
-views: '0'
+views: "82"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3039/647d111790581652-1.png
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3039/647d111790581652-1.png
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3039/647d111790581652-1.png

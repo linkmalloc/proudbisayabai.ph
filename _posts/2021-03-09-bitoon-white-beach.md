@@ -20,6 +20,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615389128/b
 photo_credit: "Joseph The Explorer"
 photo_credit_link: "https://www.facebook.com/JosephTheExplorer/"
 published: false
+pbb_post_id: 82
 ---
 #### BITOON WHITE BEACH   
   

@@ -8,7 +8,7 @@ categories:
   - destination
 tags:
   - Casa Teresita
-views: '0'
+views: "547"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2597/04a6f11785885711-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2597/04a6f11785885711-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2597/04a6f11785885711-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-04T23:21:53.117Z'
+pbb_post_id: 2597
 ---
 
 For travelers seeking an upscale private retreat, Casa Teresita offers an exclusive luxury property in Cebu designed for families, friends, and corporate groups looking to unwind in a serene natural setting.

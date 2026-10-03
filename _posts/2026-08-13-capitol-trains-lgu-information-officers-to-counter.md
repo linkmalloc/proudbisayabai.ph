@@ -10,7 +10,7 @@ tags:
   - Capitol
   - Information Officers
   - Misinformation
-views: '0'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2667/db75501786609150-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2667/db75501786609150-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2667/db75501786609150-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-13T08:19:13.046Z'
+pbb_post_id: 2667
 ---
 
 As social media continues to shape how people receive and respond to government information, the Cebu Provincial Government is strengthening the communication skills of local information officers through a two-day training congress.

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - San Juan City - Cebu Partnership
-views: '0'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2421/7534d11784198744-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2421/7534d11784198744-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2421/7534d11784198744-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-16T10:45:56.100Z'
+pbb_post_id: 2421
 ---
 
 Cebu City expects to gain new insights in digital governance, tourism development, and public safety after formalizing a sister-city partnership with San Juan City.

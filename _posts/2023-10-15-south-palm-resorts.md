@@ -10,7 +10,7 @@ tags:
   - resort
   - cebu
   - beach
-views: "10"
+views: "575"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/south_palm/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/south_palm/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/south_palm/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: "Zheny Airen Dela Cerna"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 422
 ---
 ****
 Looking for a dream beach holiday this weekend? South Palms Resort Panglao is the perfect place to escape to.  

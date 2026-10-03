@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Hit and Run
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2356/a50ea41783672590-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2356/a50ea41783672590-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2356/a50ea41783672590-2.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-10T08:01:55.573Z'
+pbb_post_id: 2356
 ---
 
 The Land Transportation Office Region 7 (LTO 7) recognized a Cebu City rider who helped authorities pursue and intercept a motorist involved in a hit-and-run incident near the South Bus Terminal.

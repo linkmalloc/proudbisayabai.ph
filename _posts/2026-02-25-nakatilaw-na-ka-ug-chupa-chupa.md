@@ -15,7 +15,7 @@ categories:
 tags:
   - ChupaChupa
   - Mindanaoan
-views: '10'
+views: "61"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1206/83cc381772022840-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1206/83cc381772022840-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1206/83cc381772022840-2.jpg
@@ -29,6 +29,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1206
 ---
 
 The chupa-chupa fruit, also known locally as “suck-suck,” is gaining attention online for its unique way of consumption. Its name comes from the method of eating: the juicy pulp must be slowly and patiently drawn from its large seed, rather than bitten or devoured. This slow, attentive approach serves as a reminder that some of life’s sweetest rewards require patience and mindfulness.

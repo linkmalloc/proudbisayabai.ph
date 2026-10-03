@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Flood Control Issue
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2499/ef91311784960752-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2499/ef91311784960752-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2499/ef91311784960752-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-25T06:26:04.584Z'
+pbb_post_id: 2499
 ---
 
 The camp of Leyte Rep. Ferdinand Martin Romualdez said Friday that the former House speaker is prepared to answer allegations filed against him in connection with the flood control controversy.

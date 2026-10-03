@@ -10,7 +10,7 @@ categories:
 tags:
   - MannyPacquiao
   - NAPC
-views: '0'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2874/a7bbd51788850819-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2874/a7bbd51788850819-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2874/a7bbd51788850819-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-08T07:00:20.559Z'
+pbb_post_id: 2874
 ---
 
 Former senator Manny Pacquiao returned to government service Tuesday, taking a Cabinet-level post as lead convenor and secretary of the National Anti-Poverty Commission (NAPC) four years after his Senate term ended.

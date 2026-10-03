@@ -25,6 +25,7 @@ published: false
 
 social_reach: "3,156"
 location: Catmon, Cebu
+pbb_post_id: 145
 ---
 #### Tarima Café and Resto   
   

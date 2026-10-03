@@ -10,7 +10,7 @@ tags:
   - Risa Hontiveros
   - Online Grooming
   - Recruitment into Violence
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2980/3f3d1f1789981082-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2980/3f3d1f1789981082-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2980/3f3d1f1789981082-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-21T08:58:09.127Z'
+pbb_post_id: 2980
 ---
 
 Senator Risa Hontiveros is pushing for faster passage of a proposed law that would give law enforcers stronger tools to investigate online grooming and recruitment into violence, citing the latest school shooting in South Cotabato.

@@ -13,7 +13,7 @@ categories:
 tags:
   - SenatorPangilinan
   - JusticeReform
-views: '10'
+views: "6"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1284/b4b2e61773214203-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1284/b4b2e61773214203-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1284/b4b2e61773214203-2.jpg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1284
 ---
 
 Senator Francis “Kiko” Pangilinan emphasized the urgent need to pass Senate Bill No. 1547, which proposes the creation of a Joint Congressional Commission on Justice Reform, during the Committee on Justice and Human Rights hearing on Wednesday, March 11, 2026.

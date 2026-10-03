@@ -9,7 +9,7 @@ categories:
 tags:
   - ClassSuspension
   - Ashfall
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2353/026de21783649468-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2353/026de21783649468-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2353/026de21783649468-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-10T02:11:14.824Z'
+pbb_post_id: 2353
 ---
 
 CEBU CITY, Philippines — Several local government units (LGUs) across Cebu have suspended face-to-face classes on Friday, July 10, following the reported volcanic ashfall caused by the recent eruption of Mt. Kanlaon.

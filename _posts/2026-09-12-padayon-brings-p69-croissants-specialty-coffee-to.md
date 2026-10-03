@@ -9,7 +9,7 @@ categories:
 tags:
   - Padayon Cafe
   - Padayon
-views: '0'
+views: "65"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2914/a04d091789220950-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2914/a04d091789220950-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2914/a04d091789220950-2.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-12T11:28:13.546Z'
+pbb_post_id: 2914
 ---
 
 A new Cebu cafe is serving up affordable croissants and specialty coffee while building its brand around a familiar Cebuano value: resilience.

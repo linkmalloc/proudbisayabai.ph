@@ -10,7 +10,7 @@ tags:
   - MCIA
   - Airport
   - Accreditation
-views: '0'
+views: "110"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2783/20a7d31787891422-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2783/20a7d31787891422-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2783/20a7d31787891422-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-28T04:30:25.119Z'
+pbb_post_id: 2783
 ---
 
 The Mactan-Cebu International Airport (MCIA) has become the only airport in the Philippines to achieve Level 2 Airport Carbon Accreditation (ACA) from the Airports Council International Asia-Pacific and Middle East (ACI APAC & MID).

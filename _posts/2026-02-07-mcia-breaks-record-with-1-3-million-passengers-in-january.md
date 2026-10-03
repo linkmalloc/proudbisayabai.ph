@@ -12,7 +12,7 @@ categories:
 tags:
   - MCIA
   - passengers
-views: '10'
+views: "21"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1102/6b845d1770459103-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1102/6b845d1770459103-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1102/6b845d1770459103-2.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1102
 ---
 
 Mactan-Cebu International Airport (MCIA) reached a milestone in January 2026 by handling 1.3 million passengers, the highest monthly traffic in the airport's history.

@@ -13,7 +13,7 @@ tags:
   - CebuProvince
   - Minerals
   - PamelaBaricuatro
-views: '10'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1480/4627181775718149-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1480/4627181775718149-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1480/4627181775718149-1.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1480
 ---
 
 The Cebu Provincial Government has created a multi-agency task force to strengthen monitoring of mineral resources and ensure compliance with existing laws on quarrying and sand operations.

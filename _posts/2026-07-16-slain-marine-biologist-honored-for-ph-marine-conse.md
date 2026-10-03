@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Kent Carpenter
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2422/f35a301784199420-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2422/f35a301784199420-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2422/f35a301784199420-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-16T10:57:10.576Z'
+pbb_post_id: 2422
 ---
 
 The Department of Environment and Natural Resources (DENR) has paid tribute to internationally recognized marine biologist Dr. Kent Carpenter, whose decades of research helped shape the understanding and conservation of the Philippines’ marine ecosystems and biodiversity.

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - COMELEC
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2830/197d7f1788326321-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2830/197d7f1788326321-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2830/197d7f1788326321-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-02T05:18:42.897Z'
+pbb_post_id: 2830
 ---
 
 The government is proposing P29.5 billion for the Commission on Elections (Comelec) in 2027 as the poll body moves into a more intensive phase of preparations for the 2028 national and local elections.

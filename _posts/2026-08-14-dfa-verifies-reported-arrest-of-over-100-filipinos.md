@@ -9,7 +9,7 @@ categories:
 tags:
   - Department of Foreign Affairs
   - Filipino Arrest in China
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2673/f1f4881786689304-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2673/f1f4881786689304-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2673/f1f4881786689304-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-14T06:35:17.783Z'
+pbb_post_id: 2673
 ---
 
 The Department of Foreign Affairs (DFA) is verifying reports that more than 100 Filipinos have been arrested in China for allegedly violating immigration laws.

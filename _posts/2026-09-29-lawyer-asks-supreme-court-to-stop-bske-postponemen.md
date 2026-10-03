@@ -9,7 +9,7 @@ categories:
 tags:
   - BSKE Postponement
   - Supreme Court
-views: '0'
+views: "46"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3051/a764161790660043-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3051/a764161790660043-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3051/a764161790660043-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-29T05:34:25.703Z'
+pbb_post_id: 3051
 ---
 
 Election lawyer Romulo Macalintal has asked the Supreme Court (SC) to stop the implementation of the law moving the barangay and Sangguniang Kabataan Elections (BSKE) to November 2028, arguing that the measure violates voters’ constitutional right to suffrage.

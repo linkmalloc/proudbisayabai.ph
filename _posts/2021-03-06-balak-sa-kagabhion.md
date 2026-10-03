@@ -20,6 +20,7 @@ img_500_5:
 photo_credit: "Fretxzie Ann Martinez"
 photo_credit_link: ""
 published: false
+pbb_post_id: 65
 ---
 <pre>  
 <h4 style="margin-bottom: -20px;padding-bottom: 10px;">BALAK SA KAGABHION</h4>

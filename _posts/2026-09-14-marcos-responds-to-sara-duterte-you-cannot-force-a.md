@@ -10,7 +10,7 @@ categories:
 tags:
   - Bongbong Marcos
   - Sara Duterte
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2919/68c7281789370491-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2919/68c7281789370491-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2919/68c7281789370491-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-14T07:21:34.482Z'
+pbb_post_id: 2919
 ---
 
 President Ferdinand R. Marcos Jr. has declined to respond to Vice President Sara Duterte’s accusations against him, saying he could only speculate that anger over her legal troubles may be behind the attacks.

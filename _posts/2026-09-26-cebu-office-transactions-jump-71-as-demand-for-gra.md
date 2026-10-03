@@ -13,7 +13,7 @@ tags:
   - sustainability
   - reliability
   - workplace environment
-views: '0'
+views: "93"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3030/940ead1790397230-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3030/940ead1790397230-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3030/940ead1790397230-1.jpeg
@@ -28,6 +28,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-26T04:35:20.101Z'
+pbb_post_id: 3030
 ---
 
 A corporate address is becoming less about where an office is located and more about whether the workplace can meet the changing needs of companies and their employees.

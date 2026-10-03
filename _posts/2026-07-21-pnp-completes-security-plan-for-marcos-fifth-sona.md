@@ -9,7 +9,7 @@ categories:
 tags:
   - PNP
   - Bongbong Marcos
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2464/e4989e1784621514-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2464/e4989e1784621514-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2464/e4989e1784621514-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-21T08:12:00.829Z'
+pbb_post_id: 2464
 ---
 
 The Philippine National Police (PNP) has completed its contingency and operational plans for President Ferdinand R. Marcos Jr.’s fifth State of the Nation Address (SONA) on July 27, as security preparations move into full implementation.

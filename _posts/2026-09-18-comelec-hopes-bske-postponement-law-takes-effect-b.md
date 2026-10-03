@@ -9,7 +9,7 @@ categories:
 tags:
   - COC filing
   - Comelec
-views: '0'
+views: "24"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2961/54be811789720025-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2961/54be811789720025-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2961/54be811789720025-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-18T08:27:08.233Z'
+pbb_post_id: 2961
 ---
 
 The Commission on Elections (Comelec) is hoping Congress can complete the law postponing the Nov. 2 Barangay and Sangguniang Kabataan Elections (BSKE) before candidates are scheduled to file their certificates of candidacy (COCs) later this month.

@@ -9,7 +9,7 @@ categories:
 tags:
   - cebu lechon
   -  best lechon               
-views: "10"
+views: "423"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lechon1/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lechon1/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lechon1/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 393
 ---
 ****
 Lechon, the succulent roasted pig, is a cherished culinary gem in the Philippines. It has become an integral part of Filipino celebrations, symbolizing festivity, abundance, and culinary artistry. While lechon is produced and enjoyed throughout the Philippines, Cebu's lechon is unparalleled. Cebu's lechon has earned an enviable standing as the pinnacle of lechon perfection, thanks to its delicious taste and incomparable crispiness. Let us dig into the origins underlying its exquisite charm and discover why it is said to be superior when compared to other lechon varieties.  

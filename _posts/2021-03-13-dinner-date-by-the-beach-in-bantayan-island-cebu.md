@@ -22,6 +22,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615618010/d
 photo_credit: "Mark Cord Photos | Bantayan Island Photographer"
 photo_credit_link: ""
 published: false
+pbb_post_id: 87
 ---
 #### Dinner date by the beach in Bantayan Island, Cebu! 
 <center>Let our response Be: SANA ALL! ❤️😩</center>

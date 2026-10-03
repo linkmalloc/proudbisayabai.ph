@@ -10,7 +10,7 @@ categories:
 tags:
   - EV
   - Taxi
-views: '0'
+views: "26"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2869/95437e1788777436-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2869/95437e1788777436-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2869/95437e1788777436-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-07T10:37:48.275Z'
+pbb_post_id: 2869
 ---
 
 Lower operating costs are driving Iloilo taxi operators to expand their use of electric vehicles (EVs), with drivers gaining access to additional passengers through ride hailing services.

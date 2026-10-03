@@ -14,7 +14,7 @@ categories:
 tags:
   - Taboan
   - Buwad
-views: '10'
+views: "326"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1006/7cd2ea1769170868-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1006/7cd2ea1769170868-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1006/7cd2ea1769170868-2.jpeg
@@ -29,6 +29,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-23T00:00:00
 published: true
+pbb_post_id: 1006
 ---
 
 Taboan Public Market remains Cebu’s most well-known destination for buwad (dried fish), earning its reputation as the heart of the city’s dried seafood trade. Located near the city center, the market is a daily stop for locals and a must-visit for tourists searching for authentic Cebuano flavors and reliable pasalubong items.

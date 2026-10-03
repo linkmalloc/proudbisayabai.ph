@@ -9,7 +9,7 @@ categories:
 tags:
   - Marco Polo Breakfast Buffet
   - Hai Shin Lou
-views: '0'
+views: "55"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2359/99b1e91783670810-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2359/99b1e91783670810-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2359/99b1e91783670810-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-10T08:07:09.780Z'
+pbb_post_id: 2359
 ---
 
 Most would argue that breakfast is the most important meal of the day. One would opt for a quick bite and some would want to indulge in a full feast.

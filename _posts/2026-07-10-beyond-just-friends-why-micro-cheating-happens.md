@@ -9,7 +9,7 @@ categories:
 tags:
   - Lifestyle
   - Relationship
-views: '0'
+views: "86"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2355/aab3711783653259-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2355/aab3711783653259-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2355/aab3711783653259-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-10T03:14:41.508Z'
+pbb_post_id: 2355
 ---
 
 Micro-cheating refers to subtle behaviors that fall in the gray area between friendship and infidelity. While these actions may not involve physical intimacy, they can slowly weaken trust and emotional security in a relationship.

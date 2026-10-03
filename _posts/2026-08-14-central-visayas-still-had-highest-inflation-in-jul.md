@@ -9,7 +9,7 @@ categories:
 tags:
   - Central Visayas
   - Inflation
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2668/952adf1786688624-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2668/952adf1786688624-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2668/952adf1786688624-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-14T06:23:48.407Z'
+pbb_post_id: 2668
 ---
 
 Central Visayas continued to face the country’s steepest price increases in July despite a notable slowdown in regional inflation, with food, utilities and transportation remaining the biggest sources of pressure on consumers.

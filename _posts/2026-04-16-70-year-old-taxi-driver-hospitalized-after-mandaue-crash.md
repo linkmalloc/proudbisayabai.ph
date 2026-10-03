@@ -12,7 +12,7 @@ categories:
 tags:
   - MandaueCity
   - Crash
-views: '10'
+views: "56"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1535/55bdda1776339782-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1535/55bdda1776339782-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1535/55bdda1776339782-1.jpg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1535
 ---
 
 The taxi driver involved in a crash along the Mambaling Tunnel and Flyover has been identified as Mario B. Pelaez, 70, who has been driving a taxi for nearly two decades.

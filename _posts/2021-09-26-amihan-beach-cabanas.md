@@ -10,7 +10,7 @@ tags:
   - cebu
   - beach
   - resort               
-views: "10"
+views: "345"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/amihan/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/amihan/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/amihan/1.jpg
@@ -22,6 +22,7 @@ img_500_5: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/amihan/6.jpg
 photo_credit: "John Austin Perez via IG theyoungjuanderer |  (No copyright infringement intended) "
 read_time: "4 minutes"
 photo_credit_link: "https://www.instagram.com/theyoungjuanderer/"
+pbb_post_id: 234
 ---
 ##### Amihan Beach Cabanas  
 

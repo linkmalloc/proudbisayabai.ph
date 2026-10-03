@@ -10,7 +10,7 @@ tags:
   - Camille Villar
   - PH Senate Resolution
   - Rene Baterbonia
-views: '0'
+views: "26"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2616/e00a941785997633-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2616/e00a941785997633-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2616/e00a941785997633-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-06T06:27:14.718Z'
+pbb_post_id: 2616
 ---
 
 Senator Camille Villar on Wednesday co-sponsored a Senate resolution honoring the life and legacy of basketball player Rene Clert "Bobet" Baterbonia, describing him as an inspiration whose story reflected the aspirations of many Filipinos striving to overcome poverty through hard work and integrity.

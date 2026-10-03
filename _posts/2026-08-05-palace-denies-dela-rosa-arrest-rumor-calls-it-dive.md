@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Sen. Ronald “Bato” dela Rosa
-views: '0'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2605/9716da1785913885-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2605/9716da1785913885-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2605/9716da1785913885-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-05T07:11:27.899Z'
+pbb_post_id: 2605
 ---
 
 Malacañang on Wednesday dismissed reports claiming that Sen. Ronald “Bato” dela Rosa had been arrested, calling the rumors an attempt to divert public attention from the ongoing impeachment proceedings against Vice President Sara Duterte.

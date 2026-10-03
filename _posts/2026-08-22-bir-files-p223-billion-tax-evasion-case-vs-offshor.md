@@ -9,7 +9,7 @@ categories:
 tags:
   - Bureau of Internal Revenue
   - Hongsheng Gaming Technology Inc.
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2736/9902331787379809-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2736/9902331787379809-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2736/9902331787379809-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-22T06:24:09.471Z'
+pbb_post_id: 2736
 ---
 
 The Bureau of Internal Revenue (BIR) has filed a P2.23-billion tax evasion case against offshore gaming operator Hongsheng Gaming Technology Inc. over alleged income underdeclaration and unpaid taxes.

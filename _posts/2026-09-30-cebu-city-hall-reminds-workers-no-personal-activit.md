@@ -9,7 +9,7 @@ categories:
 tags:
   - City Hall Employees
   - proper workplace decorum
-views: '0'
+views: "128"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3058/1a073c1790744110-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3058/1a073c1790744110-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3058/1a073c1790744110-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-30T04:55:14.648Z'
+pbb_post_id: 3058
 ---
 
 City Hall employees are being reminded to keep personal activities outside official work hours, following social media reports involving workers allegedly making TikTok videos and engaging in other non-work activities while on duty.

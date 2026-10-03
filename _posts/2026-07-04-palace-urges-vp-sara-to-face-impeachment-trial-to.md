@@ -9,7 +9,7 @@ categories:
 tags:
   - Sara Duterte Impeachment
   - Claire Castro
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2301/98b8a71783153504-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2301/98b8a71783153504-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2301/98b8a71783153504-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-04T08:25:06.675Z'
+pbb_post_id: 2301
 ---
 
 Malacañang on Friday (Canada time) said Vice President Sara Duterte should take part in the impeachment trial as an opportunity to respond to allegations and clear her name before the Senate acting as an impeachment court.

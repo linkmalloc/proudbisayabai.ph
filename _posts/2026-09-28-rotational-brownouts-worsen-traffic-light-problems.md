@@ -9,7 +9,7 @@ categories:
 tags:
   - Rotational brownouts
   - Mandaue City
-views: '0'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3036/ce1a6c1790581230-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3036/ce1a6c1790581230-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3036/ce1a6c1790581230-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-28T07:40:31.928Z'
+pbb_post_id: 3036
 ---
 
 Repeated rotational brownouts are taking a toll on some of Mandaue City’s aging traffic lights, adding to problems already affecting signal visibility and reliability at several intersections.

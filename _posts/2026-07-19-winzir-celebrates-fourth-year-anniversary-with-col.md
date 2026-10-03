@@ -8,7 +8,7 @@ categories:
   - brand
 tags:
   - Winzir
-views: '0'
+views: "33"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2447/3426cd1784433307-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2447/3426cd1784433307-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2447/3426cd1784433307-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-19T03:55:25.066Z'
+pbb_post_id: 2447
 ---
 
 Winzir's Color Run 2026, a commemoration of the brand's fourth anniversary, brought loads of raffle prizes, fun, freebies and colors to City di Mare on Saturday, July 18, 2026, and assembled the Cebu running community by offering three different race categories: 6 km, 12 km and 16 km.

@@ -7,7 +7,7 @@ categories:
   - destination
 tags:
   - mindanao
-views: "10"
+views: "200"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carmens_floating_cottages/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carmens_floating_cottages/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carmens_floating_cottages/1.jpg
@@ -16,6 +16,7 @@ photo_credit: "PBB Mindanao Team + Cheranton TV via Juan Virtudazo, Contributor"
 photo_credit_link: ""
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/bench.jpg"
 read_time: "4 minutes"
+pbb_post_id: 194
 ---
 ****
 Carmen, Agusan del Norte is considered as the Floating Cottage Capital of the Philippines. You can find these beautiful floating cottages concentrated in a single area. These cottages are being anchored in the deep parts of the sea parallel to the resort that owned it. When it is not being used, you can see it anchored ashore.

@@ -10,7 +10,7 @@ tags:
   - Cebu Energy Summit
   - Capitol
   - one-hour power shut down
-views: '0'
+views: "13"
 img_big_1000x600: ''
 img_big_3000x1144: ''
 img_500x500: ''
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-29T05:22:05.616Z'
+pbb_post_id: 3047
 ---
 
 Cutting electricity use in government offices is only one part of Cebu’s response to its power supply concerns as the provincial government also works with energy stakeholders to support projects that could add generation capacity.

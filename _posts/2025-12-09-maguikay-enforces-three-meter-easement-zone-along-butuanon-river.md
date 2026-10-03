@@ -12,7 +12,7 @@ categories:
 tags:
   - Maguikay
   - MandaueCity
-views: '10'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/775/a68df81765353551-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/775/a68df81765353551-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/775/a68df81765353551-2.jpeg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-12-10T00:00:00
 published: true
+pbb_post_id: 775
 ---
 
 

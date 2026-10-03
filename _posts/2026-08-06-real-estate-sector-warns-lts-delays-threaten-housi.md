@@ -11,7 +11,7 @@ tags:
   - LTS Delays
   - Housing Sector
   - Economy
-views: '0'
+views: "64"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2614/0610871785997423-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2614/0610871785997423-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2614/0610871785997423-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-06T06:23:50.224Z'
+pbb_post_id: 2614
 ---
 
 Thousands of potential homes remain off the market as developers wait for government approval, prompting concerns that regulatory delays could further tighten Cebu’s already competitive housing sector.

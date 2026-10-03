@@ -13,7 +13,7 @@ tags:
   - DOH
   - safety
   - suspension
-views: '0'
+views: "254"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2875/1996c01788850899-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2875/1996c01788850899-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2875/1996c01788850899-1.jpg
@@ -28,6 +28,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-08T07:01:41.990Z'
+pbb_post_id: 2875
 ---
 
 College students in Cebu City are asking Mayor Nestor Archival to suspend face-to-face classes at the tertiary level as Metro Cebu’s air quality remained at a “very unhealthy” level amid the reported transboundary haze.

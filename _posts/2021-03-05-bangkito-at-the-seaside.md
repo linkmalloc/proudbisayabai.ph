@@ -21,6 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614950836/b
 photo_credit: "Michael Sagonoy | Vivi Moore"
 photo_credit_link: ""
 published: false
+pbb_post_id: 60
 ---
 BOODLE FIGHT with Barkadas? Worries no more kay naa ra diri sa Dumanjug South Cebu! Arats na Bai sa BANGKITO AT THE SEASIDE!!! 🍱🥙🥗  
 

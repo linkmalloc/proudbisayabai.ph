@@ -12,7 +12,7 @@ tags:
   - Jollibee
   - ChickenJoy
   - 99pesos
-views: '10'
+views: "66"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/965/2f991f1768632310-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/965/2f991f1768632310-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/965/2f991f1768632310-2.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-17T00:00:00
 published: true
+pbb_post_id: 965
 ---
 
 

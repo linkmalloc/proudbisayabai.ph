@@ -19,6 +19,7 @@ img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613224087/p
 photo_credit: "Rhodman Joseph M. Ubas"
 photo_credit_link: https://www.facebook.com/JosephTheExplorer/
 published: false
+pbb_post_id: 24
 ---
 Weekend Chill, we know the perfect place! Experience Parklane Bohol Resort and Spa located in Sitio Banilad, Candabong, Anda,  Bohol. Parklane Bohol Resort and Spa is a beautiful property featuring its own private beach area. 
 

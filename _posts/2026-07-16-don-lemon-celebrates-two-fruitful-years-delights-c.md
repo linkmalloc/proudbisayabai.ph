@@ -8,7 +8,7 @@ categories:
   - brand
 tags:
   - Don Lemon
-views: '0'
+views: "38"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2426/b59dc01784201081-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2426/b59dc01784201081-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2426/b59dc01784201081-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-16T11:10:35.566Z'
+pbb_post_id: 2426
 ---
 
 The refreshment joint known for its flavorful and affordable drinks, Don Lemon commemorates its second year of serving drinks to every Filipino’s taste buds. 

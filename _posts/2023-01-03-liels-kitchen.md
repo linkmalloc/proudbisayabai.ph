@@ -9,7 +9,7 @@ categories:
 tags:
   - kitchen
   -  japanese food               
-views: "10"
+views: "204"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liels_kitchen/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liels_kitchen/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liels_kitchen/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: "Photos from Proud Bisaya Bai Files  "
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 353
 ---
 ****
 In the Serenity Farm and Resort complex, just approximately 30 minutes from the city, lies Liel's Kitchen, a restaurant serving contemporary Japanese food. They offer you the most in-depth exploration of Japanese culture and daring food trips with a panoramic view of mountain ranges as one of the things to overcome the emotional-mental condition of melancholy, feeling smothered, and living in a bizarre sanctuary.  

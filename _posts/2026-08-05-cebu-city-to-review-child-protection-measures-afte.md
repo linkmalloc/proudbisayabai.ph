@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - School Security
-views: '0'
+views: "52"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2601/b0e79a1785911192-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2601/b0e79a1785911192-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2601/b0e79a1785911192-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-05T06:26:35.954Z'
+pbb_post_id: 2601
 ---
 
 Alarmed by a viral video showing two Grade 7 students in a fistfight and a string of recent school security concerns, the Cebu City Council has ordered a legislative inquiry to assess whether existing child protection and anti-bullying programs are enough to address violence among students.

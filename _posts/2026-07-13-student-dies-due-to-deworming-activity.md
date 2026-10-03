@@ -9,7 +9,7 @@ categories:
 tags:
   - Death
   - Deworming
-views: '0'
+views: "53"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2389/3819e81783933490-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2389/3819e81783933490-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2389/3819e81783933490-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-13T09:04:51.916Z'
+pbb_post_id: 2389
 ---
 
 The Department of Education (DepEd) said it will review its health policies following the death of a Grade 4 learner during a routine deworming activity in Trece Martires City, Cavite.

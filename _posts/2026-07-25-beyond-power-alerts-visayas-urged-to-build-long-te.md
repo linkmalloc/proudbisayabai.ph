@@ -9,7 +9,7 @@ categories:
 tags:
   - Visayas Grid
   - Electricity
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2500/a50c431784961209-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2500/a50c431784961209-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2500/a50c431784961209-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-07-25T06:33:32.731Z'
+pbb_post_id: 2500
 ---
 
 Recurring yellow and red alerts in the Visayas grid have highlighted a deeper challenge facing the region: ensuring that electricity supply can keep pace with its continued economic growth.

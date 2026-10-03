@@ -11,7 +11,7 @@ tags:
   - LTO
   - license
   - plates
-views: '0'
+views: "92"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2702/f9665e1787128275-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2702/f9665e1787128275-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2702/f9665e1787128275-1.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-19T08:31:21.923Z'
+pbb_post_id: 2702
 ---
 
 The Land Transportation Office (LTO) will launch a nationwide crackdown on vehicles using fake or unauthorized improvised license plates that imitate government-issued plates starting Sept. 1.

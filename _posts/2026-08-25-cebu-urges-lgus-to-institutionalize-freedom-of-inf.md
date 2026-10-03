@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Freedom of Information
-views: '0'
+views: "21"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2757/84fcc51787648810-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2757/84fcc51787648810-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2757/84fcc51787648810-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-25T09:06:53.735Z'
+pbb_post_id: 2757
 ---
 
 Cebu residents may soon have broader access to government records and public information as the provincial government urges component cities and municipalities to establish their own Freedom of Information (FOI) mechanisms.

@@ -21,6 +21,7 @@ img_500_5:
 photo_credit: "Alger John Durban"
 photo_credit_link: ""
 published: false
+pbb_post_id: 69
 ---
 #### Dahican Surf Resort 
 Beach x Friends x Chill 🍻🥃😯  

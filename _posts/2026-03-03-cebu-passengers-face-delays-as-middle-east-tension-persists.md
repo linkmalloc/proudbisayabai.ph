@@ -14,7 +14,7 @@ tags:
   - QatarAirways
   - OFWs
   - MiddleEast
-views: '10'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1242/c67d401772536405-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1242/c67d401772536405-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1242/c67d401772536405-2.jpg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1242
 ---
 
 Local travelers at Mactan-Cebu International Airport (MCIA) faced disruptions over the weekend as escalating tensions in the Middle East led airlines to suspend or reroute flights.

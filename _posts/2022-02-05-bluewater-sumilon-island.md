@@ -12,7 +12,7 @@ tags:
   - beach               
   - resort
   - cebu
-views: "10"
+views: "219"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bluewater_sumilon_island_resort/28.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bluewater_sumilon_island_resort/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bluewater_sumilon_island_resort/28.jpg
@@ -25,6 +25,7 @@ photo_credit: "Rinan Calunia "
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 267
 ---
 ****
 ##### Bluewater Sumilon Island Resort

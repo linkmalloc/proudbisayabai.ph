@@ -9,7 +9,7 @@ categories:
 tags:
   - Department of Health
   - leptospirosis
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2856/e1e43d1788600279-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2856/e1e43d1788600279-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2856/e1e43d1788600279-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-05T09:24:57.718Z'
+pbb_post_id: 2856
 ---
 
 The Department of Health (DOH) has recorded 6,253 leptospirosis cases nationwide this year, with infections showing a sharp increase in the latest monitoring period despite remaining below last year’s total.

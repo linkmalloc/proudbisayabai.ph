@@ -10,7 +10,7 @@ tags:
   - Measles
   - Preparedness
   - Cebu
-views: '0'
+views: "32"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2927/83bdc01789450565-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2927/83bdc01789450565-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2927/83bdc01789450565-2.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-15T05:32:27.108Z'
+pbb_post_id: 2927
 ---
 
 Cebu is preparing its healthcare system for a possible measles outbreak as Gov. Pamela Baricuatro urged parents to get their children vaccinated against the highly preventable disease.

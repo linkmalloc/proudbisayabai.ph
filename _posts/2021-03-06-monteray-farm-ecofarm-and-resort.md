@@ -22,6 +22,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615039097/m
 photo_credit: "Jovir Amatong"
 photo_credit_link: ""
 published: false
+pbb_post_id: 74
 ---
 #### Monteray Farm Ecofarm and Resort  
   

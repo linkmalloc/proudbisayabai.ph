@@ -10,7 +10,7 @@ tags:
   - DepEd7
   - Mobile Phone Ban
   - Education
-views: '0'
+views: "32"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2385/76c4ed1783932915-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2385/76c4ed1783932915-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2385/76c4ed1783932915-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-13T08:55:33.196Z'
+pbb_post_id: 2385
 ---
 
 The Department of Education in Central Visayas (DepEd 7) clarified that students are still allowed to bring mobile phones to schools, but their use inside classrooms remains regulated under existing policies.

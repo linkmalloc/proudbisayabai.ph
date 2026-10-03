@@ -14,7 +14,7 @@ tags:
   - CouncilorAlcover
   - garbagerproblem
   - YokohamaJapan
-views: '10'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1213/027ffb1772178056-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1213/027ffb1772178056-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1213/027ffb1772178056-2.jpg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1213
 ---
 
 A Cebu City councilor has questioned the relevance and cost of Mayor Nestor Archival’s trip to Japan to study waste and flood management, saying the city should focus on immediate local solutions to its garbage problem.

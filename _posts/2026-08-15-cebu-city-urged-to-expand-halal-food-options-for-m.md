@@ -10,7 +10,7 @@ tags:
   - Cebu City
   - Halal Food Options
   - Cebu Halal Food
-views: '0'
+views: "76"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2684/9140081786777481-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2684/9140081786777481-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2684/9140081786777481-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-15T07:04:43.822Z'
+pbb_post_id: 2684
 ---
 
 Restaurants, hotels, malls and other food establishments in Cebu City are being encouraged to offer more halal food choices as the city seeks to better serve Muslim residents, workers and visitors.

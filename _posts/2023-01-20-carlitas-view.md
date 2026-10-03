@@ -11,7 +11,7 @@ tags:
   -  resort
   -  dalaguete
   -  cebu               
-views: "10"
+views: "1,282"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carlitas/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carlitas/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/carlitas/1.jpg
@@ -24,6 +24,7 @@ photo_credit: "Twin De Los Reyes, PBB Drone Pilot "
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 358
 ---
 ****
 Want to escape from City life? Rekindle your soul by taking in good air in a relaxing place!  

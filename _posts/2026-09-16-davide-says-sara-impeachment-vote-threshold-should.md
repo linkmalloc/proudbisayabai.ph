@@ -9,7 +9,7 @@ categories:
 tags:
   - Sara Duterte Impeachment
   - Vote Threshold
-views: '0'
+views: "60"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2941/1a10e31789539922-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2941/1a10e31789539922-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2941/1a10e31789539922-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-09-16T06:25:22.934Z'
+pbb_post_id: 2941
 ---
 
 Retired Chief Justice Hilario Davide Jr. said Wednesday that the two-thirds threshold for convicting Vice President Sara Duterte in her impeachment trial should be based on senators who are legally and physically qualified to vote, rather than automatically on the Senate’s full 24-member roster.

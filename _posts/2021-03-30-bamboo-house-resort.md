@@ -21,6 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617119986
 photo_credit: "Erlaii Alcontin"
 photo_credit_link: ""
 published: false
+pbb_post_id: 125
 ---
 #### Bamboo House Resort
 Basdaku White Beach, Moalboal on your bucket list for summer? Tara na mga Bai!!! sa Bamboo House Resort. 🏕🌊🌴🌞  

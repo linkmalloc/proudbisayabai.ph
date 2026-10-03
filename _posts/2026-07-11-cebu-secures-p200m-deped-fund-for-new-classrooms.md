@@ -10,7 +10,7 @@ categories:
 tags:
   - Education
   - Fund
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2370/0f0b651783756297-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2370/0f0b651783756297-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2370/0f0b651783756297-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-11T07:51:43.968Z'
+pbb_post_id: 2370
 ---
 
 CEBU Province has secured P200 million from the Department of Education (DepEd) to build additional public school classrooms as the province continues to address a shortage of 5,466 learning spaces.

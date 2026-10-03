@@ -8,7 +8,7 @@ categories:
   - news
 tags:
   - Cebu Air Quality
-views: '0'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2839/f4370e1788417165-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2839/f4370e1788417165-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2839/f4370e1788417165-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-03T06:33:01.642Z'
+pbb_post_id: 2839
 ---
 
 Air quality in Metro Cebu worsened Wednesday, Sept. 2, with the Air Quality Index (AQI) reaching 215 by mid-afternoon, placing conditions at the “acutely unhealthy” level.

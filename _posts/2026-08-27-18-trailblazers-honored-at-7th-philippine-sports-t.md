@@ -9,7 +9,7 @@ categories:
 tags:
   - sportstourism
   - awards
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2778/4d3ad11787796643-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2778/4d3ad11787796643-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2778/4d3ad11787796643-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-27T02:10:44.523Z'
+pbb_post_id: 2778
 ---
 
 Eighteen organizations, destinations and individuals were recognized for their contributions to Philippine sports tourism during the 7th Philippine Sports Tourism Awards (PSTA) on Aug. 24 at the Marriott Manila.

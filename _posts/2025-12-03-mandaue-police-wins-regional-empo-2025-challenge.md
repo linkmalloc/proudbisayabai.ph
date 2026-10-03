@@ -13,7 +13,7 @@ tags:
 - MCPO
 - MandaueCityPoliceOffice
 - EMPO2025
-views: '10'
+views: "42"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/750/b7936a1764845195-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/750/b7936a1764845195-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/750/b7936a1764845195-2.jpg

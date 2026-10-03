@@ -10,7 +10,7 @@ tags:
   - Senate
   - Supreme Court
   - Anti-Political Dynasty Law
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2952/f8545d1789623178-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2952/f8545d1789623178-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2952/f8545d1789623178-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-17T05:33:17.497Z'
+pbb_post_id: 2952
 ---
 
 The Supreme Court has ordered Congress to enact a law prohibiting political dynasties “at the earliest opportunity,” ruling that lawmakers’ failure to fulfill the constitutional mandate for 39 years constitutes grave abuse of discretion.

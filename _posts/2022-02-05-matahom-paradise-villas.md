@@ -9,7 +9,7 @@ categories:
 tags:
   - matahom paradise villas
   - beach               
-views: "10"
+views: "1,701"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/matahom_paradise_villas/2.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/matahom_paradise_villas/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/matahom_paradise_villas/7.jpg
@@ -22,6 +22,7 @@ photo_credit: "Yoko Sato Li | Apriel Smith - Province of Cebu for MUPh 2020"
 photo_credit_link: ""
 editor: "Evner Negro"
 read_time: "3 minutes"
+pbb_post_id: 269
 ---
 ****
 ##### Matahom Paradise Villas

@@ -23,6 +23,7 @@ published: false
 
 social_reach: "46,261"
 location: Pinamungahan, Cebu 
+pbb_post_id: 148
 ---
 #### Campalabo Islet   
   

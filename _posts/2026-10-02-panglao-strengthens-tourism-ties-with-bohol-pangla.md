@@ -10,7 +10,7 @@ tags:
   - Panglao
   - Bohol
   - Travel
-views: '0'
+views: "32"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3076/ca1df91790920353-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3076/ca1df91790920353-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3076/ca1df91790920353-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-10-02T05:52:45.049Z'
+pbb_post_id: 3076
 ---
 
 The Municipality of Panglao is exploring closer coordination with stakeholders to improve the tourism experience in the municipality, particularly by linking the visitor journey from the Bohol-Panglao International Airport (BPIA) to the destination itself.

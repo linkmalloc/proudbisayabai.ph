@@ -8,7 +8,7 @@ categories:
   - food
 tags:
   - Sinigang
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2487/f97ef41784825459-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2487/f97ef41784825459-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2487/f97ef41784825459-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-23T16:51:10.524Z'
+pbb_post_id: 2487
 ---
 
 There’s something special about enjoying a steaming bowl of Sinigang na Baboy on a cool, rainy evening. Known for its rich, savory broth and signature sour flavor, this beloved Filipino dish has become a staple on dining tables across the country and remains one of the most comforting meals for families.

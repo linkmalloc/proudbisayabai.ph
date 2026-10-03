@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - E-bike
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2695/63b0fd1787041806-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2695/63b0fd1787041806-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2695/63b0fd1787041806-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-18T08:30:09.668Z'
+pbb_post_id: 2695
 ---
 
 Cebu City Councilor Edgardo “Jaypee” Labella is calling on electric bicycle (e-bike) riders to follow traffic rules after an overloaded e-bike overturned during a traffic enforcement operation in Barangay Calamba, injuring six people.

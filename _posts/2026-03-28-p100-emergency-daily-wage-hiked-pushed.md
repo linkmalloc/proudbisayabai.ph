@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - WageHike
-views: '10'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1406/c0f3b91774688703-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1406/c0f3b91774688703-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1406/c0f3b91774688703-2.jpeg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1406
 ---
 
 Labor groups in Central Visayas on Friday filed a petition seeking a P100 across-the-board daily wage increase, citing rising global oil prices and persistent inflation that they said have eroded workers’ purchasing power.

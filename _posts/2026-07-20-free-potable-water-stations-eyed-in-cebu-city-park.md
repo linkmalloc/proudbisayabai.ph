@@ -10,7 +10,7 @@ categories:
 tags:
   - Carbon Public Market
   - Water Station
-views: '0'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2453/db11781784534299-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2453/db11781784534299-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2453/db11781784534299-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-20T07:58:21.204Z'
+pbb_post_id: 2453
 ---
 
 The Cebu City Council is considering a proposal to study the installation of free potable water refill stations in major public areas, including parks, plazas, and Carbon Public Market, to provide residents and visitors easier access to drinking water.

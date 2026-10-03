@@ -10,7 +10,7 @@ tags:
   - Rent
   - Rising Cost
   - DOE
-views: '0'
+views: "33"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3048/ba732b1790659557-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3048/ba732b1790659557-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3048/ba732b1790659557-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-29T05:25:58.099Z'
+pbb_post_id: 3048
 ---
 
 Landlords and property owners in Cebu City are being urged to defer planned rent increases as households, workers and small businesses contend with higher living and operating costs.

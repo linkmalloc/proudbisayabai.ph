@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - African Swine Fever
-views: '0'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2591/68d3581785840126-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2591/68d3581785840126-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2591/68d3581785840126-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-04T10:42:08.431Z'
+pbb_post_id: 2591
 ---
 
 Cebu City Mayor Nestor Archival Sr. warned barangays and backyard hog raisers against withholding information from authorities amid stricter measures to prevent the spread of African Swine Fever (ASF).

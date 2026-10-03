@@ -13,7 +13,7 @@ categories:
 tags:
   - GovernorBaricuatro
   - Sinulog2026
-views: '10'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/975/fdf3071768906200-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/975/fdf3071768906200-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/975/fdf3071768906200-2.jpg
@@ -28,6 +28,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-20T00:00:00
 published: true
+pbb_post_id: 975
 ---
 
 The beat of drums and the rhythm of prayers filled the Cebu City Sports Center on Sunday as Governor Pamela Baricuatro joined Danao City’s Karansa Festival dancers in a halad (offering) dance, asking for protection from earthquakes and typhoons this year.

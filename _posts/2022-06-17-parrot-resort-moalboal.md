@@ -8,7 +8,7 @@ categories:
 tags:
   - resort
   - cebu
-views: "10"
+views: "341"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/parrot_resort/1.jpg 
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/parrot_resort/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/parrot_resort/1.jpg
@@ -21,6 +21,7 @@ photo_credit: "Proud Bisaya Bai"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 304
 ---
 ****
 Are you seeking a luxurious retreat where you can relax and unwind in the truest sense of nature? You have come to the opportune spot!   

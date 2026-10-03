@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - HaladSaPagtuoUpdates
-views: '0'
+views: "341"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2725/dc94cf1787301365-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2725/dc94cf1787301365-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2725/dc94cf1787301365-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-21T08:36:08.986Z'
+pbb_post_id: 2725
 ---
 
 As Halad sa Pagtuo 2026 brings communities across Cebu together in a celebration of faith, culture, and tradition, organizers have released the official order of procession for the participating carozzas.

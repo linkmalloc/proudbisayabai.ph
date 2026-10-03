@@ -9,7 +9,7 @@ categories:
 tags:
   - Shooting Threat
   - Bantayan
-views: '0'
+views: "154"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2731/0306c41787302384-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2731/0306c41787302384-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2731/0306c41787302384-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-21T08:53:06.244Z'
+pbb_post_id: 2731
 ---
 
 Gun threats sent through a private social media account led to the arrest of a 21-year-old man in Bantayan, northern Cebu, after police linked him to messages warning of a shooting at Bantayan National High School-Senior High School.

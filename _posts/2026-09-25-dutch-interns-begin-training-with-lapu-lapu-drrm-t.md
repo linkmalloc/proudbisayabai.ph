@@ -9,7 +9,7 @@ categories:
 tags:
   - Lapu-Lapy City
   - Disaster Risk Reduction and Management
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3018/4463021790322242-1.JPEG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3018/4463021790322242-1.JPEG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3018/4463021790322242-1.JPEG
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-25T07:45:49.071Z'
+pbb_post_id: 3018
 ---
 
 Five interns from the Netherlands have begun an internship program with the Lapu-Lapu City Disaster Risk Reduction and Management Department (DRRMD), marking the sixth batch of Dutch interns to undergo training in the city.

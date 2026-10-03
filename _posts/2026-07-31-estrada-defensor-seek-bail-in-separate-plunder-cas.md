@@ -10,7 +10,7 @@ tags:
   - Jinggoy Estrada
   - Mike Defensor
   - Plunder Charges
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2561/6dbe191785488966-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2561/6dbe191785488966-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2561/6dbe191785488966-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-31T09:09:28.257Z'
+pbb_post_id: 2561
 ---
 
 Senator Jinggoy Estrada and former Quezon City representative Mike Defensor have separately asked the Sandiganbayan to grant them temporary liberty while they face separate plunder charges.

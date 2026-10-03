@@ -10,13 +10,14 @@ tags:
   - nature
   - cebu
   - cultural
-views: "10"
+views: "692"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river/3.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bojo_river/3.jpg
 photo_credit: ""
 photo_credit_link: ""
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/michael.jpg"
+pbb_post_id: 192
 ---
 #### Bojo River  
 

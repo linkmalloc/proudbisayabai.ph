@@ -10,7 +10,7 @@ tags:
   - Department of Education
   - Counselor Hire
   - Sonny Angara
-views: '0'
+views: "26"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2789/464a9d1787892023-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2789/464a9d1787892023-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2789/464a9d1787892023-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-28T04:40:25.097Z'
+pbb_post_id: 2789
 ---
 
 The Department of Education (DepEd) is fast-tracking the hiring of 10,000 School Counselor Associates (SCAs) to expand mental health support for learners amid recent incidents of violence in schools.

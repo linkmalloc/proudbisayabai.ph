@@ -9,7 +9,7 @@ categories:
 tags:
   - Skatepark
   - Sinulog Venue Conversion
-views: '0'
+views: "43"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2406/27b5711784101004-1.png
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2406/27b5711784101004-1.png
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2406/27b5711784101004-1.png
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-15T07:36:44.885Z'
+pbb_post_id: 2406
 ---
 
 Skateboarders, BMX riders, scooter riders, and other extreme sports enthusiasts may soon have a dedicated training area as the Cebu City Council proposed converting a portion of the former Sinulog Grand Parade grounds at the South Road Properties (SRP) into a temporary public skatepark.

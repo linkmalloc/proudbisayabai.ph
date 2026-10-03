@@ -9,7 +9,7 @@ categories:
 tags:
   - Mandaue City
   - Motorcycle Racing
-views: '0'
+views: "49"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2973/94a8d91789980250-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2973/94a8d91789980250-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2973/94a8d91789980250-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-21T08:44:12.849Z'
+pbb_post_id: 2973
 ---
 
 Three motorcycle riders were cited for reckless driving after authorities caught them allegedly racing along Ouano Avenue, prompting Mandaue City to step up monitoring of motorcycle racing activities on public roads.

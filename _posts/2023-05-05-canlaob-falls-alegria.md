@@ -9,7 +9,7 @@ tags:
   - cebu
   -  falls
   -  alegria               
-views: "10"
+views: "512"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/canlaob_falls/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/canlaob_falls/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/canlaob_falls/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 382
 ---
 ****
 Nestled in the picturesque town of Alegria in Cebu, Philippines, lies a hidden treasure waiting to be explored – Canlaob Falls. This natural wonder is a sight to behold, boasting stunning beauty and a serene atmosphere. As you venture through the scenic landscapes, the melodious sound of cascading water will lead you to an unforgettable experience.

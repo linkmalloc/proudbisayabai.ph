@@ -9,7 +9,7 @@ categories:
 tags:
   - Benhur Abalos
   - Cebu Leaders
-views: '0'
+views: "21"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2686/3a01ea1786950446-1.JPG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2686/3a01ea1786950446-1.JPG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2686/3a01ea1786950446-1.JPG
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-17T07:07:29.762Z'
+pbb_post_id: 2686
 ---
 
 Cebu’s provincial, city and municipal leaders honored Cabinet Secretary Benjamin “Benhur” Abalos Jr. during his recent visit to the province, recognizing his appointment to the Cabinet and continued coordination with local governments.

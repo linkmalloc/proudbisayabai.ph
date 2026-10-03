@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Cleft Condition
-views: '0'
+views: "165"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2633/9d6b101786356992-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2633/9d6b101786356992-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2633/9d6b101786356992-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-10T10:16:59.545Z'
+pbb_post_id: 2633
 ---
 
 For children waiting for a surgery that could change their lives, a night of music, auctions and philanthropy in Cebu raised nearly P25 million for cleft care.

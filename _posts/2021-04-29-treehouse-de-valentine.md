@@ -8,7 +8,7 @@ categories:
 tags:
   - treehouse
   - cebu
-views: "10"
+views: "623"
 img_big_1000x600: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/treehouse_de_valentine/1.jpg"
 img_big_3000x1144: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/treehouse_de_valentine/cover.jpg"
 img_500x500: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/treehouse_de_valentine/1.jpg"
@@ -20,6 +20,7 @@ img_500_5:
 photo_credit: "Chris Lloyd Tan Dunque"
 photo_credit_link: ""
 
+pbb_post_id: 170
 ---
 #### Treehouse de Valentine  
 

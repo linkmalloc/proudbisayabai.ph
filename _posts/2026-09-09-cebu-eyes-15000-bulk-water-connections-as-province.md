@@ -8,7 +8,7 @@ categories:
   - news
 tags:
   - Water connections
-views: '0'
+views: "34"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2886/85d1d11788947757-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2886/85d1d11788947757-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2886/85d1d11788947757-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-09T09:56:00.919Z'
+pbb_post_id: 2886
 ---
 
 More Cebu communities could gain access to bulk water supply as the Cebu Provincial Inter LGU Waterworks Systems Office (CPIWSO) targets nearly tripling its existing connections while expanding its waterworks systems across the province.

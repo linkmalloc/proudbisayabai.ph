@@ -11,7 +11,7 @@ tags:
   - cebu
   -  pochero
   -  soup               
-views: "10"
+views: "104"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/marjos_pochero/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/marjos_pochero/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/marjos_pochero/cover.jpg
@@ -24,6 +24,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 400
 ---
 ****
 Marjo’s Pochero opens their new branch in Mactan Town Center, Basak, Lapu-Lapu City. The best selling pochero is now close to residents of Mactan answering their pochero cravings within their reach. Tiwali ang mu kumpleto sa inyong salo-salo experience kuyog ang pamilya ug barkada kauban ang pinaka-tender ug pinakalami nga pochero diri sa Cebu!  

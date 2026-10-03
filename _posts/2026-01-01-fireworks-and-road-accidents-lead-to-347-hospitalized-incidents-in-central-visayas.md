@@ -14,7 +14,7 @@ tags:
   - Fireworks
   - DOH
   - CentralVisayas
-views: '10'
+views: "32"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/887/0f45921767353664-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/887/0f45921767353664-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/887/0f45921767353664-2.jpg
@@ -29,6 +29,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-02T00:00:00
 published: true
+pbb_post_id: 887
 ---
 
 Hospitals across Central Visayas welcomed 347 holiday-related injury cases as families lit fireworks and filled the streets to celebrate the New Year.&#x20;

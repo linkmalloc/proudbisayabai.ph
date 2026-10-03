@@ -22,6 +22,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614098877/r
 photo_credit: "FB page Ric's Garden Cafe"
 photo_credit_link: "https://www.facebook.com/ric'sgardencafe"
 published: false
+pbb_post_id: 34
 ---
 Taga Negros Oriental ba ka?  Dali na mga ka Negrosanons ug tilawan nato ang ka LAMI unya BARATO sa ilang pagkaon ug Miltkea 🍚🍹😍
 

@@ -10,7 +10,7 @@ categories:
 tags:
   - Lifestyle
   - Relationships
-views: '0'
+views: "39"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2414/7d62e21784102950-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2414/7d62e21784102950-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2414/7d62e21784102950-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-15T08:09:11.193Z'
+pbb_post_id: 2414
 ---
 
 We choose people who are green flags instead of red flags because we want our relationships to be one thing — to keep them healthy! 

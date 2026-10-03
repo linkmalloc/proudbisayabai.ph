@@ -9,7 +9,7 @@ categories:
 tags:
   - ByronGarcia
   - SafeSpacesAct
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2548/8ff59a1785389168-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2548/8ff59a1785389168-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2548/8ff59a1785389168-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-30T05:26:10.560Z'
+pbb_post_id: 2548
 ---
 
 Former Cebu Provincial Capitol consultant Byron Garcia pleaded not guilty to three counts of alleged gender-based sexual harassment under the Safe Spaces Act, maintaining his denial of the accusations filed against him.

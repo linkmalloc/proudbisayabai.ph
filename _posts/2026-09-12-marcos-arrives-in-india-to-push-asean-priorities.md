@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Bongbong Marcos
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2909/b84d061789199696-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2909/b84d061789199696-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2909/b84d061789199696-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-12T07:55:09.280Z'
+pbb_post_id: 2909
 ---
 
 President Ferdinand R. Marcos Jr. arrived in New Delhi, India, on Saturday to represent ASEAN at the 18th BRICS Summit and advance the bloc’s priorities on peace and security, inclusive growth and regional resilience.

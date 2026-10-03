@@ -10,7 +10,7 @@ tags:
   - DSWD 7
   - Drug Recovery Aftercare
   - Drug Rehabilitation
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2975/7e4cc81789980642-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2975/7e4cc81789980642-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2975/7e4cc81789980642-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-21T08:50:44.169Z'
+pbb_post_id: 2975
 ---
 
 Cebu local government units are being equipped with skills to provide continuing support to people recovering from drug dependency after formal treatment, as government agencies strengthen community-based aftercare and reintegration efforts.

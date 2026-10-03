@@ -9,7 +9,7 @@ categories:
 tags:
   - CBCP
   - Sara Duterte Impeachment Trial
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2363/e71b951783680531-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2363/e71b951783680531-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2363/e71b951783680531-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-10T10:48:53.156Z'
+pbb_post_id: 2363
 ---
 
 The Catholic Bishops’ Conference of the Philippines (CBCP) said it is closely monitoring the impeachment trial of Vice President Sara Duterte, while urging all parties involved to allow the constitutional process to proceed.

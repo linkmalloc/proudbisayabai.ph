@@ -12,7 +12,7 @@ tags:
   - cebuano
   - bisaya
   - inspiring stories              
-views: "10"
+views: "102"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bench_lee/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bench_lee/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bench_lee/cover.jpg
@@ -25,6 +25,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 315
 ---
 ****
 As he reached the pinnacle of his victory, Bench Lee, a content writer for Proud Bisaya Bai, unveiled his academic journey and life story.  

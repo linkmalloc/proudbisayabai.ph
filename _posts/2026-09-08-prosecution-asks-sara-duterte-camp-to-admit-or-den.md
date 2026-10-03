@@ -12,7 +12,7 @@ tags:
   - VPDuterte
   - impeachment
   - bankrecord
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2871/da9ac71788850649-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2871/da9ac71788850649-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2871/da9ac71788850649-1.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-08T06:57:30.794Z'
+pbb_post_id: 2871
 ---
 
 The prosecution said it could eliminate the need to present at least 15 witnesses in the impeachment trial of Vice President Sara Duterte if her camp admits the authenticity and ownership of bank accounts reflected in financial records submitted to the Senate impeachment court.

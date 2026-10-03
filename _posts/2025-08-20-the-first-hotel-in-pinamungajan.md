@@ -12,7 +12,7 @@ categories:
   - destination
 tags:
   - PERCHotel
-views: '10'
+views: "321"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/547/4561951755776577-17.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/547/4561951755776577-17.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/547/4561951755776577-17.jpg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-08-21T00:00:00
+pbb_post_id: 547
 ---
 
 

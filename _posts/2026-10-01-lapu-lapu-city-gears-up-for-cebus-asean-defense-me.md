@@ -9,7 +9,7 @@ categories:
 tags:
   - Lapu-Lapu City
   - ASEAN
-views: '0'
+views: "26"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3066/3d0eb41790837452-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3066/3d0eb41790837452-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3066/3d0eb41790837452-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-10-01T06:51:09.846Z'
+pbb_post_id: 3066
 ---
 
 Security and logistical preparations are gaining momentum in Lapu-Lapu City as Cebu gets ready to host two major ASEAN defense meetings later this month.

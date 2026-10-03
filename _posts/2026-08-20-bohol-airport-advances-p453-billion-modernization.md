@@ -9,7 +9,7 @@ categories:
 tags:
   - Bohol-Panglao International Airport
   - Modernization Progran
-views: '0'
+views: "159"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2715/a155741787205811-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2715/a155741787205811-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2715/a155741787205811-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-20T06:03:33.079Z'
+pbb_post_id: 2715
 ---
 
 The Bohol-Panglao International Airport (BPIA) is moving ahead with a P4.53-billion modernization program as Bohol prepares for rising travel demand and expanded air connectivity.

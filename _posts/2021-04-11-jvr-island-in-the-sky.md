@@ -23,6 +23,7 @@ published: false
 
 social_reach: "115,166"
 location: Balamban, Transcentral Highway   
+pbb_post_id: 154
 ---
 #### JVR Island in the Sky
   

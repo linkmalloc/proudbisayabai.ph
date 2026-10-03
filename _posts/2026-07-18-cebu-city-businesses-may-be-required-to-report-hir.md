@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Cebu City business requirements
-views: '0'
+views: "3"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2443/7060df1784368238-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2443/7060df1784368238-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2443/7060df1784368238-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-18T09:50:39.733Z'
+pbb_post_id: 2443
 ---
 
 Businesses in Cebu City with at least six employees may soon be required to submit monthly employment reports to the city government under a proposed ordinance aimed at improving labor market data and employment planning.

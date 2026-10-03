@@ -12,7 +12,7 @@ tags:
   - bohol
   - resort
   - spa               
-views: "10"
+views: "187"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/parklanebohol/4.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/parklanebohol/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/parklanebohol/4.jpg
@@ -25,6 +25,7 @@ photo_credit: "Joseph The Explorer, Bohol Contributor (introducing Bohol Tourism
 photo_credit_link: ""
 editor: "Evner Negro"
 read_time: "3 minutes"
+pbb_post_id: 254
 ---
  ****
 ##### Parklane Bohol Resort and Spa

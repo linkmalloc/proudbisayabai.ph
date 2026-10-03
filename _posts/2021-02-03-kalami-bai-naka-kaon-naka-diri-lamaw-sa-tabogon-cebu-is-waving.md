@@ -15,6 +15,7 @@ img_500_2: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_
 img_500_3: https://res.cloudinary.com/proudbisayabai/image/upload/w_500,h_500,c_fit/v1612321617/3000x1144/batch2.post10.3_uveiis.jpg
 photo_credit: DJ CHARLZ SALADAGA
 published: false
+pbb_post_id: 13
 ---
 Lami ug Barato ra! Aside ana nindot kaayo ang lugar with Music Live every weekends. Friday \| Saturday 5PM-9PM.
 

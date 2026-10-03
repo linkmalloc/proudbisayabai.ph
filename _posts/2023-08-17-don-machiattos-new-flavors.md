@@ -10,7 +10,7 @@ tags:
   - choco
   -  drinks
   -  coffee               
-views: "10"
+views: "1,067"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/don_machiattos_new_flavors/cover2.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/don_machiattos_new_flavors/cover2.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/don_machiattos_new_flavors/cover2.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 403
 ---
 ****
 The first and original ₱39 premium coffee has now launched “Don Darko” and “Dony Berry!”

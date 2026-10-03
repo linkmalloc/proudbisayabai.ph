@@ -25,6 +25,7 @@ published: false
 social_reach: "94,031"
 location: Aloguinsan, Cebu
 
+pbb_post_id: 123
 ---
 #### 100 PESOS CHALLENGE  
   

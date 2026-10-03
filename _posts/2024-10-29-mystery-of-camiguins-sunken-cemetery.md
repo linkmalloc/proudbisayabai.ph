@@ -9,7 +9,7 @@ categories:
 tags:
   - camiguin
   - cemetery
-views: "10"
+views: "364"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camiguin-sunken-cemetery/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camiguin-sunken-cemetery/1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camiguin-sunken-cemetery/1.jpg
@@ -22,6 +22,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 479
 ---
 *****    
 Deep within the waters off Camiguin Island lies an unforgettable sight—an entire cemetery swallowed by the sea, marked only by a giant, solitary cross rising from the waves. Known as the Sunken Cemetery, this hauntingly beautiful site dates back to the late 19th century when the sudden, fiery birth of Mt. Vulcan shook the island. Violent volcanic eruptions forced the cemetery and parts of its town to plunge beneath the waves, taking with it countless lives and stories. Today, there are no gravestones or flowers to mark the souls who rest below; only the stark memorial cross hints at the lost world beneath.  

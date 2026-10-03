@@ -12,7 +12,7 @@ categories:
   - story
 tags:
   - TommyOsmeña
-views: '10'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1543/86ddcc1776412787-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1543/86ddcc1776412787-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1543/86ddcc1776412787-1.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1543
 ---
 
 A pushback against complacency in governance took center stage as Cebu City Vice Mayor Tomas Osmeña warned that continued mountain development without stronger safeguards could worsen flooding risks and expose officials and developers to accountability.

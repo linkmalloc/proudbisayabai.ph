@@ -12,7 +12,7 @@ categories:
 tags:
   - AnimalWelfare
   - CebuProvince
-views: '10'
+views: "36"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/868/ce309f1766900294-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/868/ce309f1766900294-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/868/ce309f1766900294-2.jpeg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-12-28T00:00:00
 published: true
+pbb_post_id: 868
 ---
 
 The Cebu Provincial Government has strengthened its commitment to animal welfare, rabies control, and marine conservation with the issuance of Executive Order (EO) No. 59, Series of 2025.

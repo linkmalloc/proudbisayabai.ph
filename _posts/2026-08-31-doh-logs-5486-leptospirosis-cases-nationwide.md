@@ -9,7 +9,7 @@ categories:
 tags:
   - leptospirosis
   - Department of Health
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2814/3ca8341788168503-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2814/3ca8341788168503-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2814/3ca8341788168503-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-31T09:28:24.975Z'
+pbb_post_id: 2814
 ---
 
 The number of leptospirosis cases in the Philippines has fallen from last year’s level, but the Department of Health (DOH) is preparing for a possible increase in hospital admissions following recent flooding.

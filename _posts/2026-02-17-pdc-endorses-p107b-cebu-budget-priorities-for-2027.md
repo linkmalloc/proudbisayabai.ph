@@ -13,7 +13,7 @@ tags:
   - PDC
   - GovernorBaricuatro
   - priorityprojects
-views: '10'
+views: "21"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1156/a293991771322274-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1156/a293991771322274-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1156/a293991771322274-2.jpg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1156
 ---
 
 Cebu is moving early to secure national funding for 2027, as the Provincial Development Council (PDC) formally endorsed P107 billion worth of priority programs and projects for submission to the regional level.

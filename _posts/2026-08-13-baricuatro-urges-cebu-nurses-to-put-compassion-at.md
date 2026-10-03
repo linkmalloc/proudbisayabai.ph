@@ -10,7 +10,7 @@ tags:
   - Pam Baricuatro
   - Cebu Nurses
   - Patient Care
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2662/95209e1786596172-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2662/95209e1786596172-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2662/95209e1786596172-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-13T04:42:56.019Z'
+pbb_post_id: 2662
 ---
 
 Caring for patients goes beyond administering medicine and providing treatment, Cebu Gov. Pamela Baricuatro told more than 90 nurses from the province’s hospitals during a meeting Wednesday.

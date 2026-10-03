@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - RiceSubsidy
-views: '10'
+views: "24"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1469/c3bec81775535568-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1469/c3bec81775535568-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1469/c3bec81775535568-1.jpeg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1469
 ---
 
 The Cebu Provincial Government is set to distribute rice to transport workers as part of efforts to ease the impact of rising fuel prices on one of the sectors most affected by economic pressures.

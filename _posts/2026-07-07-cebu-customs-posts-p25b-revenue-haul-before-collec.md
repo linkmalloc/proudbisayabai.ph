@@ -9,7 +9,7 @@ categories:
 tags:
   - Customs
   - Revenue
-views: '0'
+views: "67"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2328/dd12ca1783421414-1.JPG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2328/dd12ca1783421414-1.JPG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2328/dd12ca1783421414-1.JPG
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-07T10:50:16.626Z'
+pbb_post_id: 2328
 ---
 
 The Bureau of Customs (BOC) Port of Cebu collected more than P25 billion in revenues during the first half of 2026, exceeding its target by P448.7 million as District Collector Alexandra Yap-Lumontad prepares to move to a national post.

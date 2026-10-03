@@ -10,7 +10,7 @@ tags:
   - PNP
   - SONA 2026
   - Bongbong Marcos
-views: '0'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2520/6e8a551785216502-1.JPG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2520/6e8a551785216502-1.JPG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2520/6e8a551785216502-1.JPG
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-28T05:28:24.854Z'
+pbb_post_id: 2520
 ---
 
 The Philippine National Police (PNP) described President Ferdinand R. Marcos Jr.’s fifth State of the Nation Address (SONA) on Monday as generally peaceful and orderly, despite the arrest of individuals accused of vandalism during protest activities.

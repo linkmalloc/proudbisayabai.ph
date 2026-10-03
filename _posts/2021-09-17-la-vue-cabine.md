@@ -9,7 +9,7 @@ tags:
   - Mountain
   - Relaxation
   - Toledo
-views: "123,999"
+views: "349"
 img_big_1000x600:  https://d3hukd8e3cn3kb.cloudfront.net/images/posts/la_vue_cabine/5.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/la_vue_cabine/cover.jpg
 img_500x500:  https://d3hukd8e3cn3kb.cloudfront.net/images/posts/la_vue_cabine/5.jpg
@@ -22,6 +22,7 @@ photo_credit: "Cris Odeca, Jeca Abella, Mimi Monteron, Kath Batayola, Lynette Yr
 photo_credit_link: ""
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "4 minutes"
+pbb_post_id: 232
 ---
 #### La Vue Cabine  
 \#BukidGoals: Murag need sad jud nato mo palayo usahay, Rekindle your soul by taking in good air in a relaxing place! 🔦😯🍃

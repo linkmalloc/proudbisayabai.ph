@@ -10,7 +10,7 @@ tags:
   - TaboSaKapitolyo
   - CebuProvince
   - GovernorBaricuatro
-views: '0'
+views: "49"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2656/eb190e1786516034-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2656/eb190e1786516034-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2656/eb190e1786516034-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-12T06:27:16.192Z'
+pbb_post_id: 2656
 ---
 
 A weeklong trade fair at the Cebu Provincial Capitol turned into a record-selling event, generating P9.8 million in sales from locally produced agricultural and fishery products.

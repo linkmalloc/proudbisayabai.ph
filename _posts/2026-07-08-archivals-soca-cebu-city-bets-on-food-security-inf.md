@@ -10,7 +10,7 @@ categories:
 tags:
   - SOCA
   - MayorArchival
-views: '0'
+views: "9"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2335/40ad281783506582-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2335/40ad281783506582-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2335/40ad281783506582-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-07-08T10:29:43.722Z'
+pbb_post_id: 2335
 ---
 
 One year after assuming office, Cebu City Mayor Nestor Archival presented a wide-ranging agenda for the city’s future on Tuesday, highlighting his administration’s initial programs while outlining major projects on food security, climate resilience, digital governance, and infrastructure development.

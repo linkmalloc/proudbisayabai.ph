@@ -9,7 +9,7 @@ categories:
 tags:
   - BalaySilangan
   - PDL
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2478/ddaec71784706573-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2478/ddaec71784706573-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2478/ddaec71784706573-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-22T07:49:34.183Z'
+pbb_post_id: 2478
 ---
 
 The Mandaue City Government will formally open Balay Silangan on July 28, providing a dedicated facility for court-referred persons deprived of liberty (PDLs) who will undergo drug intervention and rehabilitation programs.

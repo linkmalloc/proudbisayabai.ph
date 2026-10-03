@@ -9,7 +9,7 @@ categories:
 tags:
   - pilgrimage tours
   -  department of tourism               
-views: "10"
+views: "50"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dot7/10.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dot7/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dot7/10.jpg
@@ -22,6 +22,7 @@ photo_credit: "Ariel Alegado, PBB Admin"
 photo_credit_link: ""
 editor: "Evner Negro"
 read_time: "5 minutes"
+pbb_post_id: 281
 ---
 ****
 ##### DOT Central Visayas in 2022: To Introduce New Pilgrimage Tours in Cebu

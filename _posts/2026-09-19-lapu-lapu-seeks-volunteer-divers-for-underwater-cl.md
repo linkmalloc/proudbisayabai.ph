@@ -9,7 +9,7 @@ categories:
 tags:
   - underwater cleanup
   - Lapu-Lapu City
-views: '0'
+views: "59"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2963/a99cda1789751737-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2963/a99cda1789751737-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2963/a99cda1789751737-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-18T17:15:39.398Z'
+pbb_post_id: 2963
 ---
 
 The Lapu-Lapu City Government is seeking licensed and certified divers to join an underwater cleanup drive on Sept. 19 aimed at removing marine debris from the city’s coastal waters.

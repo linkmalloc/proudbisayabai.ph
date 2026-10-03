@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - LechonSeizure
-views: '10'
+views: "122"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/908/ad03971767693280-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/908/ad03971767693280-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/908/ad03971767693280-2.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-06T00:00:00
 published: true
+pbb_post_id: 908
 ---
 
 Cebu’s iconic Carbon Public Market, a favorite spot for locals and tourists hunting for festive treats, was in the spotlight late last year after 25 kilos of lechon were confiscated from a vendor.

@@ -11,7 +11,7 @@ categories:
   - brand
 tags:
   - Canva
-views: '10'
+views: "29"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1961/7e78bd1780183140-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1961/7e78bd1780183140-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1961/7e78bd1780183140-1.jpeg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1961
 ---
 
 

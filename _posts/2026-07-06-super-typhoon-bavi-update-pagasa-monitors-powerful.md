@@ -9,7 +9,7 @@ categories:
 tags:
   - Weather
   - Typhoon
-views: '0'
+views: "47"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2309/76a7a01783304271-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2309/76a7a01783304271-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2309/76a7a01783304271-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-06T02:17:55.256Z'
+pbb_post_id: 2309
 ---
 
 CEBU CITY, Philippines — DOST-PAGASA is closely monitoring Super Typhoon BAVI, which remains outside the Philippine Area of Responsibility (PAR) as of 8:00 a.m., Monday, July 6, 2026.

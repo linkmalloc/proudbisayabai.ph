@@ -11,7 +11,7 @@ categories:
 tags:
   - TatayWilliam
   - ColonStreet
-views: '10'
+views: "109"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/906/afb8781767692781-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/906/afb8781767692781-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/906/afb8781767692781-2.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-06T00:00:00
 published: true
+pbb_post_id: 906
 ---
 
 A local artist from Jones Avenue has set up a makeshift sidewalk gallery near Colon Street, offering his paintings to passersby for as low as P150.

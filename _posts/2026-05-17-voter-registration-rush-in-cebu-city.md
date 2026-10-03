@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - BSKE2026
-views: '10'
+views: "9"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1812/8618251779083564-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1812/8618251779083564-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1812/8618251779083564-1.jpg
@@ -22,6 +22,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1812
 ---
 
 

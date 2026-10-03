@@ -13,7 +13,7 @@ tags:
   - LGBTQ+
   - Marriage
   - Call for lawmakers
-views: '0'
+views: "59"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3000/0b39471790159729-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3000/0b39471790159729-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3000/0b39471790159729-1.jpg
@@ -28,6 +28,7 @@ editor: PBB Admin
 read_time: 5 minutes
 published: true
 published_at: '2026-09-23T10:40:59.016Z'
+pbb_post_id: 3000
 ---
 
 _Three Cebu couples say “I do” in a holy union, hoping their love will one day be recognized by law. | Photo & Story by Jacqueline Hernandez_

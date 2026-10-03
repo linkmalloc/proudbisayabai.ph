@@ -11,7 +11,7 @@ tags:
   - School Lot
   - MCIAA Appeal
   - Lapu-Lapu City
-views: '0'
+views: "473"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2576/71a5d81785739408-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2576/71a5d81785739408-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2576/71a5d81785739408-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-03T06:43:32.922Z'
+pbb_post_id: 2576
 ---
 
 The Supreme Court has affirmed Lapu-Lapu City’s ownership of a parcel of land donated for educational purposes, ruling that the city did not violate the conditions of the donation despite the demolition and relocation of the school previously built on the property.

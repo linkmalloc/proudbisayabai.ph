@@ -9,7 +9,7 @@ categories:
 tags:
   - Habal-habal drivers
   - Fuel aid
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2456/47da3e1784534983-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2456/47da3e1784534983-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2456/47da3e1784534983-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-20T08:09:46.920Z'
+pbb_post_id: 2456
 ---
 
 More than 2,000 motorcycle-for-hire drivers in western Cebu received nearly P6.5 million in fuel assistance from the Cebu Provincial Government as part of efforts to help ease the impact of rising fuel costs.

@@ -9,7 +9,7 @@ categories:
 tags:
   - Magwayen task force
   - Fish price
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3005/729f0a1790230541-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3005/729f0a1790230541-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3005/729f0a1790230541-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-24T06:15:52.294Z'
+pbb_post_id: 3005
 ---
 
 Cebu is setting up a province-wide mechanism to track fish prices and supply conditions, including disruptions caused by bad weather, closed fishing seasons, fish kills and other emergencies.

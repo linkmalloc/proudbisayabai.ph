@@ -10,7 +10,7 @@ tags:
   - jobs
   - jobs opening
   - cebu
-views: "10"
+views: "170"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cebu-telenet/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cebu-telenet/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/cebu-telenet/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 478
 ---
 *****    
 Founded in Japan, Tele-Net has been an industry leader in providing high-quality contact center services for 25 years, with operations in China, the USA, and the Philippines. With over 1,500 employees globally, Cebu Tele-Net’s service portfolio includes specialized customer support, IT solutions, and cost-effective BPO services. The company remains committed to strengthening its relationships with clients by combining innovative solutions with a unique strategy to customer interaction.  

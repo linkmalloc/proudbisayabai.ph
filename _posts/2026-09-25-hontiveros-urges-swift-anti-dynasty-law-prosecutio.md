@@ -9,7 +9,7 @@ categories:
 tags:
   - Risa Hontiveros
   - Anti-Dynasty Law
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3011/e5c8431790312354-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3011/e5c8431790312354-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3011/e5c8431790312354-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-25T04:59:18.553Z'
+pbb_post_id: 3011
 ---
 
 The Philippines needs stronger safeguards against political dynasties and greater accountability for officials implicated in corruption to restore investor confidence and open more economic opportunities for Filipinos, Senator Risa Hontiveros said.

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Kiko Pangilinan
-views: '0'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2469/b35a471784624850-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2469/b35a471784624850-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2469/b35a471784624850-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-21T09:07:44.627Z'
+pbb_post_id: 2469
 ---
 
 Senator Francis “Kiko” Pangilinan on Tuesday urged the Department of Foreign Affairs (DFA) to pursue diplomatic and legal measures against China following the reported assault of a Philippine Navy officer by members of the China Coast Guard during a resupply mission at Ayungin Shoal.

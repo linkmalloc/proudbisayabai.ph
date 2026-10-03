@@ -9,7 +9,7 @@ categories:
 tags:
   - 8flix
   - tuslob buwa               
-views: "10"
+views: "574"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/8flix/9.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/8flix/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/8flix/9.jpg
@@ -22,6 +22,7 @@ photo_credit: " Michael Audrey Jacobe Sagonoy |  PBB Photographer , Pobreng Laag
 photo_credit_link: ""
 editor: "Evner Negro"
 read_time: "3 minutes"
+pbb_post_id: 258
 ---
 ****
 ##### 8FLIX &amp; Chill

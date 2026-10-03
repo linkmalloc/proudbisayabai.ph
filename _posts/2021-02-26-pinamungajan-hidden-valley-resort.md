@@ -22,6 +22,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614303429/p
 photo_credit: "Leylam Gines"
 photo_credit_link: ""
 published: false
+pbb_post_id: 49
 ---
 Hapit na Summer mga Bai!!! Tara na sa Pinamungajan Hidden Valley Resort!!! this is the best way to kick start of your Summer 2021!!! 🌞🌊🌴  
 

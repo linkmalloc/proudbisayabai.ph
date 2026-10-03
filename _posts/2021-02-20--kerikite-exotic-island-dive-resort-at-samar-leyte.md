@@ -22,6 +22,7 @@ img_500_5:
 photo_credit: "Erwin T. Lim"
 photo_credit_link: "https://www.facebook.com/Erwin-T-Lim-Photography-148996031778830/"
 published: false
+pbb_post_id: 27
 ---
 Experience amazing sea diving at Kerikite Exotic Island Dive Resort at Samar, Leyte. Deep blue crystal clear waters and scenic tranquility. 🏝 🌊 🏊🏻‍♂️  
 

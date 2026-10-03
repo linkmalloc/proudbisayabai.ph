@@ -9,7 +9,7 @@ tags:
   - touching story
   -  cebu
   -  jollibee               
-views: "10"
+views: "634"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee-ates-birthday/cover1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee-ates-birthday/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee-ates-birthday/cover1.jpg
@@ -23,6 +23,7 @@ photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
 hide_header_image: true
+pbb_post_id: 314
 ---
 ****
 <div id="fb-root"></div>

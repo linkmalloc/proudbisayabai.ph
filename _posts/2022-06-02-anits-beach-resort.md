@@ -10,7 +10,7 @@ tags:
   - exclusive
   - resort
   - catmon               
-views: "10"
+views: "4,673"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/anitsbeachresort/14.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/anitsbeachresort/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/anitsbeachresort/14.jpg
@@ -23,6 +23,7 @@ photo_credit: "Anit's Beach Resort"
 photo_credit_link: "https://www.facebook.com/Anits-Beach-Resort-102838552227592"
 editor: "Evner Negro"
 read_time: "5 minutes"
+pbb_post_id: 296
 ---
 ****
 ##### Anit's Beach Resort

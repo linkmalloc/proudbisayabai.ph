@@ -9,7 +9,7 @@ categories:
 tags:
   - River Campground
   - Danao City
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3083/9937421790929008-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3083/9937421790929008-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3083/9937421790929008-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-10-02T08:17:20.903Z'
+pbb_post_id: 3083
 ---
 
 Not every nature escape requires a long drive, an expensive resort booking, or a carefully planned itinerary. Sometimes, all it takes is a tent, a cool breeze, and a quiet spot by the river.

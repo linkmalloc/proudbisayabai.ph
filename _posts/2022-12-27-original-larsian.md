@@ -9,7 +9,7 @@ tags:
   - larsian
   -  cebu
   -  original larsian               
-views: "10"
+views: "565"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/larsian/cover2.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/larsian/cover2.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/larsian/cover2.jpg
@@ -22,6 +22,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 352
 ---
 ****
 Do you miss Larsian sa Fuente? Worry no more because the original Larsian vendor is now operating and is continue serving the best BBQ experience to the Cebuanos.  

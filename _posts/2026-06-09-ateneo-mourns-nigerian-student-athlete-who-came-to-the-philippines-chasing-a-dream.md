@@ -15,7 +15,7 @@ tags:
   - Ateneo
   - basketball
   - DivineAdili
-views: '10'
+views: "236"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2052/d4b47f1780979632-3.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2052/d4b47f1780979632-3.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2052/d4b47f1780979632-3.jpeg

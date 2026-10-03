@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Tabang PangByahe program
-views: '0'
+views: "47"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2819/8fdfb21788251800-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2819/8fdfb21788251800-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2819/8fdfb21788251800-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-01T08:36:46.015Z'
+pbb_post_id: 2819
 ---
 
 Cebu commuters could get additional bus services along two major corridors starting October as the Cebu Provincial Government prepares to roll out its P20-million Tabang PangByahe program.

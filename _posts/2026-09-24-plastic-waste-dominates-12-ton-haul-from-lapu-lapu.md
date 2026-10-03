@@ -9,7 +9,7 @@ categories:
 tags:
   - Lapu-Lapu City
   - Plastic waste
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3004/16928a1790230435-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3004/16928a1790230435-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3004/16928a1790230435-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-24T06:13:57.572Z'
+pbb_post_id: 3004
 ---
 
 Plastic wrappers, bags and beverage containers made up much of the more than 12 tons of waste collected during Lapu-Lapu City’s International Coastal Cleanup (ICC) 2026 on Sept. 19.

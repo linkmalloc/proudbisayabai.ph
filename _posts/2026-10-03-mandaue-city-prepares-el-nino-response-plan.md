@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-10-03T12:14:11.036Z'
+pbb_post_id: 3090
 ---
 
 Water shortages, rising heat and fire risks are among the concerns Mandaue City is preparing for as the city government finalizes an action plan for possible El Niño impacts.

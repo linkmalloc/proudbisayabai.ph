@@ -9,7 +9,7 @@ categories:
 tags:
   - Mandaue City
   - VECO
-views: '0'
+views: "76"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3002/b5743d1790230195-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3002/b5743d1790230195-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3002/b5743d1790230195-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-24T06:09:57.333Z'
+pbb_post_id: 3002
 ---
 
 The Mandaue City Council is asking the Visayan Electric Company (VECO) to allow consumers to pay higher electricity bills in installments through December 2026 without penalties or disconnection.

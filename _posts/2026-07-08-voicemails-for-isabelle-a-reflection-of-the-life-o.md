@@ -9,7 +9,7 @@ categories:
 tags:
   - Voicemails
   - Isabelle
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2331/bb04e91783492693-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2331/bb04e91783492693-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2331/bb04e91783492693-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-08T06:38:25.236Z'
+pbb_post_id: 2331
 ---
 
 ‘Voicemails for Isabelle' is a film released in 2026, written and directed by Leah McKendrick, is a comedy-drama film that revolves around the story of Jill (played by Zoey Deutch) and Wes (Nick Robinson). The story begins with Jill grieving and coping with her sister Isabelle’s death by sending voicemails to her old number, which ended up with Wes, the new owner of Isabelle’s recycled number. Wes became invested in Jill's chaotic life as he accidentally listened to Jill’s raw and unfiltered confessions.

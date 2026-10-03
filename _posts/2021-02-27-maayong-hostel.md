@@ -21,6 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614423744/m
 photo_credit: "Maayong Hostel Fb Page"
 photo_credit_link: "https://www.facebook.com/Maayong-Hostel-110906680454228/"
 published: false
+pbb_post_id: 54
 ---
 Looking for a perfect place to chill, hang out and have a great lazy time with your buddies? then,  MAAYONG HOSTEL is perfect for you! 😍😱  
  

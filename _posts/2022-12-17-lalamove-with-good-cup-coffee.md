@@ -10,7 +10,7 @@ tags:
   -  coffee
   -  delivery
   -  best delivery in cebu               
-views: "10"
+views: "48"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lalamovexgoodcupcoffee/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lalamovexgoodcupcoffee/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lalamovexgoodcupcoffee/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 350
 ---
 ****
 With prices of basic necessities at an all-time high, Lalamove continues to bridge the logistical gap between businesses and consumers at the same affordable rates. The 24/7 same day, on-demand delivery platform remains Cebuanos' go-to because it stays dedicated to being the Expert in Affordelivery.  

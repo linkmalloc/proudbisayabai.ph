@@ -9,7 +9,7 @@ categories:
   - story
 tags:
   - CPR
-views: '0'
+views: "55"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2915/206a581789215969-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2915/206a581789215969-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2915/206a581789215969-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-12T12:26:11.685Z'
+pbb_post_id: 2915
 ---
 
 Ordinary Cebuanos can help save lives during cardiac emergencies by learning basic hands-only cardiopulmonary resuscitation (CPR), Lapu-Lapu City officials and health advocates said during a training that gathered about 1,000 volunteers Saturday, Sept. 12.

@@ -9,7 +9,7 @@ categories:
 tags:
   - Anti-Bullying
   - Bill
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2349/1b73ac1783595406-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2349/1b73ac1783595406-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2349/1b73ac1783595406-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-09T11:10:11.939Z'
+pbb_post_id: 2349
 ---
 
 A proposed measure in the House of Representatives seeks to strengthen the country’s anti-bullying framework by requiring annual training for school personnel and imposing sanctions on education officials who fail to comply with child protection measures.

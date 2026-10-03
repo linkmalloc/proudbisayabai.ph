@@ -9,7 +9,7 @@ tags:
   - resort
   -  best vacation spot in south cebu
   -  south cebu resorts               
-views: "10"
+views: "825"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/maayo_argao/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/maayo_argao/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/maayo_argao/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: " Yoko Sato Li | yoko_travelbook"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 344
 ---
 ****
 South Cebu is home to some of the best beaches and resorts that offer a relaxing escape from the urban jungle. It has become the go-to weekend or quick get-away destination for city dwellers who want to lounge on the beach, have a family trip or commune with nature.  

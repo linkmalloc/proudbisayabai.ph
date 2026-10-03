@@ -9,7 +9,7 @@ categories:
 tags:
   - Nestor Archival
   - Pax Silica
-views: '0'
+views: "94"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2598/fa83c31785910758-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2598/fa83c31785910758-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2598/fa83c31785910758-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-05T06:19:31.962Z'
+pbb_post_id: 2598
 ---
 
 Cebu City is positioning itself as a potential regional hub for artificial intelligence (AI) and high-tech industries under the U.S.-led Pax Silica initiative, but the plan has sparked debate over whether the city’s existing infrastructure can support resource-intensive developments.

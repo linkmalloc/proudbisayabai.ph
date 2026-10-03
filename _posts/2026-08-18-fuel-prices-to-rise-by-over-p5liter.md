@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Fuel Prices
-views: '0'
+views: "55"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2700/0615521787052830-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2700/0615521787052830-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2700/0615521787052830-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-18T11:33:55.463Z'
+pbb_post_id: 2700
 ---
 
 Domestic fuel prices will increase by as much as P5.01 per liter this week as geopolitical uncertainties in the Middle East continue to push up international oil prices.

@@ -10,7 +10,7 @@ tags:
   - GSIS
   - emergencyloan
   - typhoon
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2776/443a681787796484-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2776/443a681787796484-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2776/443a681787796484-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-27T02:08:05.457Z'
+pbb_post_id: 2776
 ---
 
 More than 166,000 government workers and pensioners in nine areas in Luzon affected by recent tropical cyclones and the southwest monsoon may access a P4.4-billion emergency loan facility from the Government Service Insurance System (GSIS).

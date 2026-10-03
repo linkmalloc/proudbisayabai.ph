@@ -9,7 +9,7 @@ categories:
 tags:
   - CIT-U
   - Electrical Engineering
-views: '0'
+views: "122"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2949/318cfe1789622784-1.JPG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2949/318cfe1789622784-1.JPG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2949/318cfe1789622784-1.JPG
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-17T05:26:28.501Z'
+pbb_post_id: 2949
 ---
 
 Cebu Institute of Technology-University (CIT-U) produced its third consecutive national first placer in the Registered Electrical Engineers Licensure Examination, with three of its graduates finishing in the Top 10 of the September 2026 exams.

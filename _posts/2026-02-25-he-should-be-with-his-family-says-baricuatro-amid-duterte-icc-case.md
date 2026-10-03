@@ -14,7 +14,7 @@ tags:
   - GovernorBaricuatro
   - ICC
   - PRRD
-views: '10'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1201/8f682d1772010070-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1201/8f682d1772010070-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1201/8f682d1772010070-2.jpg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1201
 ---
 
 

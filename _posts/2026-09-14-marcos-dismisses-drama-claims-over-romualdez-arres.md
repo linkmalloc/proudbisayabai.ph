@@ -10,7 +10,7 @@ tags:
   - Ferdinand Marcos Jr.
   - Bongbong Marcos
   - Martin Romualdez
-views: '0'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2920/f3a7f51789370594-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2920/f3a7f51789370594-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2920/f3a7f51789370594-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-14T07:23:18.789Z'
+pbb_post_id: 2920
 ---
 
 President Ferdinand R. Marcos Jr. dismissed claims that the arrest of his cousin and former House Speaker Martin Romualdez was political “drama,” saying critics were using the issue to attack him and his administration.

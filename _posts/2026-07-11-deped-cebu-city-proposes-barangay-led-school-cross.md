@@ -9,7 +9,7 @@ categories:
   - story
 tags:
   - DepEd Cebu City
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2374/c317e11783758137-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2374/c317e11783758137-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2374/c317e11783758137-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-11T08:22:29.886Z'
+pbb_post_id: 2374
 ---
 
 The Department of Education (DepEd) in Cebu City is recommending the deployment of Barangay Tanods as school crossing personnel instead of hiring new job order workers to improve safety for students in public schools.

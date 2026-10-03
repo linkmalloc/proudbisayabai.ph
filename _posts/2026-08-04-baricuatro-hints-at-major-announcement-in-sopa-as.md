@@ -11,7 +11,7 @@ tags:
   - Capitol
   - Founding Anniversary
   - Cebu
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2586/23ecff1785828285-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2586/23ecff1785828285-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2586/23ecff1785828285-1.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-04T07:24:45.993Z'
+pbb_post_id: 2586
 ---
 
 The Cebu Provincial Government kicked off its 457th founding anniversary celebration on Monday, Aug. 3, with Governor Pamela Baricuatro teasing a "major announcement" during her upcoming State of the Province Address (SOPA) while officially opening this year's expanded Tabo sa Kapitolyo trade fair.

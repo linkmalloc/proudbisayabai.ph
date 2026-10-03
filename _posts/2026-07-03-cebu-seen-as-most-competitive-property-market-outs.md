@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Cebu
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2288/a5189a1783063770-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2288/a5189a1783063770-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2288/a5189a1783063770-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-07-03T07:29:37.209Z'
+pbb_post_id: 2288
 ---
 
 Cebu's property market continues to move on multiple engines at once—outsourcing expansion, remittance-driven demand, and large-scale infrastructure plans—even as the national economy slows.

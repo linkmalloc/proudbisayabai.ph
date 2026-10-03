@@ -9,7 +9,7 @@ categories:
 tags:
   - Tax
   - Cars
-views: '0'
+views: "9"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3014/0decc41790312710-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3014/0decc41790312710-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3014/0decc41790312710-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-25T05:05:12.021Z'
+pbb_post_id: 3014
 ---
 
 Marikina 2nd District Rep. Miro Quimbo has filed a bill seeking to raise excise taxes on high-value automobiles and expand the coverage of non-essential goods while removing perfumes and toilet waters from the tax list.

@@ -10,7 +10,7 @@ tags:
   - Mt. Kapayas
   - Mountain
   - Catmon
-views: '0'
+views: "70"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2322/44e4371783403417-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2322/44e4371783403417-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2322/44e4371783403417-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-07T05:50:29.133Z'
+pbb_post_id: 2322
 ---
 
 Looking for an exciting outdoor adventure with your barkada? Skip the usual beach trips and explore one of Cebu’s best hiking destinations — Mt. Kapayas in Catmon, Cebu.

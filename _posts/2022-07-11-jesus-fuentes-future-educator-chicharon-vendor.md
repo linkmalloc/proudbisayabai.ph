@@ -12,7 +12,7 @@ tags:
   - future educator
   - chicharon vendor
   - cebu            
-views: "10"
+views: "87"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jesus_fuentes/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jesus_fuentes/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jesus_fuentes/cover.jpg
@@ -25,6 +25,7 @@ photo_credit: "CDN Digital | Jesus Fuentes Facebook Account"
 photo_credit_link: "https://www.facebook.com/profile.php?id=100055350211473"
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 312
 ---
 ****
 Many things go through your mind that spiral out of control. Before you know it, you tend to believe that you cannot do something that will lead you to fail and cannot pursue your dreams. However, for some people, it is still possible to accomplish your aspirations in spite of difficulties, whatever your age or financial situation.  

@@ -8,7 +8,7 @@ categories:
   - news
 tags:
   - EATOF assembly
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2837/c6221a1788416629-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2837/c6221a1788416629-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2837/c6221a1788416629-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-03T06:23:52.332Z'
+pbb_post_id: 2837
 ---
 
 Cebu is positioning itself as a regional link for tourism and economic cooperation as leaders and delegates from 10 East Asian regions gathered Wednesday, Sept. 2, for the 19th General Assembly of the East Asia Inter-Regional Tourism Federation (EATOF).

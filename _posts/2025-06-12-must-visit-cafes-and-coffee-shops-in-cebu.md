@@ -9,7 +9,7 @@ categories:
 tags:
   - Cafe
   - Cebu
-views: '10'
+views: "3,466"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/524/222b991749745176-32.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/524/222b991749745176-32.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/524/222b991749745176-32.jpg
@@ -23,6 +23,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-06-13T00:00:00
+pbb_post_id: 524
 ---
 
 Looking for the perfect spot to unwind, catch up with friends, or simply enjoy a good cup of coffee? &#x20;

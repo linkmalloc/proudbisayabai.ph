@@ -11,7 +11,7 @@ tags:
   - ship
   - borbon
   - cebu
-views: "10"
+views: "2,183"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/master_dragons_peak/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/master_dragons_peak/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/master_dragons_peak/1.jpg
@@ -24,6 +24,7 @@ photo_credit: "Tactile Travel (No copyright infringement intended)"
 photo_credit_link: ""
 read_time: "3 minutes"
 editor: "PBB Admin"
+pbb_post_id: 263
 ---
 ****
 ###### Master’s Dragon Peak

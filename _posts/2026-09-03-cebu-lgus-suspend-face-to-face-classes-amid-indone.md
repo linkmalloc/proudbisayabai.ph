@@ -9,7 +9,7 @@ categories:
   - story
 tags:
   - Indonesia Haze
-views: '0'
+views: "21"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2840/24f0281788417242-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2840/24f0281788417242-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2840/24f0281788417242-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-03T06:34:04.051Z'
+pbb_post_id: 2840
 ---
 
 Several local government units in Cebu suspended face-to-face classes on Wednesday, Sept. 2, as haze from forest fires in Indonesia pushed air quality in parts of the region to the “acutely unhealthy” level.

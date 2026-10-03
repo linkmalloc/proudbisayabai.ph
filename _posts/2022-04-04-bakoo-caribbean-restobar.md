@@ -9,7 +9,7 @@ tags:
   - bakoo caribbean restobar
   - food
   - caribbean               
-views: "10"
+views: "52"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bakoo_caribbean_restobar/3.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bakoo_caribbean_restobar/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bakoo_caribbean_restobar/3.jpg
@@ -22,6 +22,7 @@ photo_credit: "Pete Abellana, Proud Bisaya Bai Official Photographer "
 photo_credit_link: ""
 editor: "Evner Negro"
 read_time: "4 minutes"
+pbb_post_id: 279
 ---
 ****
 ##### Bakoo Caribbean RestoBar  

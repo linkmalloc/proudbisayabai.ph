@@ -9,7 +9,7 @@ categories:
 tags:
   - Mandaue City
   - Flooding
-views: '0'
+views: "30"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2551/5c03921785482338-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2551/5c03921785482338-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2551/5c03921785482338-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-07-31T07:19:01.604Z'
+pbb_post_id: 2551
 ---
 
 A raft made from styrofoam, plywood, and rope became the temporary lifeline for residents of a flooded residential compound in Barangay Cabancalan, Mandaue City, as days of heavy rain left students and workers struggling to get in and out of their homes.

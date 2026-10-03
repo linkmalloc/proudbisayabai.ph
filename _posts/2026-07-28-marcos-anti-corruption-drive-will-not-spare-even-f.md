@@ -9,7 +9,7 @@ categories:
 tags:
   - SONA 2026
   - Bongbong Marcos
-views: '0'
+views: "6"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2517/b9c6781785216079-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2517/b9c6781785216079-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2517/b9c6781785216079-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-28T05:21:22.225Z'
+pbb_post_id: 2517
 ---
 
 President Ferdinand R. Marcos Jr. said multiple cases against former House Speaker Martin Romualdez in connection with alleged flood control irregularities are nearing filing before the Office of the Ombudsman, saying his administration’s anti-corruption drive would not exempt even members of his own family.

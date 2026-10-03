@@ -10,7 +10,7 @@ tags:
   - Martin Romualdez
   - DPWH
   - Manual Bonoan
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2284/18c2be1782993061-1.JPG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2284/18c2be1782993061-1.JPG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2284/18c2be1782993061-1.JPG
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-02T11:51:01.957Z'
+pbb_post_id: 2284
 ---
 
 A lawyer of former House Speaker Martin Romualdez on Thursday raised strong objections over the inclusion of former Department of Public Works and Highways (DPWH) Secretary Manuel Bonoan in the ongoing flood control investigation, questioning his credibility and the Ombudsman’s decision to consider him as a potential state witness.

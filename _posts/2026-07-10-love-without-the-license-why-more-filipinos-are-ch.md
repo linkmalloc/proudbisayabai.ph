@@ -9,7 +9,7 @@ categories:
 tags:
   - Lifestyle
   - Relationships
-views: '0'
+views: "161"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2354/6ee33a1783652961-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2354/6ee33a1783652961-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2354/6ee33a1783652961-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-10T03:09:46.795Z'
+pbb_post_id: 2354
 ---
 
 For many Filipinos, marriage has long been seen as a major milestone in life. But recent data suggest that more couples are putting off, or completely skipping the walk down the aisle.

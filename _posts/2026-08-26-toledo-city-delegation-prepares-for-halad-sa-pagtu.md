@@ -9,7 +9,7 @@ categories:
 tags:
   - HaladSaPagtuoUpdates
   - Toledo City
-views: '0'
+views: "68"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2773/a43c3c1787731067-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2773/a43c3c1787731067-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2773/a43c3c1787731067-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-26T07:58:18.702Z'
+pbb_post_id: 2773
 ---
 
 The Toledo City delegation held its blocking and rehearsal at the Cebu City Sports Complex on Wednesday, August 26, as part of its preparations for **Halad sa Pagtuo 2026**, a religious-cultural presentation that highlights Cebu’s Catholic faith and devotion through dance, music, and storytelling.

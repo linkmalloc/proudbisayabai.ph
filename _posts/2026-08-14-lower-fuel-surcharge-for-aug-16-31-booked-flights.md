@@ -9,7 +9,7 @@ categories:
 tags:
   - Fuel Surcharge
   - Flight
-views: '0'
+views: "35"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2674/ed95531786689375-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2674/ed95531786689375-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2674/ed95531786689375-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-14T06:36:24.464Z'
+pbb_post_id: 2674
 ---
 
 Air travelers will pay slightly lower fuel surcharges on flights from Aug. 16 to 31 after the Civil Aeronautics Board (CAB) lowered the applicable rate to Level 12 from Level 13 in the first half of August.

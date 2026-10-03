@@ -12,7 +12,7 @@ tags:
   - Movie
   - Philippines
   - DreamWorksAnimation
-views: '10'
+views: "59"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1391/85528b1774465155-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1391/85528b1774465155-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1391/85528b1774465155-2.jpg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1391
 ---
 
 DreamWorks Animation has dropped the first trailer for Forgotten Island, a fantasy adventure deeply inspired by Filipino culture.

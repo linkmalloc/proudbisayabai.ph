@@ -9,7 +9,7 @@ categories:
 tags:
   - Lapu-lapu City
   - Single-Use Plastics Ordinance
-views: '0'
+views: "21"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2522/a4be481785216743-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2522/a4be481785216743-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2522/a4be481785216743-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-28T05:32:33.636Z'
+pbb_post_id: 2522
 ---
 
 Three vendors at the Marigondon Fish Market were cited by the City Environment and Natural Resources Office (CENRO) for violating Lapu-Lapu City’s single-use plastics ordinance during an inspection conducted over the weekend.

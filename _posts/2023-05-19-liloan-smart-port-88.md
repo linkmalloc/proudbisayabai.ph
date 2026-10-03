@@ -9,7 +9,7 @@ categories:
 tags:
   - liloan
   -  smart port               
-views: "10"
+views: "192"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pier88/cover1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pier88/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pier88/cover1.jpg
@@ -22,6 +22,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "7 minutes"
+pbb_post_id: 386
 ---
 ****
 Liloan, is gearing up to launch the region's first smart port later this month. The opening of Pier 88 Port, scheduled for May 27, 2023, promises improved transportation options for commuters in Cebu and other Visayan provinces. Located in Barangay Poblacion, Pier 88 Port will cater to travelers heading to and from various destinations, including Metro Cebu, the Camotes group of islands, and Bohol and Leyte provinces.  

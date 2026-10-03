@@ -9,7 +9,7 @@ categories:
 tags:
   - Budget Allocation
   - DBM
-views: '0'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2844/e6c6f61788502020-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2844/e6c6f61788502020-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2844/e6c6f61788502020-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-04T06:07:03.982Z'
+pbb_post_id: 2844
 ---
 
 A government agency receiving less funding than it requested does not automatically mean its budget has been cut, Department of Budget and Management (DBM) Acting Secretary Kim Robert de Leon said Thursday.

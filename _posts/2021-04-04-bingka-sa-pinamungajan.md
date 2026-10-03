@@ -19,6 +19,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617547424
 photo_credit: "Vivi Moore | Editor In Chief"
 photo_credit_link: ""
 published: false
+pbb_post_id: 138
 ---
 #### BINGKA SA Pinamungajan! 
 <center><i>Nakatilaw naka? Lami ni diri Suwayi 🥥😍</i></center>  

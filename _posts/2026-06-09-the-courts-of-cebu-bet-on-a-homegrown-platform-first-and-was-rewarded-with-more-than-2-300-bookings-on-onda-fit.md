@@ -13,7 +13,7 @@ categories:
 tags:
   - Onda Fit
   - Courts Of Cebu
-views: '10'
+views: "458"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2055/5ec2d01780991603-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2055/5ec2d01780991603-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2055/5ec2d01780991603-1.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 2055
 ---
 
 

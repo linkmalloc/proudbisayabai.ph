@@ -12,7 +12,7 @@ categories:
   - story
 tags:
   - BongbongMarcos
-views: '10'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1388/1d94051774425927-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1388/1d94051774425927-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1388/1d94051774425927-2.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1388
 ---
 
 President Ferdinand Marcos Jr. signaled that a recalibration of Philippine-China relations may be inevitable amid shifting global geopolitical dynamics, while reaffirming the country’s commitment to peace amid the ongoing Middle East conflict.

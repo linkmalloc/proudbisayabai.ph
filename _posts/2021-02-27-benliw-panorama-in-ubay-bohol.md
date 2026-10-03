@@ -22,6 +22,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614424889/b
 photo_credit: "Joseph Ubas Rhodman"
 photo_credit_link: ""
 published: false
+pbb_post_id: 51
 ---
 TAN-AWA: BENLIW  PANORAMA  IN UBAY, BOHOL 🏕⛰🍃☀️When looking to unwind, breathe some fresh air and become one with nature, the Benliw Panorma is the place to be.   
   

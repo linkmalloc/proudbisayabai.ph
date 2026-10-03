@@ -12,7 +12,7 @@ categories:
 tags:
   - Morning
   - Gratitude
-views: '10'
+views: "111"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1398/10c9691774574220-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1398/10c9691774574220-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1398/10c9691774574220-2.jpg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1398
 ---
 
 There’s something powerful about the first moments after you wake up. Before the rush, there’s a small window where you get to decide how your day begins. And that choice matters more than most people realize.

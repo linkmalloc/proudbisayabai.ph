@@ -11,7 +11,7 @@ categories:
 tags:
   - Leptospirosis
   - CebuProvince
-views: '10'
+views: "78"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/686/3fa64a1763555480-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/686/3fa64a1763555480-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/686/3fa64a1763555480-2.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-11-19T00:00:00
 published: true
+pbb_post_id: 686
 ---
 
 Cebu Province is facing a new health challenge in the wake of Typhoon Tino as leptospirosis cases rise in flood-affected communities.

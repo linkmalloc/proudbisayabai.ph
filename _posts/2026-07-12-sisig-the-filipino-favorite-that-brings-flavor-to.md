@@ -8,7 +8,7 @@ categories:
   - food
 tags:
   - Sisig
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2382/b160091783844469-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2382/b160091783844469-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2382/b160091783844469-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-12T08:21:17.314Z'
+pbb_post_id: 2382
 ---
 
 When hunger strikes after a long day, many Filipinos turn to a dish known for its bold flavors and satisfying taste—sisig.

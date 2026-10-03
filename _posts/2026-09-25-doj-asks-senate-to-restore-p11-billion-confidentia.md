@@ -9,7 +9,7 @@ categories:
 tags:
   - confidential funds
   - Department of Justice
-views: '0'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3010/965a831790268133-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3010/965a831790268133-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3010/965a831790268133-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-24T16:42:24.537Z'
+pbb_post_id: 3010
 ---
 
 The Department of Justice (DOJ) is asking senators to restore its confidential funds for 2027 to this year’s level of about P1.1 billion, warning that reduced allocations could affect information gathering, witness protection and operations against trafficking and cybercrime.

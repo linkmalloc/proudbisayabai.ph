@@ -21,6 +21,7 @@ img_500_5:
 photo_credit: "Ariston Ignatius | Professional Diver"
 photo_credit_link: ""
 published: false
+pbb_post_id: 44
 ---
 They said that if you need to calm your mind, you need to meditate. And yes, Diving is the best way to calm you mind and heart mga bai! And Cebu got you the best dive spot in the country 🏊‍♀️🧘‍♀️💙  
   

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - '911'
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2297/5217d11783079783-1.JPG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2297/5217d11783079783-1.JPG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2297/5217d11783079783-1.JPG
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-03T11:56:32.529Z'
+pbb_post_id: 2297
 ---
 
 The Philippine National Police (PNP) is calling on parents to immediately report unusual behavioral changes among children, warning that early intervention may help prevent minors from being exposed to or recruited by extremist groups operating online.

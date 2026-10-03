@@ -9,7 +9,7 @@ categories:
 tags:
   - Weather
   - Storm
-views: '0'
+views: "90"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2276/00c8d81782976311-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2276/00c8d81782976311-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2276/00c8d81782976311-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-02T07:11:57.678Z'
+pbb_post_id: 2276
 ---
 
 The Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA) forecasts that up to four tropical cyclones may develop or enter the Philippine Area of Responsibility (PAR) this July, as the country remains in the peak of the cyclone season.

@@ -10,7 +10,7 @@ tags:
   -  lalamove
   -  cebu
   -  delivery               
-views: "10"
+views: "142"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lalamove_with_kim/kim.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lalamove_with_kim/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lalamove_with_kim/kim.jpg
@@ -23,6 +23,7 @@ photo_credit: "Lalamove"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 359
 ---
 ****
 Cebuana actress Kim Chiu recently fulfilled her dream of owning a business when she launched House of Little Bunny, an online shop that sells fashionable and dainty tote bags and crossbody bags to complete one’s wardrobe, accommodating local consumers and even those abroad.   

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Risa Hontiveros
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2479/7882611784796902-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2479/7882611784796902-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2479/7882611784796902-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-23T08:55:04.176Z'
+pbb_post_id: 2479
 ---
 
 Senator Risa Hontiveros said she has submitted to the National Bureau of Investigation (NBI) the names and screenshots of hundreds of social media users who allegedly posted death threats against her, as she called for action against online violence following the killing of political vlogger Alicia Lipata.

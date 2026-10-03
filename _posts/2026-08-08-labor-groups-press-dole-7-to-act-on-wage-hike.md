@@ -10,7 +10,7 @@ tags:
   - Wage Hike
   - DOLE 7
   - Labor Groups
-views: '0'
+views: "10"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2628/613fd61786170759-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2628/613fd61786170759-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2628/613fd61786170759-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-08T06:32:42.299Z'
+pbb_post_id: 2628
 ---
 
 Labor groups on Friday pressed the government to protect workers’ purchasing power, protesting the suspension of Metro Manila’s wage increase and urging faster action on a pending wage petition in Central Visayas.

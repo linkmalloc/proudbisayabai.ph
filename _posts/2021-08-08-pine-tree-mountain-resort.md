@@ -10,13 +10,14 @@ tags:
   - busay
   - mountain
   - staycation
-views: "10"
+views: "1,360"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pine_tree_mountain_resort/2.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pine_tree_mountain_resort/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pine_tree_mountain_resort/2.jpg
 photo_credit: "Pine Tree Mountain Resort FB page"
 photo_credit_link: ""
 read_time: "5 minutes"
+pbb_post_id: 223
 ---
 ##### Pine Tree Mountain Resort  
 

@@ -9,7 +9,7 @@ categories:
 tags:
   - West Philippine Sea
   - Law Diplomacy
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2896/129a471789026286-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2896/129a471789026286-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2896/129a471789026286-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-10T07:44:51.098Z'
+pbb_post_id: 2896
 ---
 
 The Philippines will continue to challenge claims and actions in the West Philippine Sea through international law and sustained diplomacy, Foreign Affairs Secretary Ma. Theresa Lazaro said Wednesday.

@@ -9,7 +9,7 @@ categories:
 tags:
   - Budget cut
   - Office of the President
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2861/63809b1788762977-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2861/63809b1788762977-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2861/63809b1788762977-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-07T06:36:20.281Z'
+pbb_post_id: 2861
 ---
 
 The Office of the President (OP) will continue carrying out its core functions despite a proposed 64% cut in its budget for 2027, Executive Secretary Ralph Recto said Sunday.

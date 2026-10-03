@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - Sinulog2026
-views: '10'
+views: "49"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/924/dddfe21768050597-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/924/dddfe21768050597-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/924/dddfe21768050597-2.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-10T00:00:00
 published: true
+pbb_post_id: 924
 ---
 
 Barangay Mabolo’s pride, Lambo Mabolo, rose above the rest as it clinched the championship in the Ritual Showdown of Sinulog sa Dakbayan 2026, capping off a strong and multi-awarded performance in this year’s festivities.

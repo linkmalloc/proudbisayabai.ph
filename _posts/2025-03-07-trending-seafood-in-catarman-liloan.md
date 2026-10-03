@@ -10,7 +10,7 @@ tags:
   - seafoods
   - liloan
   - cebu
-views: "10"
+views: "2,785"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/liloan-seafoods/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 502
 ---
 <br>  
 Cebu is a paradise for seafood lovers, and there’s one hidden gem that stands out among the rest – the tabo at Sitio Bonbon, Barangay Catarman, Liloan. On any given Sunday, this coastal market is bustling with excitement as locals and visitors alike flock to its vibrant stalls in search of the freshest catches from the sea.  

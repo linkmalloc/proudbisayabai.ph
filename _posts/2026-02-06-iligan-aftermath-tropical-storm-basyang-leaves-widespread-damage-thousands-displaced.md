@@ -16,7 +16,7 @@ categories:
 tags:
   - BasyangPH
   - IliganCity
-views: '10'
+views: "123"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1100/49bd8f1770384756-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1100/49bd8f1770384756-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1100/49bd8f1770384756-2.jpeg
@@ -30,6 +30,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1100
 ---
 
 Floodwaters have begun to recede in Iligan City following the onslaught of Tropical Storm Basyang, but the scale of destruction left behind continues to challenge affected communities. Homes were damaged, streets were filled with debris, and daily life was severely disrupted across multiple barangays as residents began cleanup efforts and checked on neighbors.

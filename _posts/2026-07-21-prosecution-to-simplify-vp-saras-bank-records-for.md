@@ -9,7 +9,7 @@ categories:
   - story
 tags:
   - Sara Duterte Impeachment Trial
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2462/95c6411784621273-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2462/95c6411784621273-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2462/95c6411784621273-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-07-21T08:08:05.892Z'
+pbb_post_id: 2462
 ---
 
 The prosecution panel in the impeachment trial of Vice President Sara Duterte said it will review and translate banking, tax, and anti-money laundering records into a format that can be easily understood by senator-judges and the public once the documents are submitted.

@@ -14,7 +14,7 @@ categories:
 tags:
   - MayorArchival
   - breathanalyzers
-views: '10'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1159/a76e3e1771406391-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1159/a76e3e1771406391-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1159/a76e3e1771406391-2.jpg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1159
 ---
 
 Cebu City is moving to fast-track the purchase of breath analyzers following public criticism over delays in alcohol testing in the fatal Banilad hit-and-run case.

@@ -9,7 +9,7 @@ categories:
 tags:
   - LapuLapuCity
   - noisecontrol
-views: '0'
+views: "12"
 img_big_1000x600: ''
 img_big_3000x1144: ''
 img_500x500: ''
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-22T07:42:36.574Z'
+pbb_post_id: 2475
 ---
 
 The Lapu-Lapu City Government has distributed 55 decibel meters to various offices to strengthen the enforcement of local noise-control ordinances amid complaints involving loud karaoke sessions, entertainment establishments, and modified motorcycle mufflers.

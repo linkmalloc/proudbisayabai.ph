@@ -9,7 +9,7 @@ categories:
 tags:
   - Nustar
   - DragonBoatRegatta
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2536/0963bd1785322627-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2536/0963bd1785322627-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2536/0963bd1785322627-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-29T10:58:35.443Z'
+pbb_post_id: 2536
 ---
 
 NUSTAR's Dragon Boat Regatta 2026 takes center stage on its second year this September 18 to 20, 2026, gaining double the number of registrations from its first year.

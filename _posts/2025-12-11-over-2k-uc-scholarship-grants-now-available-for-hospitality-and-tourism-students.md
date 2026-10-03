@@ -14,7 +14,7 @@ categories:
   - brand
 tags:
   - UniversityOfCebu
-views: '10'
+views: "361"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/793/ebfdfe1765534978-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/793/ebfdfe1765534978-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/793/ebfdfe1765534978-2.jpg
@@ -29,6 +29,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-12-12T00:00:00
 published: true
+pbb_post_id: 793
 ---
 
 The University of Cebu (UC) has opened 2,645 fully funded scholarship slots for students in Cebu who want to pursue hospitality and tourism diplomas under the Universal Access to Quality Tertiary Education Act (UAQTEA) Philippine Qualifications Framework (PQF) Level Diploma Program.

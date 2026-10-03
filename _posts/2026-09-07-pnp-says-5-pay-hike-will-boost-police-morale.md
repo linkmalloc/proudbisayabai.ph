@@ -9,7 +9,7 @@ categories:
 tags:
   - PNP
   - Pay hike
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2860/9d067d1788762846-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2860/9d067d1788762846-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2860/9d067d1788762846-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-07T06:34:08.998Z'
+pbb_post_id: 2860
 ---
 
 The Philippine National Police (PNP) expects a 5% increase in the base pay of uniformed personnel next year to improve police morale as officers continue serving communities nationwide.

@@ -9,7 +9,7 @@ categories:
 tags:
   - Canada
   - Filipino Children Protection
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2485/0786d61784799228-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2485/0786d61784799228-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2485/0786d61784799228-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-23T09:33:50.790Z'
+pbb_post_id: 2485
 ---
 
 Canada will provide C$1.7 million, or around P74.5 million, to support Philippine communities in preventing the exploitation and recruitment of children by criminal and terrorist groups.

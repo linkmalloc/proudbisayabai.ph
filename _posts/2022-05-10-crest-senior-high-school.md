@@ -11,7 +11,7 @@ tags:
   - private school
   - free tuition
   - shs               
-views: "10"
+views: "755"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/crest_senior_high_school/15.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/crest_senior_high_school/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/crest_senior_high_school/15.jpg
@@ -24,6 +24,7 @@ photo_credit: "Proud Bisaya Bai Team"
 photo_credit_link: ""
 editor: "Evner Negro"
 read_time: "10 minutes"
+pbb_post_id: 288
 ---
 ****
 ##### CREST SHS: A Private School that Offers FREE Tuition Fee  

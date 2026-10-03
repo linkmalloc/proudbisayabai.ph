@@ -8,7 +8,7 @@ categories:
   - food
 tags:
   - restaurant
-views: "10"
+views: "794"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mr_baboo_cafe/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mr_baboo_cafe/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mr_baboo_cafe/cover.jpg
@@ -21,6 +21,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 460
 ---
 ****
 If you haven't yet discovered the delightful world of MR. BABOO Cafe, now's the perfect time! Nestled in serene locations, this cozy café has quickly become a must-visit destination for locals and tourists alike. With its signature offerings, including delicious milk tea starting at just 59 pesos, MR. BABOO brings a blend of comfort and flavor that’s hard to resist. Whether you're craving a refreshing drink, a hearty meal, or a quick snack, this charming café has something for everyone.  

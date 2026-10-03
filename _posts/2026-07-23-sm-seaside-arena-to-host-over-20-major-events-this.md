@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - SM Seaside Arena
-views: '0'
+views: "36"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2483/5bdff61784799019-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2483/5bdff61784799019-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2483/5bdff61784799019-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-23T09:30:40.523Z'
+pbb_post_id: 2483
 ---
 
 Beyond shopping and business, Cebu is preparing to become a bigger stop for concerts, sports, and live entertainment as SM Prime Holdings Inc. brings more than 20 major events to its newly opened SM Seaside Cebu Arena this year.

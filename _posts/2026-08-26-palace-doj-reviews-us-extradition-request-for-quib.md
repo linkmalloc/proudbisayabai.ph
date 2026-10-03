@@ -9,7 +9,7 @@ categories:
 tags:
   - Apollo Quiboloy
   - US Extradition
-views: '0'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2770/f638421787719931-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2770/f638421787719931-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2770/f638421787719931-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-26T04:52:22.257Z'
+pbb_post_id: 2770
 ---
 
 The Department of Justice (DOJ) is reviewing the United States’ request to extradite Kingdom of Jesus Christ leader Apollo Quiboloy, with Malacañang saying Tuesday that the department is still assessing the documents submitted by US authorities.

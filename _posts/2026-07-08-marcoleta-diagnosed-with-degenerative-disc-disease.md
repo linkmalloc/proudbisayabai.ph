@@ -8,7 +8,7 @@ categories:
   - news
 tags:
   - SenatorMarcoleta
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2340/9b146e1783506941-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2340/9b146e1783506941-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2340/9b146e1783506941-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-08T10:35:42.649Z'
+pbb_post_id: 2340
 ---
 
 Senator Rodante Marcoleta remains confined at the Philippine National Police (PNP) General Hospital as doctors continue monitoring his condition and conduct additional medical tests after finding that he has degenerative disc disease and mild pneumonia.

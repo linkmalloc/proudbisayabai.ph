@@ -15,7 +15,7 @@ categories:
 tags:
   - ManangaRiver
   - TinoPH
-views: '10'
+views: "1,196"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/634/02ec721762274137-2.JPG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/634/02ec721762274137-2.JPG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/634/02ec721762274137-2.JPG
@@ -30,6 +30,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-11-04T00:00:00
 published: true
+pbb_post_id: 634
 ---
 
 The devastating sight of the Mananga River overflowing its banks, sweeping debris and impacting riverside communities, has brought a stark focus to the massive **₱1.9 billion** worth of flood control projects reportedly undertaken in the area by contractor QM Builders. The image of the raging, debris-choked river serves as a potent and visual question mark over the efficacy of one of Cebu's largest single allocations for flood mitigation.

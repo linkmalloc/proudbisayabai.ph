@@ -10,13 +10,14 @@ tags:
   - beach
   - cebu
   - resort
-views: "10"
+views: "7,807"
 read_time: "3 minutes"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ritz_beach_resort/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ritz_beach_resort/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ritz_beach_resort/1.jpg
 photo_credit: "Ray Mond"
 photo_credit_link: ""
+pbb_post_id: 174
 ---
 #### Ritz Beach Resort  
 

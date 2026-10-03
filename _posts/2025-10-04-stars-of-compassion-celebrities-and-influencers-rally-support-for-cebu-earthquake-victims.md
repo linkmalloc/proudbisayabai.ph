@@ -23,7 +23,7 @@ tags:
   - BarbieForteza
   - MelaCantiverosFrancisco
   - JosephSabello
-views: '10'
+views: "277"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/577/cfeb2b1759689411-14.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/577/cfeb2b1759689411-14.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/577/cfeb2b1759689411-14.jpg
@@ -38,6 +38,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-10-05T00:00:00
 published: true
+pbb_post_id: 577
 ---
 
 When disaster strikes, Filipinos have always turned to the spirit of *bayanihan* for strength. This was once again evident after the magnitude 6.9 earthquake that rocked Cebu Province on September 30, leaving widespread damage and thousands of families in need. Among those who quickly extended help were celebrities and influencers who used their influence, resources, and platforms to bring aid and hope to the quake-stricken communities.

@@ -9,7 +9,7 @@ categories:
 tags:
   - Martial Law
   - UP Cebu
-views: '0'
+views: "49"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2944/690c901789589764-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2944/690c901789589764-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2944/690c901789589764-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-16T20:16:06.558Z'
+pbb_post_id: 2944
 ---
 
 CEBU CITY, Philippines — Students from the Fine Arts Students Organization (FASO) and the UP Students’ Theater Arts Guild for Education (UPSTAGE) staged performances portraying the atrocities and human rights abuses committed during Martial Law during the opening of the 9th annual 1081 Exhibit at the University of the Philippines Cebu on Wednesday, September 16, 2026.

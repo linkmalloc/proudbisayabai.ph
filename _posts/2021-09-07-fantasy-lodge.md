@@ -9,7 +9,7 @@ tags:
   - getaway
   - resort
   - cebu
-views: "10"
+views: "625"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/fantasy_lodge/8.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/fantasy_lodge/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/fantasy_lodge/8.jpg
@@ -22,6 +22,7 @@ photo_credit: "Jay Delos Angeles | Mark Cuyos (No copyright infringement)"
 photo_credit_link: ""
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "4 minutes"
+pbb_post_id: 229
 ---
 ****
 ###### Fantasy Lodge

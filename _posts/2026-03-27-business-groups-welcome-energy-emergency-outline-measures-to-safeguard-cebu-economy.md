@@ -15,7 +15,7 @@ categories:
 tags:
   - EnergyEmergency
   - CebuEconomy
-views: '10'
+views: "8"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1404/0321151774596036-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1404/0321151774596036-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1404/0321151774596036-2.jpeg
@@ -29,6 +29,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1404
 ---
 
 While a local progressive group expressed dismay over the declaration of a National State of Energy Emergency, saying it fails to ease the burden on commuters and transport workers, a group of business leaders welcomed it as a necessary step to stabilize energy supply and prices amid global disruptions.

@@ -17,6 +17,7 @@ img_500_4: https://res.cloudinary.com/proudbisayabai/image/upload/w_1000,h_600,c
 photo_credit: ARAT Travel
 photo_credit_link: https://www.facebook.com/arattravel/
 published: false
+pbb_post_id: 10
 ---
 Discover some of the reasons why people want to be here. This small resort is surrounded by lush green vegetation and a stunning view of the morning sun and a river of clouds!  
 

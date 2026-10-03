@@ -9,7 +9,7 @@ categories:
 tags:
   - Generic Medicines
   - Healthcare
-views: '0'
+views: "24"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2829/242a0d1788326264-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2829/242a0d1788326264-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2829/242a0d1788326264-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-02T05:17:47.387Z'
+pbb_post_id: 2829
 ---
 
 Consumer preference for branded medicines remains a challenge to the wider use of generic drugs in the Philippines, even as reputable pharmacies carry generics that meet quality and regulatory standards.

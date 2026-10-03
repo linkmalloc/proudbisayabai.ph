@@ -12,7 +12,7 @@ tags:
   - resort
   - medellin
   - cebu            
-views: "10"
+views: "3,199"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chai_beach_resort/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chai_beach_resort/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chai_beach_resort/1.jpg
@@ -25,6 +25,7 @@ photo_credit: "PBB admin"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 276
 ---
 ****
 Cebu's adverse weather, busy streets, and mundane lifestyle can wear on your nerves at times. The best

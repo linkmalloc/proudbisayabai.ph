@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Cebu Marathon 2027
-views: '0'
+views: "38"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2676/62d9d31786689611-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2676/62d9d31786689611-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2676/62d9d31786689611-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-14T06:40:12.954Z'
+pbb_post_id: 2676
 ---
 
 A smoother race, earlier preparations and closer coordination with the city government will headline the Cebu Marathon’s return on Jan. 10, 2027, as organizers prepare a new edition with a stronger focus on the runner experience.

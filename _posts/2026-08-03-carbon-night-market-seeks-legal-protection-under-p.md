@@ -9,7 +9,7 @@ categories:
 tags:
   - Carbon Night Market
   - Legal Protection
-views: '0'
+views: "95"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2573/8c57f11785739068-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2573/8c57f11785739068-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2573/8c57f11785739068-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-08-03T06:37:57.068Z'
+pbb_post_id: 2573
 ---
 
 The long-running night market at Carbon Public Market, where farmers bring fresh produce before dawn and consumers buy fruits and vegetables at lower prices, may soon receive formal recognition under a proposed Cebu City ordinance.

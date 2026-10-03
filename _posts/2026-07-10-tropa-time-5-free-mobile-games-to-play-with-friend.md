@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Lifestyle
-views: '0'
+views: "62"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2361/4514601783671220-6.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2361/4514601783671220-6.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2361/4514601783671220-6.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-10T08:14:19.419Z'
+pbb_post_id: 2361
 ---
 
 After a long day at work, school, or traffic, a good game session with friends is one of the best parts of a night of relaxation. If you're running out of ideas or tired of playing the same mobile games over and over again, here are five free picks worth playing with the gang at no cost!

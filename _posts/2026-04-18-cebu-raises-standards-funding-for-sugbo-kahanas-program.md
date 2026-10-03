@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - SugboKahanas
-views: '10'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1549/5911eb1776495809-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1549/5911eb1776495809-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1549/5911eb1776495809-1.jpeg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1549
 ---
 
 A provincial skills training program is getting a policy overhaul as Cebu moves to tighten qualifications, improve oversight, and align training with job market.

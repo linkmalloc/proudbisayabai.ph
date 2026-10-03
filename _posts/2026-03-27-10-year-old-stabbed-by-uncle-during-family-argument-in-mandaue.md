@@ -12,7 +12,7 @@ categories:
 tags:
   - Stabbing
   - Mandaue
-views: '10'
+views: "37"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1401/f6171a1774586569-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1401/f6171a1774586569-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1401/f6171a1774586569-2.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1401
 ---
 
 Police arrested a 41-year-old man after he allegedly stabbed his 10-year-old nephew during a family argument early Thursday morning along C. Ouano Street, Barangay Looc, Mandaue City.

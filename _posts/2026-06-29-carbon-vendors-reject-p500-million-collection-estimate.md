@@ -12,7 +12,7 @@ categories:
   - story
 tags:
   - Carbon
-views: '10'
+views: "29"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2243/97f42f1782730491-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2243/97f42f1782730491-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2243/97f42f1782730491-2.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 2243
 ---
 
 

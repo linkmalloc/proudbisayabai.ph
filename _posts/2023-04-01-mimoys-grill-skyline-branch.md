@@ -11,7 +11,7 @@ tags:
   -  grill
   -  picnic
   -  night               
-views: "10"
+views: "189"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/cover2.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/cover2.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mimoysgrillskyline/cover2.jpg
@@ -24,6 +24,7 @@ photo_credit: "Edward Charles Tinga - PBB Official Photographer"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 375
 ---
 *****
 \#WhatNewCebu: Want to chill and grill with a view? Have a blast at Mimoy's Grill Cebu!  

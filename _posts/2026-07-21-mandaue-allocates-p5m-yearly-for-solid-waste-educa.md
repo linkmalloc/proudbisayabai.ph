@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Mandaue City Budget
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2468/6b9c8b1784621952-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2468/6b9c8b1784621952-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2468/6b9c8b1784621952-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-21T08:19:22.556Z'
+pbb_post_id: 2468
 ---
 
 The Mandaue City Government will provide at least P5 million annually to support the integration of solid waste management education into the curriculum of public schools in the city.

@@ -11,7 +11,7 @@ tags:
   - Bongbong Marcos
   - Pax Silica Industrial Hub
   - Pax Silica
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2518/0c81361785216184-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2518/0c81361785216184-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2518/0c81361785216184-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-28T05:23:20.336Z'
+pbb_post_id: 2518
 ---
 
 President Ferdinand R. Marcos Jr. said the planned Pax Silica Industrial Hub will help position the Philippines as a key player in the global artificial intelligence (AI) and technology supply chain while creating high-quality jobs for Filipinos.

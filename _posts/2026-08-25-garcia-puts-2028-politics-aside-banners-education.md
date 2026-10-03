@@ -9,7 +9,7 @@ categories:
 tags:
   - Gwen Garcia
   - Politics
-views: '0'
+views: "26"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2758/3fc8b01787654147-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2758/3fc8b01787654147-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2758/3fc8b01787654147-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-25T10:35:58.754Z'
+pbb_post_id: 2758
 ---
 
 Former Cebu governor Gwendolyn Garcia is keeping her distance from early political maneuvering for the 2028 elections, saying her attention is better spent on programs that could benefit Cebuanos in the long term.

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Ninoy Aquino
-views: '0'
+views: "8"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2728/aa7d8f1787302087-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2728/aa7d8f1787302087-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2728/aa7d8f1787302087-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-21T08:48:09.916Z'
+pbb_post_id: 2728
 ---
 
 Forty-three years after the assassination of former senator Benigno “Ninoy” Aquino Jr., Senator Bam Aquino urged Filipinos to hold on to his uncle’s faith in the country and refuse to give in to hopelessness.

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Impeachment court
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3008/b57d741790241142-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3008/b57d741790241142-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3008/b57d741790241142-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-24T09:12:28.843Z'
+pbb_post_id: 3008
 ---
 
 The Senate impeachment court’s new voting formula changes the senators who will be counted in determining the verdict in Vice President Sara Duterte’s trial, but does not reduce the constitutional requirement of a two-thirds vote, Senate President Sherwin Gatchalian and Senator-judge Risa Hontiveros said Wednesday.

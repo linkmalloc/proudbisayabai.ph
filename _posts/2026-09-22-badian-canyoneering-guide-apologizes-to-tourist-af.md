@@ -11,7 +11,7 @@ tags:
   - apology
   - canyoneering
   - Badian
-views: '0'
+views: "220"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2989/9148351790071107-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2989/9148351790071107-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2989/9148351790071107-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-22T09:58:28.226Z'
+pbb_post_id: 2989
 ---
 
 A canyoneering guide in Badian, Cebu has publicly apologized to a foreign tourist following an encounter that circulated online and resulted in disciplinary action from the municipal government.

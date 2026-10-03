@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - VP Sara Duterte Impeachment Trial
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2649/a1b3171786442561-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2649/a1b3171786442561-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2649/a1b3171786442561-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-11T10:02:46.918Z'
+pbb_post_id: 2649
 ---
 
 At least 23 unusual names, including some resembling those of public figures and others associated with food, appeared on selected acknowledgment receipts submitted by the Office of the Vice President (OVP) to support its confidential fund expenditures in 2023.

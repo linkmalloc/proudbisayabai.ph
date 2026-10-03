@@ -9,7 +9,7 @@ categories:
 tags:
   - Lapu-Lapu City
   - Asian Beach Games
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2808/ef3bf71788167048-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2808/ef3bf71788167048-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2808/ef3bf71788167048-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-31T09:04:12.244Z'
+pbb_post_id: 2808
 ---
 
 Beach sports could take center stage in Lapu-Lapu City in 2028 as local officials explore the possibility of hosting competitions for the Asian Beach Games.

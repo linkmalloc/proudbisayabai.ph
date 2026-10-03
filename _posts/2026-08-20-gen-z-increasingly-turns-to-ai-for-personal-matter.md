@@ -10,7 +10,7 @@ tags:
   - Gen Z
   - AI
   - AI Use
-views: '0'
+views: "50"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2710/34d1741787205141-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2710/34d1741787205141-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2710/34d1741787205141-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-20T05:52:25.813Z'
+pbb_post_id: 2710
 ---
 
 More than a quarter of Generation Z users interact with artificial intelligence (AI) as if communicating with a friend, using the technology for emotional support and personal concerns, according to a global study released Tuesday.

@@ -28,6 +28,7 @@ published: false
 
 social_reach: "44,216"
 location: Don Salvador Benedicto Negros Occidental 
+pbb_post_id: 33
 ---
 LOOK: Another perfect place to chill and to have a peace of mind. A great place for bonfire and stargazing  
 

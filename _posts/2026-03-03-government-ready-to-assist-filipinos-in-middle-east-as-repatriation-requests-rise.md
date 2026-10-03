@@ -17,7 +17,7 @@ tags:
   - OFW
   - DMW
   - DFA
-views: '10'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1246/4c78c61772536829-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1246/4c78c61772536829-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1246/4c78c61772536829-2.jpg
@@ -31,6 +31,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1246
 ---
 
 The government is ready to assist Filipinos in the Middle East, with funds already allocated and agencies on standby as 1,416 nationals have requested repatriation amid escalating tensions in the region, Senator Erwin Tulfo said on Tuesday.

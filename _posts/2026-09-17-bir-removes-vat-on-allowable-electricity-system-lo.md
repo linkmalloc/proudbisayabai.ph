@@ -9,7 +9,7 @@ categories:
 tags:
   - BIR
   - System loss
-views: '0'
+views: "26"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2945/2954671789622267-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2945/2954671789622267-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2945/2954671789622267-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-17T05:17:49.929Z'
+pbb_post_id: 2945
 ---
 
 Consumers will no longer pay value-added tax on the allowable system loss component of their electricity bills once new regulatory rules take effect, the Bureau of Internal Revenue said.

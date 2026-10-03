@@ -10,7 +10,7 @@ tags:
   - Illicit Tobacco
   - Bureau of Internal Revenue
   - Bureau of Customs
-views: '0'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2669/33595e1786688736-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2669/33595e1786688736-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2669/33595e1786688736-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-14T06:25:43.940Z'
+pbb_post_id: 2669
 ---
 
 The Bureau of Internal Revenue (BIR) and Bureau of Customs (BOC) are stepping up their campaign against illicit tobacco in Cebu as authorities destroyed seized cigarettes and cigarette-making equipment tied to P240.64 million in tax liabilities on Thursday, Aug. 13.

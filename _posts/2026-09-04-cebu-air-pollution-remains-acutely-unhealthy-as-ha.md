@@ -9,7 +9,7 @@ categories:
 tags:
   - Haze
   - Air Quality Index
-views: '0'
+views: "43"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2848/d18e2e1788502699-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2848/d18e2e1788502699-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2848/d18e2e1788502699-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-04T06:18:21.050Z'
+pbb_post_id: 2848
 ---
 
 Air pollution levels in Cebu remained in the “acutely unhealthy” range as haze continued to blanket parts of the province, with environmental authorities urging residents to limit outdoor exposure and take precautions against fine particulate matter.

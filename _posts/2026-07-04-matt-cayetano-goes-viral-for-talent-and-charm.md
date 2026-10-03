@@ -9,7 +9,7 @@ categories:
 tags:
   - Sports
   - Matt Cayetano
-views: '0'
+views: "439"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2298/ce58c41783110797-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2298/ce58c41783110797-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2298/ce58c41783110797-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-03T20:33:23.133Z'
+pbb_post_id: 2298
 ---
 
 Sixteen-year-old basketball standout Matt Cayetano is trending across social media, capturing widespread attention for his standout performances on the court and his striking charm off it. As clips of his games and photos circulate online, fans are taking notice—not just of his athletic potential, but also of his chinito features and charismatic presence.

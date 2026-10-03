@@ -9,7 +9,7 @@ categories:
 tags:
   - Vaccination
   - Healthcare
-views: '0'
+views: "39"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2832/7f51411788416095-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2832/7f51411788416095-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2832/7f51411788416095-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-03T06:14:56.604Z'
+pbb_post_id: 2832
 ---
 
 Vaccinating children and pregnant women can help prevent infections that may lead to serious heart complications, including inflammation of the heart muscle and certain congenital heart defects, a pediatric cardiologist said.

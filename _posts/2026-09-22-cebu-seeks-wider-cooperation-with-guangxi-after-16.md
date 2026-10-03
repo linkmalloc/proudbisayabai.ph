@@ -10,7 +10,7 @@ tags:
   - Guangxi
   - sister-province
   - Sister Cities
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2984/14f6841790060612-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2984/14f6841790060612-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2984/14f6841790060612-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-22T07:03:35.618Z'
+pbb_post_id: 2984
 ---
 
 Cebu is looking to broaden its 16-year sister-province relationship with Guangxi beyond government exchanges, with the provincial government exploring cooperation in tourism, education, culture, technology, business and youth engagement.

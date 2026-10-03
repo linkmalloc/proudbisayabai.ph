@@ -20,6 +20,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617548947
 photo_credit: "R | Jay Ricafrente"
 photo_credit_link: ""
 published: false
+pbb_post_id: 141
 ---
 #### Tumalog Falls
 LOOK: Come and visit the bright and scenic Tumalog Falls.🍃😯💦  

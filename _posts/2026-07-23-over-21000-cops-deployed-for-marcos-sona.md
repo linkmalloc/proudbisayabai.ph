@@ -9,7 +9,7 @@ categories:
 tags:
   - Bongbong Marcos
   - SONA
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2484/43ec021784799143-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2484/43ec021784799143-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2484/43ec021784799143-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-23T09:32:29.592Z'
+pbb_post_id: 2484
 ---
 
 More than 21,000 police personnel will be deployed to secure President Ferdinand R. Marcos Jr.’s fifth State of the Nation Address (SONA) on July 27, as the National Capital Region Police Office (NCRPO) begins heightened security preparations in Metro Manila.

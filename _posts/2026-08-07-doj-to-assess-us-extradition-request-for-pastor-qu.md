@@ -9,7 +9,7 @@ categories:
 tags:
   - extradition
   - ApolloQuiboloy
-views: '0'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2622/8a635c1786106835-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2622/8a635c1786106835-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2622/8a635c1786106835-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-07T12:47:17.869Z'
+pbb_post_id: 2622
 ---
 
 The Department of Justice (DOJ) will evaluate the United States’ request to extradite Kingdom of Jesus Christ (KOJC) founder Pastor Apollo Quiboloy, as authorities review documents supporting the case.

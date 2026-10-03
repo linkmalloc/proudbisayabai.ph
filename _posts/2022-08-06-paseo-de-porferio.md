@@ -9,7 +9,7 @@ tags:
   - camping
   -  cebu
   -  star gazing               
-views: "10"
+views: "1,346"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paseo_de_porferio/3.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paseo_de_porferio/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/paseo_de_porferio/3.jpg
@@ -22,6 +22,7 @@ photo_credit: "Gan Robert Tiu"
 photo_credit_link: "https://www.facebook.com/ganrobert.tiu"
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 320
 ---
 ###### PASEO de Porferio  
 

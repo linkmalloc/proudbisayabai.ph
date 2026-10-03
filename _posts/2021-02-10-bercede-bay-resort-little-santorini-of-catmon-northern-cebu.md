@@ -10,7 +10,7 @@ tags:
   - cebu_north
   - catmon
   - featured
-views: "10"
+views: "1,491"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/cover.jpg
 img_500x500:  https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bercede_bay_resort/1.jpg
@@ -23,6 +23,7 @@ photo_credit: "PBB Admin"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 19
 ---
 **** 
 You can get a piece of Santorini even without flying to Greece! Bercede Bay Resort is a

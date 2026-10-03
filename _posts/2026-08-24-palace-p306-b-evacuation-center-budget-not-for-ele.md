@@ -10,7 +10,7 @@ tags:
   - NEP
   - palace
   - budget
-views: '0'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2745/ec410d1787546449-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2745/ec410d1787546449-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2745/ec410d1787546449-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-24T04:40:51.606Z'
+pbb_post_id: 2745
 ---
 
 Malacañang assured the public that the proposed P3.06-billion allocation for evacuation centers under the 2027 National Expenditure Program (NEP) will not be used as an election or campaign fund.

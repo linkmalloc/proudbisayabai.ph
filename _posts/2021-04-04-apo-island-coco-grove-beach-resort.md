@@ -24,6 +24,7 @@ published: false
 
 social_reach: "3,902"
 location: Apo Island, Negros
+pbb_post_id: 137
 ---
 #### Apo Island Coco Grove Beach Resort
 Relax, Dive and Swim with turtles at Apo Island Coco Grove Beach Resort. 🏝  

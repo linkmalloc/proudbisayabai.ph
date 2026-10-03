@@ -9,7 +9,7 @@ categories:
 tags:
   - Hospital Workers
   - Health
-views: '0'
+views: "168"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2694/66fc301787041710-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2694/66fc301787041710-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2694/66fc301787041710-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-18T08:28:35.720Z'
+pbb_post_id: 2694
 ---
 
 After years of working without permanent appointments, 118 healthcare workers in Cebu provincial government hospitals have secured plantilla positions, giving them greater job security as they continue serving patients.

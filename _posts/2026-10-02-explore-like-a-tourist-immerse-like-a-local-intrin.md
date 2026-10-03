@@ -12,7 +12,7 @@ tags:
   - direct flights
   - CEB to IAO
   - Siargao
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3075/dad5ee1790915228-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3075/dad5ee1790915228-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3075/dad5ee1790915228-1.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-10-02T04:27:30.771Z'
+pbb_post_id: 3075
 ---
 
 Siargao’s magic begins with a booked flight. After countless nights debating whether to press that confirmation button or wait it out a bit longer, the adventure is set to begin and there’s no turning back. 

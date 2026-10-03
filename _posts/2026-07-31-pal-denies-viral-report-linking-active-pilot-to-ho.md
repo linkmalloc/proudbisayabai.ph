@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - PAL
-views: '0'
+views: "97"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2560/bbb26f1785488767-1.png
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2560/bbb26f1785488767-1.png
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2560/bbb26f1785488767-1.png
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-31T09:06:09.832Z'
+pbb_post_id: 2560
 ---
 
 Flag carrier Philippine Airlines (PAL) on Friday refuted a viral report published by a Thai news outlet that identified one of its pilots as a homeless man found on the streets of Bangkok.

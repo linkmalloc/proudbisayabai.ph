@@ -9,7 +9,7 @@ tags:
   - beach
   - resort
   - north cebu
-views: "205,635"
+views: "432"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/19.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/cover2.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/turtle_beach_resort/19.jpg
@@ -17,6 +17,7 @@ photo_credit: "Michael Audrey Jacobe Sagonoy | Pobreng Laagan"
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/michael.jpg"
 read_time: "3 minutes"
 photo_credit_link: ""
+pbb_post_id: 202
 ---
 ****
 ##### Turtle Beach Resort 

@@ -9,7 +9,7 @@ categories:
 tags:
   - healthcare
   - mobile healthcare services
-views: '0'
+views: "44"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3029/4559691790397157-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3029/4559691790397157-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3029/4559691790397157-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-26T04:33:27.932Z'
+pbb_post_id: 3029
 ---
 
 Access to diagnostic services in Northern Cebu is set to improve with the opening of a new radiology center and the launch of mobile healthcare services, bringing advanced imaging and preventive care closer to communities.

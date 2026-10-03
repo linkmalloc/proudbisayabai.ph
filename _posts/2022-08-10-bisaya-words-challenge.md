@@ -8,7 +8,7 @@ categories:
 tags:
   - bisaya words
   - bisaya challenge               
-views: "10"
+views: "51"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bisaya_words/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bisaya_words/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bisaya_words/cover.jpg
@@ -21,6 +21,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: ""
+pbb_post_id: 321
 ---
 ****
 ##### CERTIFIED  BISAYA  CHALLENGE‼️

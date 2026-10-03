@@ -9,7 +9,7 @@ categories:
 tags:
   - Sandiganbayan
   - Plunder Case
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2319/3141ab1783335056-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2319/3141ab1783335056-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2319/3141ab1783335056-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-06T10:50:57.553Z'
+pbb_post_id: 2319
 ---
 
 Interior Secretary Jonvic Remulla on Monday confirmed the arrest of Sen. Rodante Marcoleta, former Rep. Mike Defensor, and businessman Joseph Espiritu in connection with plunder charges filed before the Sandiganbayan, while a fourth co-accused remains the subject of a police manhunt.

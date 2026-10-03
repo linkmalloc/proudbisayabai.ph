@@ -10,7 +10,7 @@ tags:
   - BOC
   - NBI
   - Illicit Cigarettes
-views: '0'
+views: "41"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2379/28536b1783771395-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2379/28536b1783771395-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2379/28536b1783771395-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-11T12:03:20.797Z'
+pbb_post_id: 2379
 ---
 
 The Bureau of Customs (BOC) and the National Bureau of Investigation (NBI) inspected on Saturday, July 11, 25 seized containers loaded with illicit cigarettes valued at around P980 million at Gothong Wharf in Mandaue City, Cebu.

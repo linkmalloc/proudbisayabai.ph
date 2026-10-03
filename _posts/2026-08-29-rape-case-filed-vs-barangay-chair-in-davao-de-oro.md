@@ -9,7 +9,7 @@ categories:
 tags:
   - Davao de Oro
   - Rape Case
-views: '0'
+views: "103"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2804/b61f0b1788002036-1.png
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2804/b61f0b1788002036-1.png
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2804/b61f0b1788002036-1.png
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-29T11:13:58.039Z'
+pbb_post_id: 2804
 ---
 
 The Provincial Prosecutor’s Office has ordered a preliminary investigation into a rape complaint filed by a 17-year-old senior high school student against the incumbent chairman of Barangay Centro Poblacion in Compostela.

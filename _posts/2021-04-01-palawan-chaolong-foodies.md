@@ -23,6 +23,7 @@ published: false
 
 social_reach: "98,879"
 location: Canduman, Mandaue City
+pbb_post_id: 130
 ---
 #### J.E. Chaolong  
 

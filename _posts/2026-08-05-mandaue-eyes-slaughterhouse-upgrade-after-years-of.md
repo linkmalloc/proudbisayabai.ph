@@ -10,7 +10,7 @@ categories:
 tags:
   - Mandaue City
   - Slaughterhouse
-views: '0'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2600/b6fe8e1785911081-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2600/b6fe8e1785911081-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2600/b6fe8e1785911081-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-05T06:24:46.208Z'
+pbb_post_id: 2600
 ---
 
 The Mandaue City Government is coordinating with the National Meat Inspection Service (NMIS) for the planned redevelopment of its slaughterhouse in Barangay Labogon as the city works to improve meat processing operations and regain accreditation.

@@ -9,7 +9,7 @@ categories:
 tags:
   - LTO
   - Revoke License
-views: '0'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2504/df1d801784961868-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2504/df1d801784961868-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2504/df1d801784961868-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-25T06:44:29.779Z'
+pbb_post_id: 2504
 ---
 
 The Land Transportation Office (LTO) has permanently revoked the driver’s license of the motorist who struck a Cebu City Transportation Office (CCTO) traffic enforcer while managing traffic at a busy intersection earlier this month.

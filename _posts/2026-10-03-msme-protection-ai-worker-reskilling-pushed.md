@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-10-03T11:51:49.078Z'
+pbb_post_id: 3087
 ---
 
 The Department of Trade and Industry (DTI) is being urged to strengthen protection for micro, small and medium enterprises (MSMEs), expand support for Filipino creatives and prepare workers for possible job displacement as artificial intelligence (AI) reshapes key industries.

@@ -9,7 +9,7 @@ categories:
 tags:
   - Division for the Welfare of the Urban Poor
   - MRBs
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2738/aa5e871787380383-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2738/aa5e871787380383-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2738/aa5e871787380383-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-08-22T06:33:05.663Z'
+pbb_post_id: 2738
 ---
 
 Cebu City Mayor Nestor Archival has placed all city-owned medium-rise buildings (MRBs) under a single executive committee that will oversee their operations, maintenance, rental rates, commercial spaces and tenancy-related concerns.

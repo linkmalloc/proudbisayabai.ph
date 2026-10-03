@@ -21,6 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613834280/d
 photo_credit: "Negros Finest"
 photo_credit_link: "https://www.facebook.com/NegrosFinest"
 published: false
+pbb_post_id: 29
 ---
 After a long fun ride in Negros, come and take a break the trending mountain cafe in Silay City, the **Duyan Café**. Where you can enjoy coffee, local snacks, and full meals with a view! 🍃😯  
 

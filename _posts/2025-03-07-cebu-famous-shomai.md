@@ -11,7 +11,7 @@ tags:
   - shomai
   - tisa
   - cebu
-views: "10"
+views: "407"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/shomai-sa-tisa/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/shomai-sa-tisa/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/shomai-sa-tisa/cover.jpg
@@ -24,6 +24,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 501
 ---
 <br>  
 Cebu has a rich culinary landscape, and if you want to experience one of its most iconic street food offerings, you need to stop by Shomai sa Tisa. This humble food stall has become a local institution, known for its flavorful and affordable meals. For just 50 pesos, you can enjoy a satisfying meal that includes your choice of shomai, a serving of rice, and a refreshing drink. Whether you’re a Cebu local or a first-time visitor, Shomai sa Tisa is a must-try experience that showcases the heart of Cebu’s street food culture.  

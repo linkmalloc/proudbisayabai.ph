@@ -12,7 +12,7 @@ categories:
 tags:
 - ExMayor
 - Cagayan
-views: '10'
+views: "2"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1566/7d7f431776695605-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1566/7d7f431776695605-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1566/7d7f431776695605-1.jpg

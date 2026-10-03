@@ -11,7 +11,7 @@ tags:
   - tabogon
   -  north-cebu
   -  camping               
-views: "10"
+views: "2,750"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camp_paraiso_tabogon/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camp_paraiso_tabogon/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/camp_paraiso_tabogon/cover.jpg
@@ -24,6 +24,7 @@ photo_credit: "Anne Nette"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 332
 ---
 ###### CAMP Paradisio Tabogon  
 

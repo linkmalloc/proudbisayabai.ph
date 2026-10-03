@@ -11,7 +11,7 @@ tags:
   - Flights
   - Kanlaon Ashfall
   - MCIA
-views: '0'
+views: "69"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2347/60ab9b1783589667-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2347/60ab9b1783589667-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2347/60ab9b1783589667-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-09T09:35:03.606Z'
+pbb_post_id: 2347
 ---
 
 Several airlines suspended flights to and from Mactan-Cebu International Airport (MCIA) on Wednesday as volcanic ash from Kanlaon Volcano disrupted operations and reduced visibility in parts of the Visayas.

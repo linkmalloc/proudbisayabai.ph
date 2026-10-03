@@ -9,7 +9,7 @@ categories:
 tags:
   - Mandaue City
   - DOST
-views: '0'
+views: "10"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2513/f770531785138302-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2513/f770531785138302-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2513/f770531785138302-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-27T07:45:14.640Z'
+pbb_post_id: 2513
 ---
 
 The Mandaue City Government has secured a P5-million grant from the Department of Science and Technology (DOST) for a drone-based “digital twin” project that aims to improve disaster preparedness, urban planning, and public services through advanced mapping technology.

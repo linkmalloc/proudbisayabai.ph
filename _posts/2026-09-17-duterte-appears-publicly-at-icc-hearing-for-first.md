@@ -9,7 +9,7 @@ categories:
 tags:
   - Rodrigo Duterte
   - ICC
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2951/b9feb01789622958-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2951/b9feb01789622958-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2951/b9feb01789622958-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-17T05:29:48.271Z'
+pbb_post_id: 2951
 ---
 
 Former Philippine President Rodrigo Duterte appeared in public Wednesday for the first time since his detention by the International Criminal Court (ICC) in March 2025, attending a hearing on the crimes against humanity charges stemming from his administration’s war on drugs.

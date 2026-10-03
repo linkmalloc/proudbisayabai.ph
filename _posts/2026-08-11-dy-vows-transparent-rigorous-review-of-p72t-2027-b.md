@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - 2027 Budget
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2648/f8af821786442494-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2648/f8af821786442494-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2648/f8af821786442494-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-11T10:01:45.588Z'
+pbb_post_id: 2648
 ---
 
 The House of Representatives will subject the proposed P7.2-trillion National Expenditure Program (NEP) for 2027 to rigorous scrutiny to ensure that government spending delivers concrete benefits to Filipinos, Speaker Faustino “Bojie” Dy III said Tuesday.

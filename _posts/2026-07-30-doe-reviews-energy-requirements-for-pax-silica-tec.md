@@ -11,7 +11,7 @@ categories:
 tags:
   - DOE
   - PaxSilica
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2542/87ea521785388122-1.avif
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2542/87ea521785388122-1.avif
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2542/87ea521785388122-1.avif
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-30T05:08:44.719Z'
+pbb_post_id: 2542
 ---
 
 The Department of Energy (DOE) is assessing the electricity requirements of the proposed Pax Silica technology hub in New Clark City, Tarlac, as the government prepares for the project's expected high energy demand.

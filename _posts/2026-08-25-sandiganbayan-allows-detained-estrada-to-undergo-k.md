@@ -9,7 +9,7 @@ categories:
 tags:
   - Sandiganbayan
   - Jinggoy Estrada
-views: '0'
+views: "16"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2760/e6bf261787654393-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2760/e6bf261787654393-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2760/e6bf261787654393-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-25T10:39:55.692Z'
+pbb_post_id: 2760
 ---
 
 The Sandiganbayan has allowed detained Senator Jinggoy Estrada to undergo a knee X-ray despite opposition from the prosecution.

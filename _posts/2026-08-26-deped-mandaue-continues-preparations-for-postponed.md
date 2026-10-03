@@ -9,7 +9,7 @@ categories:
 tags:
   - DepEd
   - Mandaue City
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2766/05cc2b1787719436-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2766/05cc2b1787719436-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2766/05cc2b1787719436-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-26T04:44:13.051Z'
+pbb_post_id: 2766
 ---
 
 The Department of Education (DepEd) Mandaue City Division will continue coordinating with schools and local authorities for a planned safety drill on active attack incidents despite its postponement to September.

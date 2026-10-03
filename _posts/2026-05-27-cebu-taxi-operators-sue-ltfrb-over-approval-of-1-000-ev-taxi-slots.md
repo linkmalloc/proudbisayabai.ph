@@ -12,7 +12,7 @@ categories:
   - story
 tags:
   - EV Taxi
-views: '10'
+views: "220"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1924/fc31ed1779878386-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1924/fc31ed1779878386-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1924/fc31ed1779878386-1.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1924
 ---
 
 

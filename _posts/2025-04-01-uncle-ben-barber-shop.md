@@ -10,7 +10,7 @@ tags:
   - cebu
   - barbershop
   - premium grooming
-views: "10"
+views: "263"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/uncle-ben-barber-shop/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/uncle-ben-barber-shop/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/uncle-ben-barber-shop/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 506
 ---
 <br>  
 Nothing beats a good haircut—it’s more than just a trim; it’s a confidence boost. A great haircut not only enhances our appearance but also makes us feel our best. That’s why choosing the right barbershop matters. It’s about finding skilled and trusted barbers in an environment where you can relax and witness the transformation unfold.  

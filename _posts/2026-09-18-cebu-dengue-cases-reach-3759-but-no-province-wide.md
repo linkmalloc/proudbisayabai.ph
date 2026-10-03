@@ -10,7 +10,7 @@ tags:
   - Dengue cases
   - Cebu Provincial Health Office
   - outbreak
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2958/62912b1789719012-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2958/62912b1789719012-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2958/62912b1789719012-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-18T08:10:17.528Z'
+pbb_post_id: 2958
 ---
 
 Cebu Province has recorded 3,759 dengue cases and 21 deaths from January through Sept. 11, but health authorities have not declared a province-wide outbreak because weekly cases remain below established epidemiological thresholds.

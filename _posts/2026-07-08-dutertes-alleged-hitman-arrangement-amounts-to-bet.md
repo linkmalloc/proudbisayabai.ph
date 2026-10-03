@@ -10,7 +10,7 @@ categories:
 tags:
   - Durterte
   - Marcos
-views: '0'
+views: "10"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2336/68fc791783506652-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2336/68fc791783506652-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2336/68fc791783506652-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-08T10:30:54.621Z'
+pbb_post_id: 2336
 ---
 
 The House prosecution panel on Wednesday argued that Vice President Sara Duterte’s alleged admission that she had arranged for a hitman to kill President Ferdinand R. Marcos Jr. if she were killed constitutes a betrayal of public trust, one of the constitutional grounds for impeachment.

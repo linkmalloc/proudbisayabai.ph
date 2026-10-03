@@ -9,7 +9,7 @@ categories:
 tags:
   - Postal ID
   - ID
-views: '0'
+views: "150"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2486/4360cb1784799322-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2486/4360cb1784799322-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2486/4360cb1784799322-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-23T09:35:23.975Z'
+pbb_post_id: 2486
 ---
 
 The Philippine Postal Corporation (PHLPost) clarified that applicants do not need to present an existing valid government issued ID to apply for a Postal ID.

@@ -8,7 +8,7 @@ categories:
 tags:
   - beach
   - cebu
-views: "10"
+views: "1,950"
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "5 minutes"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pangea_beach_resort/1.jpg
@@ -16,6 +16,7 @@ img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pangea_bea
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pangea_beach_resort/1.jpg
 photo_credit: "@nelson Judaya"
 photo_credit_link: ""
+pbb_post_id: 188
 ---
 #### Pangea Beach Resort   
 

@@ -11,7 +11,7 @@ tags:
   -  mindanao
   -  bukidnon
   -  forest               
-views: "10"
+views: "1,425"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dahilayan/cover1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dahilayan/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/dahilayan/cover1.jpg
@@ -24,6 +24,7 @@ photo_credit: " Day Seee & Words -by Jude Ricoo, PBB Vlogger "
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 367
 ---
 ****
 The Philippines is well-known for its stunning landscapes and gorgeous beaches, but it also offers unique experiences that go beyond the typical destinations for tourists. The Dahilayan Forest Park Resort, a paradise for nature lovers in Manolo Fortich, Bukidnon, is one of these undiscovered treasures.  

@@ -9,7 +9,7 @@ categories:
   - story
 tags:
   - Public Health Concern
-views: '0'
+views: "45"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2525/fbae491785229550-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2525/fbae491785229550-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2525/fbae491785229550-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-28T09:05:58.411Z'
+pbb_post_id: 2525
 ---
 
 CEBU CITY — A pedestrian footbridge along Osmeña Boulevard near the Social Security System (SSS) office continues to draw concern due to unsanitary conditions, with multiple piles of what appear to be human waste found scattered across the walkway.

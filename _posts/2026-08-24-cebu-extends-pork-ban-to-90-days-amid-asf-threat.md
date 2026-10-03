@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - African Swine Fever
-views: '0'
+views: "59"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2752/e496d61787570341-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2752/e496d61787570341-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2752/e496d61787570341-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-24T11:19:09.253Z'
+pbb_post_id: 2752
 ---
 
 The Cebu Provincial Government has extended its ban on the entry of live hogs, pork and pork products from African swine fever (ASF)-affected areas as it continues to protect the province’s swine industry from the disease.

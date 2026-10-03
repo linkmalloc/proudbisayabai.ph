@@ -9,7 +9,7 @@ categories:
 tags:
   - Oplan BanTal
   - Cebu City Traffic Office
-views: '0'
+views: "53"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2602/5ec9521785911294-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2602/5ec9521785911294-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2602/5ec9521785911294-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-05T06:28:47.079Z'
+pbb_post_id: 2602
 ---
 
 After a five-day information campaign, the Cebu City Government will begin full enforcement of Oplan BanTal: Discipline Zone on Wednesday, Aug. 5, as it introduces stricter rules on loading areas, pedestrian movement, and lane use along the congested Banilad-Talamban corridor.

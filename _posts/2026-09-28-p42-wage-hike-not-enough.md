@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Wage hike
-views: '0'
+views: "26"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3040/8ced091790581752-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3040/8ced091790581752-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3040/8ced091790581752-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-28T07:49:37.398Z'
+pbb_post_id: 3040
 ---
 
 The P42 daily wage increase approved for Central Visayas has drawn opposition from the labor group Alyansa sa mga Mamumuo sa Sugbo-Kilusang Mayo Uno (AMA Sugbo-KMU), which said the adjustment remains insufficient to meet workers’ basic needs.

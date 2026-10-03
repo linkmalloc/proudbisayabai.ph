@@ -20,6 +20,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1615009663/p
 photo_credit: "Carl Dave Black Ang"
 photo_credit_link: ""
 published: false
+pbb_post_id: 75
 ---
 Province life is the best. Uli ta Puhon Bai! 🍃😯 Ingun ani imong makita nig mata nimo sa Kabuntagon.   
   

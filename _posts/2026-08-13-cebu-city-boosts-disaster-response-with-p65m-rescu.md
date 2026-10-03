@@ -9,7 +9,7 @@ categories:
 tags:
   - Cebu City
   - Disaster Response
-views: '0'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2659/6340601786595666-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2659/6340601786595666-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2659/6340601786595666-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-13T04:34:30.505Z'
+pbb_post_id: 2659
 ---
 
 When floodwaters rise, Cebu City is preparing to give its rescuers more tools to reach residents faster.

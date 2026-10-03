@@ -8,7 +8,7 @@ categories:
 tags:
   - falls
   - north-cebu
-views: "10"
+views: "110"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tinubdan_falls/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tinubdan_falls/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tinubdan_falls/1.jpg
@@ -18,6 +18,7 @@ read_time: "5 minutes"
 photo_credit_link: ""
 social_reach: "52,547"
 location: Catmon, Cebu
+pbb_post_id: 168
 ---
 ##### Tinubdan Falls    
 <center>Gasa sa Kina-iyahan nga angay AMPINGAN 💦🍂😯</center>  

@@ -9,7 +9,7 @@ categories:
 tags:
   - LTO 7
   - Crash
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3019/ff61561790322955-1.png
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3019/ff61561790322955-1.png
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3019/ff61561790322955-1.png
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-25T07:55:57.651Z'
+pbb_post_id: 3019
 ---
 
 The Land Transportation Office in Central Visayas (LTO-7) has issued a show cause order against the driver involved in a fatal crash in Cebu City after he tested positive for alcohol, while his driver’s license was placed under preventive suspension.

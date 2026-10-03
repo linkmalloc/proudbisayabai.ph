@@ -14,7 +14,7 @@ categories:
   - brand
 tags:
   - BellshayceFoodsInc
-views: '10'
+views: "188"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/979/05daa11768978617-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/979/05daa11768978617-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/979/05daa11768978617-2.jpg
@@ -29,6 +29,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2026-01-21T00:00:00
 published: true
+pbb_post_id: 979
 ---
 
 Cebu-based Bellshayce Foods, Inc. has long been a trusted name in households, restaurants, and foodservice partners across the Philippines, offering high-quality processed meat products that bring taste, safety, and consistency to every table. Its products includes longganisa, tocino, square hams, ball hams, chorizo bits, Best of Cebu’s Chorizo, and several upcoming products set to launch this year.

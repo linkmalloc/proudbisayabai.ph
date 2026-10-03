@@ -9,7 +9,7 @@ categories:
 tags:
   - African Swine Fever
   - Hog Industry
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2626/8b88b31786170415-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2626/8b88b31786170415-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2626/8b88b31786170415-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-08T06:27:12.188Z'
+pbb_post_id: 2626
 ---
 
 The Cebu Provincial Government is working to restore confidence in the local hog industry by pursuing “green zone” classification for areas previously affected by African Swine Fever (ASF), as the province continues surveillance efforts to maintain its disease-free status.

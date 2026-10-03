@@ -21,6 +21,7 @@ img_500_5:
 photo_credit: "Bukidnon Travels"
 photo_credit_link: ""
 published: false
+pbb_post_id: 109
 ---
 #### Mt. Kitanglad Range Natural Park
 <center> KANINDOT! 😯🏕</center>

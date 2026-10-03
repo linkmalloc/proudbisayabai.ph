@@ -12,7 +12,7 @@ tags:
   - Daily Wage Increase
   - wage hike
   - elevated inflation
-views: '0'
+views: "82"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3053/d37d2b1790660389-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3053/d37d2b1790660389-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3053/d37d2b1790660389-1.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-29T05:40:42.775Z'
+pbb_post_id: 3053
 ---
 
 Workers’ groups Partido Manggagawa (PM) and Sentro ng mga Nagkakaisa at Progresibong Manggagawa (Sentro) have rejected the newly approved P42 daily wage increase in Central Visayas, calling for a P200 legislated wage hike nationwide.

@@ -11,7 +11,7 @@ categories:
 tags:
   - CebuCity
   - FuelAid
-views: '10'
+views: "26"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1551/bcb8091776496099-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1551/bcb8091776496099-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1551/bcb8091776496099-1.jpeg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1551
 ---
 
 A shift in fuel distribution is taking shape at the barangay level as Cebu City rolls out a card-based system to manage rising fuel costs.

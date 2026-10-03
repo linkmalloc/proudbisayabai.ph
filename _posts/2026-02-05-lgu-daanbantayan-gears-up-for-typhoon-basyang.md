@@ -12,7 +12,7 @@ categories:
   - story
 tags:
   - BagyongBasyangPH
-views: '10'
+views: "21"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1076/b0ca071770273730-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1076/b0ca071770273730-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1076/b0ca071770273730-2.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1076
 ---
 
 The Local Government Unit of Daanbantayan, led by Mayor Gilbert Arrabis Jr. and MDRRMO Head Obet Tancawan, convened a Pre-Disaster Risk Assessment meeting on Thursday, February 5, 2026, to finalize preparations for Tropical Storm Basyang, now inside the Philippine Area of Responsibility.

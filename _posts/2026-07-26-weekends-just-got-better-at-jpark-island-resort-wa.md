@@ -10,7 +10,7 @@ categories:
 tags:
   - JPark Island Resort
   - Resort in Cebu
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2507/98cd3f1785050242-7.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2507/98cd3f1785050242-7.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2507/98cd3f1785050242-7.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-26T07:16:27.689Z'
+pbb_post_id: 2507
 ---
 
 Jpark Island Resort & Waterpark Mactan, Cebu invites guests to elevate their weekends with Weekends Just Got Better, a vibrant beachfront dining and entertainment experience held every Friday and Saturday for only P2,500 per person, officially kicking off on July 25, 2026, from 4:00 p.m. to 10:00 p.m.

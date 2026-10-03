@@ -9,7 +9,7 @@ categories:
 tags:
   - Bongbong Marcos
   - Confidential and intelligence funds
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3015/2137fa1790312810-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3015/2137fa1790312810-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3015/2137fa1790312810-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-25T05:06:54.597Z'
+pbb_post_id: 3015
 ---
 
 Confidential and intelligence funds (CIF) allocated to the Office of the President (OP) are intended to support national security, peace and order, and the protection of Filipinos, a House sponsor of the proposed 2027 national budget said during plenary deliberations.

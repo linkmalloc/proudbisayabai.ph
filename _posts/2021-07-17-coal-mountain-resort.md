@@ -16,6 +16,7 @@ img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/coal_mountain_re
 photo_credit: "Zenia Myca Zamora And Team Goyys"
 photo_credit_link: ""
 published: false
+pbb_post_id: 214
 ---
 ##### Coal Mountain Resort
   

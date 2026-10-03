@@ -9,7 +9,7 @@ categories:
 tags:
   - Loren Legarda
   - Ombudsman
-views: '0'
+views: "25"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2568/167c581785558228-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2568/167c581785558228-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2568/167c581785558228-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-01T04:23:58.725Z'
+pbb_post_id: 2568
 ---
 
 The Office of the Ombudsman has started a preliminary investigation into possible violations of plunder, graft, and conflict-of-interest laws involving Sen. Loren Legarda and Batangas 1st District Rep. Leandro Leviste over uncompleted solar energy projects with reported unpaid government obligations amounting to P10.44 billion.

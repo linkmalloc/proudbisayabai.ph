@@ -9,7 +9,7 @@ categories:
 tags:
   - Badian
   - Road Crash
-views: '0'
+views: "172"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2562/acd59e1785557549-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2562/acd59e1785557549-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2562/acd59e1785557549-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-08-01T04:12:33.265Z'
+pbb_post_id: 2562
 ---
 
 The Cebu Provincial Health Office (PHO) defended the emergency response of Badian District Hospital after the family of an 18-year-old road crash victim questioned the facility’s handling of the patient’s condition and transfer to a higher-level hospital.

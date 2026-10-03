@@ -23,6 +23,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613829813/t
 photo_credit: "Negros Finest"
 photo_credit_link: "https://www.facebook.com/NegrosFinest"
 published: false
+pbb_post_id: 30
 ---
 Pack you bags and put some color to those drawings! Come and visit to this most visited natural Spring Resort in Negros and in Visayas. The Mabinay Spring Resort in Mabinay, Negros Oriental. Affordable rates, and have some outdoor activities you can enjoy with your family, friends and special one ( sana all ) ⛰🏕😍  
 

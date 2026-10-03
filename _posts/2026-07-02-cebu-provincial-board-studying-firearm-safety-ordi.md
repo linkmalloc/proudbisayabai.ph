@@ -9,7 +9,7 @@ categories:
   - story
 tags:
   - Safety Ordinance
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2280/72e35a1782987917-1.JPG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2280/72e35a1782987917-1.JPG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2280/72e35a1782987917-1.JPG
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-02T10:25:18.073Z'
+pbb_post_id: 2280
 ---
 
 Protecting children from school violence has become a priority for the Cebu Provincial Board, with lawmakers considering measures on responsible firearm ownership, gun safety, and student mental health following the deadly school shooting in Tacloban City.

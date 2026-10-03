@@ -10,7 +10,7 @@ tags:
   - Sandiganbayan
   - Romualdez
   - warrant
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2931/ea81dd1789452410-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2931/ea81dd1789452410-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2931/ea81dd1789452410-1.jpg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-15T06:06:57.259Z'
+pbb_post_id: 2931
 ---
 
 Former House Speaker Martin Romualdez was transferred to the New Quezon City Jail in Payatas on Monday night, Sept. 14, after doctors found him clinically stable and no longer in need of continued hospitalization.

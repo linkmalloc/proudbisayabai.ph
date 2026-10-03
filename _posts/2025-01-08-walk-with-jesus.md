@@ -11,7 +11,7 @@ tags:
   - cebu
   - sinulog
   - sinulog updates
-views: "10"
+views: "48"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/walk-with-jesus/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/walk-with-jesus/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/walk-with-jesus/cover.jpg
@@ -24,6 +24,7 @@ photo_credit: "Lance Lesmes Kurt"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 492
 ---
 <br>  
 Devotion and faith illuminated the early morning today as thousands of devotees filled Osmeña Boulevard for the Penitential Walk with Jesus, a tradition marking the start of the 460th Fiesta Señor celebration.  

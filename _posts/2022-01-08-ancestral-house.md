@@ -11,7 +11,7 @@ tags:
   - home
   - typhoon
   - cebu
-views: "10"
+views: "102"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ancestral_house_after_typhoon_odette/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ancestral_house_after_typhoon_odette/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ancestral_house_after_typhoon_odette/1.jpg
@@ -24,6 +24,7 @@ photo_credit: "Fr. Chris Amores Tooppee Amorites via Ben Cabrido Jr. "
 photo_credit_link: ""
 read_time: "2 minutes"
 editor: "PBB Admin"
+pbb_post_id: 262
 ---
 ****
 LOOK: Naa juy something aning balaya dah, Wala rajud naunsa sa mga ni agi nga bagyo! 

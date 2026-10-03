@@ -9,7 +9,7 @@ categories:
   - story
 tags:
   - Mental Health Services
-views: '0'
+views: "31"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2467/46c35e1784621857-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2467/46c35e1784621857-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2467/46c35e1784621857-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-21T08:17:48.166Z'
+pbb_post_id: 2467
 ---
 
 Cebu City is looking to expand its mental health services through the proposed hiring of 10 mental health professionals who will provide psychosocial support to vulnerable residents and counseling services for city government employees.

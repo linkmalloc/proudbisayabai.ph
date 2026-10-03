@@ -10,7 +10,7 @@ tags:
   - DepEd
   - absent
   - students
-views: '0'
+views: "96"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2743/d38d721787546294-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2743/d38d721787546294-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2743/d38d721787546294-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-24T04:38:17.360Z'
+pbb_post_id: 2743
 ---
 
 The Department of Education (DepEd) is strengthening its threat assessment system to identify students who may need intervention, with repeated absences now being considered a possible early warning sign.

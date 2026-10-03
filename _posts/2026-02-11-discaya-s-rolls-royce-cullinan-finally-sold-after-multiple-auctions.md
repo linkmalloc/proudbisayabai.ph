@@ -13,7 +13,7 @@ categories:
 tags:
   - Discaya
   - DPWH
-views: '10'
+views: "31"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1120/cec8011770799175-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1120/cec8011770799175-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1120/cec8011770799175-2.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1120
 ---
 
 The 2013 Rolls-Royce Cullinan of controversial contractor couple Sarah and Curlee Discaya sold for P29,026,000 during a Bureau of Customs (BOC) auction on Wednesday, February 11, 2026, slightly above its floor price of P29,025,132.58.

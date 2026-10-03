@@ -14,7 +14,7 @@ tags:
   - SugatKabanhawan
   - Minglanilla
   - Easter
-views: '10'
+views: "17"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1457/60edf01775386877-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1457/60edf01775386877-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1457/60edf01775386877-1.jpeg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1457
 ---
 
 The streets of Mingnilla burst into life this afternoon, April 5, as the Sugat Kabanhawan Street Dance officially kicked off, drawing spectators into a dynamic display of faith and culture.

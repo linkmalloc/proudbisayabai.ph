@@ -9,7 +9,7 @@ categories:
 tags:
   - PUV
   - monthly assistance
-views: '0'
+views: "20"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3057/2471401790743652-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3057/2471401790743652-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3057/2471401790743652-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-30T04:47:34.243Z'
+pbb_post_id: 3057
 ---
 
 Operators of modern public utility vehicles in Central Visayas may receive up to P20,000 in monthly assistance for as long as three months under a national government program aimed at easing their operating costs.

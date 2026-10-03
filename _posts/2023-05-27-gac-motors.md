@@ -10,7 +10,7 @@ tags:
   -  motors
   -  auto
   -  best auto cebu               
-views: "10"
+views: "54"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/gac_motor_cebu/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/gac_motor_cebu/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/gac_motor_cebu/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Editor"
 read_time: "4 minutes"
+pbb_post_id: 392
 ---
 ****
 Your Premium Drive: GAC Motor Cebu Gateway  

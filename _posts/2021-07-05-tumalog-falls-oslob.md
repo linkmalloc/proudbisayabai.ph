@@ -8,7 +8,7 @@ categories:
 tags:
   - falls
   - cebu
-views: "109,520"
+views: "1,470"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tumalog_falls_oslob/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tumalog_falls_oslob/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tumalog_falls_oslob/1.jpg
@@ -16,6 +16,7 @@ photo_credit: "Juan Via Ariel Alegado"
 photo_credit_link: "https://www.facebook.com/Sugbo.Byahe/"
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
 read_time: "5 minutes"
+pbb_post_id: 210
 ---
 ##### Tumalog Falls Oslob   
 

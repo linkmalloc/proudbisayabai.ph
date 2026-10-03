@@ -19,6 +19,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617433181
 photo_credit: "Vivi Moore | Daniela Tinamisan"
 photo_credit_link: ""
 published: false
+pbb_post_id: 132
 ---
 #### Barkadas CHECK
 SUMMER is finally here! Ready na ba ang Tanan sa Laag? Take that convenient drive thru in JOLLIBEE! And arrive at your destination in no time. 🍟🍔🥤  

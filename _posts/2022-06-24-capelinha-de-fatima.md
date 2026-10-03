@@ -10,7 +10,7 @@ tags:
   - chapel
   - christianity
   - cebu               
-views: "10"
+views: "843"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pilgrim_sa_capelinha/4.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pilgrim_sa_capelinha/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/pilgrim_sa_capelinha/4.jpg
@@ -23,6 +23,7 @@ photo_credit: "PBB Admins"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 306
 ---
 ###### Capelinha de Fatima
 

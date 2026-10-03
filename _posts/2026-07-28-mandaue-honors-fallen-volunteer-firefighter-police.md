@@ -11,7 +11,7 @@ tags:
   - Earl Alexis “Delta 1” Temblon
   - Ibabao-Estancia Fire Brigade
   - Opao Emergency Response Team.
-views: '0'
+views: "38"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2523/b1a3901785216974-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2523/b1a3901785216974-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2523/b1a3901785216974-1.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-28T05:36:16.447Z'
+pbb_post_id: 2523
 ---
 
 The Mandaue City Council has posthumously recognized a 19-year-old volunteer firefighter and emergency responder for his dedication to public service following his death in a motorcycle crash earlier this month.

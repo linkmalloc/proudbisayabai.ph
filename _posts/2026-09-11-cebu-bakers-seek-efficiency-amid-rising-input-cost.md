@@ -9,7 +9,7 @@ categories:
 tags:
   - Rising costs
   - Baking
-views: '0'
+views: "75"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2906/589d611789120810-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2906/589d611789120810-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2906/589d611789120810-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-11T10:00:11.471Z'
+pbb_post_id: 2906
 ---
 
 Rising ingredient costs are prompting bakery operators to tighten production controls, explore alternatives and find ways to protect margins as they compete for customers.

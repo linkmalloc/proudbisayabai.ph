@@ -10,7 +10,7 @@ tags:
   - Cancer Vaccine
   - Merck
   - Moderna
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2737/5bea211787379987-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2737/5bea211787379987-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2737/5bea211787379987-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-22T06:26:29.481Z'
+pbb_post_id: 2737
 ---
 
 An experimental personalized cancer vaccine developed by Merck and Moderna has shown positive results in its first phase 3 clinical trial, bringing the treatment closer to possible regulatory approval.

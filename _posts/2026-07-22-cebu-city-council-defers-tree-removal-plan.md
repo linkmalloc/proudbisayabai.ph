@@ -10,7 +10,7 @@ tags:
   - TreeRemoval
   - DPWH
   - DENR
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2476/6a32ea1784706335-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2476/6a32ea1784706335-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2476/6a32ea1784706335-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-22T07:45:36.931Z'
+pbb_post_id: 2476
 ---
 
 The Cebu City Council has deferred action on the Department of Public Works and Highways’ (DPWH) request to remove and relocate 113 trees along the Butuanon River, citing a mismatch between the proposed project scope and the portion currently backed by available funds.

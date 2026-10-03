@@ -9,7 +9,7 @@ tags:
   - milktea
   -  taiwan's best milk tea
   -  cebu               
-views: "10"
+views: "147"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chowking_milksha/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chowking_milksha/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chowking_milksha/cover.jpg
@@ -22,6 +22,7 @@ photo_credit: "PBB Admins"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "6 minutes"
+pbb_post_id: 343
 ---
 ****
 Milksha is a well-established milk tea brand from Taiwan offering natural and highest quality drinks. It has been voted as the No. 1 Bubble Tea Brand in different publications and magazines. It is best known for its signature honey-infused pearls. They pride themselves in creating only 100% natural, fresh, and handmade beverages that are guaranteed to contain zero preservatives, artificial coloring, or chemical additives. Milksha uses 100% high quality fresh milk as a base for its beverages and flavoured them with only natural ingredients.  

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Weather
-views: '0'
+views: "47"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2742/a77bf71787397019-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2742/a77bf71787397019-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2742/a77bf71787397019-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-22T11:10:32.910Z'
+pbb_post_id: 2742
 ---
 
 Tropical Depression “Gaerani” has re-developed from former Low Pressure Area (LPA) 08f and is currently being monitored outside the Philippine Area of Responsibility (PAR) as of 2:00 p.m. on Saturday, August 22, 2026.

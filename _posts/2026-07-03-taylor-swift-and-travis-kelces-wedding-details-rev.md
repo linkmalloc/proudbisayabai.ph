@@ -10,7 +10,7 @@ tags:
   - Entertainment
   - Travis Kelce
   - Taylor Swift
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2293/af4df61783070284-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2293/af4df61783070284-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2293/af4df61783070284-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-03T09:18:11.180Z'
+pbb_post_id: 2293
 ---
 
 The Associated Press obtained details of Taylor Swift and Travis Kelce’s wedding from police information and a copy of a city permit, revealing that the wedding celebration will start on Friday, 5 p.m. (5 a.m. Saturday in Philippine time zone) and may continue until early Saturday morning (Saturday evening in Philippine time zone), at New York City’s Madison Square Garden.

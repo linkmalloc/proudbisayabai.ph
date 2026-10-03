@@ -14,7 +14,7 @@ tags:
   -  river
   -  farm
   - busay               
-views: "10"
+views: "604"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lava_mountain_river_farm/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lava_mountain_river_farm/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/lava_mountain_river_farm/1.jpg
@@ -27,6 +27,7 @@ photo_credit: "Ernest John Sariego"
 photo_credit_link: "https://instagram.com/ernestsariego/"
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 253
 ---
 ##### Lava Mountain River Farm  
 

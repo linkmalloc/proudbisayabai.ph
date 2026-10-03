@@ -10,7 +10,7 @@ categories:
 tags:
   - CivilDefense
   - weather
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2708/c604811787129702-1.webp
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2708/c604811787129702-1.webp
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2708/c604811787129702-1.webp
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-19T08:55:03.466Z'
+pbb_post_id: 2708
 ---
 
 More than 5.3 million people have been affected by continuing adverse weather conditions across 10 regions, with 27 reported deaths being verified, the Office of Civil Defense (OCD) said Wednesday.

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Data System Rollout Cebu
-views: '0'
+views: "5"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2466/0b9be21784621718-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2466/0b9be21784621718-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2466/0b9be21784621718-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-21T08:15:23.619Z'
+pbb_post_id: 2466
 ---
 
 The Cebu Provincial Government has created a coordinating body that will oversee the implementation of the Community-Based Monitoring System (CBMS), aiming to strengthen data-driven planning, policymaking, and delivery of public services across the province.

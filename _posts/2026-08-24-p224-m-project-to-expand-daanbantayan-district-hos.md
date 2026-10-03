@@ -10,7 +10,7 @@ tags:
   - Daanbantayan
   - infrastructure
   - hospital
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2748/e559781787546669-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2748/e559781787546669-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2748/e559781787546669-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-24T04:44:30.239Z'
+pbb_post_id: 2748
 ---
 
 The Daanbantayan District Hospital is set for a major expansion as the Cebu Provincial Government begins a P22.4-million infrastructure project aimed at increasing its capacity and preparing the facility for Level 1 hospital classification.

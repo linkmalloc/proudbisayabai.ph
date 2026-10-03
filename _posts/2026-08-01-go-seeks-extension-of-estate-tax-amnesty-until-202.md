@@ -9,7 +9,7 @@ categories:
 tags:
   - Bong Go
   - Estate Tax Amnesty
-views: '0'
+views: "43"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2570/9a01ff1785558521-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2570/9a01ff1785558521-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2570/9a01ff1785558521-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-08-01T04:28:43.463Z'
+pbb_post_id: 2570
 ---
 
 Senator Christopher “Bong” Go has filed a measure seeking to extend the estate tax amnesty period until 2028, allowing more Filipino families additional time to settle unpaid estate taxes and legally transfer inherited properties.

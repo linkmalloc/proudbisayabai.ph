@@ -8,7 +8,7 @@ categories:
   - news
 tags:
   - Martin Romualdez
-views: '0'
+views: "8"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2897/f13b191789026418-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2897/f13b191789026418-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2897/f13b191789026418-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-10T07:47:00.614Z'
+pbb_post_id: 2897
 ---
 
 Malacañang said Wednesday it would not interfere in the legal proceedings involving former House Speaker Martin Romualdez, stressing that his case should be resolved based on evidence and the law.

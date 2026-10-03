@@ -20,6 +20,7 @@ img_500_2: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613381835/s
 img_500_3: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613381838/sirao_garden/135241754_263249972137345_5159348754430589287_o_oq7w7l.jpg
 photo_credit: "Michael Audrey Jacobe Sagonoy"
 published: false
+pbb_post_id: 25
 ---
 LOOK: Don’t have time and budget to fly to Europe? Worry no more! Sirao Garden will make you feel like you flew to Amsterdam! Revisit and explore the breathtaking and picturesque flower farm in Sirao that is surely the best spot for your next Instagram Post🌻  
 

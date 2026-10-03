@@ -11,7 +11,7 @@ tags:
   -  visit siargao
   -  thrill seekers
   -  surfing               
-views: "10"
+views: "460"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/siargao1/cover1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/siargao1/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/siargao1/cover1.jpg
@@ -24,6 +24,7 @@ photo_credit: "Michael Audrey Jacobe Sagonoy, Pobreng Laagan | Digital Creator"
 photo_credit_link: "https://www.instagram.com/michaelsagoo/"
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 338
 ---
 ****
 Siargao Island is a teardrop-shaped island located in Surigao Del Norte in the Philippines. It is known as the surfing capital of the country for it is the home of the most popular and challenging surfing waves that is known by surfers all over the world. Its popularity continues to grow especially for thrill-seekers. The island is perfect for those who love kayaking, paddle boarding, cliff jumping, cave swimming, island hopping and a lot more. Siargao can offer anything for every kind of traveller, whether you are looking for excitement or relaxation. The beautiful island has a lot to offer from white sand beaches, attractive sunsets, natural rock and cave pools and smaller islands nearby. Here is a list of some spectacular places to visit when in Siargao.  

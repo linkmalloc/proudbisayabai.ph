@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Nutrition
-views: '0'
+views: "21"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2269/46b9271782893091-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2269/46b9271782893091-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2269/46b9271782893091-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-01T08:05:06.222Z'
+pbb_post_id: 2269
 ---
 
 Government agencies in Central Visayas are expanding the scope of nutrition advocacy by linking food and health outcomes to environmental protection and climate resilience as preparations begin for the 52nd Nutrition Month in July.

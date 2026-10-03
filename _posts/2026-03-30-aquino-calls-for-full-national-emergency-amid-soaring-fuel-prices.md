@@ -13,7 +13,7 @@ categories:
 tags:
   - Aquino
   - NationalEmergency
-views: '10'
+views: "14"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1415/7c803d1774852363-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1415/7c803d1774852363-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1415/7c803d1774852363-2.jpeg
@@ -27,6 +27,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1415
 ---
 
 Senator Bam Aquino called on Malacañang to declare a full national emergency, saying the current energy-related order lacks the authority needed to shield Filipinos from soaring oil prices and the expected increase in the cost of basic goods.

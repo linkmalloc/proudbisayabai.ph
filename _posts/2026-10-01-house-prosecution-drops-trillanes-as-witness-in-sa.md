@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Sara impeachment trial
-views: '0'
+views: "9"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3071/37f5701790855301-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3071/37f5701790855301-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3071/37f5701790855301-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-10-01T11:48:38.272Z'
+pbb_post_id: 3071
 ---
 
 Former senator Antonio Trillanes IV will no longer take the witness stand in the impeachment trial of Vice President Sara Duterte after the House prosecution panel withdrew its plan to present him during proceedings on allegations involving her wealth.

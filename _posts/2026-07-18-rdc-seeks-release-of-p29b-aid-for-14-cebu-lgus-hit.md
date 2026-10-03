@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Typhoon Tino rehabilitation fund
-views: '0'
+views: "29"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2444/de80c51784368345-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2444/de80c51784368345-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2444/de80c51784368345-1.jpg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-18T09:52:26.965Z'
+pbb_post_id: 2444
 ---
 
 The Regional Development Council (RDC)-7 is seeking the immediate release of nearly P2.9 billion in rehabilitation funds for 14 Cebu local government units (LGUs) affected by Typhoon Tino.

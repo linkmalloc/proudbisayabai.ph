@@ -11,7 +11,7 @@ tags:
   - cebu
   - talamban
   - lechon
-views: "10"
+views: "589"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/chickyoink/cover.jpg
@@ -24,6 +24,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 483
 ---
 *****    
 Attention, Cebu foodies! If you’re a fan of delicious, crispy Lechon Manok and melt-in-your-mouth Liempo, there’s a new spot in town you won’t want to miss. Chicky’Oink, renowned for its flavorsome dishes in Lapu-Lapu, has opened a new branch in Pit-os, Talamban, bringing its legendary taste even closer to home. Here’s what makes Chicky’Oink a must-try dining experience!  

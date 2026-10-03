@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Covid-19
-views: '0'
+views: "21"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2437/97047f1784291390-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2437/97047f1784291390-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2437/97047f1784291390-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-17T12:30:01.214Z'
+pbb_post_id: 2437
 ---
 
 The number of reported Covid-19 cases in the Philippines remained low in 2026, with the Department of Health (DOH) recording a 70 percent decline compared with the same period last year.

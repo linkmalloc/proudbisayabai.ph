@@ -12,7 +12,7 @@ tags:
   - BOC
   - AteneodeZamboanga
   - Customs
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2703/5e56f41787129252-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2703/5e56f41787129252-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2703/5e56f41787129252-1.jpg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-19T08:47:38.887Z'
+pbb_post_id: 2703
 ---
 
 The Bureau of Customs (BOC) has ordered a bureau-wide inventory of firearms and a review of gun safety protocols following the fatal shooting at Ateneo de Zamboanga University on Tuesday.

@@ -12,7 +12,7 @@ tags:
   - resort
   - cebu
   - medellin
-views: "10"
+views: "770"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sa_dagat_beach_camp/5.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sa_dagat_beach_camp/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sa_dagat_beach_camp/5.jpg
@@ -25,6 +25,7 @@ photo_credit: "H Adventures, Fred Rhett Babatid (No copyright infringement inten
 photo_credit_link: ""
 read_time: "3 minutes"
 editor: "PBB Admin"
+pbb_post_id: 265
 ---
 ****
 ###### Sadagat Beach Camp 

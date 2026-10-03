@@ -12,7 +12,7 @@ tags:
   - updated
   - higher fees
   - Cebu
-views: '0'
+views: "38"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2997/25d4b71790152776-1.webp
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2997/25d4b71790152776-1.webp
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2997/25d4b71790152776-1.webp
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-23T08:40:05.616Z'
+pbb_post_id: 2997
 ---
 
 Ferry passengers traveling from Cebu to several destinations in the Visayas and Mindanao will pay higher fares starting Monday, Sept. 21.

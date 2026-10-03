@@ -10,7 +10,7 @@ tags:
   - Nestor Archival
   - Ombudsman
   - Monterrazas de Cebu
-views: '0'
+views: "103"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2724/43d7f81787301041-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2724/43d7f81787301041-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2724/43d7f81787301041-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-08-21T08:30:43.879Z'
+pbb_post_id: 2724
 ---
 
 A Cebu City resident has asked the Office of the Ombudsman to investigate Mayor Nestor Archival over an alleged conflict of interest involving his supposed ownership of property inside Monterrazas de Cebu.

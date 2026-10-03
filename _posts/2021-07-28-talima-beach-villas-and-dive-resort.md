@@ -26,6 +26,7 @@ read_time: "3 minutes"
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/twin.jpg"
 location: "Olango Island, Cebu"
 published: false
+pbb_post_id: 218
 ---
 ###### Talima Beach Villas and Dive Resort
   

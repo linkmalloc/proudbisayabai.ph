@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Akbayan partylist
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3009/1e219f1790241272-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3009/1e219f1790241272-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3009/1e219f1790241272-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-24T09:14:34.244Z'
+pbb_post_id: 3009
 ---
 
 A group of lawmakers has called for a nationwide review of the government’s systems for the custody, safekeeping and accountability of firearms issued to, owned or possessed by public officials and employees following three school shooting incidents in the past three months.

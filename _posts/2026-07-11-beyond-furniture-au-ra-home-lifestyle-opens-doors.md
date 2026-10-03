@@ -9,7 +9,7 @@ categories:
 tags:
   - AuraHome
   - Lifestyle
-views: '0'
+views: "63"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2368/c514bf1783744715-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2368/c514bf1783744715-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2368/c514bf1783744715-2.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-11T04:38:41.908Z'
+pbb_post_id: 2368
 ---
 
 There is a distinct difference between a house made of walls and a home filled with heart. For those looking to cultivate the latter, Aura Home + Lifestyle is the newest home depot in town that will help you spruce up and brighten your home.

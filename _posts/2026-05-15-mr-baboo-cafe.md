@@ -14,7 +14,7 @@ categories:
 tags:
   - Cafe
   - Milktea
-views: '10'
+views: "51"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1789/c5c2a61778890429-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1789/c5c2a61778890429-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1789/c5c2a61778890429-1.jpeg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1789
 ---
 
 

@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - ASEAN
-views: '0'
+views: "30"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2498/6849d71784959683-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2498/6849d71784959683-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2498/6849d71784959683-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-25T06:11:40.235Z'
+pbb_post_id: 2498
 ---
 
 Negotiations between the Association of Southeast Asian Nations (ASEAN) and China on a long-awaited code of conduct (COC) in the South China Sea are making “good progress,” Foreign Affairs Secretary Ma. Theresa Lazaro said Thursday.

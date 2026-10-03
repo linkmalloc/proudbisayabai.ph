@@ -9,7 +9,7 @@ categories:
 tags:
   - health
   - GovernorBaricuatro
-views: '0'
+views: "46"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2870/5fa7241788850541-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2870/5fa7241788850541-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2870/5fa7241788850541-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-08T06:55:45.395Z'
+pbb_post_id: 2870
 ---
 
 Cebu is moving to link the health systems of its cities and municipalities into a province-wide network aimed at making healthcare access more consistent across the province.

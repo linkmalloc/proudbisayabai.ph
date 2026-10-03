@@ -10,7 +10,7 @@ tags:
   - camping
   - alcoy
   - cebu               
-views: "10"
+views: "1,169"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sea_of_clouds_in_cebu/8.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sea_of_clouds_in_cebu/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/sea_of_clouds_in_cebu/8.jpg
@@ -23,6 +23,7 @@ photo_credit: "Cha Chabels"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 271
 ---
 ****
 ##### Sea of Clouds in Alcoy Cebu

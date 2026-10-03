@@ -12,7 +12,7 @@ tags:
   - cebu
   - beach
   - sea               
-views: "10"
+views: "1,265"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hermits_cove/7.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hermits_cove/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/hermits_cove/7.jpg
@@ -25,6 +25,7 @@ photo_credit: "Michael Sagonoy, Vivi Moore, via IG criznose  (No copyright infri
 photo_credit_link: "https://instagram.com/criznose"
 read_time: "4 minutes"
 editor: "PBB Admin"
+pbb_post_id: 250
 ---
 ****
 ###### Hermit’s Cove, Aloguisan  

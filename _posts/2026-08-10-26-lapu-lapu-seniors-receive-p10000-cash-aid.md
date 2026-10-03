@@ -10,7 +10,7 @@ tags:
   - Cash Aid
   - Lapu-Lapu City
   - Expanded Centenarians Act
-views: '0'
+views: "124"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2635/5b6ddd1786357406-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2635/5b6ddd1786357406-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2635/5b6ddd1786357406-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-10T10:23:27.882Z'
+pbb_post_id: 2635
 ---
 
 Twenty-six senior citizens in Lapu-Lapu City received P10,000 each after reaching milestone ages covered by the Expanded Centenarians Act.

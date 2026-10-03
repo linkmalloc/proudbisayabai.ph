@@ -15,7 +15,7 @@ categories:
 tags:
   - Atua
   - Cafe
-views: '10'
+views: "811"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/522/39a73c1750776320-8.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/522/39a73c1750776320-8.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/522/39a73c1750776320-8.jpg
@@ -29,6 +29,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 2 minutes
 published_date: 2025-06-13T00:00:00
+pbb_post_id: 522
 ---
 
 

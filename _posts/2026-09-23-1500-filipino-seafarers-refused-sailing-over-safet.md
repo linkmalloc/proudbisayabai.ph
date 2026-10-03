@@ -11,7 +11,7 @@ tags:
   - DMW
   - right to refuse
   - sailing
-views: '0'
+views: "30"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2993/d165271790131870-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2993/d165271790131870-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2993/d165271790131870-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-23T02:51:34.064Z'
+pbb_post_id: 2993
 ---
 
 About 1,500 Filipino seafarers have exercised their right to refuse sailing over the past three years because of security risks at sea, the Department of Migrant Workers (DMW) said Tuesday.

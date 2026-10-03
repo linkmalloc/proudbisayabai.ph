@@ -16,7 +16,7 @@ categories:
 tags:
   - TinoPH
   - CebuStateOfCalamity
-views: '10'
+views: "312"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/635/7c8e1e1762312336-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/635/7c8e1e1762312336-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/635/7c8e1e1762312336-2.jpg
@@ -31,6 +31,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-11-05T00:00:00
 published: true
+pbb_post_id: 635
 ---
 
 

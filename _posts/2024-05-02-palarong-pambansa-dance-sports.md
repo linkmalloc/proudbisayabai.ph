@@ -10,7 +10,7 @@ tags:
   - palarong pambasa
   - cultural
   - dance sport
-views: "10"
+views: "54"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/palarong_pambasa_dance_sports/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/palarong_pambasa_dance_sports/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/palarong_pambasa_dance_sports/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 449
 ---
 ****
 In a significant milestone for the DanceSport community, the Palarong Pambansa 2024 has officially recognized DanceSport as a legitimate sport. This recognition underscores the athletic and artistic value of DanceSport, which includes Cha-cha, Rumba, Tango, Waltz, and Samba, blending rigorous physical training with intricate choreography and performance.  

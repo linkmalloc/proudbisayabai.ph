@@ -22,6 +22,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1614174247/t
 photo_credit: "The White Mansion FB page"
 photo_credit_link: "https://www.facebook.com/thewhitemansioncebu/"
 published: false
+pbb_post_id: 36
 ---
 Arats mga Bai! Cebu got its own 2D cafe as seen on the Netflix movie “To all the Boys: Forever and Always” 😍🍧🍰  
 

@@ -10,7 +10,7 @@ tags:
   - inspiring
   - community service
   - don macchiatos
-views: "10"
+views: "532"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/don_mac_outreach/cover.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/don_mac_outreach/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/don_mac_outreach/cover.jpg
@@ -23,6 +23,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 441
 ---
 ****
 Don Macchiatos, an exemplar of corporate social consciousness and community empowerment, continues its unwavering commitment to fostering a brighter future for the youth through innovative programs and active community engagement. Recognizing the pivotal role of children as the cornerstone of tomorrow's society, Don Macchiatos advocates for increased investment in their well-being, viewing them as invaluable assets and the hope of the nation.  

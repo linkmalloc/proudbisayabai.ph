@@ -21,6 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1618122060
 photo_credit: "Dennis Cervantes Sabado"
 photo_credit_link: ""
 published: false
+pbb_post_id: 153
 ---
 #### Angel's Camp, Sea of Clouds
 Experience the beauty of nature! 😯💨🧺  

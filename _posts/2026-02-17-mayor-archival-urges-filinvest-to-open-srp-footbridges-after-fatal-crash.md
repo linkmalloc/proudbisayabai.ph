@@ -15,7 +15,7 @@ tags:
   - Filinvest
   - SRP
   - footbridge
-views: '10'
+views: "56"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1155/24cfac1771322149-2.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1155/24cfac1771322149-2.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1155/24cfac1771322149-2.jpg
@@ -29,6 +29,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1155
 ---
 
 A deadly Valentine’s Day accident at the South Road Properties (SRP) has prompted Cebu City Mayor Nestor Archival to call on developer Filinvest to immediately open unfinished pedestrian footbridges and walkways in the area, stressing that safer crossings could prevent similar tragedies.

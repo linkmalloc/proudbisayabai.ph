@@ -13,7 +13,7 @@ tags:
   - SK
   - Barangay
   - Elections
-views: '0'
+views: "28"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2932/8811671789452618-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2932/8811671789452618-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2932/8811671789452618-1.jpg
@@ -28,6 +28,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-15T06:10:36.487Z'
+pbb_post_id: 2932
 ---
 
 Senator Francis “Chiz” Escudero welcomed Monday the Senate’s approval of a measure extending the term of barangay and Sangguniang Kabataan (SK) officials to five years, saying the longer tenure would give local leaders more time to implement programs for their communities.

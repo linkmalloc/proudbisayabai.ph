@@ -14,7 +14,7 @@ categories:
 tags:
   - LTO7
   - MufflerPolicy
-views: '10'
+views: "52"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1386/17edb61774425671-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1386/17edb61774425671-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1386/17edb61774425671-2.jpeg
@@ -28,6 +28,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1386
 ---
 
 Around 50 leaders of motorcycle clubs met with Land Transportation Office Central Visayas (LTO 7) Director Atty. Wendell Calinao Dinglasan on Tuesday, March 24, at Pajara Park beneath the Marcelo Fernan Bridge in Barangay Umapad, Mandaue City, to discuss concerns over muffler regulations and road safety enforcement.

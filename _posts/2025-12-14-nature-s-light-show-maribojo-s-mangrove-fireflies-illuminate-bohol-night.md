@@ -12,7 +12,7 @@ categories:
   - destination
 tags:
   - MaribojoMangrove
-views: '10'
+views: "91"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/805/f9756a1765768154-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/805/f9756a1765768154-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/805/f9756a1765768154-2.jpeg
@@ -27,6 +27,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-12-15T00:00:00
 published: true
+pbb_post_id: 805
 ---
 
 Bohol offers a different kind of nightlife, one that glows in the dark. Away from the city lights, the Maribojoc Mangrove Firefly Watching experience is enchanting visitors with a spectacular natural view along the serene Abatan River.

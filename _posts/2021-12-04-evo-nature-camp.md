@@ -12,7 +12,7 @@ tags:
   - cebu
   - forest
   - camp
-views: "10"
+views: "193"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/evo_nature_camp/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/evo_nature_camp/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/evo_nature_camp/1.jpg
@@ -25,6 +25,7 @@ photo_credit: "Sailor Vibes"
 photo_credit_link: ""
 read_time: "4 minutes"
 editor: "PBB Admin"
+pbb_post_id: 261
 ---
 ****
 ###### EVO Nature Camp  

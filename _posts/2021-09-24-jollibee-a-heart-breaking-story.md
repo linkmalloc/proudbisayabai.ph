@@ -9,7 +9,7 @@ categories:
 tags:
   - trending
   - jollibee
-views: "10"
+views: "1,608"
 img_big_1000x600:  https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee_trending/jollibee-love.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee_trending/cover.jpg
 img_500x500:  https://d3hukd8e3cn3kb.cloudfront.net/images/posts/jollibee_trending/jollibee-love.jpg
@@ -21,6 +21,7 @@ img_500_5:
 photo_credit: "Mechelle Centurias, Writer"
 photo_credit_link: ""
 read_time: "3 minutes"
+pbb_post_id: 233
 ---
 ****
 Proud Bisaya Bai writer Ms. Mechelle Centurias, shared her experience with a heartbreaking message written at the back of the receipt coming from a Jollibee Customer who has stage 4 cancer. 🍗🥺 

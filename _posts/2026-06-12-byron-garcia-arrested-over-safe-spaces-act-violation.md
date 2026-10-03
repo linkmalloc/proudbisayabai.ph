@@ -12,7 +12,7 @@ categories:
 tags:
   - Arrest
   - Byron Garcia
-views: '10'
+views: "270"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2094/42d6a21781259444-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2094/42d6a21781259444-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2094/42d6a21781259444-1.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 2094
 ---
 
 

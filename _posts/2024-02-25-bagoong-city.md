@@ -11,7 +11,7 @@ tags:
   - cebu
   - salted chili bagoong
   - best bagoong
-views: "10"
+views: "605"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bagoong_city/cover1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bagoong_city/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/bagoong_city/cover1.jpg
@@ -24,6 +24,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "3 minutes"
+pbb_post_id: 439
 ---
 ****
 Craving an adventure for your taste buds? Look no further than Bagoong City, the haven for those who love the sweet, tangy, and spicy dance of Filipino flavors! Here, we take the classic Filipino snack of green mangoes and bagoong (shrimp paste) to a whole new level, satisfying your cravings!  

@@ -10,7 +10,7 @@ tags:
   - higher education fund
   - CHED
   - Bam Aquino
-views: '0'
+views: "13"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3049/bd42011790659806-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3049/bd42011790659806-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3049/bd42011790659806-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-09-29T05:30:08.536Z'
+pbb_post_id: 3049
 ---
 
 Sen. Bam Aquino has called for sufficient funding for free higher education and student assistance as senators scrutinize proposed reductions in the Commission on Higher Education (CHED) and tertiary education budgets for 2027.

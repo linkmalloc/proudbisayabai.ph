@@ -8,7 +8,7 @@ categories:
   - news
 tags:
   - Chinabank
-views: '0'
+views: "61"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2333/cacc181783494147-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2333/cacc181783494147-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2333/cacc181783494147-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-08T07:02:42.218Z'
+pbb_post_id: 2333
 ---
 
 Philippines' Chinabank partners with financial technology company Paywatch for the launch of Earned Wage Access Plus (EWAP), a program that let employees access a portion of their earned salary ahead of paydays without resorting to loans or added debt. 

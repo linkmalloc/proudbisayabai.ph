@@ -9,7 +9,7 @@ categories:
 tags:
   - Aid
   - Minimum-Wage Families
-views: '0'
+views: "26"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2615/5d09701785997525-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2615/5d09701785997525-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2615/5d09701785997525-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-08-06T06:25:27.950Z'
+pbb_post_id: 2615
 ---
 
 Eleven lawmakers have filed a bill seeking to provide qualified minimum-wage families with P12,000 in annual government assistance, with the subsidy designed to be spent exclusively at local micro, small, and medium enterprises (MSMEs) to support both household spending and community businesses.

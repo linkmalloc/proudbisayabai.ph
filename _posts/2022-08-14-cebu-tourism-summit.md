@@ -9,7 +9,7 @@ tags:
   - summit
   -  tourism
   -  cebu               
-views: "10"
+views: "26"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tourism_summit/9.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tourism_summit/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/tourism_summit/9.jpg
@@ -22,6 +22,7 @@ photo_credit: "Christian Lucky Bunao Saligumba"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "5 minutes"
+pbb_post_id: 322
 ---
 ****
 Cebu City, Philippines – The Cebu Chamber of Commerce and Industry, Cebu Business Months (CBM), and Department of Tourism launched its adversary to promote the Tourism Industry in Central Visayas, in the name of GO EXPLORE CEBU: Tourism Summit, at SMX Convention Center, Sky Hall SM Seaside. The Summit was graced by notable speakers and panelists, including Former Liloan Mayor, now the Tourism Department Chief Christina Garcia Frasco and USec. Shahlimar Hofer Tamano, where they laid down their various expertise, plans, commitments, portfolios and experiences to over 300+ participants.   

@@ -11,7 +11,7 @@ tags:
   - hospitals
   - philhealth
   - GovernorBaricuatro
-views: '0'
+views: "27"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2530/48fb751785294888-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2530/48fb751785294888-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2530/48fb751785294888-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-07-29T03:14:51.335Z'
+pbb_post_id: 2530
 ---
 
   

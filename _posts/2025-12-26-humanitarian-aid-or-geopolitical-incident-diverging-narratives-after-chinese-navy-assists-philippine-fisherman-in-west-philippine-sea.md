@@ -14,7 +14,7 @@ categories:
   - story
 tags:
   - ChineseNavy
-views: '10'
+views: "49"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/865/3899111766807881-2.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/865/3899111766807881-2.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/865/3899111766807881-2.jpeg
@@ -29,6 +29,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published_date: 2025-12-27T00:00:00
 published: true
+pbb_post_id: 865
 ---
 
 The Chinese Navy’s provision of “swift humanitarian assistance” to a distressed Philippine fishing vessel off the coast of Zambales on Christmas Day has produced sharply conflicting official accounts, highlighting the deep tensions in the disputed West Philippine Sea.

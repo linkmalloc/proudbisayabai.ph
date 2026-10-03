@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Mandaue City Public Market
-views: '0'
+views: "47"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2270/d326b51782893153-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2270/d326b51782893153-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2270/d326b51782893153-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-01T08:06:00.549Z'
+pbb_post_id: 2270
 ---
 
 Mandaue City  residents may soon have another recreational space as the city government moves to develop a Department of Agriculture (DA)-owned property in Barangay Ibabao-Estancia into a public park.

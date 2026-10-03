@@ -20,6 +20,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaiph2/image/upload/v1617030887
 photo_credit: "Joseph The Explorer"
 photo_credit_link: ""
 published: false
+pbb_post_id: 122
 ---
 #### CADAPDAPAN RICE TERRACES
   

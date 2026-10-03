@@ -21,6 +21,7 @@ img_500_5: https://res.cloudinary.com/proudbisayabaii/image/upload/v1613961265/c
 photo_credit: "Negros Finest"
 photo_credit_link: "https://www.facebook.com/NegrosFinest"
 published: false
+pbb_post_id: 31
 ---
 Naka ari naka Bai? Come and visit Campuestohan Highland Resort in Talisay City, Negros Occidental. One of the most visited and famous tourist destinations in the Philippines! 😍😯  
 

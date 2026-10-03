@@ -10,7 +10,7 @@ categories:
 tags:
   - Lapu-Lapu City
   - Air Quality Monitoring Station
-views: '0'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2552/4f83a01785482467-1.JPEG
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2552/4f83a01785482467-1.JPEG
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2552/4f83a01785482467-1.JPEG
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-31T07:21:10.225Z'
+pbb_post_id: 2552
 ---
 
 The Department of Environment and Natural Resources (DENR), through the Environmental Management Bureau in Central Visayas (EMB-7), has installed air quality monitoring equipment at the Lapu-Lapu City Hall to help track pollution levels and support environmental protection efforts in the city.

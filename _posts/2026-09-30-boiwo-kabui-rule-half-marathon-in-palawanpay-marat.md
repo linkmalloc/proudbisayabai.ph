@@ -11,7 +11,7 @@ tags:
   - Run
   - half marathon
   - Cebu leg
-views: '0'
+views: "10"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3061/9c5b601790766757-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3061/9c5b601790766757-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3061/9c5b601790766757-1.jpg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-30T11:12:40.507Z'
+pbb_post_id: 3061
 ---
 
 Daniel “The Beast” Boiwo and Teresiah Kabui topped the men’s and women’s 21K races as more than 1,800 runners took part in the opening leg of the PalawanPay Trilogy Marathon 2026 in Mandaue City on Sept. 27.

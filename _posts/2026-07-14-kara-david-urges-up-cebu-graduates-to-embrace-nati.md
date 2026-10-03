@@ -10,7 +10,7 @@ tags:
   - KaraDavid
   - UP
   - graduation
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2401/63b33f1784037644-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2401/63b33f1784037644-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2401/63b33f1784037644-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-07-14T14:00:48.816Z'
+pbb_post_id: 2401
 ---
 
 Veteran broadcast journalist and documentarist Kara Patria David-Cancio urged graduates of the University of the Philippines (UP) Cebu to carry the values of excellence, honor, and service beyond the classroom as she delivered the commencement address during the university’s 87th Commencement Exercises on Tuesday, July 14.

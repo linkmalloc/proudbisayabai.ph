@@ -12,7 +12,7 @@ categories:
 tags:
   - AirQuality
   - Health
-views: '10'
+views: "49"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1578/51b5a51776771365-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1578/51b5a51776771365-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1578/51b5a51776771365-1.jpeg
@@ -26,6 +26,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1578
 ---
 
 A spike in air pollution has prompted the Cebu Provincial Government to activate emergency protocols, with officials moving to coordinate a response as air quality reached “very unhealthy” levels.

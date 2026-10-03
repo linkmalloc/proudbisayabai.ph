@@ -7,7 +7,7 @@ categories:
   - 
 tags:
   -                
-views: "10"
+views: "208"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mic_check/1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mic_check/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/mic_check/1.jpg
@@ -20,6 +20,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: ""
+pbb_post_id: 323
 ---
 ****
 Mic Check' Tara, Karaoke as a 'Friend'

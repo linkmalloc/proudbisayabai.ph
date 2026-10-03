@@ -9,7 +9,7 @@ tags:
   - beach
   - cebu
   - resort
-views: "109,520"
+views: "5,552"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/17.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/les_maisons/17.jpg
@@ -21,6 +21,7 @@ read_time: "5 minutes"
 social_reach: "109,520"
 location: Ronda, Cebu
 
+pbb_post_id: 211
 ---
 ##### Les Maisons d'Itac
 A splendid little corner of paradise with luxurious houses, sea view, and with swimming pool and wifi in the Island of Cebu.

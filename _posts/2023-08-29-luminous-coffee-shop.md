@@ -13,7 +13,7 @@ tags:
   - cebu
   - coffee
   - shop
-views: "10"
+views: "1,039"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/luminous/cover1.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/luminous/cover1.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/luminous/cover1.jpg
@@ -26,6 +26,7 @@ photo_credit: "PBB"
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 407
 ---
 ****
 Luminous Espresso Industry PH is a coffee shop from Qatar that recently opened its first branch in the Philippines, located at IL Corso Cebu. The shop serves not just freshly brewed coffee, but also a variety of palate-stimulating dishes and desserts, all set to a calming soundscape that brings you closer to the sea.  

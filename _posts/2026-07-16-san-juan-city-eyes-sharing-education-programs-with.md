@@ -8,7 +8,7 @@ categories:
   - story
 tags:
   - Education
-views: '0'
+views: "18"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2420/88c2601784197601-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2420/88c2601784197601-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2420/88c2601784197601-1.jpeg
@@ -23,6 +23,7 @@ editor: PBB Admin
 read_time: 3 minutes
 published: true
 published_at: '2026-07-16T09:45:53.394Z'
+pbb_post_id: 2420
 ---
 
 The sisterhood agreement between San Juan City and three Cebu local government units could pave the way for the exchange of education programs and other governance initiatives, with San Juan Mayor Francis Zamora emphasizing the value of sharing practices that improve public services.

@@ -9,7 +9,7 @@ categories:
 tags:
   - ube
   - don macchiatos
-views: "10"
+views: "132"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ube-series-don-macchiatos/cover2.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ube-series-don-macchiatos/cover2.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/ube-series-don-macchiatos/cover2.jpg
@@ -22,6 +22,7 @@ photo_credit: ""
 photo_credit_link: ""
 editor: "PBB Admin"
 read_time: "4 minutes"
+pbb_post_id: 488
 ---
 <br>
 The holidays are here, and Don Macchiatos is treating us to something truly special! Say hello to the UBE SERIES, a dreamy trio of rich and creamy flavors that will make your festive season even more magical. With Pure Ube, Ube with Matcha, and Ube with Coffee, these indulgent drinks are perfect for satisfying your cravings while capturing the spirit of the holidays. Each sip promises to deliver a unique blend of flavors that will leave your taste buds wanting more.  

@@ -9,7 +9,7 @@ categories:
 tags:
   - Imee Marcos
   - Pax Silica
-views: '0'
+views: "12"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2589/1ddf5f1785828703-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2589/1ddf5f1785828703-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2589/1ddf5f1785828703-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-04T07:31:44.703Z'
+pbb_post_id: 2589
 ---
 
 Sen. Imee Marcos has called on the Bases Conversion and Development Authority (BCDA) to conduct public consultations and explain the potential impact of the proposed Pax Silica Project in Capas, Tarlac before moving forward with land acquisition and site activities.

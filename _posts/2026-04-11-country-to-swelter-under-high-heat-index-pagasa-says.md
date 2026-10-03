@@ -11,7 +11,7 @@ categories:
   - story
 tags:
   - PAGASA
-views: '10'
+views: "11"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/1497/27bdbd1775888435-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/1497/27bdbd1775888435-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/1497/27bdbd1775888435-1.jpeg
@@ -25,6 +25,7 @@ photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
 published: true
+pbb_post_id: 1497
 ---
 
 The country stepped into another sweltering day under mostly warm conditions as the state weather bureau forecast widespread heat and unstable skies across the archipelago on Saturday.

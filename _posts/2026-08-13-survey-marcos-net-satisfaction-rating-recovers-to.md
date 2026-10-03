@@ -9,7 +9,7 @@ categories:
 tags:
   - Survey
   - Marcos Satisfaction
-views: '0'
+views: "15"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2666/e6cd431786596643-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2666/e6cd431786596643-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2666/e6cd431786596643-1.jpeg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-13T04:50:45.441Z'
+pbb_post_id: 2666
 ---
 
 President tFerdinand Marcos Jr.’s net satisfaction rating recovered to neutral in June, marking a 14-point improvement from the record-low rating recorded three months earlier, according to a Social Weather Stations (SWS) survey.

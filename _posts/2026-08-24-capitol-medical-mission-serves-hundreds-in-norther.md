@@ -11,7 +11,7 @@ tags:
   - capitol
   - bogocity
   - outreach
-views: '0'
+views: "23"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2749/b2c7d21787546756-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2749/b2c7d21787546756-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2749/b2c7d21787546756-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-24T04:45:57.673Z'
+pbb_post_id: 2749
 ---
 
 Hundreds of residents in northern Cebu received free medical, dental and diagnostic services as the Cebu Provincial Government brought its healthcare outreach program to Bogo City.

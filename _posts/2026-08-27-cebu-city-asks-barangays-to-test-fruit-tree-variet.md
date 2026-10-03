@@ -10,7 +10,7 @@ tags:
   - fruit
   - environment
   - CouncilorArcilla
-views: '0'
+views: "30"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2779/3f72301787796741-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2779/3f72301787796741-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2779/3f72301787796741-1.jpeg
@@ -25,6 +25,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-08-27T02:12:23.346Z'
+pbb_post_id: 2779
 ---
 
 Cebu City is encouraging its 80 barangays to test at least 20 varieties of fruit-bearing trees each to determine which crops can best adapt to the city’s different environmental conditions.

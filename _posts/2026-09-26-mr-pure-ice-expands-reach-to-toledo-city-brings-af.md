@@ -11,7 +11,7 @@ tags:
   - Mr. Pure Ice
   - Grand Opening
   - Toledo City
-views: '0'
+views: "22"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3031/b1417c1790397915-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3031/b1417c1790397915-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3031/b1417c1790397915-1.jpeg
@@ -26,6 +26,7 @@ editor: PBB Admin
 read_time: 2 minutes
 published: true
 published_at: '2026-09-26T04:48:23.257Z'
+pbb_post_id: 3031
 ---
 
 Mr. Pure Ice continues its expansion across Cebu with the opening of its new location in Toledo City, marking another step in the brand’s commitment to making quality, affordable ice more accessible to communities and businesses. 

@@ -9,7 +9,7 @@ tags:
   - resort
   - cebu
   - cebu-south
-views: "10"
+views: "1,636"
 img_big_1000x600: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/63.jpg
 img_big_3000x1144: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/cover.jpg
 img_500x500: https://d3hukd8e3cn3kb.cloudfront.net/images/posts/stay_n_save/63.jpg
@@ -23,6 +23,7 @@ photo_credit_link: ""
 read_time: "4 minutes"
 published: true
 author_img: "https://d3hukd8e3cn3kb.cloudfront.net/images/posts/team/ariel.jpg"
+pbb_post_id: 86
 ---
 #### Stay N Save
   

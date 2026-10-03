@@ -9,7 +9,7 @@ categories:
 tags:
   - Mandaue City
   - Tipolo Creek Dredging
-views: '0'
+views: "19"
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/2599/a80e851785911000-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/2599/a80e851785911000-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/2599/a80e851785911000-1.jpg
@@ -24,6 +24,7 @@ editor: PBB Admin
 read_time: 4 minutes
 published: true
 published_at: '2026-08-05T06:23:23.663Z'
+pbb_post_id: 2599
 ---
 
 The Mandaue City Government is looking at dredging Tipolo Creek and improving drainage systems as long-term solutions to recurring flooding at Mayor A.S. Fortuna Memorial Elementary School in Barangay Guizo, while temporary measures are being deployed to reduce the impact on students and residents.
