@@ -50,7 +50,7 @@ Beyond its entertainment value, the Bisnok Festival highlighted the importance o
 
   
 
-Proud Bisaya Bai photographers earn recognition
+### **Proud Bisaya Bai photographers earn recognition**
 
   
 
@@ -58,13 +58,13 @@ The festival also marked a proud moment for Proud Bisaya Bai as two of its photo
 
   
 
-John Togonon secured second place in Theme 2: “Bisnok in Motion” during the Dumanjug On-the-Spot Photo Contest, capturing the movement, energy, and colorful scenes of the festival through his lens.
+**John Togonon** secured second place in Theme 2: “Bisnok in Motion” during the Dumanjug On-the-Spot Photo Contest, capturing the movement, energy, and colorful scenes of the festival through his lens.
 
 ![](https://d1rl40o93nnuyl.cloudfront.net/posts/3098/ab0e8e1791107864-1.jpeg)
 
   
 
-Meanwhile, Christian Paul Aleser won first place in Theme 1: “Fiesta” at the Dahunog Clickmarathon 2026, earning recognition for his work in the photography competition.
+Meanwhile, **Christian Paul Aleser** won first place in Theme 1: “Fiesta” at the Dahunog Clickmarathon 2026, earning recognition for his work in the photography competition.
 
 ![](https://d1rl40o93nnuyl.cloudfront.net/posts/3098/22fd711791107882-2.jpeg)
 
