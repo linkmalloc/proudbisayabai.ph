@@ -13,16 +13,13 @@ layout: none
         {% capture title %}{{ page.title }} | {{ site.title }} {% endcapture %}
     {% endif %}
     <title>{{ title }} </title>
-    {% if page.description %}
-        {% assign meta_desc = page.description %}
-    {% else %}
-        {% assign meta_desc = site.description %}
-    {% endif %}
-    <meta name="description" content="{{ meta_desc | strip_html | normalize_whitespace | truncate: 300 }}">
-    <link rel="canonical" href="{{ site.url }}{{ page.url | replace: 'index.html', '' }}">
+    {% comment %} jekyll-seo-tag: meta description, canonical, Open Graph, Twitter card and page JSON-LD.
+       Our own <title> above is kept (title=false). Image and author data are prepared by
+       _plugins/seo_tag_fields.rb and _data/authors.yml. {% endcomment %}
+    {% seo title=false %}
+    {% if page.url == '/404.html' %}<meta name="robots" content="noindex">{% endif %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/x-icon" href="https://d1rl40o93nnuyl.cloudfront.net/posts/567/6941e31772016837-17.png">
-    {% include seo.html %}
     {% include structured-data.html %}
     {% comment %} Load AdSense so Google Auto Ads (vignette + anchor/"lower") run. The
        explicit slots stay on Winzir unless provider == 'google'. {% endcomment %}
