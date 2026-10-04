@@ -61,9 +61,8 @@
       .then(function (res) { return res.ok ? res.json() : {}; })
       .then(function (counts) {
         var count = parseInt(counts[postId], 10);
-        if (!count) return;
-        el.textContent = count.toLocaleString('en-US') + (count === 1 ? ' view' : ' views');
-        el.hidden = false;
+        if (isNaN(count)) return;
+        el.textContent = ' ' + (count < 100 ? '100+' : count.toLocaleString('en-US')) + ' views';
       })
       .catch(function () {});
   }

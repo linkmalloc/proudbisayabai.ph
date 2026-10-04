@@ -41,11 +41,17 @@ layout: default
                                             </p>
                                             <span class="mr-10"> {{ page.published_date | default: page.date | date: '%B %d, %Y' }}</span>
                                             <span class="has-dot"> {{ page.read_time }} read</span>
+                                            {% assign views_raw = page.views | append: '' | remove: ',' | strip | downcase %}
+                                            {% assign views_label = page.views %}
+                                            {% unless views_raw contains 'k' or views_raw contains 'm' %}
+                                                {% assign views_num = views_raw | plus: 0 %}
+                                                {% if views_num < 100 %}{% assign views_label = '100+' %}{% endif %}
+                                            {% endunless %}
+                                            <span class="has-dot ml-10" id="post-view-count"> {{ views_label }} views</span>
                                             <div class="mt-2">
                                                 {% if page.editor %}
                                                     <span class="text-muted font-small">Edited by: {{ page.editor}}</span>
                                                 {%endif%}
-                                                <div class="text-muted font-small" id="post-view-count"{% if page.views == blank or page.views == '0' %} hidden{% endif %}>{{ page.views }} views</div>
                                             </div>
                                         </div>
                                     </div>
