@@ -101,3 +101,7 @@ COA acknowledged the need to act quickly when providing assistance during disast
   
 
 “During the exit conference, the MSWDO was advised to compile the validation documents for further audit procedures to be conducted at a later date,” the report said.
+
+  
+
+_Photo by Jacq Hernandez_
