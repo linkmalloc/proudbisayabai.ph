@@ -88,3 +88,7 @@ EMB 7 continued to advise the public to use appropriate masks, including N95 or 
   
 
 Sensitive groups were advised to remain indoors and seek medical attention if an emergency arises.
+
+  
+
+Photo by Jacq Hernandez, PBB Photojournalist
