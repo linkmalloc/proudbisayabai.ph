@@ -96,3 +96,7 @@ Despite withholding her vote, Garcia said she remained hopeful that lawmakers co
   
 
 > “I abstain, with hope. Because miracles can still happen at the bicam,” Garcia said.Garcia abstains from 2027 budget vote over 88.5% cut in Cebu’s 3rd District allocation
+
+  
+
+Photo courtesy of Cong. PJ & Karen Garcia / Facebook
