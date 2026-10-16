@@ -14,7 +14,7 @@ address:
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://proudbisayabai.ph" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: proudbisayabai
 github_username:  linkmalloc
 url_sitemap: "https://proudbisayabai.ph"
@@ -51,23 +51,27 @@ minima:
 # - about.html
 
 # social links
-twitter_username: jekyllrb
-github_username:  jekyll
 rss: rss
 
 
 facebook: https://www.facebook.com/proudbisayabai
 instagram: https://instagram.com/proudbisayabai/
-twitter: https://twitter.com/Proudbisayabai/
+twitter_url: https://twitter.com/Proudbisayabai/
+# jekyll-seo-tag reads twitter:site and twitter:card from this hash.
+twitter:
+  username: proudbisayabai
+  card: summary_large_image
 youtube: https://www.youtube.com/channel/UCfVuNpZ2yr3OsVVkYojUsUg
 
+# Fallback author for jekyll-seo-tag when a post has no author.
 author:
-  name: PBB Admin
+  name: Proud Bisaya Bai
+  type: Organization
   url: https://www.facebook.com/proudbisayabai
   description: Proud Bisaya Bai is your Bisaya Ultimate Travel Blog which was founded last July 22, 2020 to showcase bucket-list worthy places, not only limited to Cebu but to places who speak the Language.
   posts_count: 100
   facebook: https://www.facebook.com/proudbisayabai
-  twitter: https://twitter.com/Proudbisayabai/
+  twitter: proudbisayabai
   instagram: https://instagram.com/proudbisayabai/
 
 hi: We're Proud Bisaya Bai

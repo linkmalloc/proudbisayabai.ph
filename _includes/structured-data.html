@@ -1,0 +1,22 @@
+{% comment %}
+  Site-wide NewsMediaOrganization JSON-LD (publisher identity, logo, social profiles).
+  jekyll-seo-tag emits the per-page JSON-LD (BlogPosting / WebPage / WebSite) but has no
+  organization node, so it lives here. Values go through `jsonify` to stay valid JSON.
+{% endcomment %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NewsMediaOrganization",
+  "name": {{ site.title | jsonify }},
+  "url": "{{ site.url }}",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "{{ site.cloudfront | append: '/images/logo/pbb-logo-202601.jpg' }}"
+  },
+  "sameAs": [
+    {{ site.facebook | jsonify }},
+    {{ site.instagram | jsonify }},
+    {{ site.twitter_url | jsonify }}
+  ]
+}
+</script>
