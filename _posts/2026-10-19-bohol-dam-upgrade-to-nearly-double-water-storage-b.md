@@ -50,7 +50,7 @@ Malinao Irrigation System Head Felix Guioguio said the dam's relatively small re
 
   
 
-“Due to its relatively small reservoir and years of siltation since it began operating in 1996, Malinao Dam has limited storage capacity especially during dry season. During heavy rainfall, despite receiving substantial river inflows, excess water spills even as it diverts water to the integrated Bayongan and Capayas dams. With MDIP, we can strengthen our water management,” Guioguio said.
+> “Due to its relatively small reservoir and years of siltation since it began operating in 1996, Malinao Dam has limited storage capacity especially during dry season. During heavy rainfall, despite receiving substantial river inflows, excess water spills even as it diverts water to the integrated Bayongan and Capayas dams. With MDIP, we can strengthen our water management,” Guioguio said.
 
   
 
