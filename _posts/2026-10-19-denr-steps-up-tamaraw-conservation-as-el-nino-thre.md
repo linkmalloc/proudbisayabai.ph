@@ -64,7 +64,7 @@ De los Reyes called on residents and other stakeholders to help protect the spec
 
   
 
-“Magtulungan po tayo upang masiguro ang pagdami pa ng Tamaraw,” he said.
+> “Magtulungan po tayo upang masiguro ang pagdami pa ng Tamaraw,” he said.
 
   
 
