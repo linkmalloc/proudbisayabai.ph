@@ -27,16 +27,6 @@ published_at: '2026-10-23T05:08:31.350Z'
 pbb_post_id: 3254
 ---
 
-  
-
-  
-
-  
-
-  
-
-  
-
 The Cebu City government has tightened restrictions on hog movement in Barangay Sapangdaku after 10 pigs died from African swine fever (ASF), with veterinary officials inspecting nearby backyard farms and setting up a checkpoint to prevent the virus from spreading.
 
   
