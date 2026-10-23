@@ -42,7 +42,7 @@ The phones, each with 512 gigabytes of storage, represented about P7 million in 
 
   
 
-“All the athletes that won a medal here are so happy to get a new iPhone 18 model through the help of SportsPlus, and we are all thankful for their generosity. That is a total of P7 million because even all members of team sports that won a medal have an iPhone each,” Tolentino said.
+> “All the athletes that won a medal here are so happy to get a new iPhone 18 model through the help of SportsPlus, and we are all thankful for their generosity. That is a total of P7 million because even all members of team sports that won a medal have an iPhone each,” Tolentino said.
 
   
 
@@ -62,7 +62,7 @@ Yape expressed gratitude for the reward but said he would keep his old phone.
 
   
 
-“Very thankful I have a new iPhone that I can use, but I will keep my old phone,” Yape said.
+> “Very thankful I have a new iPhone that I can use, but I will keep my old phone,” Yape said.
 
   
 
@@ -70,7 +70,7 @@ Mixed martial arts medalist Jean Claude Saclag said he planned to give his iPhon
 
   
 
-“I will give this iPhone Pro Max to my wife when I come home to Kalinga,” Saclag said. “Feeling so blessed with this reward.”
+> “I will give this iPhone Pro Max to my wife when I come home to Kalinga,” Saclag said. “Feeling so blessed with this reward.”
 
   
 
