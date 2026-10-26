@@ -6,7 +6,7 @@ title: |
   Mimoy’s Grill: Where Every Meal Feels Like Coming Home
 description: A special meal with family and friends always rings in our memory as a very fond one.
 categories:
-  - food
+  - product
 tags:
   - Mimoy's Grill
   - Filipino barbeque
