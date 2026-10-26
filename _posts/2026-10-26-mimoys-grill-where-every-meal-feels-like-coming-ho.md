@@ -29,11 +29,11 @@ published_at: '2026-10-26T12:26:53.267Z'
 pbb_post_id: 3278
 ---
 
-A special meal with family and friends always rings in our memory as a very fond one. A simple yet memorable gathering has always been the vision that Mimoy’s Grill heralded since it started in 2003.
+A special meal with family and friends always rings in our memory as a very fond one. A simple yet memorable gathering has always been the vision that Mimoy’s Grill heralded since it started in 2019.
 
 What began as a simple concept of wanting to bring families and friends together while serving hearty and scrumptious family recipes to Cebuanos, the restaurant has now expanded its reach to the heart of Mandaue as it opened its second branch at Mantlewood Town Center by Oakridge, Mandaue City.
 
-The journey began at TOPS of Cebu with a simple dream between Clariele Gatdula Osmeña and her husband Mariano Antonio V. "Mimo" Osmeña III, both always on the lookout for good Filipino barbeque.
+The journey began at TOPS of Cebu with a simple dream between Clariele Gatdula Osmeña and her husband Mariano Antonio V. "Mimo" Osmeña, both always on the lookout for good Filipino barbeque.
 
 “Nothing grand, really. My husband and I just always craved Pinoy Barbeque”, Clariele said.
 
@@ -56,7 +56,5 @@ Every dish on the menu is a story of Clariele’s family. Each one with a person
 Sticking to their image as a warm, welcoming and simple restaurant, Clariele emphasized the feeling of home whenever people come into the restaurant and indulge in home cooked quality dishes.
 
 “We’re not trying to be the fanciest grill in Mandaue– we just want to be the homiest. Our hope is that Mimoy’s becomes that comfortable, no-fuss place where family and barkadas gather over good Bulalo and barbeque and feel genuinely at home. Where you can sit, eat, and enjoy the good and each other’s company and stories. Shared food made from our own family table, shared with the community– that’s the energy we want to bring."
-
-  
 
 Mimoy's Grill is now serving daily at Mantlewood Town Center, from 11:00 a.m. to 9:00 p.m. Pagkalami!
