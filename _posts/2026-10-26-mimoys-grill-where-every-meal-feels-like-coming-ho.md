@@ -2,32 +2,35 @@
 author: Monique F. Pardillo
 author2: ''
 layout: post
-title: |
-  Mimoy’s Grill: where every meal feels like coming home
-description: A special meal with family and friends always rings in our memory as a very fond one.
+title: 'Mimoy’s Grill: where every meal feels like coming home
+
+  '
+description: A special meal with family and friends always rings in our memory as
+  a very fond one.
 categories:
-  - food
+- food
 tags:
-  - Filipino barbeque
-  - Mimoy's Grill
-  - homecooked meals
+- Filipino barbeque
+- Mimoy's Grill
+- homecooked meals
 views: '0'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3278/870eab1793017220-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3278/870eab1793017220-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3278/870eab1793017220-1.jpg
-img_500_1: null
-img_500_2: null
-img_500_3: null
-img_500_4: null
-img_500_5: null
+img_500_1:
+img_500_2:
+img_500_3:
+img_500_4:
+img_500_5:
 photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 2 minutes
-published: true
+published: false
 published_at: '2026-10-26T12:26:53.267Z'
 pbb_post_id: 3278
 ---
+
 
 A special meal with family and friends always rings in our memory as a very fond one. A simple yet memorable gathering has always been the vision that Mimoy’s Grill heralded since it started in 2019.
 
