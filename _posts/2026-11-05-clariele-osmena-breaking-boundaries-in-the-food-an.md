@@ -28,7 +28,7 @@ published_at: '2026-11-05T02:57:38.148Z'
 pbb_post_id: 3359
 ---
 
-For Clariele Osmeña, building a business was never part of a carefully laid-out career plan. Originally from Bulacan, she was working in the corporate world when she first received a share of the profits from her work. It was an experience that gave her a glimpse of what it meant to build something of her own. But it was meeting her husband, Mariano Osmeña III, better known as "Mimo,” that eventually pushed her to take that leap.
+For Clariele Osmeña, building a business was never part of a carefully laid-out career plan. Originally from Bulacan, she was working in the corporate world when she first received a share of the profits from her work. It was an experience that gave her a glimpse of what it meant to build something of her own. But it was meeting her husband, Mariano Antonio V. Osmeña, better known as "Mimo,” that eventually pushed her to take that leap.
 
 Mimo saw something in Clariele that she had yet to recognize in herself. Rather than see her remain in the corporate world, he encouraged her to venture into business, offering his experience and guidance along the way. Despite the 31-year age gap between them, their partnership in business has taken the shape of a mentor and mentee relationship. With Mimo's background in business and finance, he became both her sounding board and her biggest source of encouragement.
 
