@@ -2,31 +2,35 @@
 author: Kaila Jewels Tashvana B. Cajelo
 author2: ''
 layout: post
-title: |
-  Clariele Osmeña: breaking boundaries in the food and beverage industry in Cebu
-description: For Clariel Osmeña, building a business was never part of a carefully laid-out career plan.
+title: 'Clariele Osmeña: breaking boundaries in the food and beverage industry in
+  Cebu
+
+  '
+description: For Clariel Osmeña, building a business was never part of a carefully
+  laid-out career plan.
 categories:
-  - story
+- story
 tags:
-  - Entrepreneurship
-  - Delectable Ventures Inc
+- Entrepreneurship
+- Delectable Ventures Inc
 views: '0'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3359/4a34af1793847455-1.jpg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3359/4a34af1793847455-1.jpg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3359/4a34af1793847455-1.jpg
-img_500_1: null
-img_500_2: null
-img_500_3: null
-img_500_4: null
-img_500_5: null
+img_500_1:
+img_500_2:
+img_500_3:
+img_500_4:
+img_500_5:
 photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 4 minutes
-published: true
+published: false
 published_at: '2026-11-05T02:57:38.148Z'
 pbb_post_id: 3359
 ---
+
 
 For Clariele Osmeña, building a business was never part of a carefully laid-out career plan. Originally from Bulacan, she was working in the corporate world when she first received a share of the profits from her work. It was an experience that gave her a glimpse of what it meant to build something of her own. But it was meeting her husband, Mariano Antonio V. Osmeña, better known as "Mimo,” that eventually pushed her to take that leap.
 
