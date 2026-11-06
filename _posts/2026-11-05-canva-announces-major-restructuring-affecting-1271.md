@@ -2,7 +2,7 @@
 author: Ariel Alegado
 author2: ''
 layout: post
-title: Canva Announces Major Restructuring Affecting 1,271 Employees
+title: Canva announces major restructuring affecting 1,271 employees
 description: Australian technology company Canva is set to undergo a major organizational restructuring affecting 1,271 employees, or approximately 22% of its global workforce, marking the biggest workforce shake-up in its 13-year history.
 categories:
   - story
@@ -38,11 +38,7 @@ Some employees may be asked to relocate, with Sydney designated as the primary b
 
 Affected employees will receive separation and transition assistance, including at least six months’ salary, healthcare and well-being support, and career coaching. Departing employees will also have access to a US$10,000 grant program to help fund business ventures or community projects.
 
-  
-
 **FROM AUSTRALIAN STARTUP TO GLOBAL DESIGN PLATFORM**
-
-  
 
 Founded in 2013 by Melanie Perkins, Cliff Obrecht, and Cameron Adams, Canva began as an Australian startup with the goal of making graphic design more accessible to people without professional design experience.
 
@@ -51,8 +47,6 @@ The platform allows individuals, businesses, educators, and organizations to cre
 Its services cover a wide range of creative needs, including social media graphics, presentations, marketing materials, videos, documents, and website designs. Over the years, Canva has expanded its offerings beyond basic graphic design to include collaborative workplace tools and business-focused solutions.
 
 The company has grown into one of Australia’s most prominent technology success stories, with hundreds of millions of users worldwide and operations across 37 countries.
-
-  
 
 **GROWING COMPETITION IN THE AI ERA**
 
@@ -65,7 +59,5 @@ However, the restructuring is not attributed solely to artificial intelligence. 
 The company said it wants to return to smaller, more empowered teams that can make decisions faster, take greater ownership of projects, and focus on developing products that serve its global community.
 
 The restructuring signals a significant shift in Canva’s operations as it navigates changing consumer demands, technological developments, and increasing competition across the global software industry.
-
-  
 
 📸 The Hindu
