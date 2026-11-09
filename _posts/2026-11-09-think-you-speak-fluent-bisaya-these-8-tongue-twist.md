@@ -66,7 +66,7 @@ Here are eight familiar Bisaya tongue twisters that continue to entertain speake
 
 8\. Paulo, palwa, Paula.
 
-Celebrating Language and Local Culture
+### **Celebrating language and local culture**
 
 Tongue twisters are more than simple word games. They reflect the richness of regional languages and the creativity of communities that continue to preserve these expressions through everyday conversations.
 
