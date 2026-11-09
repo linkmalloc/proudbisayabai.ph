@@ -95,3 +95,7 @@ The annual awards recognize local government efforts to deliver health services,
   
 
 This year's ceremony carried the theme, “Advancing Universal Health Care through UNA Para sa Kalusugan: Stronger Health Systems, Healthier Communities, A Healthier Philippines by 2040.”
+
+  
+
+📷 Mayor Cindi King-Chan / Facebook
