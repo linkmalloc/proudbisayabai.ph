@@ -13,9 +13,9 @@ tags:
   - hiessēnce
   - experience studip
 views: '0'
-img_big_1000x600: ''
-img_big_3000x1144: ''
-img_500x500: ''
+img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3401/a4317d1794211936-1.jpg
+img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3401/a4317d1794211936-1.jpg
+img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3401/a4317d1794211936-1.jpg
 img_500_1: null
 img_500_2: null
 img_500_3: null
