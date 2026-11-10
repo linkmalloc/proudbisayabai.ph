@@ -3,28 +3,31 @@ author: Kaiser Jan Fuentes
 author2: ''
 layout: post
 title: Private sector, government urged to help MSMEs adopt AI
-description: Small businesses need more than access to technology to benefit from artificial intelligence (AI) and other digital innovations. They also need guidance on how to use these tools and affordable ways to integrate them into their operations.
+description: Small businesses need more than access to technology to benefit from
+  artificial intelligence (AI) and other digital innovations. They also need guidance
+  on how to use these tools and affordable ways to integrate them into their operations.
 categories:
-  - story
+- story
 tags:
-  - AI
+- AI
 views: '0'
 img_big_1000x600: https://d1rl40o93nnuyl.cloudfront.net/posts/3406/bf222b1794252833-1.jpeg
 img_big_3000x1144: https://d1rl40o93nnuyl.cloudfront.net/posts/3406/bf222b1794252833-1.jpeg
 img_500x500: https://d1rl40o93nnuyl.cloudfront.net/posts/3406/bf222b1794252833-1.jpeg
-img_500_1: null
-img_500_2: null
-img_500_3: null
-img_500_4: null
-img_500_5: null
+img_500_1:
+img_500_2:
+img_500_3:
+img_500_4:
+img_500_5:
 photo_credit: ''
 photo_credit_link: ''
 editor: PBB Admin
 read_time: 2 minutes
-published: true
+published: false
 published_at: '2026-11-09T19:33:56.761Z'
 pbb_post_id: 3406
 ---
+
 
 Small businesses need more than access to technology to benefit from artificial intelligence (AI) and other digital innovations. They also need guidance on how to use these tools and affordable ways to integrate them into their operations.
 
