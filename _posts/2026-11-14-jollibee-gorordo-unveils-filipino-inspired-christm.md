@@ -27,11 +27,7 @@ published_at: '2026-11-18T00:13:21.309Z'
 pbb_post_id: 3451
 ---
 
-Jollibee Gorordo officially welcomed the holiday season with its annual Christmas lighting ceremony on Tuesday, November 17, 2026, at 6:00 p.m., featuring festive decorations in
-
-  
-
-spired by traditional Filipino Christmas celebrations.
+Jollibee Gorordo officially welcomed the holiday season with its annual Christmas lighting ceremony on Tuesday, November 17, 2026, at 6:00 p.m., featuring festive decorations inspired by traditional Filipino Christmas celebrations.
 
   
 
