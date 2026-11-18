@@ -5,7 +5,7 @@ layout: post
 title: Jollibee Gorordo Unveils Filipino-Inspired Christmas Display
 description: Jollibee Gorordo officially welcomed the holiday season with its annual Christmas lighting ceremony on Tuesday, November 17, 2026, at 6:00 p.m., featuring festive decorations inspired by traditional Filipino Christmas celebrations.
 categories:
-  - story
+  - brand
 tags:
   - Jollibee
   - Christmas2026
