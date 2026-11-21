@@ -30,42 +30,22 @@ pbb_post_id: 3511
 
 Public schools across Cebu are set to receive more infrastructure improvements after the Department of Education (DepEd) approved an additional P261.85 million for the province under its 2026 Basic Education Facilities Program.
 
-  
-
 The new allocation will raise Cebu’s total funding under the program to about P461.85 million, including the P200 million covered by an earlier agreement between the provincial government and DepEd.
-
-  
 
 The Sangguniang Panlalawigan (SP) approved Resolution No. 57 on Monday, Nov. 16, authorizing Gov. Pamela Baricuatro to sign an addendum to the existing Supplemental Memorandum of Agreement (MOA) to formalize the additional funding.
 
-  
-
 Board Member Raymond Joseph Calderon authored the resolution, which allows Baricuatro to represent the provincial government in finalizing the revised agreement.
-
-  
 
 The additional P261,852,623.10 will fund infrastructure projects in eligible public schools, including the construction of new facilities, replacement and reconstruction of existing structures, rehabilitation, repairs and other improvements.
 
-  
-
 The funding covers projects identified in the revised list of school sites and interventions under the 2026 General Appropriations Act.
-
-  
 
 DepEd and the provincial government updated the list after reviewing school properties to verify ownership and determine whether proposed projects met the requirements for government funding.
 
-  
-
 The validation led to changes in the original list, requiring the replacement of Annex “A” attached to the earlier agreement.
-
-  
 
 The provincial government and DepEd signed the initial Supplemental MOA in July 2026, covering the first P200 million allocation.
 
-  
-
 The latest SP approval will enable the province to include the additional projects in the revised list under the expanded funding arrangement.
-
-  
 
 The agreement requires the provincial government to ensure the proper receipt, use and liquidation of the funds in accordance with government budgeting, procurement, accounting and auditing rules.
